@@ -1,0 +1,341 @@
+{
+  "sourceFile": "AfD - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Ämterpatronage",
+      "location": "Kapitel 1.6",
+      "originalQuote": "Ämterpatronage ist unter Strafe zu stellen.",
+      "classification": "ÄMTERPATRONAGE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Beteiligung deutscher Parteien an Medienunternehmen",
+      "location": "Kapitel 1.9",
+      "originalQuote": "Ferner soll den deutschen Parteien endlich die Beteiligung an Unternehmen, insbesondere Medienun",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Annahme von Firmenspenden durch Parteien",
+      "location": "Kapitel 1.9",
+      "originalQuote": "Ferner soll den deutschen Parteien endlich die Beteiligung an Unternehmen, insbesondere Medienun",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Kopftuchs im öffentlichen Dienst und an Bildungseinrichtungen",
+      "location": "Kapitel 6",
+      "originalQuote": "Im öffentlichen Dienst soll kein Kopftuch getragen werden, in Bildungseinrichtungen weder von Lehr",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Vollverschleierung in der Öffentlichkeit und im öffentlichen Dienst",
+      "location": "Kapitel 6",
+      "originalQuote": "Die AfD fordert ein allgemeines Verbot der Vollverschleierung in der Öffentlichkeit und im öffent",
+      "classification": "VOLLVERSCHLEIERUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der religiösen Voraustrauung",
+      "location": "Kapitel 6",
+      "originalQuote": "Das Verbot der religiösen Voraustrauung, etwa durch Imame, soll wieder in Kraft gesetzt werden",
+      "classification": "VORAUSTRAUUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Schächtens",
+      "location": "Kapitel 15.5",
+      "originalQuote": "Den Handel, die Bewerbung und die Einfuhr von Fleisch aus tierquälerischer Schlachtung (Schäch",
+      "classification": "SCHÄCHTENS"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des § 4a Abs. 2 Nr. 2 TierSchG",
+      "location": "Kapitel 15.5",
+      "originalQuote": "Wir fordern eine ersatzlose Streichung des § 4a Abs. 2 Nr. 2 TierSchG.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot der doppelten Staatsbürgerschaft außer in Sonderfällen",
+      "location": "Kapitel 5.9",
+      "originalQuote": "Die doppelte Staatsbürgerschaft soll auf wohlbegründete Sonderfälle beschränkt werden.",
+      "classification": "STAATSBÜRGERSCHAFT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine weitere Einwanderung in die Sozialsysteme",
+      "location": "Kapitel 5.4",
+      "originalQuote": "Keine weitere Einwanderung in die Sozialsysteme",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Familiennachzug für Flüchtlinge",
+      "location": "Kapitel 5.7",
+      "originalQuote": "Wir lehnen jeglichen Familiennachzug für Flüchtlinge ab, da die deutschen Sozialsysteme diese Las",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Anerkennung scharia-konformer Ehen aus dem Ausland",
+      "location": "Kapitel 6",
+      "originalQuote": "Im Ausland geschlossene Ehen gemäß dem Familienrecht der Scharia, die gegen unsere Gesetze und un",
+      "classification": "SCHARIAKONFORMER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine islamischen Körperschaften des öffentlichen Rechts",
+      "location": "Kapitel 6",
+      "originalQuote": "Die AfD lehnt es ab, islamischen Organisationen den Status einer Körperschaft des öffentlichen R",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Geburtsortsprinzip für Staatsangehörigkeit",
+      "location": "Kapitel 5.9",
+      "originalQuote": "Das Geburtsortsprinzip (Erwerb der deutschen Staatsangehörigkeit allein durch Geburt in Deutschla",
+      "classification": "STAATSANGEHÖRIGKEIT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Koranunterricht durch verfassungsfeindliche Moscheevereine",
+      "location": "Kapitel 8.10",
+      "originalQuote": "Wir fordern deshalb eine flächendeckende Überprüfung aller Moscheevereine und bei Verdacht auf V",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein bekenntnisgebundener Islamunterricht an Schulen",
+      "location": "Kapitel 8.8",
+      "originalQuote": "Keinen bekenntnisgebundenen Islamunterricht an deutschen Schulen",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Sonderrechte für Muslime im Schulunterricht",
+      "location": "Kapitel 8.9",
+      "originalQuote": "Keine Sonderrechte für Muslime an unseren Schulen",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot der Ausweisungshindernisse bei kriminellen Ausländern",
+      "location": "Kapitel 4.1",
+      "originalQuote": "Insbesondere können sich ausländische Kriminelle sehr häufig auf Abschiebungshindernisse berufen",
+      "classification": "AUSWEISUNGSHINDERNISSE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot der Einbürgerung durch bloße Geburt in Deutschland",
+      "location": "Kapitel 4.1",
+      "originalQuote": "Verhinderung des Erwerbs der deutschen Staatsangehörigkeit durch bloße Geburt in Deutschland, wei",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot des einklagbaren Anspruchs auf Einbürgerung",
+      "location": "Kapitel 4.1",
+      "originalQuote": "Abschaffung des einklagbaren Anspruchs auf Einbürgerung",
+      "classification": "EINKLAGBAREN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot der Mitgliedschaft der Türkei in der NATO",
+      "location": "Kapitel 3.2",
+      "originalQuote": "Die Mitgliedschaft der Türkei in der NATO ist zu beenden, die Bundeswehr aus Incirlik abzuziehen",
+      "classification": "MITGLIEDSCHAFT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot von EU-Armee und Einsatz deutscher Streitkräfte für fremde Interessen",
+      "location": "Kapitel 3.2",
+      "originalQuote": "Die Schaffung einer EU-Armee oder den Einsatz deutscher Streitkräfte für fremde Interessen lehnt ",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot der Umsetzung der EU-Feuerwaffenrichtlinie",
+      "location": "Kapitel 4.7",
+      "originalQuote": "Die Umsetzung der EU-Feuerwaffenrichtlinie lehnen wir ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot der Finanzierung von Moscheen durch ausländische Staaten",
+      "location": "Kapitel 6",
+      "originalQuote": "Auch die Finanzierung des Baus und Betriebs von Moscheen durch islamische Staaten oder ausländisc",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot des Minaretts und Muezzin-Rufs",
+      "location": "Kapitel 6",
+      "originalQuote": "Das Minarett lehnt die AfD als islamisches Herrschaftszeichen ebenso ab wie den Muezzin-Ruf, nach",
+      "classification": "MUEZZINRUFS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Ausbau der Windenergie",
+      "location": "Kapitel 15.2",
+      "originalQuote": "Wir lehnen den weiteren Ausbau der Windenergie ab, denn er bringt mehr Schaden als Nutzen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Freigabe von Cannabis",
+      "location": "Kapitel 12.12",
+      "originalQuote": "Die AfD lehnt deshalb die Freigabe von Cannabis ab.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Förderung der Gender-Forschung",
+      "location": "Kapitel 7.7.2",
+      "originalQuote": "Bund und Länder dürfen keine Mittel für die „Gender-Forschung“ mehr bereitstellen und keine „Ge",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Finanzierung von Kirchenrepräsentanten",
+      "location": "Kapitel 10",
+      "originalQuote": "die Bezahlung von Kirchenrepräsentanten wie Bischöfen etc. aus allgemeinen Steuermitteln ist abz",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Unterstützung für politisch korrekte Kunst und Kultur",
+      "location": "Kapitel 9.4",
+      "originalQuote": "Für „politisch korrekte“ Kunst und Kultur darf es keine staatlichen Anreize geben.",
+      "classification": "UNTERSTÜTZUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Unterstützung für Abmahnvereine",
+      "location": "Kapitel 4.8",
+      "originalQuote": "Der Abmahnindustrie, die das Urheberrecht missbraucht, um von unbescholtenen Bürgern im Internet",
+      "classification": "UNTERSTÜTZUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Erstattungsfähigkeit vorgerichtlicher Inkassokosten",
+      "location": "Kapitel 4.9",
+      "originalQuote": "Inkassobüros stellen Schuldnern regelmäßig horrende Kosten dafür in Rechnung, dass sie Gläubiger",
+      "classification": "ERSTATTUNGSFÄHIGKEIT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Förderung von Gender-Ideologie an Schulen",
+      "location": "Kapitel 7.7.1",
+      "originalQuote": "Eine einseitige Hervorhebung der Homo- und Transsexualität im Unterricht, wie sie die sogenannt",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Förderung von Gender-Studies und Gleichstellungsbeauftragten",
+      "location": "Kapitel 7.7.2",
+      "originalQuote": "Bestehende Förderlinien sollen beendet werden, die der „Gender-Ideologie“ verpflichteten „Glei",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Finanzierung von Moscheebauten durch verfassungsfeindliche Vereine",
+      "location": "Kapitel 6",
+      "originalQuote": "Verfassungsfeindlichen Vereinen, die nach Art. 9 Abs. 2 Grundgesetz zu verbieten sind, ist der B",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Anerkennung von scharia-basierten Parallelstrukturen",
+      "location": "Kapitel 6",
+      "originalQuote": "Die AfD will jedoch verhindern, dass sich abgeschottete islamische Parallelgesellschaften weiter au",
+      "classification": "PARALLELSTRUKTUREN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine weitere Mitgliedschaft in der Eurozone",
+      "location": "Kapitel 2.1",
+      "originalQuote": "Deshalb muss Deutschland die Transferunion aufkündigen und den Euroraum verlassen.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Haftung für ausländische Banken",
+      "location": "Kapitel 2.4",
+      "originalQuote": "Die grenzüberschreitende Haftung der deutschen Banken für alle anderen EU-Banken muss ausgeschlosse",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Unterstützung für CETA, TISA und TTIP",
+      "location": "Kapitel 3.5",
+      "originalQuote": "Die AfD lehnt aus den dargelegten Gründen CETA, TISA und TTIP ab.",
+      "classification": "UNTERSTÜTZUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Unterstützung für Gender-Ideologie",
+      "location": "Kapitel 7.7",
+      "originalQuote": "Wir lehnen daher Bestrebungen auf nationaler wie internationaler Ebene ab, diese Ideologie durch Ins",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Unterstützung für die Energiewende",
+      "location": "Kapitel 13.2",
+      "originalQuote": "Das EEG ist ersatzlos zu streichen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Unterstützung für Umweltzonen",
+      "location": "Kapitel 14.1",
+      "originalQuote": "Umweltzonen haben nachweislich nicht zur Reduzierung der Feinstaubemission beigetragen. Sie sind",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Unterstützung für Tempolimit auf Autobahnen",
+      "location": "Kapitel 14.1",
+      "originalQuote": "Deshalb wenden wir uns auch gegen ein flächendeckendes Tempolimit und erfolglose Umweltzonen.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Unterstützung für ÖPP-Projekte",
+      "location": "Kapitel 14.1",
+      "originalQuote": "keine Öffentlich-Private Partnerschaft (ÖPP) bei Projekten der öffentlichen Infrastruktur,",
+      "classification": "UNTERSTÜTZUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Unterstützung für Mietpreisbremse",
+      "location": "Kapitel 14.2",
+      "originalQuote": "Planwirtschaftliche Eingriffe wie die „Mietpreisbremse“ verschleppen das eigentliche Problem, an",
+      "classification": "MIETPREISBREMSE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Unterstützung für EU-Liberalisierung der Wasserversorgung",
+      "location": "Kapitel 15.1",
+      "originalQuote": "Eine EU-weite Liberalisierung und Kommerzialisierung des Wassermarkts lehnt die AfD entschieden a",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Unterstützung für Gentechnik in der Landwirtschaft",
+      "location": "Kapitel 15.6.4",
+      "originalQuote": "Die AfD setzt sich für gentechnikfrei erzeugte Lebensmittel aus der deutschen Landwirtschaft ein",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Unterstützung für Handelsbeschränkungen alter Kultursorten",
+      "location": "Kapitel 15.6.2",
+      "originalQuote": "Die AfD fordert die Aufhebung aller Handelsbeschränkungen für alte Nutzpflanzensorten.",
+      "classification": "Wirtschaft & Steuern"
+    }
+  ]
+}

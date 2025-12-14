@@ -1,0 +1,47 @@
+{
+  "sourceFile": "Die Partei - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schließung von Amazon",
+      "location": "Punkt 7",
+      "originalQuote": "Amazon plattmachen! Wegen nachhaltigen Marktmisserfolgs müssen wir Amazon leider schließen. 2020 haben die Versager mit 44 Mrd. Rekordumsatz (EU) einen Verlust",
+      "classification": "SCHLIESSUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Photoshop in der politischen Werbung",
+      "location": "Punkt 8",
+      "originalQuote": "Photoshopverbot jetzt! Wer Volker Bouffier – bekannt durch das PARTEI-Plakat „Wie sexy darf Politik sein?“ –, Annalena Baerbock, Frau von",
+      "classification": "POLITISCHEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Überschreitung einer jährlichen Erderwärmung von 1,5°C",
+      "location": "Punkt 14",
+      "originalQuote": "Klima Die Erderwärmung darf auf gar keinen Fall höher als 1,5° Celsius/Jahr ausfallen. Dafür wird Die PARTEI alle relevanten Wirtschaftszweige auffo",
+      "classification": "ÜBERSCHREITUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einstellung von Tierversuchen",
+      "location": "Punkt 18",
+      "originalQuote": "Tierschutz Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da. Lipgloss, Arsch- Make-up, Biomarmelade und Medikament",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Obergrenze für die Aufnahme von Flüchtlingen",
+      "location": "Punkt 21",
+      "originalQuote": "Obergrenze für Flüchtlinge Die Flüchtlingsobergrenze wird – ganz im Sinne der Unionsparteien – jährlich neu definiert: Deutschland darf nicht mehr",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Spenden und Sponsoring für korrupte Parteien",
+      "location": "Punkt 24",
+      "originalQuote": "Korruption & Lobbyismus Korrupte Parteien dürfen nicht mehr von Spenden & Sponsoring profitieren, korrupte Politiker werden nach Aserbaidschan ab",
+      "classification": "Demokratie & Recht"
+    }
+  ]
+}

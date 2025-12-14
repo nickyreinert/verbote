@@ -1,0 +1,40 @@
+{
+  "sourceFile": "Die Partei - 2013 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Abschaffung von Pub Crawls und deren Verbot",
+      "location": "Abschnitt 5",
+      "originalQuote": "Die PARTEI fordert die Abschaffung von Pub Crawls.\nPub Crawls verstoßen gegen Artikel 1 des Grundgesetzes und werden nach der Machtübernahme verboten.",
+      "classification": "CRAWLS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Absage an Globalisierung",
+      "location": "Abschnitt 6",
+      "originalQuote": "Die Mauer ist unsere Absage an Globalisierung, weitere Europäisierung und unkontrollierbare Finanzströme.",
+      "classification": "GLOBALISIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Absage an weitere Europäisierung",
+      "location": "Abschnitt 6",
+      "originalQuote": "Die Mauer ist unsere Absage an Globalisierung, weitere Europäisierung und unkontrollierbare Finanzströme.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Absage an unkontrollierbare Finanzströme",
+      "location": "Abschnitt 6",
+      "originalQuote": "Die Mauer ist unsere Absage an Globalisierung, weitere Europäisierung und unkontrollierbare Finanzströme.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaltung des staatlichen Rundfunks (ARD, ZDF etc.)",
+      "location": "Abschnitt 7",
+      "originalQuote": "Der staatliche Rundfunk (ARD, ZDF etc.) ist ein klassisches Beispiel unglaublicher Verschwendung und wird deshalb über Nacht abgeschaltet.",
+      "classification": "ABSCHALTUNG"
+    }
+  ]
+}

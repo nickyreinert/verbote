@@ -1,0 +1,138 @@
+{
+  "sourceFile": "CDU-CSU - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ausweitung des Familiennachzugs",
+      "location": "Kapitel 1.10, Abschnitt „Menschen in Not helfen, Migration wirksam ordnen und steuern“",
+      "originalQuote": "Wir lehnen eine Ausweitung des Familiennachzugs über die heute bestehenden Regelungen hinaus ab",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Vermögensteuer",
+      "location": "Kapitel 5.3, Abschnitt „Vermögensbildung für jeden“",
+      "originalQuote": "Wir lehnen zusätzliche Lasten wie eine Wiedereinführung der Vermögensteuer ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Erhöhung der Erbschaftsteuer",
+      "location": "Kapitel 3.1, Abschnitt „Neue Belastungen verhindern“",
+      "originalQuote": "Wir treten entschieden allen Überlegungen zur Einführung neuer Substanzsteuern wie der Vermögensteuer oder der Erhöhung der Erbschaftssteuer entgegen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ausweitung von Kettenbefristungen",
+      "location": "Kapitel 3.2, Abschnitt „Vielfalt des deutschen Arbeitsmarktes sichern“",
+      "originalQuote": "Wir lehnen die Ausweitung von Kettenbefristungen ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Prostitution von Schwangeren und unter 21-Jährigen",
+      "location": "Kapitel 9.2, Abschnitt „Prostituierte wirksamer schützen“",
+      "originalQuote": "Wir wollen Prostitution von Schwangeren sowie Heranwachsenden unter 21 Jahren verbieten – mit einer entsprechenden Bestrafung der Freier.",
+      "classification": "PROSTITUTION"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein generelles Tempolimit auf Autobahnen",
+      "location": "Kapitel 3.6, Abschnitt „Automobilstandort Deutschland sichern“",
+      "originalQuote": "Ein Dieselfahrverbot lehnen wir ebenso ab wie ein generelles Tempolimit auf Autobahnen.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Dieselfahrverbot",
+      "location": "Kapitel 3.6, Abschnitt „Automobilstandort Deutschland sichern“",
+      "originalQuote": "Ein Dieselfahrverbot lehnen wir ebenso ab wie ein generelles Tempolimit auf Autobahnen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Drogenlegalisierung",
+      "location": "Kapitel 4.3, Abschnitt „Keine Drogen legalisieren, Suchtprävention stärken“",
+      "originalQuote": "Eine Legalisierung illegaler Drogen lehnen wir ab.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Aufweichung der Schuldenbremse",
+      "location": "Kapitel 5.1, Abschnitt „Mit soliden Finanzen sicher in die Zukunft“",
+      "originalQuote": "Grundgesetzänderungen zur Aufweichung der Schuldenbremse lehnen wir ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine EU-weite Renten-, Gesundheits- oder Arbeitslosenversicherung",
+      "location": "Kapitel 2.5, Abschnitt „In Europa das schützen, was uns wichtig ist“",
+      "originalQuote": "Eine europäische Arbeitslosen-, Renten- oder Gesundheitsversicherung lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Einheitsversicherung im Gesundheitswesen",
+      "location": "Kapitel 4.3, Abschnitt „Gesundheitswesen zukunftsfähig gestalten“",
+      "originalQuote": "Eine Einheitsversicherung und Schritte dahin lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein bedingungsloses Grundeinkommen",
+      "location": "Kapitel 4.2, Abschnitt „Prinzip des Forderns und Förderns erhalten“",
+      "originalQuote": "Ein bedingungsloses Grundeinkommen wird es mit uns aber nicht geben.",
+      "classification": "BEDINGUNGSLOSES"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ausfuhrgenehmigungen für langsame Tiertransporte in Drittstaaten ohne Tierschutzgarantie",
+      "location": "Kapitel 3.7, Abschnitt „Mehr Tierwohl mit finanzieller Wertschätzung verknüpfen“",
+      "originalQuote": "Unser Ziel ist, Fleisch statt lebende Tiere zu transportieren. Auch bei Zuchttieren muss sichergestellt sein, dass aus der EU kein langer Tiertransport in Drittstaaten genehmigt wird, bei dem die Einhaltung der Tierschutzvorgaben nicht absolut sichergestellt ist.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Exporte von Abfällen zur bloßen Entsorgung verbieten",
+      "location": "Kapitel 3.5, Abschnitt „Wegwerfgesellschaft beenden, Kreislaufwirtschaft stärken“",
+      "originalQuote": "Wir wollen Abfälle wiederverwerten und Exporte von Abfällen – insbesondere von Plastik- und Kunststoffabfällen – zur bloßen Entsorgung verbieten.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Vollmitgliedschaft der Türkei in der EU",
+      "location": "Kapitel 2.2, Abschnitt „Beziehungen zur Türkei neu ordnen“",
+      "originalQuote": "Eine Vollmitgliedschaft der Türkei in der EU wird es mit uns nicht geben.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Schuldenunion in der EU",
+      "location": "Kapitel 2.4, Abschnitt „Stabilitätskriterien für die Wirtschafts- und Währungsunion durchsetzen“",
+      "originalQuote": "Sie ist kein Einstieg in eine Schuldenunion – und darf es nie werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Vergemeinschaftung von Mitgliedstaatenschulden",
+      "location": "Kapitel 2.4, Abschnitt „Stabilitätskriterien für die Wirtschafts- und Währungsunion durchsetzen“",
+      "originalQuote": "Wir lehnen es weiterhin ab, mitgliedstaatliche Schulden oder Risiken zu vergemeinschaften.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Bankenrettung aus Steuermitteln",
+      "location": "Kapitel 2.4, Abschnitt „Europäische Finanzarchitektur krisensicher machen“",
+      "originalQuote": "Bankenrettungen aus Steuermitteln und eine Vergemeinschaftung der Haftungsübernahme im Rahmen der europäischen Einlagensicherung lehnen wir ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Zuwanderung in die Sozialsysteme",
+      "location": "Kapitel 2.5, Abschnitt „Menschen in Not helfen, Migration wirksam ordnen und steuern“",
+      "originalQuote": "Eine Zuwanderung in die Sozialsysteme lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "sourceFile": "CDU-CSU - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine neuen Schulden oder Steuererhöhungen",
+      "location": "Einleitung",
+      "originalQuote": "Neue Schulden oder Steuererhöhungen wären aber der falsche Weg.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Legalisierung illegaler Drogen",
+      "location": "4.3. Leistungsfähiges Gesundheitswesen",
+      "originalQuote": "Eine Legalisierung illegaler Drogen lehnen wir ab.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Dieselfahrverbot",
+      "location": "3.6. Vorfahrt für intelligente Mobilität",
+      "originalQuote": "Ein Dieselfahrverbot lehnen wir ebenso ab wie ein generelles Tempolimit auf Autobahnen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein generelles Tempolimit auf Autobahnen",
+      "location": "3.6. Vorfahrt für intelligente Mobilität",
+      "originalQuote": "Ein Dieselfahrverbot lehnen wir ebenso ab wie ein generelles Tempolimit auf Autobahnen.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Vermögensteuer",
+      "location": "5.3. Vermögensbildung für jeden",
+      "originalQuote": "Wir lehnen zusätzliche Lasten wie eine Wiedereinführung der Vermögensteuer ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Erhöhung der Erbschaftssteuer",
+      "location": "3.1. Unser Entfesselungspaket für die Wirtschaft",
+      "originalQuote": "Wir treten entschieden allen Überlegungen zur Einführung neuer Substanzsteuern wie der Vermögenssteuer",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Einheitsversicherung",
+      "location": "4.3. Leistungsfähiges Gesundheitswesen",
+      "originalQuote": "Eine Einheitsversicherung und Schritte dahin lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein bedingungsloses Grundeinkommen",
+      "location": "4.2. Soziale Sicherheit in allen Lebenslagen",
+      "originalQuote": "Ein bedingungsloses Grundeinkommen wird es mit uns aber nicht geben.",
+      "classification": "BEDINGUNGSLOSES"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine europäische Arbeitslosenversicherung",
+      "location": "2.5. Unser Europa der Ordnung und Sicherheit",
+      "originalQuote": "Eine europäische Arbeitslosen-, Renten- oder Gesundheitsversicherung lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine europäische Rentenversicherung",
+      "location": "2.5. Unser Europa der Ordnung und Sicherheit",
+      "originalQuote": "Eine europäische Arbeitslosen-, Renten- oder Gesundheitsversicherung lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine europäische Gesundheitsversicherung",
+      "location": "2.5. Unser Europa der Ordnung und Sicherheit",
+      "originalQuote": "Eine europäische Arbeitslosen-, Renten- oder Gesundheitsversicherung lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Schuldenunion",
+      "location": "2.4. Wettbewerbsfähiges und stabiles Europa",
+      "originalQuote": "Sie ist kein Einstieg in eine Schuldenunion – und darf es nie werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Vergemeinschaftung von Schulden",
+      "location": "2.4. Wettbewerbsfähiges und stabiles Europa",
+      "originalQuote": "Wir lehnen es weiterhin ab, mitgliedstaatliche Schulden oder Risiken zu vergemeinschaften.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Aufweichung der Schuldenbremse",
+      "location": "5.1. Mit soliden Finanzen sicher in die Zukunft",
+      "originalQuote": "Grundgesetzänderungen zur Aufweichung der Schuldenbremse lehnen wir ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Schwächung des Verfassungsschutzes",
+      "location": "9.5. Schutz unserer Demokratie vor Extremisten und Terroristen",
+      "originalQuote": "Jede Form einer Schwächung des Verfassungsschutzes lehnen wir ab.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Zuwanderung in die Sozialsysteme",
+      "location": "2.5. Unser Europa der Ordnung und Sicherheit",
+      "originalQuote": "Eine Zuwanderung in die Sozialsysteme lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ausweitung des Familiennachzugs",
+      "location": "2.5. Unser Europa der Ordnung und Sicherheit",
+      "originalQuote": "Wir lehnen eine Ausweitung des Familiennachzugs über die heute bestehenden Regelungen hinaus ab.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ausweitung von Kettenbefristungen",
+      "location": "3.2. Sichere Arbeit mit Zukunft",
+      "originalQuote": "Wir lehnen die Ausweitung von Kettenbefristungen ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Vollmitgliedschaft der Türkei in der EU",
+      "location": "2.2. Mehr Europa in der Weltpolitik",
+      "originalQuote": "Eine Vollmitgliedschaft der Türkei in der EU wird es mit uns nicht geben.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine monetäre Staatsfinanzierung durch EZB",
+      "location": "2.4. Wettbewerbsfähiges und stabiles Europa",
+      "originalQuote": "Wir lehnen deshalb eine monetäre Staatsfinanzierung ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Bankenrettungen aus Steuermitteln",
+      "location": "2.4. Wettbewerbsfähiges und stabiles Europa",
+      "originalQuote": "Bankenrettungen aus Steuermitteln und eine Vergemeinschaftung der Haftungsübernahme im Rahmen der eu",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Prostitution von Schwangeren",
+      "location": "9.2. Voller Schutz für Kinder und Frauen vor Gewalt und Missbrauch",
+      "originalQuote": "Wir wollen Prostitution von Schwangeren sowie Heranwachsenden unter 21 Jahren verbieten – mit einer en",
+      "classification": "PROSTITUTION"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Prostitution unter 21 Jahren",
+      "location": "9.2. Voller Schutz für Kinder und Frauen vor Gewalt und Missbrauch",
+      "originalQuote": "Wir wollen Prostitution von Schwangeren sowie Heranwachsenden unter 21 Jahren verbieten – mit einer en",
+      "classification": "PROSTITUTION"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Grundstückserwerb durch Barzahlung außerhalb von Banken",
+      "location": "9.3. Kein Raum für organisierte Kriminalität",
+      "originalQuote": "Grundstücke durch Barzahlung zu erwerben, soll nur mittels Banken möglich sein, die zuvor die Identitä",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Exporte von Plastikabfällen zur bloßen Entsorgung",
+      "location": "3.5. Nachhaltiges Wirtschaften zum Schutz unserer Ressourcen",
+      "originalQuote": "Wir wollen Abfälle wiederverwerten und Exporte von Abfällen – insbesondere von Plastik- und Kunststoff",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Raum für Extremisten in der Bundeswehr",
+      "location": "1.7. Moderne und voll einsatzbereite Bundeswehr",
+      "originalQuote": "Für Extremisten ist in der Bundeswehr kein Platz.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Null Toleranz bei Grenzüberschreitungen und Regelverstößen",
+      "location": "9.1. Mehr Sicherheit überall und jederzeit",
+      "originalQuote": "Wo Grenzen überschritten, Regeln missachtet oder Gesetze gebrochen werden, gilt null Toleranz.",
+      "classification": "GRENZÜBERSCHREITUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine illegale Migration",
+      "location": "2.5. Unser Europa der Ordnung und Sicherheit",
+      "originalQuote": "Wir wollen keine illegale Migration und Ausreisepflichten durchsetzen.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Parallelgesellschaften mit eigener Gerichtsbarkeit",
+      "location": "9.4. Null Toleranz gegenüber kriminellen Familienclans",
+      "originalQuote": "Der Abschottung in kriminelle Parallelgesellschaften mit eigenen Regeln und eigener Gerichtsbarkeit sa",
+      "classification": "PARALLELGESELLSCHAFTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Rückkehr zu EU-Außengrenzen ohne Kontrolle",
+      "location": "2.5. Unser Europa der Ordnung und Sicherheit",
+      "originalQuote": "Doch auch bei offenen Binnengrenzen und Reisefreiheit im Schengen-Raum muss die innere Sicherheit in d",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Symbolen des Hasses und Terrors",
+      "location": "9.5. Schutz unserer Demokratie vor Extremisten und Terroristen",
+      "originalQuote": "Dazu gehören Verbote von verfassungsfeindlichen Organisationen und Vereinen, Verbote von Symbolen des H",
+      "classification": "SYMBOLEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot verfassungsfeindlicher Organisationen",
+      "location": "9.5. Schutz unserer Demokratie vor Extremisten und Terroristen",
+      "originalQuote": "Dazu gehören Verbote von verfassungsfeindlichen Organisationen und Vereinen, Verbote von Symbolen des H",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Wiederwahl zur Bewährung nach erneuter Straftat",
+      "location": "9.9. Starke und bürgernahe Justiz",
+      "originalQuote": "Wird wegen einer Straftat innerhalb laufender Bewährungszeit erneut eine Freiheitsstrafe aufgrund einer",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein lebenslanger Eintrag im Führungszeugnis bei Sexualstraftaten gegen Kinder",
+      "location": "9.2. Voller Schutz für Kinder und Frauen vor Gewalt und Missbrauch",
+      "originalQuote": "Wer sich an Kindern und Jugendlichen vergeht, darf nie wieder beruflich oder ehrenamtlich Umgang mit ih",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine berufliche Tätigkeit mit Kindern nach Sexualstraftaten",
+      "location": "9.2. Voller Schutz für Kinder und Frauen vor Gewalt und Missbrauch",
+      "originalQuote": "Wer sich an Kindern und Jugendlichen vergeht, darf nie wieder beruflich oder ehrenamtlich Umgang mit ih",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Politik gegen Einfamilienhäuser",
+      "location": "10.1. Gutes Wohnen in lebendigen Dörfern und Städten",
+      "originalQuote": "Eine Politik gegen Einfamilienhäuser ist gegen die Interessen der Menschen und mit uns nicht zu machen.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Mietendeckel",
+      "location": "10.1. Gutes Wohnen in lebendigen Dörfern und Städten",
+      "originalQuote": "Wir setzen nicht auf rechtlich fragwürdige und ungeeignete Eingriffe, wie den Mietendeckel, sondern pa",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Zersplitterung des EU-Parlaments durch Kleinstparteien",
+      "location": "2.7. Ein handlungsfähiges und bürgernahes Europa",
+      "originalQuote": "Für ein arbeitsfähiges Parlament darf es keine Zersplitterung des Parlaments durch Kleinstparteien gebe",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine neuen Belastungen für Unternehmen",
+      "location": "3.1. Unser Entfesselungspaket für die Wirtschaft",
+      "originalQuote": "Für uns ist klar: Damit die Wirtschaft wieder in Schwung kommt und wir gemeinsam neuen Wohlstand schaff",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Steuererhöhungen nach der Pandemie",
+      "location": "3.1. Unser Entfesselungspaket für die Wirtschaft",
+      "originalQuote": "Gerade nach der Pandemie sind Steuererhöhungen der falsche Weg.",
+      "classification": "Wirtschaft & Steuern"
+    }
+  ]
+}

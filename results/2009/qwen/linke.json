@@ -1,0 +1,229 @@
+{
+  "sourceFile": "Linke - 2009 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Massenentlassungen bei nicht insolvenzgefährdeten Unternehmen verbieten",
+      "location": "2.2. Wirtschaft gestalten",
+      "originalQuote": "Wir fordern ein Verbot von Massenentlassungen bei allen Unternehmen, die nicht insolvenz",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Agro-Gentechnik verbieten",
+      "location": "2.2. Wirtschaft gestalten",
+      "originalQuote": "Agro-Gentechnik verbieten; Kennzeichnungspflicht von gentechnischen Bestandteilen in N",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Einsatz von Hormonen und Antibiotika im Tierfutter verbieten",
+      "location": "2.2. Wirtschaft gestalten",
+      "originalQuote": "Hormone und Antibiotika gehören nichts ins Futter; keine Patente auf Lebewesen und",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Patente auf Lebewesen und deren Gene verbieten",
+      "location": "2.2. Wirtschaft gestalten",
+      "originalQuote": "keine Patente auf Lebewesen und deren Gene; Preisdumping der Handelsketten zu Last",
+      "classification": "LEBEWESEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des grenzüberschreitenden Abfall-Exports",
+      "location": "2.3. Gesellschaft ökologisch umbauen",
+      "originalQuote": "Verbot des grenzüberschreitenden Exports von Abfällen;",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Tierversuche generell verbieten (mit Ausnahmen)",
+      "location": "2.3. Gesellschaft ökologisch umbauen",
+      "originalQuote": "generelles Verbot von Tierversuchen, die nur in besonderen Ausnahmefällen durchge",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Einführung von Monster-LKW (Gigalinern) verbieten",
+      "location": "2.3. Gesellschaft ökologisch umbauen",
+      "originalQuote": "Einführung von Monster-LKW (Gigaliner) verbieten; Verlängerung der Ende 2009 aus",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Strafbarkeit von Schwangerschaftsabbrüchen abschaffen (impliziert kein Verbot mehr)",
+      "location": "4.2. Schutz vor geschlechtsspezifischer Gewalt",
+      "originalQuote": "Strafbarkeit von Schwangerschaftsabbrüchen abschaffen: §§ 218, 219 Strafgesetzbuc",
+      "classification": "SCHWANGERSCHAFTSABBRÜCHEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "NPD verbieten",
+      "location": "4.5. Den Feinden der Demokratie entschieden entgegentreten",
+      "originalQuote": "NPD verbieten und die gesellschaftliche Auseinandersetzung mit dem Rechtsextremis",
+      "classification": "SONSTIGES"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Rüstungsexporte verbieten",
+      "location": "5.3. Deutsche Außenpolitik: Friedenspolitik durchsetzen!",
+      "originalQuote": "Rüstungsexporte verbieten;",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Herstellung, Nutzung und Vertrieb von Streubomben und Landminen verbieten",
+      "location": "5.3. Deutsche Außenpolitik: Friedenspolitik durchsetzen!",
+      "originalQuote": "die Herstellung, Nutzung und den Vertrieb von Streubomben und Landminen verbieten",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Leiharbeit strikt begrenzen und zurückdrängen",
+      "location": "2.1. Gute Arbeit!",
+      "originalQuote": "Leiharbeit strikt begrenzen und durch gleiche Arbeitsbedingungen und gleichen Lohn",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine sachgrundlose Befristung von Arbeitsverträgen",
+      "location": "2.1. Gute Arbeit!",
+      "originalQuote": "keine sachgrundlose Befristung von Arbeitsverträgen; Sozialversicherungspflicht für",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz von Streikbrechern verbieten",
+      "location": "2.1. Gute Arbeit!",
+      "originalQuote": "befristete Beschäftigung bei Leiharbeitsfirmen und den Einsatz als Streikbrecherin",
+      "classification": "STREIKBRECHERN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Scheinselbstständigkeit verhindern",
+      "location": "2.1. Gute Arbeit!",
+      "originalQuote": "sicherstellen, dass Unternehmen keine Beschäftigten in Scheinselbstständigkeit dr",
+      "classification": "SCHEINSELBSTSTÄNDIGKEIT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Erpressung der Beschäftigten beenden",
+      "location": "2.1. Gute Arbeit!",
+      "originalQuote": "Erpressung der Beschäftigten beenden: Kündigungsschutz ausweiten und Hartz IV abs",
+      "classification": "BESCHÄFTIGTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung von öffentlichem Eigentum stoppen",
+      "location": "2.2. Wirtschaft gestalten",
+      "originalQuote": "Die Privatisierung von öffentlichem Eigentum wollen wir stoppen und in wichtigen Fäll",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Spekulation mit Agrarrohstoffen und Boden verhindern",
+      "location": "2.2. Wirtschaft gestalten",
+      "originalQuote": "Spekulation mit Agrarrohstoffen und Boden verhindern; Einsatz von Mineraldüngern und",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine neuen Kohlekraftwerke",
+      "location": "2.3. Gesellschaft ökologisch umbauen",
+      "originalQuote": "Wir lehnen daher die Planung und den Bau neuer Kohlekraftwerke ab – ebenso wie d",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verpressung von Kohlendioxid ablehnen",
+      "location": "2.3. Gesellschaft ökologisch umbauen",
+      "originalQuote": "ebenso wie die von der Energiewirtschaft propagierte Scheinlösung der Verpressung v",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung der Bahn ablehnen",
+      "location": "2.3. Gesellschaft ökologisch umbauen",
+      "originalQuote": "Die Privatisierung der Bahn und von Nahverkehrsunternehmen lehnen wir ab. Mit Hilf",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine neuen Autobahnprojekte",
+      "location": "2.3. Gesellschaft ökologisch umbauen",
+      "originalQuote": "keine neuen Autobahnprojekte, keine Privatisierung des Straßennetzes und seiner P",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Subventionierung von Flughäfen beenden",
+      "location": "2.3. Gesellschaft ökologisch umbauen",
+      "originalQuote": "Subventionierung von Flughäfen beenden; Kerosinsteuer und Flugticketabgabe einfüh",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung von Naturschutzflächen stoppen",
+      "location": "2.3. Gesellschaft ökologisch umbauen",
+      "originalQuote": "Stopp der Privatisierung von Naturschutzflächen (Ausnahme: Umwelt- und Naturschut",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Öffentliche Schulden nicht durch Sozialkürzungen abbauen",
+      "location": "2.7. Soziale Sicherheit: Solidarität statt Privatisierung",
+      "originalQuote": "Mit uns wird es nach der Wahl keinerlei Kürzungen der Sozialleistungen und keine ",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Abschiebung aus Kriegsgebieten",
+      "location": "2.8. Niemanden ausgrenzen – Politik sozialer Gleichstellung",
+      "originalQuote": "Menschen, die vor Menschenrechtsverletzungen, Kriegen und politischer Verfolgung",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Auslandskriegseinsätze der Bundeswehr",
+      "location": "5.3. Deutsche Außenpolitik: Friedenspolitik durchsetzen!",
+      "originalQuote": "keine Auslandskriegseinsätze der Bundeswehr zulassen – auch nicht unter UN-Mandat",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine militärische Nutzung der Kyritz-Ruppiner Heide",
+      "location": "5.3. Deutsche Außenpolitik: Friedenspolitik durchsetzen!",
+      "originalQuote": "sofort auf die Pläne zur militärischen Nutzung der Kyritz-Ruppiner Heide als Bomb",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ausweitung der NATO",
+      "location": "5.3. Deutsche Außenpolitik: Friedenspolitik durchsetzen!",
+      "originalQuote": "keinem Ausweitungsversuch der NATO zustimmen: die Beteiligung an der NATO Response",
+      "classification": "AUSWEITUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Privatisierung öffentlicher Dienstleistungen",
+      "location": "3.1. Das gesellschaftliche Rückgrat – die öffentliche Daseinsvorsorge",
+      "originalQuote": "die Privatisierung öffentlicher Dienstleistungen beenden, keine Public Private Part",
+      "classification": "DIENSTLEISTUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine PPP-Projekte eingehen",
+      "location": "3.1. Das gesellschaftliche Rückgrat – die öffentliche Daseinsvorsorge",
+      "originalQuote": "keine Public Private Partnership (PPP)-Projekte eingehen: Schulen, Bürger- und Rat",
+      "classification": "PPPPROJEKTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Agrosprit-Importe aus Nicht-EU-Ländern",
+      "location": "2.3. Gesellschaft ökologisch umbauen",
+      "originalQuote": "keine Agroenergie-Importe aus dem Nicht-EU-Ausland und Fokus bei der Biomassenutzu",
+      "classification": "Europa & Außenpolitik"
+    }
+  ]
+}

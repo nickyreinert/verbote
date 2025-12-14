@@ -1,0 +1,82 @@
+{
+  "sourceFile": "FDP - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verschärfung der Erbschaftsteuer",
+      "location": "Sicherung der Sozialen Marktwirtschaft",
+      "originalQuote": "Damit die Unternehmen nicht durch Erbgänge oder eine Substanzbesteuerung gefährdet werden, lehnen wir eine Verschärfung der Erbschaftsteuer oder die Wiedereinführung der Vermögensteuer ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wiedereinführung der Vermögensteuer",
+      "location": "Sicherung der Sozialen Marktwirtschaft",
+      "originalQuote": "Damit die Unternehmen nicht durch Erbgänge oder eine Substanzbesteuerung gefährdet werden, lehnen wir eine Verschärfung der Erbschaftsteuer oder die Wiedereinführung der Vermögensteuer ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Politische Förderung nationaler Champions",
+      "location": "Europäische Wettbewerbsordnung",
+      "originalQuote": "Wir wenden uns daher entschieden gegen die politische Förderung von „nationalen Champions“.",
+      "classification": "POLITISCHE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weitere Verschärfung der Erbschaftsteuer",
+      "location": "Entlastung und faire Steuern",
+      "originalQuote": "Wir lehnen auch eine weitere Verschärfung der Erbschaftsteuer ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einmalige Vermögensabgabe oder Vermögensteuer",
+      "location": "Entlastung und faire Steuern",
+      "originalQuote": "Wir Freie Demokraten lehnen eine einmalige Vermögensabgabe ebenso ab wie die Wiederbelebung der Vermögensteuer.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zivilklauseln oder pauschales Aussperren von Unternehmen in Bildung",
+      "location": "Bildung der Zukunft",
+      "originalQuote": "Zivilklauseln oder das pauschale Aussperren von Unternehmen, Parteien sowie der Bundeswehr lehnen wir im Bildungsbereich ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nationale Alleingänge bei Pflanzenschutzmitteln",
+      "location": "Land- und Forstwirtschaft",
+      "originalQuote": "Nationale Alleingänge diesbezüglich lehnen wir ab.",
+      "classification": "PFLANZENSCHUTZMITTELN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pauschale Catch and Release-Verbote beim Angeln",
+      "location": "Land- und Forstwirtschaft",
+      "originalQuote": "Pauschale „Catch and Release“-Verbote lehnen wir aus Arten- und Bestandsschutzgründen ab.",
+      "classification": "RELEASEVERBOTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pauschale Verbote der Angelei",
+      "location": "Land- und Forstwirtschaft",
+      "originalQuote": "Deswegen lehnen wir auch pauschale Verbote und Beschränkungen der Angelei ab, insbesondere pauschale Nachtangelverbote oder Nullnutzungsgebote von Gewässern.",
+      "classification": "PAUSCHALE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Mietpreisbremse",
+      "location": "Wohnen",
+      "originalQuote": "Wir Freie Demokraten wollen die Mietpreisbremse abschaffen und einen bundesweiten Mietendeckel verhindern.",
+      "classification": "MIETPREISBREMSE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bundesweiter Mietendeckel",
+      "location": "Wohnen",
+      "originalQuote": "Wir Freie Demokraten wollen die Mietpreisbremse abschaffen und einen bundesweiten Mietendeckel verhindern.",
+      "classification": "Wohnen & Miete"
+    }
+  ]
+}

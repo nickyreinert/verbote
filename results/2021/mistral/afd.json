@@ -1,0 +1,61 @@
+{
+  "sourceFile": "AfD - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Zahlreiche Gesetze und die politische Praxis haben",
+      "location": "Zeile 26",
+      "originalQuote": "Zahlreiche Gesetze und die politische Praxis haben die Gewaltenteilung in Deutschland als Kernelemen",
+      "classification": "ZAHLREICHE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Kanzler, Ministerpräsidenten und Minister dürfen n",
+      "location": "Zeile 33",
+      "originalQuote": "Kanzler, Ministerpräsidenten und Minister dürfen nicht mehr zugleich Abgeordnete sein. Die Instituti",
+      "classification": "MINISTERPRÄSIDENTEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Die AfD will die gesamte staatliche Parteienfinanz",
+      "location": "Zeile 39",
+      "originalQuote": "Die AfD will die gesamte staatliche Parteienfinanzierung neu regeln und deutlich begrenzen, sowie di",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Die Geschäftsgrundlage des Euro ist ebenfalls scho",
+      "location": "Zeile 150",
+      "originalQuote": "Die Geschäftsgrundlage des Euro ist ebenfalls schon seit über zehn Jahren zerstört. Mit der Corona-K",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Weiterhin führt die EZB-Politik zur Zerstörung der",
+      "location": "Zeile 169",
+      "originalQuote": "Weiterhin führt die EZB-Politik zur Zerstörung der Märkte für Anleihen. Während die Deutsche Bundesb",
+      "classification": "EZBPOLITIK"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Islamische Vereine, die sich gegen das Grundgesetz",
+      "location": "Zeile 299",
+      "originalQuote": "Islamische Vereine, die sich gegen das Grundgesetz und die Völkerverständigung richten, wie z. B. di",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Da die Mehrheit der Trennungskinder bei den Mütter",
+      "location": "Zeile 445",
+      "originalQuote": "Da die Mehrheit der Trennungskinder bei den Müttern aufwächst, ist ein besonderes Augenmerk auf die ",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Diese parteipolitische Medienbeeinflussung lehnen ",
+      "location": "Zeile 688",
+      "originalQuote": "Diese parteipolitische Medienbeeinflussung lehnen wir ab. Beteiligungen von Parteien an Medienuntern",
+      "classification": "Demokratie & Recht"
+    }
+  ]
+}

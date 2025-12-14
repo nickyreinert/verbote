@@ -1,0 +1,131 @@
+{
+  "sourceFile": "SPD - 2021 - Langprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Gewinnmaximierung und Kostenminimierung als Maß aller Dinge",
+      "location": "1.0. Zukunft. Respekt. Europa.",
+      "originalQuote": "In der Corona-Krise wird einmal mehr überaus deutlich, dass Gewinnmaximierung und Kostenminimierung nicht das Maß aller Dinge sein dürfen.",
+      "classification": "GEWINNMAXIMIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Hass, Hetze, Ausgrenzung, Diskriminierung und Erstarken rechtsextremer Kräfte",
+      "location": "1.2. Respekt erneuern",
+      "originalQuote": "Wir wollen eine Gesellschaft des Zusammenhalts und stellen uns Hass und Hetze, jedweder Art von Ausgrenzung und Diskriminierung und dem Erstarken rechtsextremer Kräfte mit aller Entschiedenheit entgegen.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Spaltung Europas durch nationalistischen Hass und populistische Hetze",
+      "location": "1.3. Europa stärken",
+      "originalQuote": "Wir werden es nicht zulassen, dass nationalistischer Hass und populistische Hetze Europa spalten.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Entwicklungen, die nicht gestoppt oder geändert werden",
+      "location": "2.0. Eine lebenswerte Zukunft",
+      "originalQuote": "Wir sehen aber auch Entwicklungen, die geändert oder gestoppt werden müssen, um eine gute Zukunft möglich zu machen.",
+      "classification": "ENTWICKLUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Klima- und umweltschädliche Subventionen",
+      "location": "2.1. Zukunftsmission I. Klimaneutrales Deutschland",
+      "originalQuote": "klima- und umweltschädliche Subventionen werden wir abbauen. Wir werden einen Markt für umweltfreundliche Ausgangsmaterialien schaffen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verlagerung von Produktion und Emissionen ins Ausland",
+      "location": "2.1. Zukunftsmission I. Klimaneutrales Deutschland",
+      "originalQuote": "Wir werden unsere Industrien sichern und die Verlagerung von Produktion und Emissionen ins Ausland durch maßgeschneiderte Instrumente unattraktiver machen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Hohe Abfallmenge (Reduzierung)",
+      "location": "2.1. Zukunftsmission I. Klimaneutrales Deutschland",
+      "originalQuote": "Die Menge an Abfall, die wir in Deutschland produzieren, muss deutlich weniger werden.",
+      "classification": "ABFALLMENGE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Klimaschädlicher CO2-Ausstoß von Schiffen, Flugzeugen und Lastern",
+      "location": "2.2. Zukunftsmission II. Modernstes Mobilitätssystem Europas",
+      "originalQuote": "Zusätzlich werden wir Forschung, Entwicklung und Pilotprojekte vorantreiben, damit Schiffe, Flugzeuge und Laster kein klimaschädliches CO2 mehr ausstoßen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fahren über 130 km/h auf Bundesautobahnen (Tempolimit)",
+      "location": "2.2. Zukunftsmission II. Modernstes Mobilitätssystem Europas",
+      "originalQuote": "Wir werden ein Tempolimit von 130 km/h auf Bundesautobahnen einführen. Das schützt die Umwelt und senkt die Unfallzahlen deutlich.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Strafbewehrtes Verbot von De-Anonymisierung",
+      "location": "2.3. Zukunftsmission III. Digitale Souveränität",
+      "originalQuote": "Wir fördern die Entwicklung von Anonymisierungstechniken und setzen uns für strafbewehrte Verbote von De-Anonymisierung ein.",
+      "classification": "DEANONYMISIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Klarnamenpflicht im Netz",
+      "location": "2.3. Zukunftsmission III. Digitale Souveränität",
+      "originalQuote": "Wir sind gegen eine Klarnamenpflicht im Netz und setzen uns weiterhin für die Möglichkeit einer anonymen und pseudonymen Nutzung ein.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Mietwucher",
+      "location": "3.2. Bezahlbarer Wohnraum (Impliziert)",
+      "originalQuote": "Mietwucher werden wir wirksam unterbinden. Wir werden außerdem die Mietpreisbremse entfristen und Schlupflöcher schließen.",
+      "classification": "MIETWUCHER"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Mietspiegel dürfen keine bloßen Neumietenspiegel sein",
+      "location": "3.2. Bezahlbarer Wohnraum (Impliziert)",
+      "originalQuote": "Mietspiegel dürfen keine bloßen Neumietenspiegel sein. Deshalb werden wir künftig mindestens die vertraglich vereinbarten Mieten der vergangenen acht Jahre bei ihrer Aufstellung heranziehen.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schwangerschaftskonflikte im Strafrecht",
+      "location": "3.8. Gleichstellung verwirklichen (Impliziert)",
+      "originalQuote": "Zudem stellen wir in Hinblick auf die Paragraphen 218 ff. fest: Schwangerschaftskonflikte gehören nicht ins Strafrecht.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Diskriminierende Richtlinie der Bundesärztekammer zur Blutspende",
+      "location": "3.9. Vielfalt und Teilhabe (Impliziert)",
+      "originalQuote": "Wir werden darauf hinwirken, dass die diskriminierende Richtlinie der Bundesärztekammer zur Blutspende abgeschafft wird.",
+      "classification": "BUNDESÄRZTEKAMMER"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Wegwerfen genießbarer Nahrungsmittel durch Produzenten und Handel",
+      "location": "4.5. Verbraucherpolitik (Impliziert)",
+      "originalQuote": "Um die Lebensmittelverschwendung einzudämmen, werden wir es den Produzenten und dem Handel untersagen, genießbare Nahrungsmittel wegzuwerfen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gentechnisch veränderte Pflanzen",
+      "location": "4.5. Verbraucherpolitik (Impliziert)",
+      "originalQuote": "Wir bleiben beim Nein zu gentechnisch veränderten Pflanzen...",
+      "classification": "GENTECHNISCH"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unkontrollierte Rüstungsexporte in bestimmte Drittstaaten (Einschränkung)",
+      "location": "5.3. Frieden und Sicherheit (Impliziert)",
+      "originalQuote": "Für uns ist eine restriktive Rüstungsexportpolitik zentral. Wir werden uns dafür einsetzen, dass die Ausfuhr deutscher Rüstungsgüter in Staaten außerhalb von EU-, NATO- und denen gleichgestellten Ländern weiter eingeschränkt, die Kontrolle über den endgültigen Verbleib der Waffen ausgeweitet und absolute Ausnahmen nur im begründeten Einzelfall möglich sein werden – öffentlich nachvollziehbar dokumentiert.",
+      "classification": "Rüstung & Waffen"
+    }
+  ]
+}

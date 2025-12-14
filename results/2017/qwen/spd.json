@@ -1,0 +1,166 @@
+{
+  "sourceFile": "SPD - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Eingriffe an Tieren aus rein wirtschaftlichen Gründen",
+      "location": "Kapitel: Verantwortungsvolle Landwirtschaft und gesunde Ernährung",
+      "originalQuote": "Eingriffe an Tieren aus rein wirtschaftlichen Gründen wie das Schnabelkürzen, das Kupieren",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Gentechnisch veränderte Organismen in der Landwirtschaft",
+      "location": "Kapitel: Verantwortungsvolle Landwirtschaft und gesunde Ernährung",
+      "originalQuote": "Gentechnisch veränderte Organismen in der Landwirtschaft und Patente auf Leben lehnen wi",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung des Rechts auf Asyl",
+      "location": "Kapitel: Es ist Zeit für eine geordnete Migrationspolitik",
+      "originalQuote": "Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weiterer Anstieg der Regelaltersgrenze für die Rente",
+      "location": "Kapitel: Ein neuer Generationenvertrag",
+      "originalQuote": "Keine Anhebung der jetzigen Regelaltersgrenze.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Militarisierung der öffentlichen Sicherheit",
+      "location": "Kapitel: Es ist Zeit für mehr Sicherheit im Alltag",
+      "originalQuote": "Eine Militarisierung der öffentlichen Sicherheit lehnen wir ab.",
+      "classification": "MILITARISIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz der Bundeswehr als Hilfspolizei im Inland",
+      "location": "Kapitel: Es ist Zeit für mehr Sicherheit im Alltag",
+      "originalQuote": "Mit uns wird es, über das bereits zulässige Maß hinaus, keinen Einsatz der Bundeswehr als H",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zwei-Klassen-Medizin",
+      "location": "Kapitel: Es ist Zeit für einen starken Sozialstaat",
+      "originalQuote": "Eine Zwei-Klassen-Medizin soll es nicht länger geben.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung der Straßeninfrastruktur",
+      "location": "Kapitel: Bezahlbare und nachhaltige Mobilität",
+      "originalQuote": "Eine Privatisierung der Straßeninfrastruktur und der Infrastrukturgesellschaft Verkehr blei",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fracking (unkonventionell)",
+      "location": "Kapitel: Energiewende vollenden",
+      "originalQuote": "Daher haben wir ein unbefristetes Verbot für unkonventionelles Fracking durchgesetzt.",
+      "classification": "UNKONVENTIONELL"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Exportförderung für Atomenergie-Projekte",
+      "location": "Kapitel: Energiewende vollenden",
+      "originalQuote": "In Deutschland werden wir die Hermes-Kreditbürgschaften für Exporte so regeln, dass Atomener",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschiebungen nach Afghanistan",
+      "location": "Kapitel: Es ist Zeit für eine geordnete Migrationspolitik",
+      "originalQuote": "Da die Sicherheitslage in Afghanistan kein sicheres Leben zulässt, werden wir bis auf weite",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Landwirtschaftlicher Export auf Kosten von Entwicklungsländern",
+      "location": "Kapitel: Verantwortungsvolle Landwirtschaft und gesunde Ernährung",
+      "originalQuote": "In Deutschland erzeugte landwirtschaftliche Produkte dürfen nicht zu Lasten der Entwicklun",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kleinwaffenexporte in Drittstaaten außerhalb von EU, NATO und vergleichbaren Ländern",
+      "location": "Kapitel: Eine neue Abrüstungsinitiative",
+      "originalQuote": "Sie wird ein grundsätzliches Verbot des Kleinwaffenexportes in Drittstaaten außerhalb von EU",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Völkerrechtswidrige Tötungen durch Drohnen",
+      "location": "Kapitel: Eine neue Abrüstungsinitiative",
+      "originalQuote": "Völkerrechtswidrige Tötungen durch unbemannte militärische Systeme lehnen wir kategorisch ab",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Atomare Bewaffnung Deutschlands",
+      "location": "Kapitel: Eine neue Abrüstungsinitiative",
+      "originalQuote": "Mit aller Entschiedenheit wenden wir uns gegen verantwortungslose Gedankenspiele über die Sc",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Europäische Atomwaffenmacht",
+      "location": "Kapitel: Eine neue Abrüstungsinitiative",
+      "originalQuote": "Mit aller Entschiedenheit wenden wir uns gegen verantwortungslose Gedankenspiele über die Sc",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung des Bargelds",
+      "location": "Kapitel: Klare Regeln für die Finanzwirtschaft",
+      "originalQuote": "Wir bekennen uns klar zum Recht der Bürger auf Bargeld und werden Bestrebungen zu dessen Abs",
+      "classification": "BARGELDS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Anonyme Briefkastenfirmen zur Steuerhinterziehung",
+      "location": "Kapitel: Steuerbetrug und -vermeidung bekämpfen",
+      "originalQuote": "Es darf keine anonymen Briefkastenfirmen mehr geben, deren einziger Zweck es ist, Steuern z",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Geldwäsche und Steuerbetrug durch Offshore-Finanzgeschäfte",
+      "location": "Kapitel: Steuerbetrug und -vermeidung bekämpfen",
+      "originalQuote": "Wir wollen ein Verbot anonymer Finanzgeschäfte in Offshore-Gebieten und harte Sanktionen f",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Patente auf Leben",
+      "location": "Kapitel: Verantwortungsvolle Landwirtschaft und gesunde Ernährung",
+      "originalQuote": "Gentechnisch veränderte Organismen in der Landwirtschaft und Patente auf Leben lehnen wi",
+      "classification": "PATENTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Qualzuchten bei Haustieren",
+      "location": "Kapitel: Verantwortungsvolle Landwirtschaft und gesunde Ernährung",
+      "originalQuote": "Für Qualzuchten muss es eine klare Definition und ein Haltungsverbot geben.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wahlkampf und Abstimmung über Todesstrafe in der Türkei auf deutschem Boden",
+      "location": "Kapitel: Friedensprojekt Europa",
+      "originalQuote": "Wahlkampf und eine Abstimmung über die Einführung der Todesstrafe in der Türkei wird es auf",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beitritt der Türkei zur EU bei Einführung der Todesstrafe",
+      "location": "Kapitel: Friedensprojekt Europa",
+      "originalQuote": "Sollte die Türkei die Todesstrafe einführen, entscheidet sie sich offen gegen die Mitglieds",
+      "classification": "Europa & Außenpolitik"
+    }
+  ]
+}

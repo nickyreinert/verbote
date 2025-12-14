@@ -1,0 +1,418 @@
+{
+  "sourceFile": "Linke - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Leiharbeit",
+      "location": "Kapitel: Gute Arbeit, gute Löhne – Demokratie gilt auch im Betrieb!",
+      "originalQuote": "Wir wollen Leiharbeit verbieten.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Tierversuchen des Schweregrads „schwerst“ und „schwer“",
+      "location": "Kapitel: Tiere wirksam schützen: Tierschutz als Staatsziel",
+      "originalQuote": "Tierversuche des Schweregrads »schwerst« und »schwer« müssen sofort verboten werden.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Delfinarien",
+      "location": "Kapitel: Tiere wirksam schützen: Tierschutz als Staatsziel",
+      "originalQuote": "Wir fordern ein sofortiges Verbot von Delfinarien, Wildtieren in Zirkussen sowie ein Verbot",
+      "classification": "DELFINARIEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Handels mit Pelz",
+      "location": "Kapitel: Tiere wirksam schützen: Tierschutz als Staatsziel",
+      "originalQuote": "Der Handel mit Pelz muss verbott werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Jagd auf Hunde, Katzen und Prädatoren wie Füchse",
+      "location": "Kapitel: Tiere wirksam schützen: Tierschutz als Staatsziel",
+      "originalQuote": "Die Jagd auf Hunde und Katzen sowie Prädatoren wie Füchse wollen wir untersagen.",
+      "classification": "PRÄDATOREN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Patenten auf Leben",
+      "location": "Kapitel: Für eine nachhaltige Landwirtschaft. Gesunde Nahrungsmittel für alle",
+      "originalQuote": "DIE LINKE will Patente auf Leben verbieten.",
+      "classification": "PATENTEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Anbaus und Handels mit gentechnisch veränderten Pflanzen",
+      "location": "Kapitel: Für eine nachhaltige Landwirtschaft. Gesunde Nahrungsmittel für alle",
+      "originalQuote": "Wir wollen den Anbau und den Handel mit sowie den Import von gentechnisch veränderten Pflanzen",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Glyphosat und Neonikotinoiden",
+      "location": "Kapitel: Für eine nachhaltige Landwirtschaft. Gesunde Nahrungsmittel für alle",
+      "originalQuote": "Glyphosat und Neonikotinoide müssen verboten werden.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Megaställen",
+      "location": "Kapitel: Für eine nachhaltige Landwirtschaft. Gesunde Nahrungsmittel für alle",
+      "originalQuote": "Megaställe lehnen wir ab.",
+      "classification": "MEGASTÄLLEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Qualzucht und nicht kurativen Eingriffen an Tieren",
+      "location": "Kapitel: Für eine nachhaltige Landwirtschaft. Gesunde Nahrungsmittel für alle",
+      "originalQuote": "Qualzucht und nicht kurative Eingriffe an Tieren (Schnäbel, Hörner, Schwänze) wollen wir verbieten",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Klonens von Tieren",
+      "location": "Kapitel: Für eine nachhaltige Landwirtschaft. Gesunde Nahrungsmittel für alle",
+      "originalQuote": "Klonen von Tieren muss verboten bleiben.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Lebendtiertransporten über vier Stunden",
+      "location": "Kapitel: Für eine nachhaltige Landwirtschaft. Gesunde Nahrungsmittel für alle",
+      "originalQuote": "Wir wollen ein Verbot von Lebendtiertransporten, die über das Höchstmaß von vier Stunden hinausgehen.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Fracking-Technologie",
+      "location": "Kapitel: Klimagerechtigkeit und Energiewende",
+      "originalQuote": "Wir wollen Fracking ohne Ausnahmen verbieten.",
+      "classification": "FRACKINGTECHNOLOGIE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der unterirdischen Verpressung von CO2 (CCS)",
+      "location": "Kapitel: Klimagerechtigkeit und Energiewende",
+      "originalQuote": "Wir setzen uns dafür ein, dass auch die unterirdische Verpressung von CO2 (Carbon Capture and Storage",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Im- und Exports von Uranbrennstoffen",
+      "location": "Kapitel: Klimagerechtigkeit und Energiewende",
+      "originalQuote": "Den Im- und Export von Uranbrennstoffen wollen wir verbieten.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Uploadfiltern und Netzsperren",
+      "location": "Kapitel: Die Macht der Internetkonzerne und Plattformen begrenzen",
+      "originalQuote": "Den Einsatz von Uploadfiltern und Netzsperren lehnen wir ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot automatisierter Gesichtserkennung",
+      "location": "Kapitel: Grundrechte schützen",
+      "originalQuote": "Automatisierte Gesichtserkennung wollen wir verbieten.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Quellen-TKÜ und Onlinedurchsuchung (Staatstrojaner)",
+      "location": "Kapitel: Grundrechte schützen",
+      "originalQuote": "Quellen Telekommunikationsüberwachung und Onlinedurchsuchung (Staatstrojaner) müssen verboten",
+      "classification": "ONLINEDURCHSUCHUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Vorratsdatenspeicherung",
+      "location": "Kapitel: Grundrechte schützen",
+      "originalQuote": "Die Vorratsdatenspeicherung von IP-Verbindungen, Mobilfunkverbindungen und -standorten muss verboten",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Einsatzes autonomer Waffensysteme und bewaffneter Drohnen",
+      "location": "Kapitel: Grundrechte schützen",
+      "originalQuote": "Den Export von Überwachungstechnologie und den Einsatz autonomer Waffensysteme und bewaffneter Drohnen",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Konversionsbehandlungen",
+      "location": "Kapitel: Selbstbestimmung für trans*- und intergeschlechtliche Menschen",
+      "originalQuote": "Konversionsbehandlungen müssen komplett verboten werden, auch an Erwachsenen.",
+      "classification": "KONVERSIONSBEHANDLUNGEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot aller medizinisch nicht notwendigen Eingriffe an Kindern hinsichtlich Geschlechtsmerkmale",
+      "location": "Kapitel: Selbstbestimmung für trans*- und intergeschlechtliche Menschen",
+      "originalQuote": "Alle medizinisch nicht notwendigen Eingriffe an den inneren oder äußeren Geschlechtsmerkmalen von Kindern",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des PKK-Verbots",
+      "location": "Kapitel: Sicherheit für alle statt Überwachungsstaat",
+      "originalQuote": "Wir fordern die Aufhebung des PKK-Verbots.",
+      "classification": "PKKVERBOTS"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Bewaffnung von Drohnen",
+      "location": "Kapitel: Keine Drohnen für den Krieg",
+      "originalQuote": "Die Bewaffnung der Bundeswehr mit Kampfdrohnen muss verhindert werden.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Einsatzes militärischer Sicherheits- und Söldnerfirmen",
+      "location": "Kapitel: Keine Auslandseinsätze der Bundeswehr",
+      "originalQuote": "Wir wollen ein Verbot des Einsatzes militärischer Sicherheits- und Söldnerfirmen.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Exports von Dual-Use-Gütern an Nicht-Vertragsstaaten der Chemie- und Biowaffenkonvention",
+      "location": "Kapitel: Rüstungsexporte stoppen: Kein Geschäft mit dem Krieg!",
+      "originalQuote": "Exporte von Dual-Use-Gütern, die zur Herstellung chemischer oder biologischer Waffen verwendbar sind",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Sonderarbeitsrechten in Kirchen, Diakonie und Caritas",
+      "location": "Kapitel: Wir verteidigen die Freiheit zur und von der Religion und die Trennung von Staat und Kirche",
+      "originalQuote": "Wir fordern die Abschaffung des kirchlichen Sonderarbeitsrechts für die Beschäftigten in den Kirchen, in",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stoppen der Spekulation mit Wohnraum",
+      "location": "Kapitel: Keine Profite mit Miete und Boden: Zuhause für alle!",
+      "originalQuote": "Spekulation mit Grund und Boden beenden.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine neuen Autobahnen bauen",
+      "location": "Kapitel: Gerechte Mobilität: Ökologisch und bezahlbar für alle – mit guten Arbeitsplätzen",
+      "originalQuote": "Statt neue Autobahnen zu bauen, wollen wir den Ausbau des ÖPNV sowie des Rad- und Fußverkehrs",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stoppen des Abrisses von preisgünstigem Wohnraum",
+      "location": "Kapitel: Klimagerechtigkeit statt Verdrängung!",
+      "originalQuote": "Schluss mit dem Abriss von preisgünstigen Wohnungen mit erhaltenswerter Bausubstanz zugunsten von teuren",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung der Privatisierung öffentlicher Wasserversorgung",
+      "location": "Kapitel: Böden und Meere schützen",
+      "originalQuote": "Die Privatisierung der Wasserversorgung und des Zugangs zu See- und Meeresflächen lehnen wir ab",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verwendung von Bioenergie aus neu angebauten Energiepflanzen",
+      "location": "Kapitel: In erneuerbare Energie investieren, Energiekonzerne entmachten",
+      "originalQuote": "Bioenergie aus eigens hierzu angebauten Energiepflanzen oder neu geschlagenem Holz sollte nicht mehr generell",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verwendung von Erdgas als langfristige Energiequelle",
+      "location": "Kapitel: Klimagerechtigkeit und Energiewende",
+      "originalQuote": "Für eine klimaneutrale Gesellschaft muss dem Ausstieg aus Atom und Kohle auch ein Ausstieg aus der Verbrennung",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stoppen der Verwendung von Gigalinern",
+      "location": "Kapitel: Güterverkehr verringern und auf die Schiene bringen",
+      "originalQuote": "Die Zulassung von Gigalinern (Lang-Lkw) lehnen wir ab.",
+      "classification": "VERWENDUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verwendung von Gene-Drive-Organismen",
+      "location": "Kapitel: Für eine nachhaltige Landwirtschaft. Gesunde Nahrungsmittel für alle",
+      "originalQuote": "Wir wollen uns für ein globales Moratorium über die Freisetzung von Gene-Drive-Organismen einsetzen.",
+      "classification": "GENEDRIVEORGANISMEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Förderung von Wasserstoff aus Atomkraft oder fossilen Quellen",
+      "location": "Kapitel: Klimagerechtigkeit und Energiewende",
+      "originalQuote": "Den Import und die Förderung von Wasserstoff aus Atomkraft oder fossilen Quellen lehnen wir ab.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Nutzung von Steuergeldern zur Unterstützung klimaschädlicher Subventionen",
+      "location": "Kapitel: Klimagerechtigkeit und Energiewende",
+      "originalQuote": "Der Staat darf Klimazerstörung nicht weiter mit Steuergeldern unterstützen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Finanzierung von Flugtaxis und Lieferdrohnen mit öffentlichen Mitteln",
+      "location": "Kapitel: Flugverkehr reduzieren",
+      "originalQuote": "Die Bereitstellung öffentlicher Mittel für die Entwicklung von Flugtaxis und Lieferdrohnen lehnen wir ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verwendung von öffentlichen Geldern für fossil-atomare Energieunternehmen",
+      "location": "Kapitel: Atomausstieg sofort",
+      "originalQuote": "Öffentliche Gelder, inklusive der Pensionsrücklagen und Rentenkassen, müssen umgehend aus Anlagen in Unternehmen",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Förderung oder Finanzierung von Atomkraftwerken im Ausland",
+      "location": "Kapitel: Atomausstieg sofort",
+      "originalQuote": "Die staatliche deutsche Förderbank KfW (Kreditanstalt für Wiederaufbau) darf keine Atomkraftwerke im",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Privatisierung von Verkehrsinfrastruktur",
+      "location": "Kapitel: Bahn für alle! Soziale und ökologische Verkehrsplanung",
+      "originalQuote": "Wir lehnen alle direkten oder indirekten Privatisierungen von Verkehrsinfrastruktur ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verwendung von militärischen Mitteln zur Bekämpfung von Kriminalität im Netz",
+      "location": "Kapitel: Bundeswehr abrüsten statt aufrüsten",
+      "originalQuote": "Bekämpfung von Kriminalität im Netz und Schutz kritischer Infrastruktur sind Aufgabe der Sicherheitsbehörden",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Beteiligung an NATO-Manövern östlich der Oder-Neiße",
+      "location": "Kapitel: Kooperation statt Konfrontation: Für ein inklusives Sicherheitssystem",
+      "originalQuote": "Vor dem Hintergrund der deutschen Geschichte wenden wir uns insbesondere gegen jede Präsenz deutscher",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Unterstützung für NATO-Staaten, die Völkerrecht missachten",
+      "location": "Kapitel: Kooperation statt Konfrontation: Für ein inklusives Sicherheitssystem",
+      "originalQuote": "Jede Unterstützung für NATO-Staaten, die – wie die Türkei unter dem Erdo?an-Regime – das Völkerrecht",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ausfuhr von Pestiziden, die nicht in der EU zugelassen sind",
+      "location": "Kapitel: Für eine nachhaltige Landwirtschaft. Gesunde Nahrungsmittel für alle",
+      "originalQuote": "In der EU nicht zugelassene Pestizide und Pestizidwirkstoffe dürfen weder in Deutschland produziert noch",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Einfuhr von Lebensmitteln aus geklonten Tieren ohne Kennzeichnung",
+      "location": "Kapitel: Für eine nachhaltige Landwirtschaft. Gesunde Nahrungsmittel für alle",
+      "originalQuote": "Wir wollen eine Kennzeichnung von importierten Lebensmitteln, die aus geklonten Tieren und ihren Nachkommen",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verwendung von künstlicher Intelligenz bei Sozialleistungsentscheidungen",
+      "location": "Kapitel: Grundrechte schützen",
+      "originalQuote": "Entscheidungen beispielsweise über Sozialleistungsansprüche, Kreditwürdigkeit oder Prognosen über Straffälligkeit",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Anwendung von Rabattverträgen im Arzneimittelbereich",
+      "location": "Kapitel: Die Macht der Pharmaindustrie brechen! Gesundheitsforschung demokratisieren!",
+      "originalQuote": "Rabattverträge und andere Selektivverträge wollen wir abschaffen.",
+      "classification": "ARZNEIMITTELBEREICH"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ausbeutung osteuropäischer Betreuungskräfte",
+      "location": "Kapitel: Pflegende Angehörige entlasten!",
+      "originalQuote": "Es darf nicht sein, dass osteuropäische Betreuungskräfte durch den Verzicht auf Mindestlohn und Sozialleistungen",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verwendung von Agrarexportsubventionen",
+      "location": "Kapitel: Für ein solidarisches Europa!",
+      "originalQuote": "Exportsubventionen für landwirtschaftliche Produkte wollen wir beenden.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Finanzierung von Rüstung durch EU-Haushalt",
+      "location": "Kapitel: Für ein solidarisches Europa!",
+      "originalQuote": "Statt in militärische Aufrüstung muss in solidarische und ökologische Zukunftsprojekte investiert werden.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Beteiligung Deutschlands an militärischen NATO-Strukturen",
+      "location": "Kapitel: Kooperation statt Konfrontation: Für ein inklusives Sicherheitssystem",
+      "originalQuote": "Unabhängig von einer Entscheidung über den Verbleib Deutschlands in der NATO wird DIE LINKE in jeder",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Werbung der Bundeswehr in Schulen und Hochschulen",
+      "location": "Kapitel: Bundeswehr abrüsten statt aufrüsten",
+      "originalQuote": "Kein Werben fürs Sterben! Wir lehnen Werbung der Bundeswehr in Jobcentern, Schulen, auf Bildungs- und",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Rekrutierung Minderjähriger in die Bundeswehr",
+      "location": "Kapitel: Bundeswehr abrüsten statt aufrüsten",
+      "originalQuote": "Die Bundeswehr darf keine Minderjährigen aufnehmen – auch nicht im Rahmen des sogenannten freiwilligen",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Einsatz der Bundeswehr im Inneren",
+      "location": "Kapitel: Bundeswehr abrüsten statt aufrüsten",
+      "originalQuote": "Den Einsatz der Bundeswehr im Inneren lehnen wir ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Unterstützung autoritärer Regime durch Ausbildungsmissionen",
+      "location": "Kapitel: Keine Auslandseinsätze der Bundeswehr",
+      "originalQuote": "Wir wollen keine Beteiligung an internationalen Polizei- und Geheimdiensteinsätzen oder Ausbildungsmissionen",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine zivil-militärische Zusammenarbeit",
+      "location": "Kapitel: Keine Auslandseinsätze der Bundeswehr",
+      "originalQuote": "Wir lehnen zivil-militärische Kooperationen ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Bauverbot für Sakralbauten",
+      "location": "Kapitel: Wir verteidigen die Freiheit zur und von der Religion und die Trennung von Staat und Kirche",
+      "originalQuote": "DIE LINKE ist gegen ein Bauverbot für Sakralbauten.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine kommerzielle Werbung in Schulen und Kitas",
+      "location": "Kapitel: Mehr Rechte für Verbraucher*innen",
+      "originalQuote": "Sofort fordern wir ein Verbot von Werbung in Schulen und Kitas.",
+      "classification": "Bildung & Forschung"
+    }
+  ]
+}

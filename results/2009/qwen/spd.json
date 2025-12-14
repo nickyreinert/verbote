@@ -1,0 +1,138 @@
+{
+  "sourceFile": "SPD - 2009 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine neuen Atomkraftwerke",
+      "location": "Kapitel II.2, Abschnitt „Atomausstieg umsetzen, Sicherheit gewährleisten“",
+      "originalQuote": "Die Nutzung der Atomenergie birgt zu große Risiken. Nicht zuletzt ist die Frage der End",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Geschäfte außerhalb der Bilanz",
+      "location": "Kapitel II.1, Abschnitt „Neue Regeln für die Finanzmärkte“",
+      "originalQuote": "In Zukunft darf es keine Geschäfte mehr außerhalb der Bilanz geben. Eine bessere Eigen",
+      "classification": "GESCHÄFTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kurzfristige und spekulative Beteiligungen zu Lasten von Standorten und Arbeitsplätzen abgelehnt",
+      "location": "Kapitel II.1, Abschnitt „Neue Regeln für die Finanzmärkte“",
+      "originalQuote": "Kurzfristige und spekulative Beteiligungen zu Lasten von Standorten und Arbeitsplätzen leh",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schädliche Leerverkäufe müssen unterbunden werden",
+      "location": "Kapitel II.1, Abschnitt „Neue Regeln für die Finanzmärkte“",
+      "originalQuote": "Schädliche Leerverkäufe, die vor allem von Hedge-Fonds eingesetzt werden, müssen unterbun",
+      "classification": "LEERVERKÄUFE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zerschlagung der Deutschen Bahn AG abgelehnt",
+      "location": "Kapitel II.2, Abschnitt „Verkehr und Mobilität“",
+      "originalQuote": "Eine Zerschlagung der Deutschen Bahn AG lehnen wir ab. Die Bahn soll auch künftig als in",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung der Justiz abgelehnt",
+      "location": "Kapitel II.10, Abschnitt „Gerechtigkeit braucht eine starke Justiz“",
+      "originalQuote": "Mit uns wird es keinen Ausverkauf von Hoheitsaufgaben geben. Vieles kann der Staat besser",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung staatlicher Sicherheitsaufgaben abgelehnt",
+      "location": "Kapitel II.10, Abschnitt „Mehr Sicherheit im Alltag“",
+      "originalQuote": "Sicherheit darf keine Ware werden. Es ist Aufgabe des Staates, für die Sicherheit seiner",
+      "classification": "SICHERHEITSAUFGABEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bürgerwehren abgelehnt",
+      "location": "Kapitel II.10, Abschnitt „Mehr Sicherheit im Alltag“",
+      "originalQuote": "Mit einer präsenten Polizei und klugen städtebaulichen Maßnahmen wollen wir das Sicher",
+      "classification": "BÜRGERWEHREN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Allgemeiner Pflichtdienst für junge Frauen und Männer abgelehnt",
+      "location": "Kapitel II.7, Abschnitt „Kinder- und Jugendpolitik“",
+      "originalQuote": "Mittelfristig wollen wir allen Jugendlichen, die ein Freiwilliges Ökologisches Jahr oder",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz der Bundeswehr im Inneren abgelehnt",
+      "location": "Kapitel II.10, Abschnitt „Terrorismus bekämpfen – Bürgerrechte schützen“",
+      "originalQuote": "Den Einsatz der Bundeswehr zur Gefahrenabwehr im Inneren lehnen wir ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Präventionsstaat abgelehnt",
+      "location": "Kapitel II.10, Abschnitt „Datenschutz in Staat und Wirtschaft“",
+      "originalQuote": "Einen Präventionsstaat, der auf der Suche nach Gefahrenquellen auch die Daten Unbeteilig",
+      "classification": "PRÄVENTIONSSTAAT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verlängerung der AKW-Laufzeiten lehnen sie ab",
+      "location": "Kapitel II.2, Abschnitt „Atomausstieg umsetzen, Sicherheit gewährleisten“",
+      "originalQuote": "Eine Verlängerung der Laufzeiten würde dringend nötige Investitionen in neue Technologi",
+      "classification": "AKWLAUFZEITEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kapitalprivatisierung der Deutschen Bahn abgelehnt",
+      "location": "Kapitel II.2, Abschnitt „Verkehr und Mobilität“",
+      "originalQuote": "Deshalb findet eine Kapitalprivatisierung nicht statt, auch nicht teilweise.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kettenduldungen vermeiden",
+      "location": "Kapitel II.8, Abschnitt „Deutschland braucht Einwanderung – Einwanderung braucht Integration“",
+      "originalQuote": "Wir setzen uns für die Abschaffung der Kettenduldungen ein – kann der Aufenthalt aus hum",
+      "classification": "KETTENDULDUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bloßes Wegsperren jugendlicher Straftäter abgelehnt",
+      "location": "Kapitel II.10, Abschnitt „Mehr Sicherheit im Alltag“",
+      "originalQuote": "Bloßes Wegsperren auf Basis des Erwachsenenstrafrechts lehnen wir ab.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bündnis mit der Linkspartei ausgeschlossen",
+      "location": "Kapitel III, Abschnitt „Eine solidarische Mehrheit für Deutschland“",
+      "originalQuote": "Ein Bündnis mit der Partei „Die Linke“ schließen wir Sozialdemokratinnen und Sozialdem",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Minderheitsregierung mit Duldung durch die Linkspartei ausgeschlossen",
+      "location": "Kapitel III, Abschnitt „Eine solidarische Mehrheit für Deutschland“",
+      "originalQuote": "Wir werden auch keine Minderheitsregierung bilden, die von der Linkspartei geduldet wir",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neue Atomkraftwerke ausgeschlossen",
+      "location": "Kapitel III, Abschnitt „Eine solidarische Mehrheit für Deutschland“",
+      "originalQuote": "* Wer keine neuen Atomkraftwerke will, muss SPD wählen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "NPD soll verboten werden",
+      "location": "Kapitel II.13, Abschnitt „Starke Demokratie - Bekämpfung von Rechtsextremismus…“",
+      "originalQuote": "Deshalb muss das Verbot der NPD angestrebt werden.",
+      "classification": "VERBOTEN"
+    }
+  ]
+}

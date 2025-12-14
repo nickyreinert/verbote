@@ -1,0 +1,40 @@
+{
+  "sourceFile": "AfD - 2013 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Ankauf von Schrottpapieren durch die EZB",
+      "location": "Währungspolitik",
+      "originalQuote": "Wir fordern ein sofortiges Verbot des Ankaufs von Schrottpapieren durch die Europäische Zentral",
+      "classification": "SCHROTTPAPIEREN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Transferunion oder zentralisierter Europastaat",
+      "location": "Europapolitik",
+      "originalQuote": "Eine Transferunion oder gar einen zentralisierten Europastaat lehnen wir entschieden ab.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abtretung wichtiger Befugnisse an die EU ohne Volksabstimmung",
+      "location": "Rechtsstaatlichkeit und Demokratie",
+      "originalQuote": "Das gilt insbesondere für die Abtretung wichtiger Befugnisse an die EU.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bezahlte Nebentätigkeiten von Bundestagsabgeordneten, die das Mandat beeinträchtigen",
+      "location": "Rechtsstaatlichkeit und Demokratie",
+      "originalQuote": "Das Mandat darf nicht unter bezahlten Nebentätigkeiten leiden.",
+      "classification": "BUNDESTAGSABGEORDNETEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ungeordnete Zuwanderung in Sozialsysteme",
+      "location": "Integrationspolitik",
+      "originalQuote": "Eine ungeordnete Zuwanderung in unsere Sozialsysteme muss unbedingt unterbunden werden.",
+      "classification": "Soziales & Arbeit"
+    }
+  ]
+}

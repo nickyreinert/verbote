@@ -1,0 +1,117 @@
+{
+  "sourceFile": "FDP - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fortbestand des aktuellen Zustands.",
+      "location": "source: 3342",
+      "originalQuote": "Wie es ist, darf es nicht bleiben.",
+      "classification": "FORTBESTAND"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fortbestand des aktuellen Zustands.",
+      "location": "source: 3362",
+      "originalQuote": "Wie es ist, darf es nicht bleiben.",
+      "classification": "FORTBESTAND"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fortbestand des aktuellen Zustands.",
+      "location": "source: 3369",
+      "originalQuote": "Wie es ist, darf es nicht bleiben.",
+      "classification": "FORTBESTAND"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Aberkennung von Bürgerrechten als „Privilegien“ in Krisenzeiten.",
+      "location": "source: 3385",
+      "originalQuote": "Wir Freie Demokraten setzen auf Freiheit, Rechtsstaat und Bürgerrechte, die auch in Krisenzeiten gelten und nicht als „Privilegien“ abgetan werden dürfen, die uns nach Belieben zugeteilt oder vorenthalten werden können.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fortführung des deutschen Sonderwegs der Gewerbesteuer.",
+      "location": "source: 3424",
+      "originalQuote": "Unser Ziel ist es, im Zuge der angestrebten Harmonisierung der Unternehmensbesteuerung in Europa den deutschen Sonderweg der Gewerbesteuer zu beenden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verschärfung der Erbschaftsteuer oder Wiedereinführung der Vermögensteuer.",
+      "location": "source: 3441",
+      "originalQuote": "Damit die Unternehmen nicht durch Erbgänge oder eine Substanzbesteuerung gefährdet werden, lehnen wir eine Verschärfung der Erbschaftsteuer oder die Wiedereinführung der Vermögensteuer ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fortsetzung des Weges zu immer mehr Nothilfen und Rettungsschirmen für einzelne Unternehmen.",
+      "location": "source: 3444",
+      "originalQuote": "Es war daher richtig, Hilfsprogramme auf den Weg zu bringen, doch der Weg zu immer mehr Nothilfen und Rettungsschirmen für einzelne Unternehmen lässt sich nicht aufrechterhalten.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Entstehung unnötiger Verflechtungen von Markt- und Staatswirtschaft.",
+      "location": "source: 3447",
+      "originalQuote": "Wir wollen den Wettbewerb national und international stärken und insbesondere vermeiden, dass unnötige Verflechtungen von Markt- und Staatswirtschaft entstehen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neue staatliche Beteiligungen ohne gleichzeitige Reduktion anderer.",
+      "location": "source: 3452",
+      "originalQuote": "Neue Beteiligungen sollten nur noch dann zulässig sein, wenn andere entsprechend reduziert werden.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Politische Förderung von „nationalen Champions“.",
+      "location": "source: 3459",
+      "originalQuote": "Wir wenden uns daher entschieden gegen die politische Förderung von „nationalen Champions“.",
+      "classification": "POLITISCHE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nationale Alleingänge, Willkürzölle und neue nicht-tarifäre Handelshemmnisse.",
+      "location": "source: 3477",
+      "originalQuote": "Nationale Alleingänge und Willkürzölle sowie neue nicht-tarifäre Handelshemmnisse lehnen wir ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verhinderung von Leistungsträger:innen, Wohlstand zu sichern, durch immer höhere Abgaben.",
+      "location": "source: 3505",
+      "originalQuote": "Wir Freie Demokraten wollen diesen Irrweg verlassen, denn die Leistungsträgerinnen und Leistungsträger unseres Landes dürfen nicht durch immer höhere Abgaben daran gehindert werden, unseren Wohlstand zu sichern.",
+      "classification": "LEISTUNGSTRÄGERINNEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Zahlung des höchsten Steuersatzes durch Durchschnittsverdiener:innen.",
+      "location": "source: 3517",
+      "originalQuote": "Für uns ist jedoch klar: Eine Durchschnittsverdienerin und ein Durchschnittsverdiener dürfen nicht fast schon den höchsten Steuersatz zahlen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weitere Verschärfung der Erbschaftsteuer.",
+      "location": "source: 3519",
+      "originalQuote": "Wir lehnen auch eine weitere Verschärfung der Erbschaftsteuer ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einmalige Vermögensabgabe und Wiederbelebung der Vermögensteuer.",
+      "location": "source: 3528",
+      "originalQuote": "Wir Freie Demokraten lehnen eine einmalige Vermögensabgabe ebenso ab wie die Wiederbelebung der Vermögensteuer.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Überschreitung von 50 Prozent Sozialausgaben am Bundeshaushalt.",
+      "location": "source: 3557",
+      "originalQuote": "Wir Freie Demokraten wollen die Höhe der Sozialausgaben grundsätzlich bei 50 Prozent des Bundeshaushalts deckeln.",
+      "classification": "Soziales & Arbeit"
+    }
+  ]
+}

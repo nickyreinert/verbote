@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verbotsparteien Visualisierung</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="nav-content">
+            <span class="brand">Verbotsparteien</span>
+            <ul class="nav-links">
+                <li><a href="#" class="nav-link active" data-target="section-compare-parties">Parteien-Vergleich</a></li>
+                <li><a href="#" class="nav-link" data-target="section-compare-models">Modell-Vergleich</a></li>
+                <li><a href="#" class="nav-link" data-target="section-topics">Themen-Cluster</a></li>
+                <li><a href="#" class="nav-link" data-target="section-consensus">Konsens</a></li>
+                <li><a href="#" class="nav-link" data-target="section-methodology">Methodik</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        
+        <!-- SECTION 1: Compare Parties (Select Model) -->
+        <section id="section-compare-parties" class="view-section">
+            <h1>Parteien im Vergleich</h1>
+            <p>Wähle ein KI-Modell, um zu sehen, wie es die Verbote bei verschiedenen Parteien zählt.</p>
+            
+            <div class="controls">
+                <label for="select-model">Wähle ein Modell:</label>
+                <select id="select-model">
+                    <option value="" disabled selected>Lade Modelle...</option>
+                </select>
+
+                <label for="select-year" style="margin-left: 20px;">Wähle ein Jahr:</label>
+                <select id="select-year">
+                    <option value="" disabled selected>Lade Jahre...</option>
+                </select>
+
+                <label for="filter-mode-1" style="margin-left: 20px;">Filter:</label>
+                <select id="filter-mode-1" class="filter-mode-select">
+                    <option value="all" selected>Alle Verbote</option>
+                    <option value="explicit">Nur explizite Verbote</option>
+                </select>
+            </div>
+
+            <div class="chart-container">
+                <canvas id="chart-parties"></canvas>
+            </div>
+
+            <div class="chart-container" style="margin-top: 50px;">
+                <canvas id="chart-trend"></canvas>
+            </div>
+
+            <div id="parties-table-container" style="margin-top: 50px;">
+                <h2>Alle Verbote im Überblick</h2>
+                <div class="controls">
+                    <input type="text" id="search-parties-input" placeholder="Tabelle durchsuchen..." style="width: 100%; padding: 10px; margin-bottom: 10px;">
+                </div>
+                <div class="table-wrapper">
+                    <table id="parties-table">
+                        <thead>
+                            <tr>
+                                <th class="sortable" data-sort="party">Partei ↕</th>
+                                <th class="sortable" data-sort="category">Kategorie ↕</th>
+                                <th class="sortable" data-sort="topic">Thema ↕</th>
+                                <th class="sortable" data-sort="originalQuote">Zitat ↕</th>
+                                <th>Quelle</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Populated by JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 2: Compare Models (Select Party) -->
+        <section id="section-compare-models" class="view-section hidden">
+            <h1>Modelle im Vergleich</h1>
+            <p>Wähle eine Partei, um zu sehen, wie verschiedene KI-Modelle deren Verbote zählen.</p>
+
+            <div class="controls">
+                <label for="select-party">Wähle eine Partei:</label>
+                <select id="select-party">
+                    <option value="" disabled selected>Lade Parteien...</option>
+                </select>
+
+                <label for="select-year-models" style="margin-left: 20px;">Wähle ein Jahr:</label>
+                <select id="select-year-models">
+                    <option value="all" selected>Alle Jahre</option>
+                    <!-- Populated by JS -->
+                </select>
+
+                <label for="filter-mode-2" style="margin-left: 20px;">Filter:</label>
+                <select id="filter-mode-2" class="filter-mode-select">
+                    <option value="all" selected>Alle Verbote</option>
+                    <option value="explicit">Nur explizite Verbote</option>
+                </select>
+            </div>
+
+            <div class="chart-container">
+                <canvas id="chart-models"></canvas>
+            </div>
+        </section>
+
+        <!-- SECTION 3: Topics Word Cloud -->
+        <section id="section-topics" class="view-section hidden">
+            <h1>Themen-Cluster</h1>
+            <p>Übersicht der häufigsten Verbotsthemen über alle Parteien und Modelle hinweg.</p>
+
+            <div class="controls">
+                <label for="select-year-topics">Wähle ein Jahr:</label>
+                <select id="select-year-topics">
+                    <option value="all" selected>Alle Jahre</option>
+                    <!-- Populated by JS -->
+                </select>
+
+                <label for="select-model-topics" style="margin-left: 20px;">Modell:</label>
+                <select id="select-model-topics">
+                    <option value="all" selected>Alle Modelle</option>
+                </select>
+
+                <label for="filter-mode-3" style="margin-left: 20px;">Filter:</label>
+                <select id="filter-mode-3" class="filter-mode-select">
+                    <option value="all" selected>Alle Verbote</option>
+                    <option value="explicit">Nur explizite Verbote</option>
+                </select>
+            </div>
+
+            <div class="chart-container">
+                <canvas id="chart-topics-stacked"></canvas>
+            </div>
+
+            <div id="word-cloud-container" class="word-cloud">
+                <!-- Populated by JS -->
+            </div>
+
+            <div id="topic-details" class="hidden">
+                <h2 id="topic-details-title">Details</h2>
+                
+                <div class="chart-container" style="height: 300px;">
+                    <canvas id="chart-topic-distribution"></canvas>
+                </div>
+
+                <div class="controls">
+                    <input type="text" id="search-topic-input" placeholder="Tabelle durchsuchen...">
+                </div>
+
+                <div class="table-wrapper">
+                    <table id="topic-details-table">
+                        <thead>
+                            <tr>
+                                <th>Partei</th>
+                                <th>Modell</th>
+                                <th>Kategorie</th>
+                                <th>Thema</th>
+                                <th>Zitat</th>
+                                <th>Quelle</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Populated by JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 4: Consensus -->
+        <section id="section-consensus" class="view-section hidden">
+            <h1>Konsens-Analyse</h1>
+            <p>
+                Diese Analyse zeigt, wo sich die KI-Modelle einig sind.
+            </p>
+            
+            <div class="controls">
+                <label for="select-year-consensus">Wähle ein Jahr:</label>
+                <select id="select-year-consensus">
+                    <option value="" disabled selected>Lade Jahre...</option>
+                </select>
+
+                <label for="filter-consensus-mode" style="margin-left: 20px;">Filter:</label>
+                <select id="filter-consensus-mode">
+                    <option value="all" selected>Alle Verbote</option>
+                    <option value="explicit">Nur explizite Verbote</option>
+                </select>
+            </div>
+
+            <div class="controls" style="margin-top: 10px;">
+                <label>Modelle berücksichtigen:</label>
+                <div id="consensus-model-checkboxes" style="display: inline-block; margin-left: 10px;">
+                    <!-- Checkboxes populated by JS -->
+                </div>
+            </div>
+
+            <h2>Dynamischer Konsens (Proximity Clustering)</h2>
+            <p>
+                Hier werden Verbote gruppiert, die <strong>räumlich nahe beieinander</strong> liegen, auch wenn sie nicht exakt denselben Text markieren.
+                Nutze den Regler, um den Toleranz-Radius (in Zeichen) einzustellen.
+            </p>
+            
+            <div class="controls">
+                <label for="consensus-radius">Toleranz-Radius:</label>
+                <input type="range" id="consensus-radius" min="0" max="2000" value="0" step="10" style="vertical-align: middle;">
+                <span id="consensus-radius-value">0 Zeichen</span>
+            </div>
+
+            <div class="chart-container">
+                <canvas id="chart-proximity"></canvas>
+            </div>
+
+            <div id="consensus-container">
+                <!-- Populated by JS -->
+            </div>
+        </section>
+
+        <!-- SECTION 5: Methodology -->
+        <section id="section-methodology" class="view-section hidden">
+            <h1>Methodik</h1>
+            
+            <div class="methodology-content">
+                <h2>Vorgehensweise</h2>
+                <p>
+                    Die Wahlprogramme der Parteien wurden mithilfe verschiedener Large Language Models (LLMs) analysiert. 
+                    Ziel war es, Textstellen zu identifizieren, die als "Verbote" oder "Einschränkungen" interpretiert werden können.
+                </p>
+
+                <h2>Definitionen</h2>
+                <p>Die Analyse unterscheidet strikt zwischen zwei Kategorien von Verboten:</p>
+                
+                <h3>1. Explizites Verbot</h3>
+                <p>
+                    Eine Aussage gilt als explizites Verbot, wenn sie eindeutig ein Verbot durch ein Verbotswort oder eine juristisch klare Negationsform ausdrückt.
+                    <br><em>Beispiele: "verboten", "wir verbieten", "ist zu verbieten", "untersagt", "dürfen nicht".</em>
+                </p>
+
+                <h3>2. Semantisches Verbot</h3>
+                <p>
+                    Eine Aussage gilt als semantisches Verbot, wenn sie inhaltlich dasselbe bewirkt wie ein Verbot, ohne ein explizites Verbotswort zu verwenden.
+                    <br><em>Beispiele: "keine neuen...", "nicht zulässig", "wird verhindert", "soll unterbleiben", "wir lehnen... ab", "Ausstieg aus...".</em>
+                </p>
+
+                <h2>Konsens-Analyse (Fuzzy Voting)</h2>
+                <p>
+                    Um "Halluzinationen" (fälschlich erkannte Verbote) einzelner Modelle zu minimieren, wird eine Konsens-Analyse durchgeführt.
+                    Dabei wird geprüft, ob mehrere Modelle <strong>dieselbe Stelle im Text</strong> als Verbot markieren.
+                </p>
+                <p>
+                    Da die Modelle oft leicht unterschiedliche Textausschnitte zitieren, werden die Fundstellen zunächst mittels "Fuzzy Matching" auf ihre exakte Position im Originaldokument normalisiert.
+                    Anschließend wird für jeden Buchstaben im Text gezählt, wie viele Modelle diesen als Teil eines Verbots markiert haben.
+                </p>
+                <p>
+                    Der <strong>Konsens-Wert</strong> entspricht dem prozentualen Anteil der beteiligten Modelle, die an dieser Stelle übereinstimmen.
+                </p>
+                <ul>
+                    <li><strong style="color: #2ecc71;">Hoher Konsens (≥ 80%):</strong> Mindestens 80% der Modelle haben diese Stelle unabhängig voneinander gefunden.</li>
+                    <li><strong style="color: #f1c40f;">Mittlerer Konsens (50% - 79%):</strong> Zwischen 50% und 79% der Modelle haben diese Stelle markiert.</li>
+                    <li><strong style="color: #e74c3c;">Niedriger Konsens (< 50%):</strong> Weniger als die Hälfte der Modelle hat diese Stelle gefunden.</li>
+                </ul>
+
+                <h2>Verwendete Modelle</h2>
+                <ul id="methodology-models-list">
+                    <!-- Populated by JS -->
+                </ul>
+
+                <h2>Vergleich aller Modelle</h2>
+                <div class="controls" style="text-align: center; margin-bottom: 10px;">
+                    <label for="select-year-methodology">Jahr:</label>
+                    <select id="select-year-methodology" style="margin-right: 20px;">
+                        <option value="all" selected>Alle Jahre</option>
+                    </select>
+
+                    <label for="filter-mode-4">Filter:</label>
+                    <select id="filter-mode-4" class="filter-mode-select">
+                        <option value="all" selected>Alle Verbote</option>
+                        <option value="explicit">Nur explizite Verbote</option>
+                    </select>
+                </div>
+                <div class="chart-container">
+                    <canvas id="chart-methodology"></canvas>
+                </div>
+
+                <h2>Strenge-Index (Explizit vs. Semantisch)</h2>
+                <p>Dieses Diagramm zeigt, wie streng die Modelle urteilen. Ein höherer Anteil an "expliziten Verboten" könnte auf eine striktere Auslegung der Definitionen hindeuten.</p>
+                <div class="chart-container">
+                    <canvas id="chart-strictness"></canvas>
+                </div>
+
+                <h2>Der verwendete Prompt</h2>
+                <p>Folgender System-Prompt wurde verwendet, um die KI-Modelle zu instruieren:</p>
+                <div class="prompt-box">
+                    <pre id="methodology-prompt">
+Aufgabe: Analysiere das bereitgestellte Dokument vollständig. 
+
+Ziel: Erfasse alle Verbotsaussagen und kategorisiere sie strikt in zwei Klassen: 
+1) „Explizites Verbot“ 
+2) „Semantisches Verbot“ 
+
+Definitionen (bindend): 
+
+Explizites Verbot: Eine Aussage gilt als explizites Verbot, wenn sie eindeutig ein Verbot durch ein Verbotswort oder eine juristisch klare Negationsform ausdrückt, z. B.: - „verboten“ - „wir verbieten“ - „ist zu verbieten“ - „untersagt“ - „dürfen nicht“ - „wird verboten“ - „gehört verboten“ 
+Semantisches Verbot: Eine Aussage gilt als semantisches Verbot, wenn sie inhaltlich dasselbe bewirkt wie ein Verbot, ohne ein explizites Verbotswort zu verwenden, z. B.: - „keine neuen …“ - „nicht zulässig“ - „wird verhindert“ - „soll unterbleiben“ - „wir lehnen … ab“ - „wir wollen … stoppen“ - „es darf nicht weiter …“ - „ist auszuschließen“ 
+
+Vorgehen:
+- Lies das Dokument vollständig. 
+- Extrahiere jede einzelne Verbotsaussage. 
+- Ordne jede Aussage exakt einer der beiden Kategorien zu. 
+- Keine Zusammenfassungen, keine Bewertungen, keine Interpretation über den Text hinaus. 
+- Mehrdeutige Fälle immer als „Semantisches Verbot“ klassifizieren. 
+
+Ausgabeformat (verpflichtend, exakt einhalten): 
+{ "sourceFile": "<Dateiname>", "topics": [ { "category": "explizites Verbot | semantisches Verbot", "topic": "<kurze, sachliche Beschreibung des Verbots>", "location": "<Seite, Kapitel oder Seitenbereich>", "originalQuote": "<ersten 100 Zeichen des wörtlichen Zitates aus dem Dokument>" } ] } 
+                    </pre>
+                </div>
+            </div>
+        </section>
+
+        <!-- SHARED DETAILS SECTION -->
+        <div id="details-section" class="hidden">
+            <h2 id="details-title">Details</h2>
+            <input type="text" id="search-input" placeholder="Suche in Verboten...">
+            <div class="table-wrapper">
+                <table id="details-table">
+                    <thead>
+                        <tr>
+                            <th>Kategorie</th>
+                            <th>Thema</th>
+                            <th>Zitat</th>
+                            <th>Fundstelle</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Rows will be populated by JS -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <footer class="footer">
+            <p>&copy; 2025 <a href="https://nickyreinert.de" target="_blank">Institut für digitale Herausforderungen.</a></p>
+        </footer>
+    </div>
+
+    <script type="module" src="js/main.js"></script>
+</body>
+</html>

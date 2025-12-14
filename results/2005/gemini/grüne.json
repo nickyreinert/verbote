@@ -1,0 +1,194 @@
+{
+  "sourceFile": "Grüne - 2005 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gesellschaft, in der Wohlstand mit Armut und Abstiegsangst erkauft wird",
+      "location": "3137",
+      "originalQuote": "Wir wollen keine Gesellschaft, in der der Wohlstand der einen mit der Armut und der Abstiegsangst der anderen erkauft wird.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staat soll Bürger weder gängeln noch kontrollieren",
+      "location": "3140",
+      "originalQuote": "Wir wollen einen bürgerfreundlichen Staat, der die Menschen in ihrer Selbstbestimmung stützt und unterstützt, der sie weder gängelt und kontrolliert, noch bloß das Laisser-faire verkündet.",
+      "classification": "KONTROLLIEREN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Rückkehr zur gefährlichen Atomenergie",
+      "location": "3165",
+      "originalQuote": "Ein Zurück zur gefährlichen Atomenergie, wie es CDU/CSU und FDP wollen, wird es mit uns nicht geben.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Bildung darf keine Frage des Geldbeutels sein",
+      "location": "3230",
+      "originalQuote": "Wir wollen den Menschen durch Bildung eine Zukunftsperspektive geben. Bildung darf nicht eine Frage des Geldbeutels sein.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aussortieren in der Schule verhindern",
+      "location": "3231",
+      "originalQuote": "Es ist richtig, Kinder von Anfang an individuell zu fördern und ein Aussortieren in der Schule zu verhindern.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung, dass Kinder und Jugendliche in Armut und Unsicherheit leben müssen",
+      "location": "3233",
+      "originalQuote": "Wir wollen, dass allen Kindern und Jugendlichen eine Perspektive eröffnet wird und keines in Armut und Unsicherheit leben muss.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschottung und Diskriminierung als Reaktion auf multikulturelle Demokratie",
+      "location": "3240",
+      "originalQuote": "Der Realität der multikulturellen Demokratie begegnen wir nicht mit Abschottung und Diskriminierung nach innen und außen, sondern mit einer Politik der Anerkennung und Integration.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Vorfahrt für Arbeit darf nicht bedeuten, dass Menschen unter die Räder kommen",
+      "location": "3287",
+      "originalQuote": "Vorfahrt für Arbeit darf nicht bedeuten, dass viele unter die Räder kommen.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wettlauf um niedrigere Löhne, schlechtere Mitbestimmung und Sozialstandards",
+      "location": "3288",
+      "originalQuote": "Den von CDU/CSU und FDP angestrebten Wettlauf um niedrigere Löhne, weniger Mitbestimmung, schlechte Sozialstandards und immer niedrigere Steuern kann unser Land nicht gewinnen.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Politik des Wachstums um jeden Preis",
+      "location": "3296",
+      "originalQuote": "Einer Politik des »Wachstum um jeden Preis«, ohne Rücksicht auf Mensch und Natur, stellen wir uns entgegen.",
+      "classification": "WACHSTUMS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gewinnen des Wettlaufs um niedrigere Löhne und schlechtere Arbeitsbedingungen",
+      "location": "3306",
+      "originalQuote": "Die Konkurrenz um niedrigere Löhne, schlechtere Arbeitsbedingungen und weniger Arbeitnehmerrechte wollen wir nicht gewinnen.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausschluss von Auftraggebern wegen schwerer Verfehlungen (Korruption, Schwarzarbeit) von öffentlichen Aufträgen",
+      "location": "2398",
+      "originalQuote": "Auftraggebern wegen schwerer Verfehlungen, wie zum Beispiel Korruption, Schwarzarbeit oder illegale Beschäftigung, von der Vergabe öffentlicher Aufträge ausgeschlossen worden sind.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beendigung der Steinkohleförderung im Saarland spätestens 2010",
+      "location": "2459",
+      "originalQuote": "Wegen der extrem hohen Schäden durch den Bergbau ist die Steinkohleförderung im Saarland spätestens 2010 zu beenden.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung der Residenzpflicht, Ausreisezentren und des Flughafenverfahrens",
+      "location": "2825",
+      "originalQuote": "Wir wollen die Residenzpflicht, die Ausreisezentren und das Flughafenverfahren abschaffen.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pläne zur Einrichtung von Flüchtlingslagern außerhalb der EU",
+      "location": "2826",
+      "originalQuote": "Plänen zur Einrichtung von Flüchtlingslagern außerhalb der EU erteilen wir eine klare Absage.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aushöhlung rechtsstaatlicher Prinzipien",
+      "location": "2827",
+      "originalQuote": "Mit uns wird es keine Aushöhlung rechtsstaatlicher Prinzipien geben. Stattdessen kämpfen wir für die Beseitigung von Fluchtursachen.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Unterbringung besonders schutzwürdiger Personen in Abschiebehaft",
+      "location": "2829",
+      "originalQuote": "Besonders schutzwürdige Personen wie Minderjährige, Schwangere, ältere Personen, Alleinerziehende mit Kindern, Kranke und Traumatisierte dürfen nicht in Abschiebehaft.",
+      "classification": "SCHUTZWÜRDIGER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wiedereinführung der Kronzeugenregelung",
+      "location": "2868",
+      "originalQuote": "Die rechtsstaatlich fragwürdige Kronzeugenregelung haben wir abgeschafft. Dabei bleiben wir.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aufrüstung der inneren Sicherheit",
+      "location": "2873",
+      "originalQuote": "Die von der Union betriebene Aufrüstung der inneren Sicherheit lehnen wir ab. Die föderale Struktur der Sicherheitsbehörden hat sich bewährt.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aufhebung der Trennung von Polizei und Nachrichtendiensten",
+      "location": "2875",
+      "originalQuote": "Das hat unter strikter Beibehaltung der Trennung von Polizei und Nachrichtendiensten zu geschehen.",
+      "classification": "NACHRICHTENDIENSTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Grundgesetzänderung zum Einsatz der Bundeswehr im Innern",
+      "location": "2876",
+      "originalQuote": "Wir lehnen eine Grundgesetzänderung zum Einsatz der Bundeswehr im Innern ab, diese ist für die Sicherheit der Menschen nicht...",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Großer Lauschangriff",
+      "location": "2906",
+      "originalQuote": "Den großen Lauschangriff lehnen wir ab. Die Datensammlungssucht ist eine ernste Bedrohung für die Bürgerrechte.",
+      "classification": "LAUSCHANGRIFF"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zulassen, dass Bürger unter Tatverdacht gestellt werden",
+      "location": "2907",
+      "originalQuote": "Wir wollen nicht zulassen, dass praktisch alle Bürgerinnen und Bürger unter Tatverdacht gestellt werden.",
+      "classification": "TATVERDACHT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vorratsdatenspeicherung der Verkehrsdaten",
+      "location": "2909",
+      "originalQuote": "Die europäischen Pläne, Anbieter von Telekommunikationsdiensten zu verpflichten, die Verkehrsdaten ihrer Kunden für den Zugriff von Polizei und Nachrichtendienste auf Vorrat zu speichern, lehnen wir ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Genitalverstümmelung von Frauen",
+      "location": "3056",
+      "originalQuote": "Auch in der Entwicklungspolitik kämpfen wir für die Unversehrtheit der Frauen. Insbesondere wenden wir uns gegen die Genitalverstümmelung von Frauen.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung von Verhandlungen mit der Türkei (durch CDU/CSU)",
+      "location": "3088",
+      "originalQuote": "CDU und CSU und Populisten aller Seiten schüren bestehende Ressentiments und nutzen diese dazu aus, Verhandlungen mit der Türkei zu verhindern.",
+      "classification": "VERHANDLUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kompromisse in Fragen von Menschenrechten und Demokratie",
+      "location": "3089",
+      "originalQuote": "Der Weg der Türkei nach Europa ist auch ein Beitrag zur Sicherheit in Europa und in der Welt. CDU und CSU und Populisten aller Seiten schüren bestehende Ressentiments und nutzen diese dazu aus, Verhandlungen mit der Türkei zu verhindern. In Fragen von Menschenrechten und Demokratie gibt es für uns keine Kompromisse.",
+      "classification": "Demokratie & Recht"
+    }
+  ]
+}

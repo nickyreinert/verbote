@@ -1,0 +1,166 @@
+{
+  "sourceFile": "FDP - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bürokratieabbau bei neuen Regelungen (One in, two out)",
+      "location": "I. Nie war es notwendiger: Machen wir uns fit für den Aufholwettbewerb!",
+      "originalQuote": "Für jede neue Belastung durch geplante Regelungen sollen im doppelten Umfang Belastungen abgebaut werden",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt Verschärfung der Erbschaftsteuer ab",
+      "location": "I. Nie war es notwendiger: Machen wir uns fit für den Aufholwettbewerb!",
+      "originalQuote": "lehnen wir eine Verschärfung der Erbschaftsteuer oder die Wiedereinführung der Vermögensteuer ab",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staatliche Beteiligungen reduzieren (Beteiligungsbremse)",
+      "location": "I. Nie war es notwendiger: Machen wir uns fit für den Aufholwettbewerb!",
+      "originalQuote": "Unnötige staatliche Beteiligungen sowie alle Unternehmensanteile, die nicht zur öffentlichen Daseinsvorsorge gehören, müssen verkauft werden",
+      "classification": "BETEILIGUNGSBREMSE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt Förderung nationaler Champions ab",
+      "location": "I. Nie war es notwendiger: Machen wir uns fit für den Aufholwettbewerb!",
+      "originalQuote": "Wir wenden uns daher entschieden gegen die politische Förderung von „nationalen Champions“.",
+      "classification": "NATIONALER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt nationale Alleingänge und Willkürzölle ab",
+      "location": "I. Nie war es notwendiger: Machen wir uns fit für den Aufholwettbewerb!",
+      "originalQuote": "Nationale Alleingänge und Willkürzölle sowie neue nicht-tarifäre Handelshemmnisse lehnen wir ab.",
+      "classification": "WILLKÜRZÖLLE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt neue Vermögensabgabe und Vermögensteuer ab",
+      "location": "I. Nie war es notwendiger: Machen wir uns fit für den Aufholwettbewerb!",
+      "originalQuote": "Wir Freie Demokraten lehnen eine einmalige Vermögensabgabe ebenso ab wie die Wiederbelebung der Vermögensteuer.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt pauschales Aussperren von Unternehmen/Parteien/Bundeswehr im Bildungsbereich ab",
+      "location": "I. Nie war es notwendiger: Machen wir uns fit für den Aufholwettbewerb!",
+      "originalQuote": "Zivilklauseln oder das pauschale Aussperren von Unternehmen, Parteien sowie der Bundeswehr lehnen wir im Bildungsbereich ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt gesetzliche Zivilklauseln ab (Wissenschaftsfreiheit)",
+      "location": "I. Nie war es notwendiger: Machen wir uns fit für den Aufholwettbewerb!",
+      "originalQuote": "Gesetzliche Zivilklauseln lehnen wir ab.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt unverhältnismäßige Mobilitätsverbote ab",
+      "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
+      "originalQuote": "Wir Freie Demokraten sind gegen unverhältnismäßige Verbote in der Mobilität.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt pauschales Verbot von Verbrennungsmotoren ab",
+      "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
+      "originalQuote": "Ein pauschales Verbot von Verbrennungsmotoren lehnen wir ab.",
+      "classification": "VERBRENNUNGSMOTOREN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt pauschales Versandhandelsverbot für rezeptpflichtige Arzneimittel ab",
+      "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
+      "originalQuote": "Ein pauschales Versandhandelsverbot für rezeptpflichtige Arzneimittel lehnen wir ab",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt Hackbacks (digitale Vergeltungsschläge) ab",
+      "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
+      "originalQuote": "Wir lehnen digitale Vergeltungsschläge (Hackbacks) ab",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Unternehmen unter autoritärem Regimeeinfluss beim 5G-Netzausbau nicht beteiligen",
+      "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
+      "originalQuote": "Unternehmen, die umfangreichen Einflussmöglichkeiten autoritärer Regime unterliegen, beim Ausbau kritischer Infrastruktur wie dem 5G-Netz nicht beteiligt werden.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt Einschränkung von Kryptographie und Offenhalten von Sicherheitslücken ab",
+      "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
+      "originalQuote": "Jede Einschränkung des Einsatzes von Kryptographie und jede Verpflichtung zum Offenhalten von IT-Sicherheitslücken lehnen wir ab.",
+      "classification": "SICHERHEITSLÜCKEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt Einsatz von Staatstrojanern bei ungeschütztem Kernbereich privater Lebensgestaltung ab",
+      "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
+      "originalQuote": "Solange nicht sichergestellt ist, dass der Kernbereich der privaten Lebensgestaltung der Menschen geschützt ist, hat ihr Einsatz zu unterbleiben.",
+      "classification": "LEBENSGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt anlasslose Vorratsdatenspeicherung ab",
+      "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
+      "originalQuote": "Wir lehnen die anlasslose Speicherung personenbezogener Daten ab. Dies gilt insbesondere für die anlasslose Speicherung aller Telekommunikationsverbindungsdaten auf Vorrat.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt automatisierte Gesichtserkennung im öffentlichen Raum ab",
+      "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
+      "originalQuote": "Wir lehnen den Einsatz der automatisierten Gesichtserkennung ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt flächendeckende Videoüberwachung ab",
+      "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
+      "originalQuote": "Eine flächendeckende Videoüberwachung lehnen wir daher ab",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt Zwangsdienst/Gesellschaftsjahr ab",
+      "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
+      "originalQuote": "lehnen wir einen Zwangsdienst ab. Wir wollen junge Menschen selbst über ihre Zukunft entscheiden lassen und sie nicht gegen ihren Willen zu einem Gesellschaftsjahr oder einer Dienstpflicht verpflichten.",
+      "classification": "ZWANGSDIENSTGESELLSCHAFTSJAHR"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt staatliche Eingriffe in Eigentumsrechte bei Kulturgutschutz ab",
+      "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
+      "originalQuote": "Wir lehnen jeden unnötigen staatlichen Eingriff in das Eigentumsrecht ab.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt Leistungsschutzrecht für Presseverleger ab",
+      "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
+      "originalQuote": "Das Leistungsschutzrecht für Presseverlegerinnen und Presseverleger wollen wir wieder abschaffen.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt Einsatz von Uploadfiltern ab",
+      "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
+      "originalQuote": "Den Einsatz von Uploadfiltern lehnen wir als immense Gefahr für Meinungs- und Kunstfreiheit im Netz jedoch weiterhin ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lehnt EU-Steuern ab",
+      "location": "III. Nie waren die Chancen größer: Bewältigen wir die großen Herausforderungen unserer Zeit!",
+      "originalQuote": "Die immer wieder geforderte Einführung zusätzlicher EU-Steuern ist mit den europäischen Verträgen nicht vereinbar und wird von uns abgelehnt.",
+      "classification": "Wirtschaft & Steuern"
+    }
+  ]
+}

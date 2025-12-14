@@ -1,0 +1,145 @@
+{
+  "sourceFile": "Piraten - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der verdachtsunabhängigen Durchleuchtung der Bürger",
+      "location": "1.1 Privatsphäre wahren",
+      "originalQuote": "Wir lehnen die verdachtsunabhängige Durchleuchtung der Bürgerinnen und Bürger und die gläsernen Kundinnen",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Vorratsdatenspeicherung und Videoüberwachung",
+      "location": "1.1.4 Schluss mit Vorratsdatenspeicherung und Videoüberwachung",
+      "originalQuote": "Wir PIRATEN lehnen eine verdachtsunabhängige Vorratsdatenspeicherung von Telekommunikationsdaten",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Erfassung biometrischer Daten",
+      "location": "1.1.4 Schluss mit Vorratsdatenspeicherung und Videoüberwachung",
+      "originalQuote": "Wir lehnen die anlasslose Erfassung, Speicherung und den Abgleich biometrischer Daten aufgrund des",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Überwachungssoftware",
+      "location": "1.1.6 Gegen Überwachungssoftware",
+      "originalQuote": "Wir PIRATEN sprechen uns deutlich gegen die Herstellung, Wartung, Betreuung und Erhaltung von Überwach",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine PKW-Maut",
+      "location": "1.1.7 Keine PKW-Maut",
+      "originalQuote": "Eine PKW-Maut lehnen wir ebenfalls ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Bundes- oder Staatstrojaner",
+      "location": "1.2.3 Keine Bundes- oder Staatstrojaner",
+      "originalQuote": "Für uns PIRATEN sind verdeckte Eingriffe in informationstechnische Systeme durch den Staat nicht mit",
+      "classification": "STAATSTROJANER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung pauschaler Kategorisierungen als 'sichere Herkunftsländer'",
+      "location": "2.1.6 Wiederherstellung des Rechts auf Asyl",
+      "originalQuote": "Außerdem lehnen wir pauschale Kategorisierungen von Staaten als „sichere Herkunftsländer“ ab.",
+      "classification": "KATEGORISIERUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gegen Kollektivstrafen im Sport",
+      "location": "3.1.1 Gegen Kollektivstrafen",
+      "originalQuote": "Die Praxis, Vereine oder Fangruppierungen für die Vergehen einzelner Anhänger in Sippenhaft zu nehmen",
+      "classification": "KOLLEKTIVSTRAFEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung der Datei 'Gewalttäter Sport'",
+      "location": "3.1.2 Gewalttäter Sport",
+      "originalQuote": "Wir fordern daher die Abschaffung der Datei „Gewalttäter Sport“",
+      "classification": "GEWALTTÄTER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gegen Ausreiseverbote für Fans",
+      "location": "3.1.3 Keine Einschränkungen der Freiheit der Person",
+      "originalQuote": "Wir PIRATEN sprechen uns gegen die Praxis vieler Polizeibehörden aus, Fans ohne richterliche Anordnung",
+      "classification": "AUSREISEVERBOTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Vollkörperkontrollen",
+      "location": "3.1.5 Einlasskontrollen",
+      "originalQuote": "Vollkörperkontrollen sehen wir als menschenunwürdige Maßnahme, die in keinem Verhältnis zu den zu",
+      "classification": "VOLLKÖRPERKONTROLLEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung des 'Hackerparagraphen' § 202c StGB",
+      "location": "5.4.3 Abschaffung des „Hackerparagraphen“ § 202c StGB",
+      "originalQuote": "Wir PIRATEN setzen uns für die vollständige Abschaffung des sogenannten „Hackerparagraphen“ § 202cStGB",
+      "classification": "HACKERPARAGRAPHEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung der Störerhaftung",
+      "location": "5.5 Schutz der Freiheit und Privatsphäre im Internet",
+      "originalQuote": "Um Abhilfe zu schaffen, wollen wir die „Störerhaftung“ endgültig abschaffen.",
+      "classification": "STÖRERHAFTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine 'Three Strikes' Sperrungen",
+      "location": "5.5 Schutz der Freiheit und Privatsphäre im Internet",
+      "originalQuote": "Auch eine Überwachung der Internetnutzung durch Internet-Zugangsanbieter zur Versendung von Warnhin",
+      "classification": "SPERRUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Offshore-Windparks",
+      "location": "8.5 Keine weiteren Offshore Windparks",
+      "originalQuote": "Offshore Windparks sind die teuerste Art der Erzeugung von erneuerbarem Strom. Zudem sind sie Großanl",
+      "classification": "OFFSHOREWINDPARKS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Fracking",
+      "location": "8.16 Kein Fracking",
+      "originalQuote": "Hydraulic Fracturing, kurz \"Fracking\", zur Gewinnung fossiler Energieträger ist eine Hochrisikotech",
+      "classification": "FRACKING"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Sofortiger Ausstieg aus Atomenergie",
+      "location": "8.17 Atomenergie",
+      "originalQuote": "Wir PIRATEN fordern den sofortigen Ausstieg aus der Stromproduktion durch Kernspaltung.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Tierversuche ablehnen",
+      "location": "7.5.3 Tierversuche",
+      "originalQuote": "Tierversuche sollen, insbesondere wenn tierversuchsfreie alternative Verfahren vorhanden sind, für",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Werbung für Drogen",
+      "location": "13.13.5 Keine Werbung für Drogen",
+      "originalQuote": "Wir fordern daher ein ausnahmsloses Werbe- und Sponsoringverbot für Produkte, die psychotrope Substa",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Werbung für Alkohol",
+      "location": "13.13.16 Alkoholwerbung unterbinden",
+      "originalQuote": "Wir PIRATEN wenden sich gegen Werbung für alkoholische Getränke, alkoholhaltige Getränke und als frei",
+      "classification": "Gesundheit & Drogen"
+    }
+  ]
+}

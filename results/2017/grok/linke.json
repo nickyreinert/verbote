@@ -1,0 +1,306 @@
+{
+  "sourceFile": "Linke - 2017 - Wahlprogramm.pdf",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Spekulation mit Agrarrohstoffen und Nahrungsmitteln",
+      "location": "Seite 76",
+      "originalQuote": "Die Spekulation mit Agrarrohstoffen und Nahrungsmitteln wollen wir verbieten.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Fracking",
+      "location": "Seite 83",
+      "originalQuote": "Wir wollen Fracking ohne Ausnahmen verbieten.",
+      "classification": "FRACKING"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Unterirdische Verpressung von CO2 (CCS)",
+      "location": "Seite 83",
+      "originalQuote": "Wir setzen uns dafür ein, dass auch die unterirdische Verpressung von CO2 (Carbon Capture and Storage, CCS) dauerhaft und ausnahmslos verboten wird.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Im- und Export von Uranbrennstoffen und Atommüll",
+      "location": "Seite 83",
+      "originalQuote": "Den Im- und Export von Uranbrennstoffen zum Betrieb von Atomkraftwerken und Atommüll wollen wir verbieten.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Billigflaggen für deutsche Reedereien",
+      "location": "Seite 87",
+      "originalQuote": "Billigflaggen für deutsche Reedereien wollen wir verbieten.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Anbau und Handel mit gentechnisch veränderten Pflanzen",
+      "location": "Seite 88",
+      "originalQuote": "Wir wollen den Anbau und den Handel mit gentechnisch veränderten Pflanzen verbieten.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Klonens von Tieren",
+      "location": "Seite 88",
+      "originalQuote": "Das Verbot des Klonens von Tieren muss erhalten werden.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Nutztierhaltung mit quälerischen Produktionsweisen und hohem Antibiotikabedarf",
+      "location": "Seite 88",
+      "originalQuote": "Formen der Nutztierhaltung mit quälerischen Produktionsweisen und einem hohen Bedarf an Antibiotika wollen wir verbieten.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Patente auf Leben",
+      "location": "Seite 89",
+      "originalQuote": "DIE LINKE will Patente auf Leben verbieten.",
+      "classification": "PATENTE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Import von Biokraftstoffen",
+      "location": "Seite 89",
+      "originalQuote": "Wir wollen den Import von »Biokraftstoffen« verbieten,",
+      "classification": "BIOKRAFTSTOFFEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Schreddern von Küken und Anbindehaltung für Rinder und Kühe",
+      "location": "Seite 92",
+      "originalQuote": "Das Schreddern von Küken, die Anbindehaltung für Rinder und Kühe wollen wir verbieten.",
+      "classification": "ANBINDEHALTUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Rupfung von lebenden Tieren für Daunen und Import von Produkten aus Zwangsfütterung",
+      "location": "Seite 92",
+      "originalQuote": "Daunen dürfen nicht durch Rupfung von lebenden Tieren gewonnen werden. Den Import von Produkten aus Zwangsfütterung (Stopfen) wollen wir verbieten.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verkauf und Handel mit echtem Pelz",
+      "location": "Seite 92",
+      "originalQuote": "Der Verkauf von und Handel mit echtem Pelz von Tieren zum alleinigen Zweck der Pelzgewinnung soll verboten werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Umweltschädliche Pestizide und Mikroplastik in Kosmetik etc.",
+      "location": "Seite 92",
+      "originalQuote": "besonders umweltschädliche Pestizide wie Glyphosat und Neonikotinoiden sowie von Mikroplastik in Kosmetik und Reinigungs- und Pflegeprodukten wollen wir sofort verbieten.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Export und Produktion von Waffen und Rüstungsgütern",
+      "location": "Seite 93",
+      "originalQuote": "und wollen den Export und die Produktion von Waffen und Rüstungsgütern verbieten.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Exporte von Kleinwaffen und Waffenfabriken",
+      "location": "Seite 96",
+      "originalQuote": "Als ersten Schritt wollen wir alle Exporte von Kleinwaffen und Waffenfabriken verbieten.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Export von Überwachungstechnologien",
+      "location": "Seite 96",
+      "originalQuote": "Software und Geräte, mit denen Internetnutzerinnen und -nutzer verfolgt und Internetsperren errichtet werden können, dürfen nicht exportiert werden.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Einfuhr von Produkten aus Kinderarbeit",
+      "location": "Seite 97",
+      "originalQuote": "Die Einfuhr von Produkten aus Kinderarbeit wollen wir verbieten.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Vorbereitung eines Angriffskrieges",
+      "location": "Seite 99",
+      "originalQuote": "dass der Paragraph 80 StGB wieder eingeführt wird, der die »Vorbereitung eines Angriffskrieges« verbietet.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Unternehmens- und Lobbyistenspenden an Parteien und Parteiensponsoring",
+      "location": "Seite 110",
+      "originalQuote": "Unternehmens- und Lobbyistenspenden an Parteien sowie das Parteiensponsoring... wollen wir verbieten",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Herstellung von Rüstungsprodukten in WfbM",
+      "location": "Seite 117",
+      "originalQuote": "die Herstellung von Rüstungsprodukten in WfbM wird verboten.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Werbung und Sponsoring für Tabak- und Alkoholprodukte",
+      "location": "Seite 120",
+      "originalQuote": "Werbung und Sponsoring für Tabak- und Alkoholprodukte in der Öffentlichkeit wollen wir verbieten.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Geplanter vorzeitiger Verschleiß",
+      "location": "Seite 121",
+      "originalQuote": "und geplanten vorzeitigen Verschleiß gesetzlich verbieten.",
+      "classification": "VORZEITIGER"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Werbung in Schulen und Kitas",
+      "location": "Seite 121",
+      "originalQuote": "ein Verbot von Werbung in Schulen und Kitas",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Beleuchtete Werbung im öffentlichen Raum",
+      "location": "Seite 121",
+      "originalQuote": "sowie von beleuchteter Werbung im öffentlichen Raum.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abstellen von Strom, Gas, Wasser, Heizung",
+      "location": "Seite 82",
+      "originalQuote": "Strom, Gas, Wasser, Heizung dürfen nicht abgestellt werden.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stellenabbau bei DB-Cargo",
+      "location": "Seite 84",
+      "originalQuote": "Kein Stellenabbau bei DB-Cargo!",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "PKW-Maut",
+      "location": "Seite 85",
+      "originalQuote": "Keine PKW-Maut, weder für Aus- noch für Inländer.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Rekrutierungskampagnen der Bundeswehr im öffentlichen Raum",
+      "location": "Seite 85",
+      "originalQuote": "keine Rekrutierungs-kampagnen im öffentlichen Raum.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aufnahme neuer Mitglieder in die NATO",
+      "location": "Seite 87",
+      "originalQuote": "keine neuen Mitglieder in die NATO aufzunehmen.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Krieg und Androhung militärischer Gewalt als Mittel der Politik",
+      "location": "Seite 94",
+      "originalQuote": "Krieg und die Androhung militärischer Gewalt können keine Mittel einer friedensstiftenden Politik sein.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weitere Erhöhung des Rüstungsetats",
+      "location": "Seite 106",
+      "originalQuote": "Wir lehnen eine weitere Erhöhung des Rüstungsetats ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Militärische Komponente im Europäischen Auswärtigen Dienst",
+      "location": "Seite 106",
+      "originalQuote": "keine militärische Komponente im Europäischen Auswärtigen Dienst.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Anschaffung von Drohnen durch Bundeswehr oder Polizeien",
+      "location": "Seite 106",
+      "originalQuote": "die Bundeswehr oder die Polizeien des Bundes und der Länder dürfen keine Drohnen anschaffen",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Unbemannte und vollautonome Kampfsysteme",
+      "location": "Seite 106",
+      "originalQuote": "alle unbemannten und vollautonomen Kampfsysteme (bewaffnete Drohnen und Kampfroboter) im Rahmen einer internationalen Konvention ächten.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bundeswehr in Bildungseinrichtungen",
+      "location": "Seite 106",
+      "originalQuote": "Keine Bundeswehr in Bildungseinrichtungen",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Korruption und Bestechung in der Politik",
+      "location": "Seite 110",
+      "originalQuote": "Korruption und Bestechung, Vorteilsgewährung, Vorteilsnahme, Intransparenz und Parteiensponsoring dürfen nicht die Politik bestimmen.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Strafverschärfungen für Widerstandsdelikte",
+      "location": "Seite 113",
+      "originalQuote": "Die geplanten Strafverschärfungen für Widerstandsdelikte lehnen wir ab.",
+      "classification": "STRAFVERSCHÄRFUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung von Sicherheit",
+      "location": "Seite 113",
+      "originalQuote": "Die Privatisierung von Sicherheit durch Ordnerdienste, »Schwarze Sheriffs« usw. wollen wir verhindern bzw. rückgängig machen.",
+      "classification": "PRIVATISIERUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Racial profiling",
+      "location": "Seite 115",
+      "originalQuote": "Menschen dürfen nicht wegen ihrer Hautfarbe im Fokus polizeilicher Kontrollen stehen",
+      "classification": "PROFILING"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausweisungen und Abschiebungen als Doppelbestrafung",
+      "location": "Seite 115",
+      "originalQuote": "Wir sind gegen Ausweisungen und Abschiebungen als eine Form der Doppelbestrafung für hier lebende Migrantinnen und Migranten.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschiebungen",
+      "location": "Seite 116",
+      "originalQuote": "Abschiebungen lehnen wir ab.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Residenzpflicht, Wohnsitzauflagen, Unterbringung in Sammellagern",
+      "location": "Seite 116",
+      "originalQuote": "Die Residenzpflicht, Wohnsitzauflagen und die Unterbringung in Sammellagern müssen bundesweit abgeschafft werden.",
+      "classification": "WOHNSITZAUFLAGEN"
+    }
+  ]
+}

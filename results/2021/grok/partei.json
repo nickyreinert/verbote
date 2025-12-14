@@ -1,0 +1,26 @@
+{
+  "sourceFile": "Die Partei - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schließen von Amazon",
+      "location": "Punkt 7",
+      "originalQuote": "Wegen nachhaltigen Marktmisserfolgs müssen wir Amazon leider schließen. 2020 haben die Versager mit",
+      "classification": "SCHLIESSEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Photoshopverbot",
+      "location": "Punkt 8",
+      "originalQuote": "Photoshopverbot jetzt!\nWer Volker Bouffier – bekannt durch das PARTEI-Plakat „Wie sexy darf Politik ",
+      "classification": "PHOTOSHOPVERBOT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einstellen von Tierversuchen",
+      "location": "Punkt 18",
+      "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da. Lipgloss, Arsch- Ma",
+      "classification": "Tierschutz & Landwirtschaft"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "sourceFile": "SPD - 2021 - Langprogramm.docx",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einseitige Schritte im Nahost-Friedensprozess",
+      "location": "4.4. Europäische Nachbarschaften pflegen",
+      "originalQuote": "Einseitige Schritte von allen Seiten erschweren die Friedensbemühungen und müssen unterbleiben.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Annexionen palästinensischer Gebiete",
+      "location": "4.4. Europäische Nachbarschaften pflegen",
+      "originalQuote": "Pläne zu Annexionen lehnen wir kategorisch ab.",
+      "classification": "PALÄSTINENSISCHER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Völkerrechtswidriger Siedlungsbau",
+      "location": "4.4. Europäische Nachbarschaften pflegen",
+      "originalQuote": "Es muss zu einem Stopp des völkerrechtswidrigen Siedlungsbaus kommen.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wettlauf nach unten bei Standards nach Brexit",
+      "location": "4.4. Europäische Nachbarschaften pflegen",
+      "originalQuote": "Einen Wettlauf nach unten, was Umweltstandards oder die Rechte von Arbeitnehmern und Verbraucher",
+      "classification": "STANDARDS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wegwerfen genießbarer Nahrungsmittel",
+      "location": "3.15. Natur respektieren",
+      "originalQuote": "Um die Lebensmittelverschwendung einzudämmen, werden wir es den Produzenten und dem Handel unters",
+      "classification": "NAHRUNGSMITTEL"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gentechnisch veränderte Pflanzen",
+      "location": "3.15. Natur respektieren",
+      "originalQuote": "Wir bleiben beim Nein zu gentechnisch veränderten Pflanzen.",
+      "classification": "GENTECHNISCH"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kriminalisierung von Seenotrettung",
+      "location": "4.3. Demokratie erweitern",
+      "originalQuote": "Seenotrettung ist eine Verpflichtung aus dem internationalen Seerecht und darf nicht kriminalisie",
+      "classification": "KRIMINALISIERUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Strafrechtliche Verfolgung kleiner Cannabis-Mengen",
+      "location": "3.14. Gesundheitsschutz, Jugendschutz und Entkriminalisierung bestimmen unsere Drogenpolitik",
+      "originalQuote": "Zudem werden wir bundeseinheitlich regeln, dass der Besitz kleiner Mengen von Cannabis strafrechtl",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pushbacks an EU-Außengrenzen",
+      "location": "4.3. Demokratie erweitern",
+      "originalQuote": "Pushbacks sind eine eklatante Verletzung des Völkerrechts.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Private Streitschlichtungsmechanismen in Handelsabkommen",
+      "location": "4.2. Sozial-ökologisch wirtschaften",
+      "originalQuote": "Zudem sollen private Streitschlichtungsmechanismen abgeschafft und durch öffentliche Gerichte ers",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "MERCOSUR-Abkommen ohne verbindliche Standards",
+      "location": "4.2. Sozial-ökologisch wirtschaften",
+      "originalQuote": "Einem Abkommen ohne Stärkung der Umwelt-, Menschenrechts- und Sozialstandards durch zusätzliche ve",
+      "classification": "MERCOSURABKOMMEN"
+    }
+  ]
+}

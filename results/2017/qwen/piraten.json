@@ -1,0 +1,278 @@
+{
+  "sourceFile": "Piraten - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vorratsdatenspeicherung von Telekommunikationsdaten",
+      "location": "1.1.4",
+      "originalQuote": "Wir PIRATEN lehnen eine verdachtsunabhängige Vorratsdatenspeicherung von Telekommunika",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausdehnung der öffentlichen Videoüberwachung",
+      "location": "1.1.4",
+      "originalQuote": "auch bekannt als Mindest- und Höchstspeicherfrist sowie eine Ausdehnung der öffentlichen Vi",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Automatisierte Abfrage von Melderegisterauskünften",
+      "location": "1.1.3",
+      "originalQuote": "Eine automatisierte Abfrage lehnen wir ab. Dies gilt neben Melderegisterauskünften auc",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weitergabe von Meldedaten an Beitragsservice der öffentlich-rechtlichen Rundfunkanstalten",
+      "location": "1.1.3",
+      "originalQuote": "Die Weitergabe von Meldedaten an den Beitragsservice der öffentlich-rechtlichen Rundfunkan",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkungen des Bargeldverkehrs",
+      "location": "1.1.5",
+      "originalQuote": "Wir PIRATEN setzen uns sowohl auf Bundesebene als auch auf europäischer Ebene gegen E",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Herstellung, Wartung, Betreuung und Erhaltung von Überwachungssoftware",
+      "location": "1.1.6",
+      "originalQuote": "Wir PIRATEN sprechen uns deutlich gegen die Herstellung, Wartung, Betreuung und Erhaltun",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "PKW-Maut",
+      "location": "1.1.7",
+      "originalQuote": "Eine PKW-Maut lehnen wir ebenfalls ab. Durch viele bislang vorgeschlagene Systeme zur Ma",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verdeckte Eingriffe in informationstechnische Systeme (Bundes- oder Staatstrojaner)",
+      "location": "1.2.3",
+      "originalQuote": "Für uns PIRATEN sind verdeckte Eingriffe in informationstechnische Systeme durch den Staa",
+      "classification": "INFORMATIONSTECHNISCHE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Großer Lauschangriff",
+      "location": "1.2.4",
+      "originalQuote": "Um dies zu erreichen streben wir die Abschaffung des großen Lauschangriffs sowie die Ab",
+      "classification": "LAUSCHANGRIFF"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Eingriffe in Briefgeheimnis sowie Post- und Fernmeldegeheimnis",
+      "location": "1.2.4",
+      "originalQuote": "Um dies zu erreichen streben wir die Abschaffung des großen Lauschangriffs sowie die Ab",
+      "classification": "FERNMELDEGEHEIMNIS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschiebungen und Abschiebehaft",
+      "location": "2.1.12",
+      "originalQuote": "Wir setzen uns für ein generelles Ende von Abschiebungen und der Abschiebehaft ein, ins",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Botschaftsvorführungen zur Identitätsfeststellung",
+      "location": "2.1.12",
+      "originalQuote": "Botschaftsvorführungen zur Identitätsfeststellung und Passersatzbeschaffung sind diskrim",
+      "classification": "BOTSCHAFTSVORFÜHRUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kollektivstrafen gegen Fanclubs oder Vereine",
+      "location": "3.1.1",
+      "originalQuote": "Die Praxis, Vereine oder Fangruppierungen für die Vergehen einzelner Anhänger in Sippenh",
+      "classification": "KOLLEKTIVSTRAFEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkungen der Freiheit der Person bei Fanverboten ohne richterliche Anordnung",
+      "location": "3.1.3",
+      "originalQuote": "Wir PIRATEN sprechen uns gegen die Praxis vieler Polizeibehörden aus, Fans ohne richterl",
+      "classification": "EINSCHRÄNKUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vollkörperkontrollen bei Stadioneinlass",
+      "location": "3.1.5",
+      "originalQuote": "Vollkörperkontrollen sehen wir als menschenunwürdige Maßnahme, die in keinem Verhältnis",
+      "classification": "VOLLKÖRPERKONTROLLEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Patente auf Gensequenzen",
+      "location": "6.11.1.2",
+      "originalQuote": "Aus diesem Grund muss das Patentrecht so gestaltet sein, dass auch über die Umwege der P",
+      "classification": "GENSEQUENZEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Patentierung von Geschäftsmodellen",
+      "location": "6.11.1.2",
+      "originalQuote": "Das Patentrecht muss eine Patentierung von Geschäftsmodellen explizit ausschließen.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Softwarepatente",
+      "location": "6.11.1.2",
+      "originalQuote": "Software ist durch das Urheberrecht bereits ausreichend geschützt, ein Schutz durch Pate",
+      "classification": "SOFTWAREPATENTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fracking",
+      "location": "8.16",
+      "originalQuote": "Hydraulic Fracturing, kurz \"Fracking\", zur Gewinnung fossiler Energieträger ist eine H",
+      "classification": "FRACKING"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weiterer Ausbau der Offshore-Windkraft",
+      "location": "8",
+      "originalQuote": "- den Ausbaustopp der Offshore-Windkraft. Diese Technologie ist sowohl ökologisch als au",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung von Verkehrsinfrastrukturen",
+      "location": "9.6.1",
+      "originalQuote": "Wir sprechen uns gegen die Privatisierung von Verkehrsinfrastrukturen aus. Nur so können",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Subventionen für Regionalflughäfen",
+      "location": "9.6.3",
+      "originalQuote": "Wir wollen, dass alle Regionalflughäfen ohne Subventionen durch die öffentliche Hand bet",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kopierschutzmaßnahmen im Urheberrecht",
+      "location": "10.1.3",
+      "originalQuote": "Im Interesse der Allgemeinheit an einem möglichst freien Zugang zu Bildung und Kultur wi",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Anbau und Herstellung von Drogen für den Eigenbedarf",
+      "location": "13.13.9",
+      "originalQuote": "Anbau und Herstellung für den Eigenbedarf dürfen nicht bestraft werden.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Werbung für psychotrope Substanzen",
+      "location": "13.13.5",
+      "originalQuote": "Wir fordern daher ein ausnahmsloses Werbe- und Sponsoringverbot für Produkte, die psych",
+      "classification": "PSYCHOTROPE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Allgemeine Drogentests am Arbeitsplatz",
+      "location": "13.13.11",
+      "originalQuote": "Allgemeine und verdachtsunabhängige Drogentests am Arbeitsplatz lehnen wir PIRATEN ab. S",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkungen für E-Zigaretten über den Jugendschutz hinaus",
+      "location": "13.13.14",
+      "originalQuote": "Der derzeit freie Handel und Gebrauch liquidverdampfender E-Zigaretten soll nicht über de",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nächtliches Verkaufsverbot für Alkohol",
+      "location": "17.2.4.7",
+      "originalQuote": "Ein nächtliches Verkaufsverbot für Alkohol lehnen wir ab. Wir halten das Verkaufsverbot ",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz der Bundeswehr im Inneren",
+      "location": "17.7",
+      "originalQuote": "Wir PIRATEN lehnen den Einsatz der Bundeswehr im Innern ab. Ausgenommen sind rein humanit",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Blasphemieparagraph §166 StGB",
+      "location": "18.1",
+      "originalQuote": "Insbesondere ist der so genannte Blasphemieparagraph §166 StGB (Beschimpfung von Bekenn",
+      "classification": "BLASPHEMIEPARAGRAPH"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Konfessioneller Religionsunterricht an staatlichen Schulen",
+      "location": "18.2",
+      "originalQuote": "Deshalb setzen wir uns dafür ein, den konfessionellen Religionsunterricht bundesweit, an",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staatliche Finanzierung von Militär-, JVA- und Polizeiseelsorge",
+      "location": "18.3",
+      "originalQuote": "Insbesondere ist die staatliche Finanzierung von Militär-, JVA- und Polizeiseelsorge eiz",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verwendung von amtlich erfassten Namen als Zwang für Netzdienste",
+      "location": "5.4.2",
+      "originalQuote": "Einen Zwang zur Verwendung von amtlich erfassten Namen lehnen wir ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Abschaffung des „Hackerparagraphen“ § 202c StGB",
+      "location": "5.4.3",
+      "originalQuote": "Wir PIRATEN setzen uns für die vollständige Abschaffung des sogenannten „Hackerparagrap",
+      "classification": "HACKERPARAGRAPHEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz von Überwachungsdrohnen",
+      "location": "14.8",
+      "originalQuote": "Abgesehen von eng definierten absoluten Ausnahmefällen lehnen wir PIRATEN den Einsatz vo",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Körperstrafen international",
+      "location": "15.4.1",
+      "originalQuote": "Wir PIRATEN setzen uns im Sinne der Menschenrechte international für die Abschaffung von ",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Todesstrafe international",
+      "location": "15.4.2",
+      "originalQuote": "Wir PIRATEN setzen uns im Sinne der Menschenrechte international für die Abschaffung der ",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ethische Säuberungen",
+      "location": "15.4.3",
+      "originalQuote": "Wir PIRATEN lehnen gewaltsame Vertreibung, Umsiedlung, Deportation und Mord kategorisch a",
+      "classification": "SÄUBERUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nukleare Teilhabe innerhalb der NATO",
+      "location": "15.6.2.1",
+      "originalQuote": "Wir PIRATEN lehnen die nukleare Teilhabe ab und setzt sich für ihre Abschaffung innerhalb",
+      "classification": "INNERHALB"
+    }
+  ]
+}

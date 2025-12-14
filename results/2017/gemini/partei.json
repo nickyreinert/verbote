@@ -1,0 +1,54 @@
+{
+  "sourceFile": "Die Partei - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Ablehnung von Politik",
+      "location": "Titel",
+      "originalQuote": "Die PARTEI – informiert \nBUNDESTAGSWAHL 2017\nJA zu Politik, NEIN zu Politik!",
+      "classification": "POLITIK"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unterdrückung von Beschwerden über Ungerechtigkeiten",
+      "location": "1 Bekenntnis zu Gerechtigkeit …",
+      "originalQuote": "Beschwerden über angebliche Ungerechtigkeiten sind mit aller Gewalt zu unterdrücken.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Einstellung von Tierversuchen",
+      "location": "6 Tierschutz",
+      "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Einsatzes von Chatbots/Politikern im Wahlkampf",
+      "location": "7 Kein Einsatz von Chatbots!",
+      "originalQuote": "Chatbots wie Ralf Stegner (SPD), Peter Tauber (CDU), Beatrix von Strolch (AfD), Andy Scheuer (CSU) und Chris Lindner (FDP) dürfen in Wahlkampfzeiten nicht eingesetzt werden.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Protest gegen die öffentliche Zurschaustellung von Grünen-Politikern",
+      "location": "10 Artenschutz für die Grünen",
+      "originalQuote": "Die PARTEI protestiert aus ethischen Erwägungen dagegen, dass Grüne (Anton Hofreiter, Katrin Boring-Eckhardt, Sprechdöner Cem Özdemir) weiterhin öffentlich zur Schau gestellt werden, um beim Publikum einen wohligen Grusel, Schadenfreude und ähnlich niedere Regungen zu erzeugen.",
+      "classification": "ZURSCHAUSTELLUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bürgern das bedingungslose Grundeinkommen nicht vorenthalten",
+      "location": "11 Bürgergeld",
+      "originalQuote": "Sämtliche Bundestagsabgeordnete verfügen über ein nicht unerhebliches bedingungsloses Grundeinkommen und sollten ein solches auch dem Bürger nicht vorenthalten.",
+      "classification": "BEDINGUNGSLOSE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung des Bologna-Systems (Bachelor, Master)",
+      "location": "15 Elitenförderung",
+      "originalQuote": "Bologna, Bachelor, Master – nach dem Brexit wird der ganze verschulte Quatsch wieder abgeschafft.",
+      "classification": "BOLOGNASYSTEMS"
+    }
+  ]
+}

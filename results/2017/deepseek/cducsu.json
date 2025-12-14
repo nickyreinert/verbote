@@ -1,0 +1,124 @@
+{
+  "sourceFile": "CDU-CSU - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Verlagerung von Arbeitsplätzen aufgrund von Umweltregulierungen",
+      "location": "Arbeitsplätze sichern",
+      "originalQuote": "Notwendige Regelungen zum Umwelt- und Klimaschutz dürfen nicht zur Verlagerung von Arbeitsplätzen in Ländern mit geringeren Umwelt-Auflagen führen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot, dass befristete Arbeitsverhältnisse unbefristete ersetzen",
+      "location": "Qualität von Arbeit",
+      "originalQuote": "Befristete Arbeitsverhältnisse dürfen unbefristete Arbeitsverhältnisse nicht einfach ersetzen.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Versandhandels mit verschreibungspflichtigen Arzneimitteln",
+      "location": "Gesundheit und Pflege",
+      "originalQuote": "Die Versorgung durch ein ortsnahes Apothekenangebot werden wir sichern, indem wir den Versandhandel mit verschreibungspflichtigen Arzneimitteln verbieten.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Einwanderung in soziale Sicherungssysteme",
+      "location": "Neue Arbeitsplätze schaffen",
+      "originalQuote": "Eine Einwanderung in die sozialen Sicherungssysteme lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung eines generellen Tempolimits",
+      "location": "Verkehrsinfrastruktur",
+      "originalQuote": "Ein generelles Tempolimit auf deutschen Autobahnen lehnen wir ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Missbrauchs des Islam für Hass und Gewalt",
+      "location": "Was unser Land zusammenhält",
+      "originalQuote": "Den Missbrauch des Islam für Hass, Gewalt, Terrorismus und Unterdrückung lehnen wir gemeinsam mit allen friedlichen Muslimen ab und akzeptieren ihn nicht.",
+      "classification": "MISSBRAUCHS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Bürgerversicherung",
+      "location": "Gesundheit und Pflege",
+      "originalQuote": "Die Einführung einer sogenannten Bürgerversicherung lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausschluss der Wiedereinführung der Vermögensteuer",
+      "location": "Steuern",
+      "originalQuote": "Die Wiedereinführung der Vermögensteuer schließen wir aus.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Vollmitgliedschaft der Türkei in der EU",
+      "location": "Europa",
+      "originalQuote": "Eine Vollmitgliedschaft der Türkei lehnen wir aber ab, weil sie die Voraussetzungen für einen Beitritt nicht erfüllt.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausschluss der Vergemeinschaftung von Schulden",
+      "location": "Europa",
+      "originalQuote": "Eine Vergemeinschaftung von Schulden schließen wir weiter aus.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Klonierung von Tieren",
+      "location": "Landwirtschaft hat Zukunft",
+      "originalQuote": "Deshalb lehnen wir Klonierung von Tieren ab.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung vorgefertigter Ideologien und Feindbilder",
+      "location": "Politik aus Überzeugung",
+      "originalQuote": "Wir lehnen vorgefertigte Ideologien und Feindbilder ab.",
+      "classification": "VORGEFERTIGTER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung politischer Einflussnahme aus dem Ausland",
+      "location": "Religionsfreiheit in Deutschland",
+      "originalQuote": "Politische Einflussnahme aus dem Ausland lehnen wir ab.",
+      "classification": "EINFLUSSNAHME"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung jeder Verschlechterung bei der Erbschaftsteuer",
+      "location": "Steuern",
+      "originalQuote": "Deshalb lehnen wir jede Verschlechterung bei der Erbschaftsteuer ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung genereller Fahrverbote für bestimmte Fahrzeugtypen",
+      "location": "Mobilität für alle",
+      "originalQuote": "Generelle Fahrverbote für bestimmte Fahrzeugtypen lehnen wir ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Duldung rechtsfreier Räume",
+      "location": "Sicherheit im Inneren",
+      "originalQuote": "Rechtsfreie Räume dulden wir nicht.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Steuererhöhungen",
+      "location": "Steuern",
+      "originalQuote": "Im Gegensatz zu anderen Parteien sagen wir: Wir wollen keine Steuererhöhungen.",
+      "classification": "Wirtschaft & Steuern"
+    }
+  ]
+}

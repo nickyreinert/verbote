@@ -1,0 +1,40 @@
+{
+  "sourceFile": "Die Partei - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Photoshopverbot",
+      "location": "8",
+      "originalQuote": "Photoshopverbot jetzt!",
+      "classification": "PHOTOSHOPVERBOT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kapitalerträge aus Wohnraum verhindern",
+      "location": "9",
+      "originalQuote": "Wohnungen sind zum Wohnen da, nicht um Dividenden für ominöse Vermögensverwalter auf den Caymans zu generieren.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verschiebung des Krieges mit Russland & China",
+      "location": "10",
+      "originalQuote": "Krieg mit Russland & China verschieben",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einstellung von Tierversuchen",
+      "location": "18",
+      "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Korrupte Parteien dürfen nicht von Spenden & Sponsoring profitieren",
+      "location": "24",
+      "originalQuote": "Korrupte Parteien dürfen nicht mehr von Spenden & Sponsoring profitieren, korrupte Politiker werden nac",
+      "classification": "Tierschutz & Landwirtschaft"
+    }
+  ]
+}

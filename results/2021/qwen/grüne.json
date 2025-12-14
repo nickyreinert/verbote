@@ -1,0 +1,432 @@
+{
+  "sourceFile": "Grüne - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine neuen Hafenterminals für Flüssigerdgas",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Neue Hafenterminals zur Anlandung von Flüssigerdgas sollen nicht mehr genehmigt werden.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein weiterer Ausbau der Flughafeninfrastruktur",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Einen weiteren Ausbau der Flughafeninfrastruktur lehnen wir ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Zulassung neuer Verbrennungsmotoren ab 2030",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Ab 2030 dürfen deshalb nur noch emissionsfreie Autos neu zugelassen werden",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Ausbau von Autobahnen und Bundesfernstraßen gemäß aktuellem Bundesverkehrswegeplan",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Wir wollen deshalb den Bundesverkehrswegeplan schnellstmöglich durch einen neuen Bundesnetzplan ersetzen",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Bau auf wertvollem Ackerland für Photovoltaik",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Der Ausbau soll vorzugsweise auf versiegelten Flächen, etwa über Parkplätzen, neben Autobahnen und Schienen und auf Konversions- oder Bergbaufolgeflächen, erfolgen und nicht auf wertvollem Ackerland.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein weiterer Straßenneubau in umweltschädlichen Projekten",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "… um alle nicht im Bau befindlichen Abschnitte sowie besonders umweltschädliche Straßenneubau- und Straßenausbauprojekte einer Klima-, Umwelt- und Bedarfsprüfung zu unterziehen und sie dadurch deutlich zu reduzieren.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Schweröl in der Schifffahrt",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Die Schifffahrt wollen wir durch verbindliche Emissionsminderungsziele und eine Einbeziehung in den EU-Emissionshandel klimaneutral machen. Wir setzen die politischen Rahmenbedingungen dafür, dass die Schifffahrt schnellstmöglich wegkommt vom Schweröl mit seinen giftigen Abgasen",
+      "classification": "SCHIFFFAHRT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Nutzung von Pestiziden in Naturschutz- und Trinkwasserschutzgebieten",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Um wirksamen Artenschutz zu betreiben und unser Trinkwasser zu schützen, wollen wir die Ausbringung von Pestiziden in Naturschutzgebieten und Trinkwasserschutzgebieten untersagen",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Einsatzes von Glyphosat",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "… und das immer noch häufig eingesetzte Pestizid Glyphosat.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Patent auf Lebewesen und genetische Anlagen",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Wir wollen das Patentrecht so ausrichten, dass es keine Patente auf Lebewesen und ihre genetischen Anlagen mehr gibt.",
+      "classification": "GENETISCHE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Export von Pestiziden, die in EU verboten sind",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Wir werden außerdem den Export von Pestiziden beenden, die in Deutschland oder der EU aufgrund von Umwelt- und Gesundheitsrisiken nicht zugelassen oder verboten sind.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine industrielle Massentierhaltung wie bisher",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Industrielle Massentierhaltung und Billigfleischexport in alle Welt sind mit einer klimagerechten Zukunft nicht vereinbar.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Käfig- und Anbindehaltung",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Amputationen, Eingriffe ohne Betäubung und qualvolle Betäubungsmethoden sowie Käfig- und Anbindehaltung wollen wir beenden.",
+      "classification": "ANBINDEHALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Handel mit Wildtieren auf Online-Portalen und Börsen",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Wildtierhandel auf Online-Portalen und gewerblichen Börsen sowie kommerzielle Importe von Wildfängen und die Einfuhr von Jagdtrophäen müssen ganz verboten werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Tierversuchen langfristig",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Wir streben die weitere konsequente Reduktion von Tierversuchen in der Wissenschaft an und wollen sie mit einer klaren Ausstiegsstrategie und innovativen Forschungsmethoden schnellstmöglich ersetzen.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Pelztierhaltung und -handel",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Wir werden uns dafür einsetzen, dass die Haltung von Tieren in und der Handel mit Pelzen aus Pelztierfarmen beendet werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Dividendenausschüttung bei staatlicher Corona-Hilfe",
+      "location": "Kapitel 2: In die Zukunft wirtschaften",
+      "originalQuote": "Für neue Hilfen muss gelten: Firmen, die Staatshilfen erhalten, dürfen keine Dividenden ausschütten.",
+      "classification": "DIVIDENDENAUSSCHÜTTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Ausbau von Erdgas-Pipelines wie Nord Stream 2",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Neue Erdgas-Pipelines wie Nord Stream 2, die nicht auf grünen Wasserstoff ausgerichtet sind, zementieren auf Jahrzehnte Abhängigkeiten von klimaschädlichen Ressourcen, konterkarieren die Energiewende und sollten gestoppt werden.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Nutzung von Atomkraft in der Klimapolitik",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Atomkraft ist nicht geeignet, die Klimakrise zu bekämpfen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine weitere Nutzung von Urananreicherung und Brennstabherstellung",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Unser Ziel ist es, die Atomfabriken in Gronau und Lingen schnellstmöglich zu schließen.",
+      "classification": "BRENNSTABHERSTELLUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Förderung oder Privilegierung der Atomkraft in der EU",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Wir setzen uns für eine Reform von Euratom, gegen die weitere Privilegierung oder neue Förderungen der Atomkraft, und für verbindliche Sicherheitsstandards aller Atomanlagen in Europa ein.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine weiteren Straßenbauprojekte ohne Klima- und Umweltprüfung",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Die anstehende Überprüfung des aktuellen Bundesverkehrswegeplans werden wir zudem nutzen, um alle nicht im Bau befindlichen Abschnitte sowie besonders umweltschädliche Straßenneubau- und Straßenausbauprojekte einer Klima-, Umwelt- und Bedarfsprüfung zu unterziehen",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Bau neuer Kohlekraftwerke",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Nach dem Willen der Großen Koalition werden in Deutschland Kohlekraftwerke noch bis 2038 dem Klima und unserer Gesundheit schaden. Das ist mit den Klimazielen von Paris und dem 1,5- Grad-Pfad nicht vereinbar.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verwendung von Mikroplastik in Kosmetika",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "In Kosmetika und Pflegeprodukten hat Mikroplastik nichts verloren.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Abbau von Torf",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Moorschutz ist Klimaschutz. Daher wollen wir ein Ende der Torfnutzung",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Fracking",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Deswegen wollen wir im Bergrecht Fracking und künftige Projekte zur Förderung von Erdöl und Erdgas ausschließen.",
+      "classification": "FRACKING"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Flüssigerdgas-Import aus Nordsee ab 2025",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "In der deutschen Ausschließlichen Wirtschaftszone wollen wir einen sofortigen Stopp neuer Öl- und Gasbohrungen umsetzen sowie ein Förderende bis 2025.",
+      "classification": "FLÜSSIGERDGASIMPORT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Kies- und Sandabbau in Schutzgebieten",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Wir wollen auch den Ausstieg aus dem Kies- und Sandabbau in Schutzgebieten vorantreiben",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Palmöl- und Sojanutzung als Kraftstoff",
+      "location": "Kapitel 2: In die Zukunft wirtschaften",
+      "originalQuote": "Die EU-Holzhandelsverordnung wollen wir stärken, die Verwendung von Soja und Palmöl als Kraftstoff jetzt stoppen",
+      "classification": "SOJANUTZUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Import von Agrarprodukten aus illegaler Entwaldung",
+      "location": "Kapitel 2: In die Zukunft wirtschaften",
+      "originalQuote": "Auf EU-Ebene werden wir uns zudem für einen Importstopp für Agrarprodukte einsetzen, die im Zusammenhang mit illegaler Entwaldung und Menschenrechtsverletzungen wie Vertreibung stehen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Einsatz von Schweröl in der Schifffahrt",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "… dass die Schifffahrt schnellstmöglich wegkommt vom Schweröl mit seinen giftigen Abgasen",
+      "classification": "SCHIFFFAHRT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Billiglöhne durch Billigflüge",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Lohndumping durch Billigflüge muss beendet werden.",
+      "classification": "BILLIGLÖHNE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Grundschleppnetzfischerei",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Dazu gehören auch ein schnellstmöglicher Ausstieg aus der klima- und umweltschädlichen Grundschleppnetzfischerei",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Zulassung von CETA in aktueller Form",
+      "location": "Kapitel 2: In die Zukunft wirtschaften",
+      "originalQuote": "Das CETA-Abkommen werden wir deshalb in seiner jetzigen Fassung nicht ratifizieren.",
+      "classification": "ZULASSUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Zustimmung zum EU-China-Investitionsabkommen in aktueller Form",
+      "location": "Kapitel 2: In die Zukunft wirtschaften",
+      "originalQuote": "Das EU-China-Investitionsabkommen, das maßgeblich von der deutschen Bundesregierung vorangetrieben wurde, ist in den Bereichen Level Playing Field und Menschenrechte unzureichend. Wir können ihm in seiner jetzigen Form nicht zustimmen.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Kauf von Waren aus Zwangsarbeit",
+      "location": "Kapitel 2: In die Zukunft wirtschaften",
+      "originalQuote": "Waren, deren Herstellung mit schweren Menschenrechtsverletzungen wie zum Beispiel Kinder- oder Zwangsarbeit im Zusammenhang steht, soll der Zugang zum EU-Binnenmarkt verwehrt werden.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Nutzung von Atomkraft in der Finanzanlage",
+      "location": "Kapitel 2: In die Zukunft wirtschaften",
+      "originalQuote": "Atomkraft ist keine grüne Geldanlage.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine privaten Währungen großer Konzerne",
+      "location": "Kapitel 2: In die Zukunft wirtschaften",
+      "originalQuote": "Eine Aushöhlung des Geld- und Währungsmonopols durch private Währungen mächtiger Großkonzerne lehnen wir strikt ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Ausstieg aus EU-Mercosur-Abkommen",
+      "location": "Kapitel 2: In die Zukunft wirtschaften",
+      "originalQuote": "Abkommen mit negativen Auswirkungen auf die Umwelt oder die Ernährungssouveränität wie das EU-Mercosur-Abkommen mit lateinamerikanischen Staaten lehnen wir ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Verkauf von Cannabis ohne Regulierung",
+      "location": "Kapitel 3: Solidarität sichern",
+      "originalQuote": "Das derzeitige Verbot von Cannabis verursacht mehr Probleme, als es löst. Deshalb werden wir dem Schwarzmarkt den Boden entziehen und mit einem Cannabiskontrollgesetz auf der Grundlage eines strikten Jugend- und Verbraucherschutzes einen regulierten Verkauf von Cannabis in lizenzierten Fachgeschäften ermöglichen",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Handels mit Jagdtrophäen",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "… und die Einfuhr von Jagdtrophäen müssen ganz verboten werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Spekulation mit Wohnraum",
+      "location": "Kapitel 3: Solidarität sichern",
+      "originalQuote": "Wohnen ist ein soziales Grundrecht und der Wohnungsmarkt darf kein Ort für Spekulant*innen sein.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Zwangsräumungen auf die Straße",
+      "location": "Kapitel 3: Solidarität sichern",
+      "originalQuote": "Zwangsräumungen auf die Straße darf es nicht geben.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verwendung von fossilen Rohstoffen in der Chemieindustrie langfristig",
+      "location": "Kapitel 2: In die Zukunft wirtschaften",
+      "originalQuote": "… und uns unabhängig von fossilen Rohstoffen wie Erdöl oder Erdgas machen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Fliegen ohne ökologische Abgaben",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Wir setzen uns für die Einführung einer europäischen Kerosinsteuer ein.",
+      "classification": "ÖKOLOGISCHE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine militärischen Drohneneinsätze außerhalb völkerrechtlicher Rahmen",
+      "location": "Kapitel 6: International zusammenarbeiten",
+      "originalQuote": "Bewaffnete Drohnen wurden und werden vielfach auch von unseren Bündnispartnern für extralegale Tötungen und andere völkerrechtswidrige Taten eingesetzt. Ein solcher Einsatz ist für uns GRÜNE undenkbar",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Waffenlieferungen in Kriegsgebiete und an Diktaturen",
+      "location": "Kapitel 6: International zusammenarbeiten",
+      "originalQuote": "Exporte von Waffen und Rüstungsgütern an Diktaturen, menschenrechtsverachtende Regime und in Kriegsgebiete verbieten sich.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Stationierung neuer Mittelstreckenraketen in Europa",
+      "location": "Kapitel 6: International zusammenarbeiten",
+      "originalQuote": "Eine Stationierung neuer Mittelstreckenraketen auf dem europäischen Kontinent lehnen wir ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Rekrutierung Minderjähriger in die Bundeswehr",
+      "location": "Kapitel 6: International zusammenarbeiten",
+      "originalQuote": "Die Rekrutierung Minderjähriger sowie den bewaffneten Einsatz der Bundeswehr im Inneren lehnen wir ab",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Spekulation mit Nahrungsmitteln",
+      "location": "Kapitel 6: International zusammenarbeiten",
+      "originalQuote": "Wir werden uns in der EU für striktere Regulierungen einsetzen, um exzessive Nahrungsmittelspekulation zu verhindern.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Einsatz autonomer tödlicher Waffensysteme",
+      "location": "Kapitel 6: International zusammenarbeiten",
+      "originalQuote": "Autonome tödliche Waffensysteme, die keiner wirksamen Steuerung mehr durch den Menschen bei Auswahl und Bekämpfung von Zielen unterliegen, stellen eine unberechenbare Bedrohung dar.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine private Militärfirmen",
+      "location": "Kapitel 6: International zusammenarbeiten",
+      "originalQuote": "… und private Militärfirmen verbieten.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Nutzung von Uploadfiltern",
+      "location": "Kapitel 5: Zusammen leben",
+      "originalQuote": "Eine Verpflichtung zum Einsatz von Uploadfiltern lehnen wir ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Genitalverstümmelung",
+      "location": "Kapitel 5: Zusammen leben",
+      "originalQuote": "Weibliche Genitalverstümmelung ist eine massive Verletzung der körperlichen Integrität.",
+      "classification": "GENITALVERSTÜMMELUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ausfuhr von Überwachungstechnologie an repressive Staaten",
+      "location": "Kapitel 6: International zusammenarbeiten",
+      "originalQuote": "Wir zielen auf ein Verbot für die Ausfuhr, den Verkauf und die Weitergabe von Überwachungsinstrumenten an repressive Regime.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Mord, Kriegsverbrechen oder Völkermord ungestraft",
+      "location": "Kapitel 6: International zusammenarbeiten",
+      "originalQuote": "Verbrechen gegen die Menschlichkeit, Völkermord und Kriegsverbrechen dürfen nicht ungestraft bleiben",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Raubbau an Natur in Lateinamerika",
+      "location": "Kapitel 6: International zusammenarbeiten",
+      "originalQuote": "Gleichzeitig nehmen in vielen Ländern autoritäre Regierungsstile zu und der Raubbau an der Natur weitet sich aus.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Umweltzerstörung durch EU-Handelsabkommen",
+      "location": "Kapitel 2: In die Zukunft wirtschaften",
+      "originalQuote": "Europäische Handelsverträge müssen verbindliche und durchsetzbare Menschenrechts-, Umwelt- und Sozialstandards enthalten",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Tierhaltung ohne artgerechte Standards",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Tiere brauchen mehr Platz, Auslauf im Freien und Beschäftigung – das wollen wir artspezifisch verbindlich regeln",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verwendung von fossilen Energieträgern in der langfristigen Infrastruktur",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Klimaneutralität in weniger als 30 Jahren heißt, dass die eine fossile Infrastruktur nicht einfach durch eine andere fossile Infrastruktur ersetzt werden darf.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine neuen Kohlekraftwerke bis 2030",
+      "location": "Kapitel 1: Lebensgrundlagen schützen",
+      "originalQuote": "Wir setzen uns dafür ein, den Kohleausstieg bis 2030 zu vollenden.",
+      "classification": "Umwelt & Klima"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "sourceFile": "CDU-CSU - 2013 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vergemeinschaftung der Schulden und Eurobonds",
+      "location": "Einleitung",
+      "originalQuote": "Rot-Grün dagegen setzt auf eine Vergemeinschaftung der Schulden und Eurobonds. Dies",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lohnfestsetzung durch die Politik",
+      "location": "Einleitung",
+      "originalQuote": "Eine Lohnfestsetzung durch die Politik lehnen wir ab. Aber es ist Sache der Politik",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Steuererhöhungen",
+      "location": "Einleitung",
+      "originalQuote": "Deshalb lehnen wir Steuererhöhungen ab. Die Vorschläge von SPD und Grünen bedrohen",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bevormundungspolitik",
+      "location": "Einleitung",
+      "originalQuote": "Rot-grüne Bevormundungspolitik lehnen wir ab.",
+      "classification": "BEVORMUNDUNGSPOLITIK"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vermögensteuer",
+      "location": "2.5. Verantwortungsbewusste Steuerpolitik",
+      "originalQuote": "Nein zur Vermögensteuer – Keine Erhöhung der Erbschaftsteuer\nDie meisten Menschen glauben",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Erhöhung der Erbschaftsteuer",
+      "location": "2.5. Verantwortungsbewusste Steuerpolitik",
+      "originalQuote": "Nein zur Vermögensteuer – Keine Erhöhung der Erbschaftsteuer",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Missbrauch von Werkverträgen",
+      "location": "2.3. Rekordbeschäftigung – Arbeit für alle",
+      "originalQuote": "Gerade deshalb wollen wir aber mit den Sozialpartnern sicherstellen, dass sie nicht",
+      "classification": "WERKVERTRÄGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gasgewinnung mittels gesundheitsgefährdender Chemikalien (Fracking)",
+      "location": "3.4 Sichere, bezahlbare und saubere Energie",
+      "originalQuote": "Im Hinblick auf eine Gewinnung von Gas durch das sogenannte Fracking ist für CDU und",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Generelles Tempolimit auf Autobahnen",
+      "location": "3.5 Mobilität für alle",
+      "originalQuote": "Deshalb lehnen wir ein generelles Tempolimit auf deutschen Autobahnen ab. Beschränkun",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbrauchende Embryonenforschung",
+      "location": "3.3 Technischer Fortschritt und Forschung",
+      "originalQuote": "Forschungen, wie die verbrauchende Embryonenforschung, lehnen wir aus ethischen Gründ",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staatliche Einheitsversicherung",
+      "location": "4.7 Gesundes Land",
+      "originalQuote": "Eine staatliche Einheitsversicherung für alle lehnen wir ab. Die private Krankenversic",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aktive Sterbehilfe",
+      "location": "4.7 Gesundes Land",
+      "originalQuote": "CDU und CSU lehnen die aktive Sterbehilfe ab und setzen sich dafür ein, dass die gewerb",
+      "classification": "STERBEHILFE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kapitalinvestoren-bestimmte Landwirtschaft",
+      "location": "5.4 Gute Lebensmittel – nachhaltige Landwirtschaft",
+      "originalQuote": "Eine von Kapitalinvestoren bestimmte Landwirtschaft lehnen wir ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verpflichtende Stilllegung landwirtschaftlicher Flächen",
+      "location": "5.4 Gute Lebensmittel – nachhaltige Landwirtschaft",
+      "originalQuote": "Eine verpflichtende Stilllegung von landwirtschaftlichen Flächen wird es mit uns nicht g",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Strafsteuern für bestimmte Lebensmittel",
+      "location": "5.5 Verbraucher stärken",
+      "originalQuote": "Strafsteuern für bestimmte Lebensmittel lehnen wir ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Klonen von Tieren zur Nahrungsmittelerzeugung",
+      "location": "5.5 Verbraucher stärken",
+      "originalQuote": "Das Klonen von Tieren zur Nahrungsmittelerzeugung lehnen wir ebenso wie eine Vermarktu",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Biopatente auf herkömmliche Züchtungsverfahren, Nutztiere und Nutzpflanzen",
+      "location": "5.4 Gute Lebensmittel – nachhaltige Landwirtschaft",
+      "originalQuote": "Deshalb sprechen wir uns gegen Patente auf herkömmliche Züchtungsverfahren aus und wende",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Allgemeines kommunales Wahlrecht für Ausländer",
+      "location": "4.3 Vielfalt bereichert – Willkommenskultur schaffen",
+      "originalQuote": "Ein allgemeines kommunales Wahlrecht für Ausländer lehnen wir ab. Wir werben stattdes",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Generelle Hinnahme doppelter Staatsbürgerschaften",
+      "location": "4.3 Vielfalt bereichert – Willkommenskultur schaffen",
+      "originalQuote": "Eine generelle Hinnahme doppelter Staatsbürgerschaften lehnen wir ab. Mehrstaatlichkeit",
+      "classification": "STAATSBÜRGERSCHAFTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Parallelgesellschaften und islamische Sondergerichte",
+      "location": "4.3 Vielfalt bereichert – Willkommenskultur schaffen",
+      "originalQuote": "Der Abschottung in Parallelgesellschaften und islamischen Sondergerichten außerhalb un",
+      "classification": "PARALLELGESELLSCHAFTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zuwanderung zum Missbrauch der sozialen Sicherungssysteme",
+      "location": "4.3 Vielfalt bereichert – Willkommenskultur schaffen",
+      "originalQuote": "Eine Zuwanderung, die darauf gerichtet ist, die europäische Freizügigkeit zu missbrauch",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Patente auf landwirtschaftliche Nutztiere und Nutzpflanzen",
+      "location": "5.4 Gute Lebensmittel – nachhaltige Landwirtschaft",
+      "originalQuote": "Deshalb sprechen wir uns gegen Patente auf herkömmliche Züchtungsverfahren aus und wende",
+      "classification": "Wirtschaft & Steuern"
+    }
+  ]
+}

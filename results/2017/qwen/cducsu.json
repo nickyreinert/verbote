@@ -1,0 +1,124 @@
+{
+  "sourceFile": "CDU-CSU - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Versandhandels mit verschreibungspflichtigen Arzneimitteln",
+      "location": "Kapitel: Gesundheit und Pflege auf hohem Niveau",
+      "originalQuote": "indem wir den Versandhandel mit verschreibungspflichtigen Arzneimitteln verbieten.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Klonierung von Tieren",
+      "location": "Kapitel: Landwirtschaft hat Zukunft",
+      "originalQuote": "Deshalb lehnen wir Klonierung von Tieren ab. Wir wollen ein partnerschaftliches",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Wende rückwärts zu Fehlern der Vergangenheit",
+      "location": "Kapitel: Ein gutes Land in dieser Zeit",
+      "originalQuote": "Eine Abkehr von unserer erfolgreichen Politik, eine Wende rückwärts zu den Fehlern",
+      "classification": "VERGANGENHEIT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Protektionismus",
+      "location": "Kapitel: Gute Zukunft für morgen",
+      "originalQuote": "Wir bekämpfen jede Art von Protektionismus und treten für internationale Handelsabkommen",
+      "classification": "PROTEKTIONISMUS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Einwanderung in die sozialen Sicherungssysteme",
+      "location": "Kapitel: Gute Arbeit auch für morgen – Vollbeschäftigung für Deutschland",
+      "originalQuote": "Eine Einwanderung in die sozialen Sicherungssysteme lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung eines generellen Tempolimits auf Autobahnen",
+      "location": "Kapitel: Verkehrsinfrastruktur erneuern und ausbauen",
+      "originalQuote": "Ein generelles Tempolimit auf deutschen Autobahnen lehnen wir ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Einführung einer Bürgerversicherung",
+      "location": "Kapitel: Gesundheit und Pflege auf hohem Niveau",
+      "originalQuote": "Unser Gesundheitssystem hat sich mit der freiberuflichen Ärzteschaft, seiner Selbstverwaltung",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Wiedereinführung der Vermögensteuer",
+      "location": "Kapitel: Fair und gerecht: Steuern senken für alle",
+      "originalQuote": "Die Wiedereinführung der Vermögensteuer schließen wir aus.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Steuererhöhungen",
+      "location": "Kapitel: Fair und gerecht: Steuern senken für alle",
+      "originalQuote": "Im Gegensatz zu anderen Parteien sagen wir: Wir wollen keine Steuererhöhungen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Vollmitgliedschaft der Türkei in der EU",
+      "location": "Kapitel: Europa als Wertegemeinschaft",
+      "originalQuote": "Eine Vollmitgliedschaft der Türkei lehnen wir aber ab, weil sie die Voraussetzungen",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von generellen Fahrverboten für bestimmte Fahrzeugtypen",
+      "location": "Kapitel: Mobilität für alle",
+      "originalQuote": "Generelle Fahrverbote für bestimmte Fahrzeugtypen lehnen wir ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Vergemeinschaftung von Schulden in der Euro-Zone",
+      "location": "Kapitel: Wohlstandsraum Europa",
+      "originalQuote": "Maßstab muss dabei bleiben: Eine Vergemeinschaftung von Schulden schließen wir weiter aus.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von verpflichtenden Fahrprüfungen für ältere Autofahrer",
+      "location": "Kapitel: Politik für Ältere und Senioren",
+      "originalQuote": "Wir setzen auf mündige Verkehrsteilnehmer und lehnen verpflichtende Fahrprüfungen für",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Verschlechterungen bei der Erbschaftsteuer",
+      "location": "Kapitel: Fair und gerecht: Steuern senken für alle",
+      "originalQuote": "Deshalb lehnen wir jede Verschlechterung bei der Erbschaftsteuer ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung staatlicher Maßnahmen, die Wohnungsbau verteuern",
+      "location": "Kapitel: Eigentum und Wohnraum für alle",
+      "originalQuote": "In der kommenden Wahlperiode werden wir keine Maßnahmen beschließen, die die Schaffung",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung von Parallelgesellschaften und Multi-Kulti",
+      "location": "Kapitel: Was unser Land zusammenhält",
+      "originalQuote": "So werden wir das Entstehen von Parallelgesellschaften und von Multi-Kulti verhindern.",
+      "classification": "PARALLELGESELLSCHAFTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der politischen Einflussnahme aus dem Ausland auf islamische Organisationen",
+      "location": "Kapitel: Religionsfreiheit in Deutschland",
+      "originalQuote": "Politische Einflussnahme aus dem Ausland lehnen wir ab.",
+      "classification": "ORGANISATIONEN"
+    }
+  ]
+}

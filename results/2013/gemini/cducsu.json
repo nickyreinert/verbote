@@ -1,0 +1,103 @@
+{
+  "sourceFile": "CDU-CSU - 2013 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vergemeinschaftung der Schulden und Eurobonds (Rot-Grün-Politik)",
+      "location": "Einleitung",
+      "originalQuote": "Das lehnen wir ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Rot-grüne Bevormundungspolitik",
+      "location": "Einleitung",
+      "originalQuote": "Denn als Parteien mit einem christlichen Menschenbild vertrauen wir den Menschen und ihren Entscheidungen. Rot-grüne",
+      "classification": "BEVORMUNDUNGSPOLITIK"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lohnfestsetzung durch die Politik",
+      "location": "Zehn Projekte, Vollbeschäftigung und tariflicher Mindestlohn",
+      "originalQuote": "Eine Lohnfestsetzung durch die Politik lehnen wir ab. Aber es ist Sache der Politik, die Voraussetzungen zu schaff",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Steuererhöhungen",
+      "location": "Zehn Projekte, Wirtschaftskraft stärken – Mittelstand und Gründer fördern",
+      "originalQuote": "Deshalb bleibt unser Ziel, die Lohnzusatzkosten stabil zu halten. Deshalb lehnen wir Steuererhöhungen ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bestrafung von Leistungsträgern durch Steuererhöhungen",
+      "location": "Zehn Projekte, Leistung muss sich lohnen – Bürgerinnen und Bürger entlasten",
+      "originalQuote": "Wir wollen die Leistungsträger in der Mitte unserer Gesellschaft – anders als Rot-Grün – nicht mit Steuererhöhungen",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Rückkehr zu alten Fehlern in der Krisenbewältigung",
+      "location": "1. Deutschlands Zukunft in Europa, Erfolgreich Reformen auf den Weg gebracht",
+      "originalQuote": "Ein Zurück zu alten Fehlern darf es nicht geben. Dafür wollen wir in den kommenden vier Jahren weiter die Weichen",
+      "classification": "KRISENBEWÄLTIGUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vergemeinschaftung der Schulden durch die Einführung von Eurobonds",
+      "location": "1. Deutschlands Zukunft in Europa, Keine Schuldenunion, keine Transferunion",
+      "originalQuote": "Das lehnen wir ab. Damit wäre das Prinzip „Keine Leistung ohne Gegenleistung“ außer Kraft gesetzt.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Euro-Staaten sollen nicht weiter Schulden machen oder sich vor Reformen drücken",
+      "location": "1. Deutschlands Zukunft in Europa, Keine Schuldenunion, keine Transferunion",
+      "originalQuote": "Wir wollen nicht, dass ein Euro-Staat auf Kosten seiner Nachbarn weiter Schulden machen und sich vor unbeque",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einführung einer europaweiten Einlagensicherung",
+      "location": "1. Deutschlands Zukunft in Europa, Europäische Bankenunion",
+      "originalQuote": "Eine europaweite Einlagensicherung lehnen wir ab, denn damit würde das Haftungsrisiko vergemeinschaftet und de",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zentralistisch organisiertes und regiertes Europa",
+      "location": "1. Deutschlands Zukunft in Europa, Einheit in Vielfalt",
+      "originalQuote": "Wir wollen kein zentralistisch organisiertes und regiertes Europa. CDU und CSU wollen ein Europa, das den Bürger",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wiedereinführung der Vermögensteuer und Erhöhung der Erbschaftsteuer",
+      "location": "Abschnitt 3.4. Finanz- und Wirtschaftspolitik (Unternehmensbesteuerung)",
+      "originalQuote": "Deshalb lehnen CDU und CSU beides entschieden ab. Unternehmensbesteuerung wachstumsfreundlich weiterentwickeln",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Generelle Hinnahme doppelter Staatsbürgerschaften",
+      "location": "Abschnitt 4.2. Migration und Integration",
+      "originalQuote": "Eine generelle Hinnahme doppelter Staatsbürgerschaften lehnen wir ab. Mehrstaatlichkeit ist oft mit Problem",
+      "classification": "STAATSBÜRGERSCHAFTEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Belästigung von Verbrauchern mit Werbeanrufen am Telefon",
+      "location": "Abschnitt 5.5. Verbraucherpolitik",
+      "originalQuote": "Verbraucher dürfen am Telefon nicht mehr mit Werbeanrufen belästigt werden und wer sich in der Warteschleife",
+      "classification": "VERBRAUCHERN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gewinnerzielung aus Lebensmittelbetrug",
+      "location": "Abschnitt 5.5. Verbraucherpolitik, Sichere Lebensmittel",
+      "originalQuote": "Keiner soll an Lebensmittelbetrug verdienen. Neben härteren Strafen wollen wir auch die Möglichkeiten zur Abs",
+      "classification": "LEBENSMITTELBETRUG"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "sourceFile": "SPD - 2005 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Der Druck der Anpassung darf nicht auf den Schwächsten lasten.",
+      "location": "Quelle 2310",
+      "originalQuote": "Aber der Druck der Anpassung darf nicht vor allem auf den Schwächsten lasten.",
+      "classification": "SCHWÄCHSTEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Benachteiligung von konventioneller Landwirtschaft und ökologischem Landbau.",
+      "location": "Quelle 1814",
+      "originalQuote": "Weder konventionelle Landwirtschaft noch ökologischer Landbau dürfen benachteiligt werden. Die Landwirtschaft",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unterbindung der Diskriminierung von Minderheiten.",
+      "location": "Quelle 2259",
+      "originalQuote": "Der Staat mischt sich nicht mehr ein in die private Lebensgestaltung der Menschen und unterbindet die Disk",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung, dass Deutschland ein anderes Land wird.",
+      "location": "Quelle 2277",
+      "originalQuote": "Wir erneuern unser Land, aber wir wollen kein anderes Land.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung, ohne soziale Gerechtigkeit zu leben.",
+      "location": "Quelle 2280",
+      "originalQuote": "Soziale Gerechtigkeit muss bleiben. Wir wollen nicht ohne sie leben.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Dominanz des Geldes in der Welt.",
+      "location": "Quelle 2312",
+      "originalQuote": "Wir akzeptieren nicht, dass „Geld die Welt regiert“.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung eines kriegerischen Vorgehens ohne Überzeugung von Legitimation und Sinn.",
+      "location": "Quelle 2320",
+      "originalQuote": "Wir sagen Nein, wenn wir von der Legitimation und dem Sinn eines kriegerischen Vorgehens nicht überzeugt sind.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung, sich in falsche Gegensätze in der Außenpolitik treiben zu lassen.",
+      "location": "Quelle 2322",
+      "originalQuote": "Wir wollen unsere selbstbewusste Außenpolitik fortsetzen. Dabei lassen wir uns nicht in falsche Gegensätze treiben.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kritik an der Absicht, Ländern den EU-Eintritt zu versperren.",
+      "location": "Quelle 2363",
+      "originalQuote": "Sie wollen Ländern den Eintritt in die EU versperren, denen die Perspektive einer Mitgliedschaft als wichtiger Antr",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung des Abweichens vom langfristigen Ziel der Vollbeschäftigung.",
+      "location": "Quelle 2423",
+      "originalQuote": "Vom langfristigen Ziel der Vollbeschäftigung lassen wir nicht ab; wir wollen ihr näher kommen:",
+      "classification": "VOLLBESCHÄFTIGUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer generellen Arbeitszeitverlängerung mit dem Ziel der Lohnkürzung.",
+      "location": "Quelle 1563",
+      "originalQuote": "Generelle Arbeitszeitverlängerung mit dem Ziel der faktischen Lohnkürzung wäre der falsche Weg.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Kommunalisierung der Langzeitarbeitslosigkeit und ihrer Finanzierung.",
+      "location": "Quelle 1598",
+      "originalQuote": "Die SPD will keine Kommunalisierung der Langzeitarbeitslosigkeit und ihrer Finanzierung.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhindern, dass junge Menschen ihr Arbeitsleben mit Arbeitslosigkeit beginnen.",
+      "location": "Quelle 1600",
+      "originalQuote": "* Wir wollen, dass keine Jugendliche und kein Jugendlicher sein Arbeitsleben mit Arbeitslosigkeit beginnen muss.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stoppen des Trends zur Verdrängung älterer Arbeitnehmer aus dem Arbeitsleben.",
+      "location": "Quelle 1607",
+      "originalQuote": "Den Trend der Verdrängung Älterer aus dem Arbeitsleben wollen wir stoppen.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung der weitgehenden Abschaffung des Kündigungsschutzes.",
+      "location": "Quelle 1726",
+      "originalQuote": "Die von Union und FDP gewollte weitgehende Abschaffung des Kündigungsschutzes wird es mit uns nicht geben.",
+      "classification": "KÜNDIGUNGSSCHUTZES"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Studiengebühren für das Erststudium.",
+      "location": "Quelle 1905",
+      "originalQuote": "* Deshalb bleibt das Erststudium frei von Studiengebühren. * Der Zugang zur Hochschule muss auch künftig üb",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung der Umwandlung des BAföG in ein Volldarlehen.",
+      "location": "Quelle 1906",
+      "originalQuote": "* Das BAföG bleibt und wird nicht in ein Volldarlehen umgewandelt.",
+      "classification": "VERHINDERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung eines 'Schlussstrichs' unter die Erinnerungspolitik.",
+      "location": "Quelle 1965",
+      "originalQuote": "* Alle Kulturpolitik handelt auch vom Erinnern. Für uns ist klar: Es kann keinen Schlussstrich geben.",
+      "classification": "ERINNERUNGSPOLITIK"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung und Verbot der Zwangsheirat.",
+      "location": "Quelle 2021",
+      "originalQuote": "* Wir dulden keine Zwangsheirat. Damit diese Tatsache stärker in das Bewusstsein der betroffenen Gruppen rückt,",
+      "classification": "ZWANGSHEIRAT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Gewalt, rechtsextremem Gedankengut, Intoleranz und Missachtung gegenüber Minderheiten.",
+      "location": "Quelle 2029",
+      "originalQuote": "* Für Gewalt, rechtsextremes Gedankengut sowie Intoleranz und Missachtung gegenüber Minderheiten ist in Deutschland kein Platz!",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Anhebung der Mehrwertsteuer.",
+      "location": "Quelle 2127",
+      "originalQuote": "* Eine Anhebung der Mehrwertsteuer würde angesichts der derzeit schwachen Binnennachfrage in die falsche Rich",
+      "classification": "Wirtschaft & Steuern"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "sourceFile": "Grüne - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neue fossile Infrastruktur ersetzen",
+      "location": "Kapitel 1",
+      "originalQuote": "dass die eine fossile Infrastruktur nicht einfach durch eine andere fossile Infrastruktur ersetzt ",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neue Gaskraftwerke ohne Wasserstoffready",
+      "location": "Kapitel 1",
+      "originalQuote": "Neue Gaskraftwerke oder Infrastrukturen, die wir für den Kohleausstieg brauchen, darf es deshalb üb",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neue Hafenterminals für Flüssigerdgas",
+      "location": "Kapitel 1",
+      "originalQuote": "Neue Hafenterminals zur Anlandung von Flüssigerdgas sollen nicht mehr genehmigt werden.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nord Stream 2 stoppen",
+      "location": "Kapitel 1",
+      "originalQuote": "Neue Erdgas-Pipelines wie Nord Stream 2, die nicht auf grünen Wasserstoff ausgerichtet sind, zement",
+      "classification": "STOPPEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbrennen von Naturholz in Großkraftwerken",
+      "location": "Kapitel 1",
+      "originalQuote": "Naturholz ist als Rohstoff vielfältig einsetzbar und zu wertvoll, um es in Großkraftwerken zu verbr",
+      "classification": "GROSSKRAFTWERKEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Atomfabriken schließen",
+      "location": "Kapitel 1",
+      "originalQuote": "Unser Ziel ist es, die Atomfabriken in Gronau und Lingen schnellstmöglich zu schließen. Der Betrieb",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privilegierung oder neue Förderungen der Atomkraft",
+      "location": "Kapitel 1",
+      "originalQuote": "gegen die weitere Privilegierung oder neue Förderungen der Atomkraft, und für verbindliche Sicherhe",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Spekulation mit Nahrungsmitteln verbieten",
+      "location": "Schlusskapitel",
+      "originalQuote": "Wir werden uns in der EU für striktere Regulierungen einsetzen, um exzessive Nahrungsmittelspekulat",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Rüstungsexporte in Kriegsgebiete und Diktaturen",
+      "location": "Schlusskapitel",
+      "originalQuote": "Exporte von Waffen und Rüstungsgütern an Diktaturen, menschenrechtsverachtende Regime und in Kriegs",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Hermesbürgschaften für Rüstungsexporte",
+      "location": "Schlusskapitel",
+      "originalQuote": "Hermesbürgschaften für Rüstungsexporte darf es nicht geben.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Private Militärfirmen",
+      "location": "Schlusskapitel",
+      "originalQuote": "private Militärfirmen verbieten.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Autonome tödliche Waffensysteme ächten und verbieten",
+      "location": "Schlusskapitel",
+      "originalQuote": "Anwendungen, die gegen ethische und völkerrechtliche Grundsätze verstoßen, international verbindlic",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Rekrutierung Minderjähriger für Bundeswehr",
+      "location": "Schlusskapitel",
+      "originalQuote": "Die Rekrutierung Minderjähriger sowie den bewaffneten Einsatz der Bundeswehr im Inneren lehnen wir ",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bewaffneter Einsatz der Bundeswehr im Inneren",
+      "location": "Schlusskapitel",
+      "originalQuote": "Die Rekrutierung Minderjähriger sowie den bewaffneten Einsatz der Bundeswehr im Inneren lehnen wir ",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Freiwilligen Wehrdienst im Heimatschutz beenden",
+      "location": "Schlusskapitel",
+      "originalQuote": "und den Freiwilligen Wehrdienst im Heimatschutz beenden sowie die politische Bildung in Schulen, du",
+      "classification": "FREIWILLIGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Umwidmung von EU-Geldern für militärische Zwecke",
+      "location": "Schlusskapitel",
+      "originalQuote": "Die Umwidmung von bisher ausschließlich für zivile Zwecke vorgesehenen Geldern aus dem EU-Haushalt ",
+      "classification": "Rüstung & Waffen"
+    }
+  ]
+}

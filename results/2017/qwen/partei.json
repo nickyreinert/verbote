@@ -1,0 +1,33 @@
+{
+  "sourceFile": "Die Partei - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beschwerden über Ungerechtigkeiten sollen unterdrückt werden",
+      "location": "Punkt 1",
+      "originalQuote": "Beschwerden über angebliche Ungerechtigkeiten sind mit aller Gewalt zu unterdrücken.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Chatbots dürfen im Wahlkampf nicht eingesetzt werden",
+      "location": "Punkt 7",
+      "originalQuote": "Chatbots wie Ralf Stegner (SPD), Peter Tauber (CDU), Beatrix von Strolch (AfD), Andy Scheuer (CSU",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Tierversuche werden eingestellt",
+      "location": "Punkt 6",
+      "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Grüne sollen nicht mehr öffentlich zur Schau gestellt werden",
+      "location": "Punkt 10",
+      "originalQuote": "Die PARTEI protestiert aus ethischen Erwägungen dagegen, dass Grüne (Anton Hofreiter, Katrin Boring-Eckhar",
+      "classification": "ÖFFENTLICH"
+    }
+  ]
+}

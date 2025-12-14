@@ -1,0 +1,145 @@
+{
+  "sourceFile": "SPD - 2021 - Langprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung von Währungen, einschließlich privater digitaler Währungen (Stablecoins)",
+      "location": "Abschnitt: Wie wir unsere Politik finanzieren wollen",
+      "originalQuote": "Wir lehnen eine Privatisierung von Währungen ab. Dies gilt auch für private digitale Währungen",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weitergabe genießbarer Nahrungsmittel durch Produzenten und Handel an Müll",
+      "location": "Abschnitt: Natur respektieren",
+      "originalQuote": "Um die Lebensmittelverschwendung einzudämmen, werden wir es den Produzenten und dem Handel",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gentechnisch veränderte Pflanzen",
+      "location": "Abschnitt: Natur respektieren",
+      "originalQuote": "Wir bleiben beim Nein zu gentechnisch veränderten Pflanzen.",
+      "classification": "GENTECHNISCH"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Mangelnde Berücksichtigung von Umwelt-, Menschenrechts- und Sozialstandards im EU-Mercosur-Abkommen",
+      "location": "Abschnitt: Sozial-ökologisch wirtschaften",
+      "originalQuote": "Einem Abkommen ohne Stärkung der Umwelt-, Menschenrechts- und Sozialstandards durch zusätzliche",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Annexionen im Nahost-Konflikt",
+      "location": "Abschnitt: Europäische Nachbarschaften pflegen",
+      "originalQuote": "Pläne zu Annexionen lehnen wir kategorisch ab.",
+      "classification": "NAHOSTKONFLIKT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wettlauf nach unten bei Umweltstandards oder Arbeitnehmer- und Verbraucherrechten nach Brexit",
+      "location": "Abschnitt: Europäische Nachbarschaften pflegen",
+      "originalQuote": "Einen Wettlauf nach unten, was Umweltstandards oder die Rechte von Arbeitnehmern und Verbrauc",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verlängerung der täglichen Arbeitszeit",
+      "location": "Abschnitt: Arbeit wertschätzen",
+      "originalQuote": "Eine Verlängerung der täglichen Arbeitszeit schließen wir aus.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weitergabe von Verhütungskosten an Nutzerinnen und Nutzer",
+      "location": "Abschnitt: Gleichstellung verwirklichen",
+      "originalQuote": "Wir werden deshalb für einen kostenfreien Zugang zu Verhütungsmitteln sorgen",
+      "classification": "VERHÜTUNGSKOSTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zulassung von Schwangerschaftsabbrüchen nur in spezifischen medizinischen Einrichtungen",
+      "location": "Abschnitt: Gleichstellung verwirklichen",
+      "originalQuote": "Deshalb müssen Länder und Kommunen dafür sorgen, dass Krankenhäuser, die öffentliche Mittel erhal",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Strafrechtliche Behandlung von Schwangerschaftskonflikten",
+      "location": "Abschnitt: Gleichstellung verwirklichen",
+      "originalQuote": "Schwangerschaftskonflikte gehören nicht ins Strafrecht.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zusammenführung der Altersversorgung von Beamt*innen ohne Niveauerhalt",
+      "location": "Abschnitt: Alter absichern",
+      "originalQuote": "Wenn es zu einer Zusammenführung der Altersversorgung der Beamt*innen mit der gesetzlichen Rente",
+      "classification": "ALTERSVERSORGUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Erhöhung des gesetzlichen Renteneintrittsalters",
+      "location": "Abschnitt: Alter absichern",
+      "originalQuote": "Wir lehnen eine weitere Anhebung des gesetzlichen Renteneintrittsalters ab, weil sie für viele, di",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zurückdrängung der Rolle des Staates zugunsten rein marktwirtschaftlicher Logik im Gesundheitssektor",
+      "location": "Abschnitt: Update für die Gesundheit",
+      "originalQuote": "Deutschland versorgte Kranke in aller Welt mit allen denkbaren Heilmitteln, von Aspirin bis zum Imp",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausbau und Verstärkung von Sondersystemen in der Alterssicherung",
+      "location": "Abschnitt: Alter absichern",
+      "originalQuote": "Es ist an der Zeit, die Gesamtheit der Erwerbstätigen in die Rentenversicherung aufzunehmen und di",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pushbacks bei Seenotrettung",
+      "location": "Abschnitt: Demokratie erweitern",
+      "originalQuote": "Pushbacks sind eine eklatante Verletzung des Völkerrechts.",
+      "classification": "SEENOTRETTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unfaire Handelspraktiken im Lebensmittelhandel",
+      "location": "Abschnitt: Natur respektieren",
+      "originalQuote": "Wir werden im Lebensmittelhandel unfairen Handelspraktiken einen Riegel vorschieben, denn sie sch",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kriminalisierung von Seenotrettung",
+      "location": "Abschnitt: Demokratie erweitern",
+      "originalQuote": "Seenotrettung ist eine Verpflichtung aus dem internationalen Seerecht und darf nicht kriminalisier",
+      "classification": "KRIMINALISIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Diskriminierung aufgrund geschlechtlicher und sexueller Identität",
+      "location": "Abschnitt: Gleichstellung verwirklichen",
+      "originalQuote": "Das Diskriminierungsverbot wegen der geschlechtlichen und sexuellen Identität werden wir in Art. 3",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Rückführung von Menschen in lebensbedrohliche Länder",
+      "location": "Abschnitt: Zusammen leben",
+      "originalQuote": "Die zwangsweise Rückführung von Menschen in Länder, in denen ihnen Gefahr für Leib und Leben droht",
+      "classification": "LEBENSBEDROHLICHE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kürzungspolitik nach der Corona-Krise",
+      "location": "Abschnitt: Wie wir unsere Politik finanzieren wollen",
+      "originalQuote": "Eine Politik der Austerität nach der Krise wäre ein völlig falscher Weg.",
+      "classification": "KÜRZUNGSPOLITIK"
+    }
+  ]
+}

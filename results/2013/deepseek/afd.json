@@ -1,0 +1,61 @@
+{
+  "sourceFile": "AfD - 2013 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Blockade weiterer Hilfskredite des ESM durch Veto",
+      "location": "Währungspolitik",
+      "originalQuote": "Wir fordern, dass Deutschland dieses Austrittsrecht aus dem Euro erzwingt, indem es weitere Hilfskredite",
+      "classification": "HILFSKREDITE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kosten der Rettungspolitik nicht durch Steuerzahler tragen",
+      "location": "Währungspolitik",
+      "originalQuote": "Wir fordern, dass die Kosten der sogenannten Rettungspolitik nicht vom Steuerzahler getragen werden",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Sofortiges Verbot des Ankaufs von Schrottpapieren durch die EZB",
+      "location": "Währungspolitik",
+      "originalQuote": "Wir fordern ein sofortiges Verbot des Ankaufs von Schrottpapieren durch die Europäische Zentralbank",
+      "classification": "SCHROTTPAPIEREN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Transferunion oder zentralisierten Europastaats",
+      "location": "Europapolitik",
+      "originalQuote": "Eine Transferunion oder gar einen zentralisierten Europastaat lehnen wir entschieden ab",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Staatliche Organe dürfen sich nicht über Gesetze und Verträge hinwegsetzen",
+      "location": "Rechtsstaatlichkeit und Demokratie",
+      "originalQuote": "Staatliche Organe dürfen sich selbst in Einzelfällen nicht über Gesetze und Verträge hinwegsetzen",
+      "classification": "HINWEGSETZEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Parteien sollen das politische System nicht beherrschen",
+      "location": "Rechtsstaatlichkeit und Demokratie",
+      "originalQuote": "Parteien sollen am politischen System mitwirken, es aber nicht beherrschen",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Mandat darf nicht unter bezahlten Nebentätigkeiten leiden",
+      "location": "Rechtsstaatlichkeit und Demokratie",
+      "originalQuote": "Das Mandat darf nicht unter bezahlten Nebentätigkeiten leiden",
+      "classification": "NEBENTÄTIGKEITEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ungeordnete Zuwanderung in Sozialsysteme muss unterbunden werden",
+      "location": "Integrationspolitik",
+      "originalQuote": "Eine ungeordnete Zuwanderung in unsere Sozialsysteme muss unbedingt unterbunden werden",
+      "classification": "Soziales & Arbeit"
+    }
+  ]
+}

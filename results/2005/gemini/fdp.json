@@ -1,0 +1,292 @@
+{
+  "sourceFile": "FDP - 2005 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Politik soll keine bestimmten Glücksmodelle oder Lebensentwürfe vorgeben",
+      "location": "Kapitel 1, S. 4",
+      "originalQuote": "Die Aufgabe der Politik ist es nicht, bestimmte Glücksmodelle oder bestimmte Lebensentwürfe vorzugeben. [cite: 2707]",
+      "classification": "LEBENSENTWÜRFE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Steuergeschenke für bestimmte Interessengruppen",
+      "location": "Kapitel 2, S. 5",
+      "originalQuote": "Keine Steuergeschenke für bestimmte Interessengruppen, sondern eine konsequente Besteuerung nach der [cite: 2759]",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung der Steuerklasse V",
+      "location": "Kapitel 2, S. 5",
+      "originalQuote": "Wir wollen die Steuerklasse V abschaffen. Sie vermindert die Arbeitsanreize für den geringer Verdienend [cite: 2766]",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einführung eines einheitlichen Steuersatzes (Flat Tax) kann gegenwärtig nicht realisiert werden",
+      "location": "Kapitel 2, S. 6",
+      "originalQuote": "Wegen der hohen Steuerausfälle kann dies gegenwärtig noch nicht realisiert werden. [cite: 2784]",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Kontenabfrage ohne begründeten Verdacht",
+      "location": "Kapitel 2, S. 6",
+      "originalQuote": "Die Kontenabfrage ohne begründeten Verdacht wird untersagt. Das Bankgeheimnis kann - und muß - wiede [cite: 2795]",
+      "classification": "KONTENABFRAGE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung der Vermögensteuer",
+      "location": "Kapitel 2, S. 6",
+      "originalQuote": "Die Vermögensteuer wird endgültig abgeschafft. [cite: 2800]",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Erhöhung der Mehrwertsteuer zur Finanzierung der Steuerreform",
+      "location": "Kapitel 2, S. 7",
+      "originalQuote": "Die FDP spricht sich gegen eine Erhöhung der Mehrwertsteuer zur Reform der direkten Steuern oder anderer [cite: 2810]",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Mehrfacherklärungen über Einkommens- und Vermögensverhältnisse gegenüber verschiedenen Ämtern entfallen",
+      "location": "Kapitel 2, S. 8",
+      "originalQuote": "Seine Ansprechpartner werden auf ein Minimum reduziert, Mehrfacherklärungen über Einkommens- und Vermö [cite: 2827]",
+      "classification": "VERMÖGENSVERHÄLTNISSE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "ALG-II-Empfänger dürfen private Altersvorsorgeformen nicht mehr auflösen müssen",
+      "location": "Kapitel 2, S. 8",
+      "originalQuote": "Die FDP fordert, daß ALG-II-Empfänger ihre Lebensversicherungen und andere private Altersvorsorgeforme [cite: 2841]",
+      "classification": "ALTERSVORSORGEFORMEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung halbherziger Reparaturen der sozialen Sicherungssysteme",
+      "location": "Kapitel 2, S. 9",
+      "originalQuote": "Halbherzige Reparaturen, die den Beitragsanstieg nur verzögern, langfristig aber nicht verhindern, lehnen [cite: 2868]",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Altersrückstellungen dürfen bei einem Wechsel des Versicherers nicht verloren gehen",
+      "location": "Kapitel 2, S. 10",
+      "originalQuote": "Nachhaltigkeit entsteht durch den Aufbau von Altersrückstellungen, die bei einem Wechsel des Versicherer [cite: 2882]",
+      "classification": "ALTERSRÜCKSTELLUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Plans von Rot-Grün, zukünftig 22 % Rentenbeitrag zu erheben",
+      "location": "Kapitel 2, S. 11",
+      "originalQuote": "Die FDP will den Beitragssatz zur Rentenversicherung langfristig bei 19 % halten und lehnt den Plan von R [cite: 2902]",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Der Numerus Clausus als starres Zugangshindernis muss fallen",
+      "location": "Kapitel 3, S. 12",
+      "originalQuote": "Der Numerus Clausus als starres Zugangshindernis muß fallen. [cite: 2921]",
+      "classification": "ZUGANGSHINDERNIS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Einführung einer Kopfpauschale",
+      "location": "Kapitel 3, S. 12",
+      "originalQuote": "Die FDP lehnt die Einführung einer Kopfpauschale ab. [cite: 2940]",
+      "classification": "KOPFPAUSCHALE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Festlegung auf eine bestimmte Schulform",
+      "location": "Kapitel 3, S. 13",
+      "originalQuote": "Wir lehnen auch die Festlegung auf eine bestimmte Schulform ab. [cite: 2946]",
+      "classification": "FESTLEGUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung staatlicher Vorgaben für die Forschung in den Universitäten",
+      "location": "Kapitel 3, S. 14",
+      "originalQuote": "Die FDP lehnt staatliche Vorgaben für die Forschung in den Universitäten ab. [cite: 2977]",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Restriktive Regelungen in der Stammzellforschung dürfen nicht weiter verschärft werden",
+      "location": "Kapitel 3, S. 14",
+      "originalQuote": "Die derzeitigen restriktiven Regelungen in der Stammzellforschung sind zu lockern, keinesfalls aber weite [cite: 2980]",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Klonens von menschlichen Embryonen und der Keimbahntherapie",
+      "location": "Kapitel 3, S. 14",
+      "originalQuote": "Wir lehnen das Klonen von menschlichen Embryonen und die Keimbahntherapie ab. [cite: 3000]",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine verdachtsunabhängige massenhafte Vorratsdatenspeicherung",
+      "location": "Kapitel 4, S. 14",
+      "originalQuote": "Wir wollen keine verdachtsunabhängigen massenhafte Vorratsdatenspeicherung. Die automatische Kennzeiche [cite: 3014]",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der automatischen Kennzeichenerkennung ohne konkreten Anlass",
+      "location": "Kapitel 4, S. 14",
+      "originalQuote": "Die automatische Kennzeichenerkennung auf deutschen Straßen ohne konkreten Anlaß ist abzulehnen. [cite: 3014]",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der flächendeckenden Videoüberwachung",
+      "location": "Kapitel 4, S. 15",
+      "originalQuote": "Ebenso spricht sich die FDP gegen eine flächendeckende Videoüberwachung aus. Sie ersetzt niemals die Arb [cite: 3016]",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Telekommunikationsanbieter dürfen nicht zur Überwachung ihrer Kunden verpflichtet werden",
+      "location": "Kapitel 4, S. 15",
+      "originalQuote": "Telekommunikationsanbieter dürfen nicht dazu verpflichtet werden, die Kommunikation ihrer Kunden für de [cite: 3017]",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des paritätischen Mitbestimmungsmodells",
+      "location": "Kapitel 4, S. 16",
+      "originalQuote": "Wir lehnen das Mitbestimmungsmodell der Parität ab. [cite: 3033]",
+      "classification": "MITBESTIMMUNGSMODELLS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pflichtmitgliedschaft im deutschen Kammerwesen muss fallen",
+      "location": "Kapitel 4, S. 16",
+      "originalQuote": "Das auf dem Prinzip der Pflichtmitgliedschaft beruhende deutsche Kammerwesen muss fallen. [cite: 3042]",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine verdachtsunabhängige Telefon- und Internetüberwachung von unverdächtigen Bürgern",
+      "location": "Kapitel 4, S. 17",
+      "originalQuote": "Wir wollen keine verdachtsunabhängige Telefon- und Internetüberwachung von Bürgern, die sich nicht verdä [cite: 3047]",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Gängelei und zusätzlicher Belastung von Verkehrsteilnehmern, die nicht durch das Verursacherprinzip gerechtfertigt sind",
+      "location": "Kapitel 4, S. 17",
+      "originalQuote": "Wir lehnen Gängelei bei der Wahl des Verkehrsmittels und zusätzliche Belastungen von Verkehrsteilnehmern [cite: 3054]",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nationale Sonderwege im Verbraucher-, Tier- und Umweltschutz sollen gestoppt werden",
+      "location": "Kapitel 5, S. 17",
+      "originalQuote": "Wir wollen die vielen nationalen Sonderwege im Verbraucher-, Tier- und Umweltschutz stoppen und korrigie [cite: 3060]",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zusätzliche Auflagen, die über EU-Richtlinien hinausgehen, müssen fallen",
+      "location": "Kapitel 5, S. 18",
+      "originalQuote": "Alle zusätzliche Auflagen, die über EU-Richtlinien hinausgehen, müssen fallen. [cite: 3060]",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung dirigistischer Eingriffe des Staates in das Marktgeschehen (z.B. Werbeverbote)",
+      "location": "Kapitel 5, S. 18",
+      "originalQuote": "Dirigistische Eingriffe des Staates in das Marktgeschehen, wie z. B. Werbeverbote, lehnt die FDP ab. [cite: 3071]",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kurs der einseitigen politischen Steuerung des Konsums ist zu beenden",
+      "location": "Kapitel 5, S. 18",
+      "originalQuote": "Der von der Bundesregierung eingeschlagene Kurs der einseitigen politischen Steuerung des Konsums ist zu [cite: 3072]",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Atom-Ausstiegs-Politik von Rot-Grün",
+      "location": "Kapitel 5, S. 18",
+      "originalQuote": "Wir lehnen die Atom-Ausstiegs-Politik von Rot-Grün ab. [cite: 3087]",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Europäischer Verfassungsprozess darf nicht an der Entbürokratisierung scheitern",
+      "location": "Kapitel 6, S. 19",
+      "originalQuote": "An dieser Aufgabe darf der europäische Verfassungsprozess nicht scheitern. [cite: 3105]",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Vergemeinschaftung der Steuer-, Haushalts- und Sozialpolitik in der EU",
+      "location": "Kapitel 6, S. 19",
+      "originalQuote": "Wir lehnen eine Vergemeinschaftung der Steuer-, Haushalts- und Sozialpolitik in der EU ab. [cite: 3110]",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer EU-Beitrittsperspektive für die Türkei",
+      "location": "Kapitel 6, S. 20",
+      "originalQuote": "Wir lehnen eine EU-Beitrittsperspektive für die Türkei ab. [cite: 3122]",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Multikulti-Ideologie",
+      "location": "Kapitel 7, S. 20",
+      "originalQuote": "Wir wollen keine Multikulti-Ideologie, sondern ein kulturelles Miteinander auf der Grundlage universeller [cite: 3144]",
+      "classification": "MULTIKULTIIDEOLOGIE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Gewalt und jeder Form von Extremismus",
+      "location": "Kapitel 7, S. 20",
+      "originalQuote": "Wir lehnen Gewalt und jede Form von Extremismus ab. [cite: 3149]",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Einführung einer 'Lex Sarrazin'",
+      "location": "Kapitel 7, S. 21",
+      "originalQuote": "Die FDP lehnt die Einführung einer \"Lex Sarrazin\" ab und steht zu den Grundrechten des Bundestagsabgeor [cite: 3154]",
+      "classification": "EINFÜHRUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Einbeziehung der Kommunen in die Zuständigkeit der Kultusministerkonferenz",
+      "location": "Kapitel 7, S. 21",
+      "originalQuote": "Die FDP lehnt die Einbeziehung der Kommunen in die Zuständigkeit der Kultusministerkonferenz ab. [cite: 3157]",
+      "classification": "KULTUSMINISTERKONFERENZ"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Rechtschreibreform darf nicht in Kraft treten, bevor sie geprüft wurde",
+      "location": "Kapitel 7, S. 21",
+      "originalQuote": "Bevor der Rat für deutsche Rechtschreibung nicht alle Bereiche der Reform einer genauen Prüfung und Über [cite: 3159]",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staat und Politik müssen sich künftig jeglicher 'Sprachlenkung' enthalten",
+      "location": "Kapitel 7, S. 21",
+      "originalQuote": "Das Chaos, welches durch die Beschlüsse der Kulturministerkonferenz entstanden ist, belegt auf nachdrück [cite: 3160]",
+      "classification": "SPRACHLENKUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der pauschalen Erhebung von Rundfunk- und Fernsehgebühren nach dem Modell der geräteunabhängigen Haushaltsabgabe",
+      "location": "Kapitel 7, S. 21",
+      "originalQuote": "Wir lehnen die pauschale Erhebung von Rundfunk- und Fernsehgebühren nach dem Modell der geräteunabhängig [cite: 3163]",
+      "classification": "Wirtschaft & Steuern"
+    }
+  ]
+}

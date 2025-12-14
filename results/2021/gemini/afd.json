@@ -1,0 +1,264 @@
+{
+  "sourceFile": "AfD - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Änderung des Grundgesetzes und Abschluss bedeutsamer völkerrechtlicher Verträge ohne Volkszustimmung",
+      "location": "KAPITEL 1, Z. 2915",
+      "originalQuote": "Ohne Zustimmung des Volkes darf das Grundgesetz nicht geändert und kein bedeutsamer völkerrechtlicher Vertrag geschlossen werden.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Gleichzeitige Ausübung von Regierungsamt (Kanzler, Minister, Ministerpräsident) und Abgeordnetenmandat",
+      "location": "KAPITEL 1, Z. 2938",
+      "originalQuote": "Kanzler, Ministerpräsidenten und Minister dürfen nicht mehr zugleich Abgeordnete sein.",
+      "classification": "ABGEORDNETENMANDAT"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Beteiligung von Parteien an Unternehmen, insbesondere Medienunternehmen",
+      "location": "KAPITEL 1, Z. 2955",
+      "originalQuote": "Ferner soll den Parteien endlich die Beteiligung an Unternehmen, insbesondere Medienunternehmen, verboten werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Politische und finanzielle Einflussnahme aus dem Ausland durch islamische Staaten",
+      "location": "KAPITEL 7, Z. 2358",
+      "originalQuote": "Die politische und finanzielle Einflussnahme aus dem Ausland in Deutschland durch islamische Staaten wollen wir gesetzlich verbieten.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Islamische Vereine, die sich gegen das Grundgesetz und die Völkerverständigung richten",
+      "location": "KAPITEL 7, Z. 2380",
+      "originalQuote": "Islamische Vereine, die sich gegen das Grundgesetz und die Völkerverständigung richten, wie z. B. die Muslimbruderschaft, müssen gemäß Art. 9 Abs. 2 Grundgesetz verboten werden.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Beteiligungen von Parteien an Medienunternehmen",
+      "location": "KAPITEL 16, Z. 2671",
+      "originalQuote": "Beteiligungen von Parteien an Medienunternehmen wollen wir verbieten.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Parteipolitische Ämterpatronage, Ämterkumulation und überbordende Staatsgewalt",
+      "location": "KAPITEL 1, Z. 2928",
+      "originalQuote": "Zahlreiche Gesetze und die politische Praxis haben die Gewaltenteilung in Deutschland als Kernelement des Rechtsstaats über die Jahre in Gefahr gebracht und zu einer überbordenden Staatsgewalt geführt: Ehemalige Politiker auf Richterstühlen, Abgeordnete, die zugleich Kanzler, Ministerpräsident oder Minister sind und sich insoweit selbst kontrollieren, sowie parteipolitische Netzwerke, die durch verbotene, verfassungswidrige Ämterpatronage entstehen, können nicht länger toleriert werden.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einflussnahme politischer Parteien auf die Ernennung von Richtern und Staatsanwälten",
+      "location": "KAPITEL 1, Z. 2930",
+      "originalQuote": "Die AfD will die Einflussnahme der politischen Parteien auf die Ernennung von Richtern und Staatsanwälten beenden.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die Institution der parlamentarischen Staatssekretäre und der politischen Beamten",
+      "location": "KAPITEL 1, Z. 2939",
+      "originalQuote": "Die Institution der parlamentarischen Staatssekretäre ist abzuschaffen. Dies gilt auch für das Institut der „politischen Beamten“ in der Staatsverwaltung - vom Ministerialdirektor bis zum Polizeipräsidenten.",
+      "classification": "PARLAMENTARISCHEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die Praxis der „Parteibuchwirtschaft“ bei der Besetzung von Stellen",
+      "location": "KAPITEL 1, Z. 2941",
+      "originalQuote": "Beamten- und Richterstellen sind ausschließlich nach Qualifikation zu besetzen. Die „Parteibuchwirtschaft“ muss beendet werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staatliche Finanzierung von Parteistiftungen",
+      "location": "KAPITEL 1, Z. 2952",
+      "originalQuote": "Die AfD will die gesamte staatliche Parteienfinanzierung neu regeln und deutlich begrenzen, sowie die staatliche Finanzierung von Parteistiftungen ganz abschaffen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gängelung und Indoktrination durch Staat oder gesellschaftliche Gruppen",
+      "location": "KAPITEL 1, Z. 2978",
+      "originalQuote": "Wir gehen von der Befähigung und Bereitschaft jedes einzelnen aus, in Freiheit und Verantwortung sein Leben zu gestalten und seine Angelegenheiten und die seiner Familie zu besorgen. Gängelung und Indoktrination durch Staat oder gesellschaftliche Gruppen lehnen wir ab.",
+      "classification": "GESELLSCHAFTLICHE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Jede Art von Quoten (insbesondere Geschlechterquoten)",
+      "location": "KAPITEL 1, Z. 2980",
+      "originalQuote": "Die AfD lehnt jede Art von Quoten ab. Sie sind leistungsfeindlich, ungerecht und stellen eine verfassungswidrige Diskriminierung derer dar, die nicht in den Genuss der Quote kommen.",
+      "classification": "GESCHLECHTERQUOTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gesetze zur Ungleichbehandlung oder zur Erzwingung von Quoten",
+      "location": "KAPITEL 1, Z. 2998",
+      "originalQuote": "Gesetze, die solches vorschreiben, sind verfassungswidrig und abzulehnen. Die AfD wird sich im Deutschen Bundestag für ihre Aufhebung einsetzen.",
+      "classification": "UNGLEICHBEHANDLUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Sogenannte „Quotenregelungen“",
+      "location": "KAPITEL 1, Z. 3003",
+      "originalQuote": "Die Alternative für Deutschland tritt für die Gleichheit vor dem Gesetz ein. Deshalb lehnen wir sogenannte „Quotenregelungen“ ab.",
+      "classification": "QUOTENREGELUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Sogenannte Antidiskriminierungsgesetze",
+      "location": "KAPITEL 1, Z. 3004",
+      "originalQuote": "Die Alternative für Deutschland tritt für die Wiederherstellung der bürgerlichen Selbstbestimmung im Zivilrechtsverkehr ein. Deshalb lehnen wir sog. ,Antidiskriminierungsgesetze‘ ab.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einführung mehrerer Steuern in der Rechtssetzungs- und Ertragshoheit der EU",
+      "location": "KAPITEL 2, Z. 3027",
+      "originalQuote": "Die im Zusammenhang mit dem “Recovery Fonds” von der EU-Kommission geforderte Einführung mehrerer Steuern in der Rechtssetzungs- und Ertragshoheit der EU muss daher verhindert werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Grundsteuer, Gewerbesteuer und kleinere Verbrauchsteuern auf Bundesebene",
+      "location": "KAPITEL 3, Z. 3029",
+      "originalQuote": "In Orientierung daran könnten, bei Konzentration auf die beiden großen Steuerarten (Umsatzsteuer und Einkommenssteuer), die Grundsteuer, die Gewerbesteuer und etliche, nach ihrem Aufkommen betrachtet, weitere kleinere Verbrauchsteuern auf Bundesebene ersatzlos entfallen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bestimmte Steuern auf Landes- und Kommunalebene (Biersteuer, Vergnügungssteuer, Jagd- und Fischereisteuer, Zweitwohnungssteuer)",
+      "location": "KAPITEL 3, Z. 3031",
+      "originalQuote": "Auf Landesebene sollten die Biersteuer und auf der Kommunalebene die Vergnügungssteuer, die Schankerlaubnissteuer, die Jagd- und Fischereisteuer und die Zweitwohnungssteuer entfallen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die Grundsteuer (wegen möglicher Konfiskatorik)",
+      "location": "KAPITEL 3, Z. 3040",
+      "originalQuote": "Wenn sie [die Grundsteuer] in Wahrheit eine zweite Vermögenssteuer ist, wofür vieles spricht, ist sie ebenfalls konfiskatorisch und daher abzuschaffen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die Erbschaftssteuer",
+      "location": "KAPITEL 3, Z. 3049",
+      "originalQuote": "Es gibt keinen akzeptablen Grund, aus Trauerfällen Steuerfälle zu machen. Die AfD fordert daher die Abschaffung der Erbschaftssteuer.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Grunderwerbsteuer beim Erwerb von Immobilien zur Eigennutzung",
+      "location": "KAPITEL 3, Z. 3055",
+      "originalQuote": "Das wollen wir ändern und den Erwerb von Wohneigentum unter anderem durch die Abschaffung der Grunderwerbsteuer beim Erwerb von Immobilien zur Eigennutzung erleichtern.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Der Solidaritätszuschlag („Soli“) nach Wegfall der Transferleistungen für den Aufbau Ost",
+      "location": "KAPITEL 3, Z. 3064",
+      "originalQuote": "Genauso elementar wird die Steuergerechtigkeit verletzt, wenn der Solidaritätszuschlag, der aus Gründen der Finanzierung des Aufbau Ost eingeführt wurde, nach dem Wegfall dieser Transferleistungen nicht ebenfalls entfällt.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Erwerb der deutschen Staatsangehörigkeit durch Geburt in Deutschland, wenn dadurch Kriminelle eingebürgert werden (ius soli)",
+      "location": "Einbürgerung, Z. 2337",
+      "originalQuote": "Die Einbürgerung Krimineller ist zuverlässig zu verhindern durch die Ablehnung des Erwerbs der deutschen Staatsangehörigkeit durch Geburt in Deutschland, weil hierdurch u. a. Angehörige krimineller Clans automatisch zu deutschen Staatsbürgern werden können, die Abschaffung des einklagbaren Anspruchs auf Einbürgerung und die Verschärfung der Ausschlussgründe für Einbürgerung bei Kriminalität.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verleihung des Status als Körperschaft öffentlichen Rechts an islamische Organisationen",
+      "location": "KAPITEL 7, Z. 2359",
+      "originalQuote": "Die Verleihung des Status als Körperschaft öffentlichen Rechts an islamische Organisationen lehnen wir ab.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Eine Verpflichtung zur Organspende",
+      "location": "KAPITEL 13, Z. 2527",
+      "originalQuote": "Organspende, Sterbehilfe Eine Verpflichtung zur Organspende lehnt die AfD ab.",
+      "classification": "VERPFLICHTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schaffung einer zentralen Datenbank zur Speicherung vertraulicher Patientendaten",
+      "location": "KAPITEL 13, Z. 2587",
+      "originalQuote": "Die AfD lehnt die Schaffung einer zentralen Datenbank zur Speicherung vertraulicher Patientendaten ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die sogenannte “Critical Race Theory”",
+      "location": "KAPITEL 15, Z. 2633",
+      "originalQuote": "Die sogenannte “Critical Race Theory”, wonach Rassismus gegen Weiße nicht möglich sei, lehnen wir ab.",
+      "classification": "SOGENANNTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pauschale Rückgabe von Sammlungsgütern aus kolonialen Kontexten",
+      "location": "KAPITEL 15, Z. 2634",
+      "originalQuote": "Die AfD wendet sich auch gegen eine pauschale Rückgabe von Sammlungsgütern aus kolonialen Kontexten.",
+      "classification": "SAMMLUNGSGÜTERN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Parteipolitische Medienbeeinflussung",
+      "location": "KAPITEL 16, Z. 2670",
+      "originalQuote": "Über Subventionen, Unternehmensbeteiligungen und regierungspolitische Werbefinanzierung beeinflusst die Regierung auch die privaten Medien. Diese parteipolitische Medienbeeinflussung lehnen wir ab.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Den „Green Deal“ der EU sowie jegliche weitere Formen von Planwirtschaft",
+      "location": "KAPITEL 17, Z. 2710",
+      "originalQuote": "Wir lehnen den „Green Deal“ der EU sowie jegliche weitere Formen von Planwirtschaft ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Anwendung von Digitalisierung, die totalitäre Strukturen befördert",
+      "location": "KAPITEL 17, Z. 2716",
+      "originalQuote": "Im Einzelnen verlangen wir: * Verzicht auf Anwendung von Digitalisierung, die totalitäre Strukturen befördert.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Das Netzwerkdurchsetzungsgesetz (NetzDG)",
+      "location": "KAPITEL 17, Z. 2717",
+      "originalQuote": "* Abschaffung des NetzDG.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Upload-Filter",
+      "location": "KAPITEL 17, Z. 2717",
+      "originalQuote": "* Verhinderung von Upload-Filtern, denn sie beschneiden die Meinungsfreiheit und führen zu Zensur.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ein zentrales, bereichsübergreifendes Personenkennzeichen",
+      "location": "KAPITEL 17, Z. 2751",
+      "originalQuote": "* Ein zentrales, bereichsübergreifendes Personenkennzeichen bei der Modernisierung der Verwaltungsregister von Bund und Ländern lehnen wir ab, da es die Erstellung von Persönlichkeitsprofilen zulässt und damit verfassungswidrig ist.",
+      "classification": "BEREICHSÜBERGREIFENDES"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Brutale rituelle Schlachtmethoden (Schächtung)",
+      "location": "KAPITEL 18, Z. 2813",
+      "originalQuote": "Die AfD lehnt die brutalen rituellen Schlachtmethoden (Schächtung) ab.",
+      "classification": "SCHLACHTMETHODEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Jede Form der gesonderten Lebensmittelbesteuerung (Fleisch- oder Zuckersteuer)",
+      "location": "KAPITEL 19, Z. 2879",
+      "originalQuote": "Deshalb lehnen wir jede Form der gesonderten Lebensmittelbesteuerung, wie eine Fleisch- oder Zuckersteuer, ab.",
+      "classification": "Wirtschaft & Steuern"
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "sourceFile": "AfD - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Finanzierung des Baus und Betriebs von Moscheen durch islamische Staaten",
+      "location": "Kapitel 8",
+      "originalQuote": "Die Finanzierung des Baus und Betriebs von Moscheen in Deutschland durch islamische Staa",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Tragens von Burka und Niqab in der Öffentlichkeit",
+      "location": "Kapitel 8",
+      "originalQuote": "Das Tragen von Burka und Niqab in der Öffentlichkeit wollen wir auch in Deutschland unt",
+      "classification": "ÖFFENTLICHKEIT"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot islamischer Vereine, die sich gegen das Grundgesetz richten",
+      "location": "Kapitel 8",
+      "originalQuote": "Islamische Vereine, die sich gegen das Grundgesetz und die Völkerverständigung richten, wi",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des religiösen Trauungszeremonien ohne vorherige standesamtliche Eheschließung",
+      "location": "Kapitel 8",
+      "originalQuote": "Um Polygamie und Zwangsheiraten von Muslimen zu unterbinden, fordert die AfD, das Verbot d",
+      "classification": "TRAUUNGSZEREMONIEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der linksextremistischen Plattform „Indymedia“",
+      "location": "Kapitel 7",
+      "originalQuote": "Darüber hinaus fordern wir das Verbot der linksextremistischen Plattform „Indymedia“.",
+      "classification": "LINKSEXTREMISTISCHEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Al-Quds-Tage in Berlin",
+      "location": "Kapitel 8",
+      "originalQuote": "Die Al-Quds-Tage in Berlin, wo Demonstranten die Zerstörung Israels fordern, sind dauerh",
+      "classification": "ALQUDSTAGE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Schächtung (tierquälerische Schlachtung)",
+      "location": "Kapitel 19",
+      "originalQuote": "Deshalb lehnen wir auch den Handel, die Bewerbung und die Einfuhr von Fleisch aus tierqu",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot des Kopftuchtragens im Öffentlichen Dienst und in Schulen",
+      "location": "Kapitel 8",
+      "originalQuote": "Das Kopftuch als religiös-politisches Zeichen soll im Öffentlichen Dienst generell nicht",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Status als Körperschaft des öffentlichen Rechts für islamische Organisationen",
+      "location": "Kapitel 8",
+      "originalQuote": "Die Verleihung des Status als Körperschaft öffentlichen Rechts an islamische Organisation",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung bekenntnisgebundenen Islamunterrichts an staatlichen Schulen",
+      "location": "Kapitel 14",
+      "originalQuote": "Im konfessionsgebundenen Religionsunterricht an staatlichen Schulen soll kein Islamunterri",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Koranunterricht durch verfassungsfeindliche Moscheevereine",
+      "location": "Kapitel 14",
+      "originalQuote": "Die AfD fordert die flächendeckende Überprüfung aller Moscheevereine mit Koranschulen auf V",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Umsetzung der EU-Feuerwaffenrichtlinie",
+      "location": "Kapitel 7",
+      "originalQuote": "Die Umsetzung der EU-Feuerwaffenrichtlinie lehnen wir weiterhin ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Arbeitserlaubnis für Asylbewerber und abgelehnte Asylbewerber",
+      "location": "Kapitel 9",
+      "originalQuote": "Keine Arbeitserlaubnis mehr für Asylantragsteller und abgelehnte Asylbewerber.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Familiennachzug für Flüchtlinge",
+      "location": "Kapitel 9",
+      "originalQuote": "Ablehnung jeglichen Familiennachzuges für Flüchtlinge.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Duldungen mehr für Ausreisepflichtige",
+      "location": "Kapitel 9",
+      "originalQuote": "Keine Duldungen mehr, sondern Bescheinigungen über die Ausreisepflicht.",
+      "classification": "AUSREISEPFLICHTIGE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Sozialleistungen als Geldleistungen für Asylbewerber und Ausreisepflichtige",
+      "location": "Kapitel 9",
+      "originalQuote": "Sozialleistungen für Asylbewerber und Ausreise pflichtige sind ausnahmslos als Sachleistun",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Auszahlung von Sozialleistungen auf ausländische Konten",
+      "location": "Kapitel 11",
+      "originalQuote": "Deshalb fordert die AfD, Sozialleistungen nur noch auf inländische Konten zur Auszahlung",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Förderung für „Gender Studies“",
+      "location": "Kapitel 14",
+      "originalQuote": "Alle Fördermittel für die auf der Gender-Ideologie beruhende Lehre und Forschung sind zu s",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Konfuzius-Institute an öffentlichen Bildungseinrichtungen",
+      "location": "Kapitel 14",
+      "originalQuote": "Wir wollen deshalb die Konfuzius-Institute aus den Hochschulen wieder herauslösen.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine bekenntnisgebundene Islamunterricht an staatlichen Schulen",
+      "location": "Kapitel 14",
+      "originalQuote": "Islamunterricht an deutschen Schulen dient derzeit nicht der Integration, sondern fördert",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verzicht auf Anwendung von Digitalisierung, die totalitäre Strukturen befördert",
+      "location": "Kapitel 18",
+      "originalQuote": "Verzicht auf Anwendung von Digitalisierung, die totalitäre Strukturen befördert.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung des NetzDG",
+      "location": "Kapitel 18",
+      "originalQuote": "Abschaffung des NetzDG.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung von Upload-Filtern",
+      "location": "Kapitel 18",
+      "originalQuote": "Verhinderung von Upload-Filtern, denn sie beschneiden die Meinungsfreiheit und führen zu",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Pariser Klimaabkommens",
+      "location": "Kapitel 18",
+      "originalQuote": "Das Pariser Klimaabkommen vom 12.12.2015 ist zu kündigen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung jeglicher CO2-Besteuerung",
+      "location": "Kapitel 18",
+      "originalQuote": "Jegliche Form der CO2-Besteuerung ist abzuschaffen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des „Green Deal“ der EU",
+      "location": "Kapitel 18",
+      "originalQuote": "Wir lehnen den „Green Deal“ der EU sowie jegliche weitere Formen von Planwirtschaft ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung der Grunderwerbsteuer auf selbstgenutzte Wohnimmobilien",
+      "location": "Kapitel 17",
+      "originalQuote": "Die Grunderwerbsteuer auf selbstgenutzte Wohnimmobilien ist ersatzlos zu streichen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung der Grundsteuer",
+      "location": "Kapitel 17",
+      "originalQuote": "Die Grundsteuer und Gebühren wie die EEG-Umlage und die GEZ-Gebühren (Haushaltsabgabe) si",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung staatlicher Parteienfinanzierung und Parteistiftungen",
+      "location": "Kapitel 1",
+      "originalQuote": "Die AfD will die gesamte staatliche Parteienfinanzierung neu regeln und deutlich begrenzen",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Quotenregelungen",
+      "location": "Kapitel 1",
+      "originalQuote": "Die AfD lehnt jede Art von Quoten ab.",
+      "classification": "QUOTENREGELUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Antidiskriminierungsgesetzen",
+      "location": "Kapitel 1",
+      "originalQuote": "Deshalb lehnen wir sog. ,Antidiskriminierungsgesetze‘ ab.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ausweisung von Familienmitgliedern aus dem Öffentlichen Dienst bei Kopftuchtragen",
+      "location": "Kapitel 8",
+      "originalQuote": "Das Kopftuch als religiös-politisches Zeichen soll im Öffentlichen Dienst generell nicht",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein bekenntnisgebundener Islamunterricht an Schulen",
+      "location": "Kapitel 14",
+      "originalQuote": "Im konfessionsgebundenen Religionsunterricht an staatlichen Schulen soll kein Islamunterri",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Auslandsüberweisungen ohne Besteuerung",
+      "location": "Kapitel 9",
+      "originalQuote": "Um diesen Migrationsanreiz zu beseitigen, befürworten wir die Einführung einer Steuer auf",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Finanzierung von Faktenprüfern und Meinungswächtern",
+      "location": "Kapitel 16",
+      "originalQuote": "„Faktenprüfer“ und Meinungswächter dürfen keine staatliche Finanzierung erhalten.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Subventionen für politisch motivierte Medien",
+      "location": "Kapitel 16",
+      "originalQuote": "Über Subventionen, Unternehmensbeteiligungen und regierungspolitische Werbefinanzierung b",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Beteiligung von Parteien an Medienunternehmen",
+      "location": "Kapitel 1",
+      "originalQuote": "Ferner soll den Parteien endlich die Beteiligung an Unternehmen, insbesondere Medienuntern",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verpflichtung zur Organspende",
+      "location": "Kapitel 13",
+      "originalQuote": "Eine Verpflichtung zur Organspende lehnt die AfD ab.",
+      "classification": "VERPFLICHTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Förderung von Ideologien wie Gender Studies",
+      "location": "Kapitel 14",
+      "originalQuote": "Alle Fördermittel für die auf der Gender-Ideologie beruhende Lehre und Forschung sind zu s",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Bevormundung durch Lebensmittelbesteuerung",
+      "location": "Kapitel 19",
+      "originalQuote": "Deshalb lehnen wir jede Form der gesonderten Lebensmittelbesteuerung, wie eine Fleisch- od",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Neubau von Photovoltaikanlagen auf Freiflächen",
+      "location": "Kapitel 19",
+      "originalQuote": "Den Neubau von Photovoltaikanlagen auf Freiflächen lehnen wir aufgrund ihres hohen Flächen",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Ausbau von Windenergieanlagen in Wäldern und Schutzgebieten",
+      "location": "Kapitel 18",
+      "originalQuote": "In Wäldern und Schutzgebieten dürfen keine Wind- und Solaranlagen errichtet werden.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein generelles Tempolimit auf Bundesautobahnen",
+      "location": "Kapitel 18",
+      "originalQuote": "Die AfD lehnt ein generelles Tempolimit auf Bundesautobahnen strikt ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verpflichtung zur Nutzung gendergerechter Sprache",
+      "location": "Kapitel 15",
+      "originalQuote": "Wir lehnen daher insbesondere die sogenannte „gendergerechte Sprache“ ab und sprechen un",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Finanzierung für private oder staatliche Klimaschutzorganisationen",
+      "location": "Kapitel 18",
+      "originalQuote": "Deutschland muss aus allen staatlichen und privaten „Klimaschutz“-Organisationen austret",
+      "classification": "Umwelt & Klima"
+    }
+  ]
+}

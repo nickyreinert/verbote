@@ -1,0 +1,124 @@
+{
+  "sourceFile": "CDU-CSU - 2009 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Generelles Tempolimit auf Autobahnen",
+      "location": "B.I.2 Leistungsfähige Verkehrsnetze – Impulse für die Bauwirtschaft",
+      "originalQuote": "Ein generelles Tempolimit auf Autobahnen lehnen wir ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neubau von Kernkraftwerken",
+      "location": "B.I.3 Energie – sicher, sauber und bezahlbar",
+      "originalQuote": "Einen Neubau von Kernkraftwerken lehnen wir ab.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weitere Verteuerung von Energie",
+      "location": "B.I.3 Energie – sicher, sauber und bezahlbar",
+      "originalQuote": "Genauso wie wir daher eine weitere Verteuerung von Energie vermeiden wollen, müssen wir",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Protektionismus im Welthandel",
+      "location": "B.I.4 Faire Regeln für internationale Finanzmärkte und Weltwirtschaft",
+      "originalQuote": "Wir bekennen uns zum Grundsatz des freien Welthandels und lehnen Protektionismus ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vollständige rechtliche Gleichstellung nichtehelicher und gleichgeschlechtlicher Lebensgemeinschaften mit der Ehe",
+      "location": "B.II.2 Wahlfreiheit für Familien",
+      "originalQuote": "Eine vollständige rechtliche Gleichstellung solcher Lebensgemeinschaften mit der Ehe lehnen",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Legalisation aktiver Sterbehilfe",
+      "location": "B.II.2 Wahlfreiheit für Familien",
+      "originalQuote": "Wir lehnen eine Legalisierung der aktiven Sterbehilfe ab.",
+      "classification": "LEGALISATION"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Legalisierung weicher Drogen",
+      "location": "B.I.7 Zukunftsfähige Politik für Gesundheit und Pflege",
+      "originalQuote": "Eine „Legalisierung“ angeblich „weicher Drogen“ lehnen wir ab.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staatliche Einheitsversicherung im Gesundheitswesen",
+      "location": "B.I.7 Zukunftsfähige Politik für Gesundheit und Pflege",
+      "originalQuote": "Eine staatliche Einheitsversicherung lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "EU-weite Regelung des Asylrechts",
+      "location": "B.II.4 Vorfahrt für Integration",
+      "originalQuote": "Die Bestrebungen der EU, das Asylrecht EU-weit weitestgehend einheitlich zu regeln, würden zu",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kommunales Wahlrecht für Ausländer",
+      "location": "B.II.4 Vorfahrt für Integration",
+      "originalQuote": "Ein generelles kommunales Wahlrecht für Ausländer lehnen wir ab, denn es eröffnet keine volle",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Generelle Hinnahme doppelter Staatsbürgerschaften",
+      "location": "B.II.4 Vorfahrt für Integration",
+      "originalQuote": "Eine generelle Hinnahme doppelter Staatsbürgerschaften lehnen wir dabei ab.",
+      "classification": "STAATSBÜRGERSCHAFTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Finanzielle Beteiligung politischer Parteien an Medien/Unternehmen außerhalb ihres Auftrags",
+      "location": "B.II.5 Kulturnation: Identität pflegen – Kreativität entfalten",
+      "originalQuote": "Eine unmittelbare oder mittelbare finanzielle Beteiligung politischer Parteien an nicht klar in i",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Patente auf Tiere und Pflanzen",
+      "location": "B.III.3 Ländliche Räume und Landwirtschaft stärken",
+      "originalQuote": "Wir wenden uns gegen Patente auf Tiere und Pflanzen.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "EU-Richtlinie zum Bodenschutz",
+      "location": "B.III.6 Umwelt- und Klimaschutz – Für die Zukunft unserer Erde",
+      "originalQuote": "Eine EU-Richtlinie zum Bodenschutz lehnen wir ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Sammelklagen nach anglo-amerikanischem Vorbild",
+      "location": "B.IV.1 Freiheit und Sicherheit für die Bürger",
+      "originalQuote": "Eine Übernahme strukturfremder Rechtsfiguren aus dem anglo-amerikanischen Recht, wie z. B. Sa",
+      "classification": "ANGLOAMERIKANISCHEM"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aufweichung des deutschen Asylkompromisses durch EU-weite Regelungen",
+      "location": "B.II.4 Vorfahrt für Integration",
+      "originalQuote": "Die Bestrebungen der EU, das Asylrecht EU-weit weitestgehend einheitlich zu regeln, würden zu",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Zwangsverheiratung",
+      "location": "B.II.4 Vorfahrt für Integration",
+      "originalQuote": "Im Kampf gegen Zwangsehen werden wir einen eigenständigen Straftatbestand für Zwangsheirat ei",
+      "classification": "ZWANGSVERHEIRATUNG"
+    }
+  ]
+}

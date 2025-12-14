@@ -1,0 +1,159 @@
+{
+  "sourceFile": "FDP - 2009 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bevormundung durch Staatsbürokratie",
+      "location": "1. Präambel: Die Mitte stärken. ",
+      "originalQuote": "Sie erkennen selbst, was getan werden muss und brauchen dafür keine bevormundende Staatsbürokratie.",
+      "classification": "STAATSBÜROKRATIE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aufgabe von Bürgerrechten für trügerische Sicherheit",
+      "location": "1. Präambel: Die Mitte stärken. ",
+      "originalQuote": "Wir sind nicht dazu bereit, Bürgerrechte für eine trügerische Sicherheit aufzugeben.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Infragestellung der Leistungsfähigkeit der Sozialen Marktwirtschaft und Forderung neuer Regulierungen",
+      "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
+      "originalQuote": "Wir halten es für falsch, ihre Leistungsfähigkeit in Frage zu stellen und immer neue und weitergehende staatliche Regulierungen zu fordern.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Denkverbote in der Forschung und Politik",
+      "location": "1. Präambel: Die Mitte stärken. ",
+      "originalQuote": "Wir maßen uns nicht an, die Zukunft zu kennen. Wir sind aber sicher, dass das kreative Ringen um neue Lösungen der beste Weg ist, um unsere Zukunft zu gestalten. Denkverbote sind nicht nur in der Forschung fehl am Platze.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einbeziehung privater Veräußerungsgewinne in die Abgeltungsteuer",
+      "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
+      "originalQuote": "Die Einbeziehung der privaten Veräußerungsgewinne in die Abgeltungsteuer lehnt die FDP ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Steuerklasse V (wird abgeschafft)",
+      "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
+      "originalQuote": "Die Steuerklasse V, die die Aufnahme einer Erwerbstätigkeit besonders für Frauen nach einer Familienpause steuerlich häufig unattraktiv erscheinen lässt, wird abgeschafft.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Prinzipielles Neuverschuldungsverbot für Bund, Länder und Gemeinden",
+      "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
+      "originalQuote": "Um diesen konsequent zu Ende zu gehen, fordert die FDP ein prinzipielles Neuverschuldungsverbot für Bund, Länder und Gemeinden.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wettbewerbsverzerrungen durch staatliche Bankenbeteiligung (sollen vermieden werden)",
+      "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
+      "originalQuote": "Solange der Staat sich an Unternehmen des Finanzsektors beteiligt, hat er Steuermittel zurückhaltend einzusetzen, Wettbewerbsverzerrungen zu vermeiden und seine Auflagen so auszugestalten, dass dadurch keine unverantwortliche Risikopolitik in den Banken verursacht wird.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unverantwortliche Risikopolitik in Banken bei staatlicher Beteiligung",
+      "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
+      "originalQuote": "Solange der Staat sich an Unternehmen des Finanzsektors beteiligt, hat er Steuermittel zurückhaltend einzusetzen, Wettbewerbsverzerrungen zu vermeiden und seine Auflagen so auszugestalten, dass dadurch keine unverantwortliche Risikopolitik in den Banken verursacht wird.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Interessenkonflikte durch Beratung und Rating aus einer Hand (sind zu unterbinden)",
+      "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
+      "originalQuote": "Beratung und Rating aus einer Hand schaffen Interessenkonflikte und sind zu unterbinden.",
+      "classification": "INTERESSENKONFLIKTE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Risikoverlagerungen aus der Bilanz der Banken",
+      "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
+      "originalQuote": "Verbriefungen sind anerkannte Instrumente zur Refinanzierung der Banken. Das Risiko, das sich hinter den Papieren verbirgt, muss transparent werden, Risikoverlagerungen aus der Bilanz heraus darf es nicht mehr geben.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unternehmen dürfen nicht auf staatliche Rettung vertrauen und dadurch hohe Risiken eingehen",
+      "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
+      "originalQuote": "Doch auch die Haftung für entstandene Verluste gehört untrennbar zur Sozialen Marktwirtschaft. Es kann nicht sein, dass es Unternehmen gibt, deren Eigentümer auf eine Rettung durch den Staat vertrauen und deshalb besonders hohe Risiken eingehen können.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Zuständigkeit des Finanzministeriums für den Ordnungsrahmen des Finanzgewerbes bei staatlicher Bankbeteiligung",
+      "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
+      "originalQuote": "Wenn sich der Staat zeitweilig an Banken beteiligt, darf das Finanzministerium nicht länger für den Ordnungsrahmen des Finanzgewerbes zuständig sein.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Datenverarbeitung von außerdienstlichem Verhalten der Arbeitnehmer",
+      "location": "3. Mehr Bürgerfreiheit durch mehr Vertrauen, Zusammenhalt und Toleranz ",
+      "originalQuote": "Es dürfen nur solche Daten verarbeitet werden, die für das Arbeitsverhältnis erforderlich sind. Eine Datenverarbeitung, die sich auf außerdienstliches Verhalten, etwa Äußerungen zu politischen Sachverhalten, bezieht, muss grundsätzlich ausgeschlossen sein.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz der Bundeswehr im Innern über bestehende Aufgaben hinaus",
+      "location": "3. Mehr Bürgerfreiheit durch mehr Vertrauen, Zusammenhalt und Toleranz ",
+      "originalQuote": "Innere und äußere Sicherheit müssen auch weiterhin klar voneinander getrennt werden. Die FDP lehnt den Einsatz der Bundeswehr im Innern über bestehende Aufgaben hinaus strikt ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Der Gesetzgeber soll keine gesetzliche Regelung für jeden Einzelfall anbieten",
+      "location": "3. Mehr Bürgerfreiheit durch mehr Vertrauen, Zusammenhalt und Toleranz ",
+      "originalQuote": "Wir brauchen weniger, aber bessere Gesetze. Gesetze müssen verständlich, übersichtlich und in ihren Auswirkungen vorhersehbar sein. Der Gesetzgeber darf nicht für jeden Einzelfall eine gesetzliche Regelung anbieten.",
+      "classification": "GESETZGEBER"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verharmlosung und Entkriminalisierung von Straftaten",
+      "location": "3. Mehr Bürgerfreiheit durch mehr Vertrauen, Zusammenhalt und Toleranz ",
+      "originalQuote": "Der Staat hat die Aufgabe, die Bürger vor Gewalt und Kriminalität zu schützen. Verharmlosung und Entkriminalisierung von Straftaten darf es nicht geben.",
+      "classification": "ENTKRIMINALISIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pläne zur Entkriminalisierung so genannter Bagatelldelikte",
+      "location": "3. Mehr Bürgerfreiheit durch mehr Vertrauen, Zusammenhalt und Toleranz ",
+      "originalQuote": "Jede kriminelle Handlung ist eine Grenzübertretung, die Folgen für den Täter haben muss. Plänen zur Entkriminalisierung so genannter Bagatelldelikte erteilen wir eine Absage.",
+      "classification": "ENTKRIMINALISIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Jegliche Überlegungen hinsichtlich eines „Spähangriffes“",
+      "location": "3. Mehr Bürgerfreiheit durch mehr Vertrauen, Zusammenhalt und Toleranz ",
+      "originalQuote": "Die FDP will, dass sich die Sicherheitsgesetze an dem verfassungsrechtlich Zulässigen zu orientieren. Daher lehnen die Liberalen jegliche Überlegungen hinsichtlich eines „Spähangriffes“ ab.",
+      "classification": "SPÄHANGRIFFES"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Sammelklagen (werden abgelehnt)",
+      "location": "3. Mehr Bürgerfreiheit durch mehr Vertrauen, Zusammenhalt und Toleranz ",
+      "originalQuote": "Für ein modernes Zivil- und Wirtschaftsrecht Die FDP setzt sich für ein modernes deutsches Rechtssystem ein, ohne das amerikanische zu kopieren und lehnt daher Sammelklagen ab.",
+      "classification": "SAMMELKLAGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gesetzliche Muster für Verträge, Satzungen oder ähnliches",
+      "location": "3. Mehr Bürgerfreiheit durch mehr Vertrauen, Zusammenhalt und Toleranz ",
+      "originalQuote": "Der Schutz der Minderheitsaktionäre darf hierbei jedoch nicht vergessen werden. Die FDP will grundsätzlich keine gesetzlichen Muster für Verträge, Satzungen oder ähnliches.",
+      "classification": "GESETZLICHE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Abhängen dünn besiedelter Räume bei der verkehrlichen Anbindung",
+      "location": "4. Die Welt von morgen gestalten ",
+      "originalQuote": "Weiterhin müssen flexible Angebote zur Aufrechterhaltung der öffentlichen Daseinsvorsorge in sehr dünn besiedelten Räumen geschaffen werden, wie zum Beispiel dezentrale Systeme und alternative Technologien zur Energie-, Wasserver- und Abwasserentsorgung. Bei der verkehrlichen Anbindung dürfen diese Räume nicht abgehängt werden.",
+      "classification": "Verkehr & Mobilität"
+    }
+  ]
+}

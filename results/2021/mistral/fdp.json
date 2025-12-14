@@ -1,0 +1,754 @@
+{
+  "sourceFile": "FDP - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von staatlichen Beteiligungen, die nicht der öffentlichen Daseinsvorsorge dienen",
+      "location": "Kapitel I, Abschnitt 'Beteiligungsbremse für den Staat – Anteile an Post und Telekom verkaufen'",
+      "originalQuote": "Wir Freie Demokraten fordern eine Beteiligungsbremse für den Staat. Unnötige staatliche Beteiligungen sowie alle ",
+      "classification": "DASEINSVORSORGE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von neuen staatlichen Beteiligungen ohne Abbau bestehender",
+      "location": "Kapitel I, Abschnitt 'Beteiligungsbremse für den Staat – Anteile an Post und Telekom verkaufen'",
+      "originalQuote": "Neue Beteiligungen sollten nur noch dann zulässig sein, wenn andere entsprechend reduziert werden.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von pauschalen Verboten für Verbrennungsmotoren",
+      "location": "Kapitel II, Abschnitt 'Mobilität ist Freiheit – Innovationen statt Verbote'",
+      "originalQuote": "Ein pauschales Verbot von Verbrennungsmotoren lehnen wir ab.",
+      "classification": "VERBRENNUNGSMOTOREN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Tempolimits, Diesel- oder Motorradfahrverboten",
+      "location": "Kapitel II, Abschnitt 'Mobilität ist Freiheit – Innovationen statt Verbote'",
+      "originalQuote": "Tempolimits, Diesel- oder Motorradfahrverbote sind weder progressiv noch nachhaltig.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von einseitigen Subventionen und Vorgaben im Fahrzeugbau",
+      "location": "Kapitel II, Abschnitt 'Technologieoffenheit im Fahrzeugbau'",
+      "originalQuote": "Einseitige Subventionen und Vorgaben müssen beendet werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von staatlichen Eingriffen in die Preisgestaltung von Gatekeeper-Unternehmen",
+      "location": "Kapitel I, Abschnitt 'Wirksame Regulierung von Gatekeeper-Unternehmen'",
+      "originalQuote": "Gatekeeper-Unternehmen [...] müssen einer speziellen Regulierung unterworfen werden. Die Regulierung soll verhindern, dass Gatekeeper den Wettbewerb verzerren, indem sie sich beispielsweise bei Suchergebnissen selbst begünstigen",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Steuer-Deals zwischen Unternehmen und Behörden",
+      "location": "Kapitel I, Abschnitt 'Transparenter Steuerwettbewerb in der EU'",
+      "originalQuote": "Wir sind ausdrücklich gegen die Zulässigkeit sogenannter Tax-Deals, mit denen große Unternehmen die Höhe ihrer eigenen Besteuerung mit den Behörden eines Mitgliedstaats individuell aushandeln können.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Zivilklauseln in der Wissenschaft",
+      "location": "Kapitel I, Abschnitt 'Wissenschaftsfreiheit verteidigen'",
+      "originalQuote": "Gesetzliche Zivilklauseln lehnen wir ab.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von pauschaler Ausgrenzung anderer Meinungen (Cancel Culture)",
+      "location": "Kapitel I, Abschnitt 'Wissenschaftsfreiheit verteidigen'",
+      "originalQuote": "Das Ausgrenzen anderer Meinungen (Cancel Culture) widerspricht dem Verfassungsgrundsatz der Freiheit von Forschung und Lehre.",
+      "classification": "AUSGRENZUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von staatlicher Co-Finanzierung der Konfuzius-Institute",
+      "location": "Kapitel I, Abschnitt 'Wissenschaftsfreiheit verteidigen'",
+      "originalQuote": "Staatliche Co-Finanzierungen der Institute sollen beendet werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von ideologischen Denkschranken im Tourismus",
+      "location": "Kapitel I, Abschnitt 'Zukunftsbranche Tourismus – heimische Wirtschaft stärken'",
+      "originalQuote": "Wir setzen auf Vielfalt statt ideologische Denkschranken.",
+      "classification": "IDEOLOGISCHEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Bagatell- und Lenkungssteuern wie Schaumwein-, Bier- und Kaffeesteuer",
+      "location": "Kapitel I, Abschnitt 'Bagatell- und Lenkungssteuern abschaffen'",
+      "originalQuote": "Wir Freie Demokraten wollen überflüssige Bagatell- und Lenkungssteuern wie die Schaumwein- und Zwischenerzeugnissteuer, die Biersteuer oder die Kaffeesteuer abschaffen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von staatlichen Eingriffen in die Preisgestaltung von Ladesäulen für E-Mobilität",
+      "location": "Kapitel II, Abschnitt 'Infrastruktur für E-Mobilität ausbauen – teure Subventionen streichen'",
+      "originalQuote": "Dafür wollen wir einen diskriminierungsfreien Zugang der Ladestromanbieter zu den Ladesäulen gegen Gebühr sowie transparente Preis- und Abrechnungssysteme zugunsten der Kundinnen und Kunden durchsetzen.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Hilfsprogrammen für Unternehmen",
+      "location": "Kapitel I, Abschnitt 'Zurück zur Marktwirtschaft – mit Wachstum Corona-Folgen überwinden'",
+      "originalQuote": "Der Weg zu immer mehr Nothilfen und Rettungsschirmen für einzelne Unternehmen lässt sich nicht aufrechterhalten. Er ist ineffizient, verzerrt den Wettbewerb und reduziert die Wettbewerbsfähigkeit sowie Innovationskraft",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Wirtschaft",
+      "location": "Kapitel I, Abschnitt 'Zurück zur Marktwirtschaft – mit Wachstum Corona-Folgen überwinden'",
+      "originalQuote": "Wir wollen den Wettbewerb national und international stärken und insbesondere vermeiden, dass unnötige Verflechtungen von Markt- und Staatswirtschaft entstehen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Subventionen für 'nationale Champions'",
+      "location": "Kapitel I, Abschnitt 'Europäische Wettbewerbsordnung'",
+      "originalQuote": "Wir wenden uns daher entschieden gegen die politische Förderung von ‚nationalen Champions‘. Derlei Alleingänge innerhalb des europäischen Binnenmarktes bremsen Innovationen und Skalierbarkeit aus.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Bahntrassen",
+      "location": "Kapitel II, Abschnitt 'Bahnverkehr privatisieren – mehr Wettbewerb auf der Schiene'",
+      "originalQuote": "Ziel ist es, mehr Personen und Güter auf der Schiene zu transportieren. Das gelingt aber nicht mit einer Staatsbahn, sondern nur mit mehr Wettbewerb, mehr Digitalisierung und niedrigeren Trassenpreisen für die Nutzung der Schienenwege.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Luftverkehrssteuern",
+      "location": "Kapitel II, Abschnitt 'Faire Rahmenbedingungen für Luftverkehr mit Zukunft'",
+      "originalQuote": "Wir wollen die Luftverkehrssteuer abschaffen, die Luftsicherheitsgebühren neu ordnen und eine Ausweitung von Nachtflugverboten verhindern.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Nachtflügen",
+      "location": "Kapitel II, Abschnitt 'Faire Rahmenbedingungen für Luftverkehr mit Zukunft'",
+      "originalQuote": "Wir wollen die Luftverkehrssteuer abschaffen, die Luftsicherheitsgebühren neu ordnen und eine Ausweitung von Nachtflugverboten verhindern.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Mietwagen und Fernbussen",
+      "location": "Kapitel II, Abschnitt 'Taxigewerbe entlasten und öffnen – Mobilität für alle'",
+      "originalQuote": "Dafür müssen die Rückkehrpflicht für Mietwagen und der Mindestabstand von 50 Kilometern zwischen zwei Haltestellen für Fernbusse vollständig abgeschafft werden.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Sozialversicherungsbeiträgen",
+      "location": "Kapitel II, Abschnitt 'Vorfälligkeit der Beiträge rückgängig machen – Unternehmen entlasten'",
+      "originalQuote": "Wir wollen die Vorfälligkeit bei der Abführung von Sozialversicherungsbeiträgen wieder rückgängig machen. Sie führt nicht nur zu bürokratischer Mehrbelastung, sondern entzieht den Unternehmen Kapital.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von CO2-Emissionshandel",
+      "location": "Kapitel II, Abschnitt 'Emissionshandel auf den gesamten Verkehrssektor ausweiten'",
+      "originalQuote": "Wir Freie Demokraten fordern die Ausweitung des Europäischen CO2-Emissionshandels auf den gesamten Verkehrssektor. Dadurch können die bestehenden Maßnahmen zur CO2-Reduktion im Verkehr beendet werden.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Subventionen für E-Autos",
+      "location": "Kapitel II, Abschnitt 'Infrastruktur für E-Mobilität ausbauen – teure Subventionen streichen'",
+      "originalQuote": "Auf teure Subventionen wie die Kaufprämie für E-Autos wollen wir verzichten.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Hybridfahrzeugen",
+      "location": "Kapitel II, Abschnitt 'Infrastruktur für E-Mobilität ausbauen – teure Subventionen streichen'",
+      "originalQuote": "Die Regulierungen für Hybridfahrzeuge müssen überarbeitet werden, sodass deren reale CO2-Emissionen berücksichtigt werden.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Sozialausgaben",
+      "location": "Kapitel I, Abschnitt 'Höchstens 50 Prozent Sozialausgaben im Bundeshaushalt'",
+      "originalQuote": "Wir Freie Demokraten wollen die Höhe der Sozialausgaben grundsätzlich bei 50 Prozent des Bundeshaushalts deckeln.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Schuldenstandsquote",
+      "location": "Kapitel I, Abschnitt 'Tilgungsturbo für die Corona-Schulden'",
+      "originalQuote": "Wir Freie Demokraten wollen die Schuldenstandsquote Deutschlands gemäß den Maastricht-Kriterien zügig wieder unter die 60-Prozent-Marke senken.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Abgabenquote",
+      "location": "Kapitel I, Abschnitt 'Abgabenquote unter 40 Prozent senken!'",
+      "originalQuote": "Wir Freie Demokraten wollen eine Trendwende bei der Abgabenquote erreichen und die Abgabenbelastung für die Arbeitnehmer und die Arbeitgeber wieder auf unter 40 Prozent senken.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Unternehmensteuerlast",
+      "location": "Kapitel I, Abschnitt 'Unternehmensteuerlast auf 25 Prozent senken'",
+      "originalQuote": "Wir Freie Demokraten wollen die steuerliche Belastung von Unternehmen auf den OECD-Durchschnitt (Organisation für wirtschaftliche Zusammenarbeit und Entwicklung) von rund 25 Prozent senken.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Erbschaftsteuer",
+      "location": "Kapitel I, Abschnitt 'Keine neue Substanzbesteuerung'",
+      "originalQuote": "Wir lehnen eine einmalige Vermögensabgabe ebenso ab wie die Wiederbelebung der Vermögensteuer.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Solidaritätszuschlag",
+      "location": "Kapitel I, Abschnitt 'Solidaritätszuschlag wie versprochen komplett abschaffen'",
+      "originalQuote": "Wir Freie Demokraten wollen den Solidaritätszuschlag komplett abschaffen.",
+      "classification": "SOLIDARITÄTSZUSCHLAG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Spitzensteuersatz",
+      "location": "Kapitel I, Abschnitt 'Spitzensteuersatz nur für Spitzenverdiener'",
+      "originalQuote": "Wir wollen den Spitzensteuersatz schrittweise ‚nach rechts verschieben‘ – mit dem Ziel, dass dieser erst ab einem Einkommen von 90.000 Euro greift.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Sozialausgaben",
+      "location": "Kapitel I, Abschnitt 'Höchstens 50 Prozent Sozialausgaben im Bundeshaushalt'",
+      "originalQuote": "Wir Freie Demokraten wollen die Höhe der Sozialausgaben grundsätzlich bei 50 Prozent des Bundeshaushalts deckeln.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Bildung",
+      "location": "Kapitel I, Abschnitt 'Ein Prozent der Mehrwertsteuereinnahmen zusätzlich in Bildung investieren'",
+      "originalQuote": "Wir Freie Demokraten fordern, einen Prozentpunkt des bestehenden Mehrwertsteueraufkommens zusätzlich in Bildung zu investieren.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Infrastruktur",
+      "location": "Kapitel II, Abschnitt 'Deutschland beschleunigen'",
+      "originalQuote": "Für alle Verkehrswege – von der Schiene über die Straße bis zum Radweg – muss der Aufwuchs der Investitionsmittel verlässlich fortgesetzt und zügig verbaut werden.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Digitalisierung",
+      "location": "Kapitel II, Abschnitt 'Digitalpakt 2.0'",
+      "originalQuote": "Wir Freie Demokraten fordern einen Digitalpakt 2.0, der die verfassungsrechtlichen Möglichkeiten der Kooperation von Bund und Ländern im Bildungsbereich vollständig nutzt.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Forschung",
+      "location": "Kapitel I, Abschnitt 'Grundlagenforschung fördern'",
+      "originalQuote": "Wir Freie Demokraten sehen die Grundlagenforschung als Basis für Innovation an. Daher wollen wir sie neben der angewandten Forschung weiter ausbauen.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Bioökonomie",
+      "location": "Kapitel II, Abschnitt 'Bioökonomie: Wohlstand und nachhaltige Entwicklung zusammenbringen'",
+      "originalQuote": "Wir wollen innovative Forschung zur effizienteren Nutzung von Ressourcen voranbringen und einen Beitrag für eine zukunftsorientierte, nachhaltige Wirtschaft leisten.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Raumfahrt",
+      "location": "Kapitel II, Abschnitt 'Raumfahrt mit Weltraumgesetz fördern'",
+      "originalQuote": "Wir wollen ein wegweisendes Weltraumgesetz, das den Unternehmen die notwendige Sicherheit für ihre Zukunftsinvestitionen gibt und Projekte sowie Vergaben schneller und flexibler realisiert werden können.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Mobilität",
+      "location": "Kapitel II, Abschnitt 'Mobilität der Zukunft „Made in Germany“'",
+      "originalQuote": "Wir Freie Demokraten wollen die Zulassungs- und Testverfahren für neue Ideen vereinfachen und die Innovationsförderung voranbringen.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Gesundheitswesen",
+      "location": "Kapitel II, Abschnitt 'Unkomplizierter Staat'",
+      "originalQuote": "Wir Freie Demokraten wollen einen unkomplizierten Staat, der den Bürgerinnen und Bürgern das Leben erleichtert.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Sicherheit",
+      "location": "Kapitel II, Abschnitt 'Weitreichende Föderalismus- und Verwaltungsreform'",
+      "originalQuote": "Wir Freie Demokraten wollen durch eine umfassende Föderalismus- und Verwaltungsreform einen modernen und handlungsfähigen Staat schaffen.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Arbeitsmarkt",
+      "location": "Kapitel II, Abschnitt 'Vorsorge für funktionierende Wirtschaftshilfen treffen'",
+      "originalQuote": "Wir Freie Demokraten fordern, für den Fall der Fälle bei Wirtschaftshilfen und Hilfen für Selbstständige in Zukunft besser gerüstet zu sein.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in One-Stop-Shops",
+      "location": "Kapitel II, Abschnitt 'Behörden zu One-Stop-Shops machen'",
+      "originalQuote": "Wir Freie Demokraten wollen Behörden konsequent zu One-Stop-Shops ausbauen.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Zahlungsmoral",
+      "location": "Kapitel II, Abschnitt 'Zahlungsmoral-Offensive der öffentlichen Hand'",
+      "originalQuote": "Wir Freie Demokraten wollen eine Zahlungsmoral-Offensive der öffentlichen Hand.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Innovationen",
+      "location": "Kapitel II, Abschnitt 'Innovation Nation'",
+      "originalQuote": "Wir Freie Demokraten wollen für politische Entscheidungen das Innovationsprinzip ergänzend zum Vorsorgeprinzip.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Deutsche Transfergemeinschaft",
+      "location": "Kapitel II, Abschnitt 'Deutsche Transfergemeinschaft – Innovationen fördern'",
+      "originalQuote": "Wir Freie Demokraten wollen die Gründung einer Deutschen Transfergemeinschaft (DTG) auf den Weg bringen.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in digitale Freiheitszonen",
+      "location": "Kapitel II, Abschnitt 'Digitale Freiheitszonen schaffen'",
+      "originalQuote": "Wir Freie Demokraten wollen digitale Freiheitszonen zur Förderung digitaler und innovativer Geschäftsmodelle einführen.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Recycling",
+      "location": "Kapitel II, Abschnitt 'Moderne Recyclingmethoden statt Produktverbote'",
+      "originalQuote": "Wir wollen technologieoffenes Recycling in Deutschland ermöglichen und Abfälle zu neuen Rohstoffen machen, um letztlich eine EU-weite Kreislaufwirtschaft aufzubauen.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Kunststoff",
+      "location": "Kapitel II, Abschnitt 'Kunststoff – der Werkstoff der Zukunft'",
+      "originalQuote": "Wir Freie Demokraten werden uns bei der ökologischen Bewertung von Produkten aus Kunststoff und alternativen Materialien wie Papier und Glas konsequent an Ökobilanzen orientieren.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Startplattform für kleine Trägerraketen",
+      "location": "Kapitel II, Abschnitt 'Startplattform für kleine Trägerraketen'",
+      "originalQuote": "Einen Weltraumbahnhof für kleine Trägerraketen in Europa sehen wir als Zukunftsprojekt, damit die zahlreichen erfolgsversprechenden ‚New-Space-Unternehmen‘ Satelliten flexibel und unabhängig ins All bringen können.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in europäische Transportnetze",
+      "location": "Kapitel II, Abschnitt 'Europa besser verbinden – Transportnetze ausbauen'",
+      "originalQuote": "Wir Freie Demokraten fordern eine ganzheitliche Infrastrukturstrategie für Europa und den Ausbau transeuropäischer Transportnetze.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Radverkehr",
+      "location": "Kapitel II, Abschnitt 'Radverkehr sicher gestalten'",
+      "originalQuote": "Wir Freie Demokraten sehen im Fahrrad einen umweltfreundlichen Verkehrsträger für die individuelle Fortbewegung.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in autonomes Fahren",
+      "location": "Kapitel II, Abschnitt 'Zukunftsthema ‚autonomes Fahren‘ etablieren'",
+      "originalQuote": "Wir Freie Demokraten fordern eine langfristig angelegte Strategie für das autonome Fahren, die nicht nur die Entwicklung der eigentlichen Technologie, sondern auch die Vernetzung aller Verkehrsteilnehmerinnen und -teilnehmer sowie rechtliche und regulatorische Rahmenbedingungen und das Schaffen positiver Wachstumsfaktoren umfasst.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Bildungseinrichtungen",
+      "location": "Kapitel I, Abschnitt 'Schulen und Kitas finanziell stärken'",
+      "originalQuote": "Wir Freie Demokraten wollen Schulen und Kitas finanziell stärken, indem wir ihre Finanzierung auf drei Säulen stellen: einen Sockelbetrag entsprechend der Größe der Einrichtung, Bildungsgutscheine, die pro Kind einen Zuschuss gewähren, und einen ‚German Dream‘-Zuschuss für Kinder mit niedrigem sozioökonomischen Status.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Talentschulen",
+      "location": "Kapitel I, Abschnitt 'Mit Talentschulen soziale Nachteile überwinden'",
+      "originalQuote": "Wir Freie Demokraten wollen in ganz Deutschland Talentschulen mit modernster Pädagogik und bester Ausstattung aufbauen – insbesondere in kinderreichen Stadtteilen und in Regionen mit großen sozialen Herausforderungen.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in MINT-Bildung",
+      "location": "Kapitel I, Abschnitt 'MINT-Bildung frühzeitig stärken – Mädchen und Frauen gezielt fördern'",
+      "originalQuote": "Wir Freie Demokraten fordern eine Offensive für die Bildung in Mathematik, Informatik, Naturwissenschaften und Technik (MINT).",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in MakerSpaces",
+      "location": "Kapitel I, Abschnitt 'Experimentelles Lernen und Kreativzonen durch MakerSpaces'",
+      "originalQuote": "Wir Freie Demokraten fordern MakerSpaces an Schulen: Kreativzonen, in denen digitale Medien eine zentrale Rolle spielen.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Schulfach Wirtschaft und Informatik",
+      "location": "Kapitel I, Abschnitt 'Schulfach Wirtschaft und Informatik'",
+      "originalQuote": "Wir Freie Demokraten fordern die bundesweite Einführung der Schulfächer Wirtschaft und Informatik.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in außerschulische Akteure",
+      "location": "Kapitel I, Abschnitt 'Einbindung außerschulischer Akteure und Initiativen'",
+      "originalQuote": "Wir Freie Demokraten fordern Qualitätskriterien und Leitfäden für die Zusammenarbeit zwischen Schulen und außerschulischen Initiativen.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Aufstiegspatenschaften",
+      "location": "Kapitel I, Abschnitt 'Chancen für Aufstieg unabhängig von der Herkunft'",
+      "originalQuote": "Wir Freie Demokraten setzen uns dafür ein, Initiativen in Form von Aufstiegspatenschaften einzubinden, um Kindern und Jugendlichen aus bildungsfernen Elternhäusern zu helfen.",
+      "classification": "AUFSTIEGSPATENSCHAFTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Lehrerberuf",
+      "location": "Kapitel I, Abschnitt 'Weltbeste Lehrkräfte'",
+      "originalQuote": "Wir Freie Demokraten fordern eine Stärkung des Lehrerberufs.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Lehrerausbildung",
+      "location": "Kapitel I, Abschnitt 'Exzellente Lehreraus- und -fortbildung'",
+      "originalQuote": "Wir Freie Demokraten fordern bundesweite Mindeststandards für eine exzellente Lehrerausbildung.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Digitalpakt 2.0",
+      "location": "Kapitel I, Abschnitt 'Digitalpakt 2.0'",
+      "originalQuote": "Wir Freie Demokraten fordern einen Digitalpakt 2.0, der die verfassungsrechtlichen Möglichkeiten der Kooperation von Bund und Ländern im Bildungsbereich vollständig nutzt.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Learning Analytics",
+      "location": "Kapitel I, Abschnitt 'Learning Analytics: Moderne Lernmethoden fördern'",
+      "originalQuote": "Wir Freie Demokraten fordern die Entwicklung klarer Standards zum Einsatz von Learning Analytics an Schulen.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Midlife-BAföG",
+      "location": "Kapitel I, Abschnitt 'Midlife-BAföG – ein zweites Bildungssystem für das ganze Leben'",
+      "originalQuote": "Wir Freie Demokraten wollen ein ‚Midlife-BAföG‘ von bis zu 1.000 Euro im Jahr einführen.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in akademische Weiterbildung",
+      "location": "Kapitel I, Abschnitt 'Akademische Weiterbildung stärken'",
+      "originalQuote": "Wir Freie Demokraten wollen Hochschulen stärker für die akademische Weiterbildung und für Lehrangebote jenseits der Erstausbildung öffnen.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in berufliche Bildung",
+      "location": "Kapitel I, Abschnitt 'Berufliche Bildung'",
+      "originalQuote": "Wir Freie Demokraten wollen unser erfolgreiches berufliches Bildungssystem daher stärken und fit für die Zukunft machen.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Exzellenzinitiative Berufliche Bildung",
+      "location": "Kapitel I, Abschnitt 'Exzellenzinitiative Berufliche Bildung'",
+      "originalQuote": "Wir Freie Demokraten fordern eine Exzellenzinitiative Berufliche Bildung, um die Attraktivität und Innovationskraft der beruflichen Aus- und Weiterbildung zu stärken.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Begabtenförderung",
+      "location": "Kapitel I, Abschnitt 'Begabtenförderung für Talente der beruflichen Bildung öffnen'",
+      "originalQuote": "Wir Freie Demokraten wollen Talenten der beruflichen Bildung den gleichwertigen Zugang zu den Begabtenförderungswerken und zum Deutschlandstipendium ermöglichen.",
+      "classification": "BEGABTENFÖRDERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Flexibilität in der beruflichen Bildung",
+      "location": "Kapitel I, Abschnitt 'Mehr Flexibilität im System der beruflichen Bildung ermöglichen'",
+      "originalQuote": "Wir Freie Demokraten wollen artverwandte Berufe nach Maßgabe der Sozialpartner in Berufsfelder zusammenfassen.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in internationalen Austausch in der beruflichen Bildung",
+      "location": "Kapitel I, Abschnitt 'Internationaler Austausch in der beruflichen Bildung'",
+      "originalQuote": "Wir Freie Demokraten wollen bis 2030 mindestens 20 Prozent aller Auszubildenden eine persönliche Auslandserfahrung ermöglichen.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Azubi-Botschafter",
+      "location": "Kapitel I, Abschnitt 'Azubi-Botschafter und Aufstiegs-BAföG'",
+      "originalQuote": "Wir Freie Demokraten wollen eine praxisnahe Berufsorientierung mit Azubi-Botschaftern auch an Gymnasien.",
+      "classification": "AZUBIBOTSCHAFTER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Einstieg in die berufliche Ausbildung",
+      "location": "Kapitel I, Abschnitt 'Einstieg in die berufliche Ausbildung unterstützen – Zukunftsgarantie schaffen'",
+      "originalQuote": "Wir Freie Demokraten fordern eine Zukunftsgarantie für junge Menschen, die keinen Ausbildungsplatz finden können.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Hochschulen und Forschung",
+      "location": "Kapitel I, Abschnitt 'Hochschule und Forschung'",
+      "originalQuote": "Moderne Hochschulen und beste Forschungsbedingungen sind die Grundlage für Innovation und Fortschritt in unserem Land und weltweit.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in European Digital University",
+      "location": "Kapitel I, Abschnitt 'Gründung einer European Digital University (EDU)'",
+      "originalQuote": "Wir Freie Demokraten fordern die Gründung einer European Digital University (EDU).",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in elternunabhängiges Baukasten-BAföG",
+      "location": "Kapitel I, Abschnitt 'Elternunabhängiges Baukasten-BAföG'",
+      "originalQuote": "Wir Freie Demokraten wollen ein elternunabhängiges Baukasten-BAföG einführen.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Qualitätsoffensive für die Hochschullehre",
+      "location": "Kapitel I, Abschnitt 'Qualitätsoffensive für die Hochschullehre'",
+      "originalQuote": "Wir Freie Demokraten fordern eine Qualitätsoffensive für die Hochschullehre.",
+      "classification": "QUALITÄTSOFFENSIVE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Erasmus+",
+      "location": "Kapitel I, Abschnitt 'Ausweitung des Erfolgsprogramms Erasmus+'",
+      "originalQuote": "Wir Freie Demokraten wollen das Erfolgsprogramm ‚Erasmus+‘ weiterentwickeln.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Wissenschaftsfreiheit",
+      "location": "Kapitel I, Abschnitt 'Wissenschaftsfreiheit verteidigen'",
+      "originalQuote": "Wir Freie Demokraten verteidigen die Freiheit von Forschung und Lehre.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Diversität in der Wissenschaft",
+      "location": "Kapitel I, Abschnitt 'Diversität in der Wissenschaft'",
+      "originalQuote": "Wir Freie Demokraten wollen in der Wissenschaft für mehr Diversität sorgen, denn Forschung lebt auch vom Perspektivwechsel.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Grundlagenforschung",
+      "location": "Kapitel I, Abschnitt 'Grundlagenforschung fördern'",
+      "originalQuote": "Wir Freie Demokraten sehen die Grundlagenforschung als Basis für Innovation an.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in WTO-Reform",
+      "location": "Kapitel I, Abschnitt 'WTO reformieren – Freihandel stärken'",
+      "originalQuote": "Wir Freie Demokraten wollen den bewährten Rahmen der Welthandelsorganisation (WTO) weiterentwickeln.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in transatlantischen Wirtschaftsraum",
+      "location": "Kapitel I, Abschnitt 'Gründung eines transatlantischen Wirtschaftsraums'",
+      "originalQuote": "Wir Freie Demokraten wollen einen neuen Anlauf für ein umfassendes transatlantisches Freihandelsabkommen und einen transatlantischen Wirtschaftsraum erreichen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Freihandel",
+      "location": "Kapitel I, Abschnitt 'Deutschland als Fürsprecher des Freihandels'",
+      "originalQuote": "Wir Freie Demokraten wollen, dass Deutschland international zum Fürsprecher des regelbasierten Freihandels wird und den Abschluss weiterer Freihandelsabkommen vorantreibt.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in europäische Wettbewerbsordnung",
+      "location": "Kapitel I, Abschnitt 'Europäische Wettbewerbsordnung'",
+      "originalQuote": "Wir Freie Demokraten wollen die faire und regelbasierte europäische Wettbewerbsordnung schützen und stärken und damit internationale Standards setzen.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Digital Markets Act",
+      "location": "Kapitel I, Abschnitt 'Wirksame Regulierung von Gatekeeper-Unternehmen'",
+      "originalQuote": "Wir unterstützen deshalb die Pläne zur Schaffung eines Digital Markets Act auf Ebene der Europäischen Union, mit dem eine das Kartellrecht ergänzende europäische Regulierung für Gatekeeper-Unternehmen geschaffen werden soll.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in faire internationale Besteuerung",
+      "location": "Kapitel I, Abschnitt 'Faire Regeln bei der internationalen Besteuerung'",
+      "originalQuote": "Wir Freie Demokraten setzen uns für faire Regeln und ein gerechtes Steuersystem ein.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Steuerhinterziehung",
+      "location": "Kapitel I, Abschnitt 'Steuerhinterziehung weltweit abgestimmt bekämpfen'",
+      "originalQuote": "Wir Freie Demokraten wollen Steuerhinterziehung und unlauteres Steuerdumping mit wirksamen und verhältnismäßigen Mitteln bekämpfen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Zukunftsfonds",
+      "location": "Kapitel I, Abschnitt 'Zukunftsfonds zur Start-up-Finanzierung ausbauen'",
+      "originalQuote": "Wir Freie Demokraten wollen den Zukunftsfonds (Dachfonds) zur Start-up-Finanzierung deutlich ausbauen.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Gründungszuschuss",
+      "location": "Kapitel I, Abschnitt 'Gründungszuschuss in allen Lebenslagen'",
+      "originalQuote": "Wir Freie Demokraten fordern einen branchenunabhängigen Gründungszuschuss, der entkoppelt von einer vorhandenen Arbeitslosigkeit gewährt wird.",
+      "classification": "GRÜNDUNGSZUSCHUSS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Wagniskapital für Frauen",
+      "location": "Kapitel I, Abschnitt 'Besserer Zugang zu Wagniskapital für Frauen'",
+      "originalQuote": "Wir Freie Demokraten wollen insbesondere Gründerinnen beim Zugang zu und bei der Einwerbung von Wagniskapital unterstützen.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Mitarbeiterkapitalbeteiligung",
+      "location": "Kapitel I, Abschnitt 'Mitarbeiterkapitalbeteiligung als Eigentumsturbo'",
+      "originalQuote": "Wir Freie Demokraten wollen die Mitarbeiterkapitalbeteiligung als Chance für den langfristigen Vermögensaufbau etablieren.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Spekulationsfrist",
+      "location": "Kapitel I, Abschnitt 'Spekulationsfrist einführen – Sparerfreibetrag erhöhen'",
+      "originalQuote": "Wir Freie Demokraten wollen die Wiedereinführung einer Spekulationsfrist von drei Jahren für private Veräußerungsgewinne aus Wertpapieren.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Doppelbesteuerung von Renten",
+      "location": "Kapitel I, Abschnitt 'Doppelbesteuerung von Renten verhindern'",
+      "originalQuote": "Wir Freie Demokraten wollen eine Doppelbesteuerung von Renten verhindern und die Beweislastumkehr zugunsten der Steuerpflichtigen einführen.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Homeoffice",
+      "location": "Kapitel I, Abschnitt 'Steuerliche Erleichterungen für Homeoffice'",
+      "originalQuote": "Wir Freie Demokraten wollen für das zwischen Arbeitgeber und Arbeitnehmer vereinbarte Homeoffice eine erhöhte Werbungskostenpauschale gewähren.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Easy Tax",
+      "location": "Kapitel I, Abschnitt 'Easy Tax – einfache Steuererklärung'",
+      "originalQuote": "Wir Freie Demokraten wollen Easy Tax einführen: die vorausgefüllte Steuererklärung mit einem umfassenden digitalen Service für die Steuerzahlerinnen und Steuerzahler.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Tarif auf Rädern",
+      "location": "Kapitel I, Abschnitt 'Tarif auf Rädern – automatische Steuererhöhungen verhindern'",
+      "originalQuote": "Wir Freie Demokraten wollen den Einkommensteuertarif so ändern, dass der Staat nicht länger von quasi automatischen Steuererhöhungen profitiert.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Chancentarif",
+      "location": "Kapitel I, Abschnitt 'Chancentarif statt Mittelstandsbauch'",
+      "originalQuote": "Wir Freie Demokraten wollen beim Einkommensteuertarif den sogenannten Mittelstandsbauch vollständig abschaffen und so einen leistungsgerechteren linearen Chancentarif gestalten.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Spitzensteuersatz",
+      "location": "Kapitel I, Abschnitt 'Spitzensteuersatz nur für Spitzenverdiener'",
+      "originalQuote": "Wir Freie Demokraten wollen einen fairen Tarif bei der Einkommensteuer: den Chancentarif. Dazu wollen wir den Spitzensteuersatz schrittweise ‚nach rechts verschieben‘ – mit dem Ziel, dass dieser erst ab einem Einkommen von 90.000 Euro greift.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Entlastung und faire Steuern",
+      "location": "Kapitel I, Abschnitt 'Entlastung und faire Steuern'",
+      "originalQuote": "Wir Freie Demokraten wollen die Balance zwischen Privat und Staat wiederherstellen, ohne dabei eine seriöse Haushaltspolitik aufzugeben.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Entfesselungspakt für die deutsche Wirtschaft",
+      "location": "Kapitel I, Abschnitt 'Entfesselungspakt für die deutsche Wirtschaft'",
+      "originalQuote": "Wir Freie Demokraten fordern einen Entfesselungspakt für die deutsche Wirtschaft, in dem Maßnahmen zur Bürokratieentlastung gebündelt und vorangetrieben werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Forschung und Entwicklung",
+      "location": "Kapitel I, Abschnitt 'Forschung und Entwicklung steuerlich fördern'",
+      "originalQuote": "Wir Freie Demokraten wollen Forschung und Entwicklung steuerlich stärker fördern.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Abschreibungsbedingungen",
+      "location": "Kapitel I, Abschnitt 'Verbesserte Abschreibungsbedingungen'",
+      "originalQuote": "Wir Freie Demokraten wollen die Abschreibungsbedingungen verbessern.",
+      "classification": "ABSCHREIBUNGSBEDINGUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Mittelstand",
+      "location": "Kapitel I, Abschnitt 'Mittelstand in der Fläche halten und langfristig sichern'",
+      "originalQuote": "Wir Freie Demokraten wollen insbesondere für kleine und mittlere Unternehmen von der Industrie über das Handwerk bis zum Handel auch in ländlichen Regionen Perspektiven schaffen.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Negative Gewinnsteuer",
+      "location": "Kapitel I, Abschnitt 'Schnelle Hilfe durch ‚Negative Gewinnsteuer‘ in Wirtschaftskrisen'",
+      "originalQuote": "Wir Freie Demokraten fordern, dass eine kurzfristige Liquiditätshilfe direkt vom Finanzamt ausgezahlt werden kann.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in Investitionen in die Zukunft",
+      "location": "Kapitel I, Abschnitt 'Investitionen in die Zukunft'",
+      "originalQuote": "Wir sind überzeugt, dass anhaltendes Wirtschaftswachstum den Weg aus der Krise in die neue Zeit ebnet.",
+      "classification": "PREISGESTALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von staatlichen Eingriffen in die Preisgestaltung von Investitionen in INVEST IN GERMANY",
+      "location": "Kapitel I, Abschnitt 'INVEST IN GERMANY – 25 Prozent vom Bruttoinlandsprodukt'",
+      "originalQuote": "Wir Freie Demokraten wollen, dass im Jahr 2025 in Deutschland 25 Prozent des Bruttoinlandsprodukts investiert werden – und zwar vor allem privat und nicht vorrangig vom Staat.",
+      "classification": "PREISGESTALTUNG"
+    }
+  ]
+}

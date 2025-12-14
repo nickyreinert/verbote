@@ -1,0 +1,75 @@
+{
+  "sourceFile": "CDU-CSU - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung neuer Schulden oder Steuererhöhungen als falscher Weg",
+      "location": "Einleitung (source: 3782)",
+      "originalQuote": "Neue Schulden oder Steuererhöhungen wären aber der falsche Weg. Wir setzen auf wirtschaftliches Wachstum,",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beibehaltung der Sanktionen gegen Russland, solange keine Bereitschaft zur Wiederherstellung der Friedensordnung vorliegt",
+      "location": "1.4. Stabilität in ganz Europa (source: 3866)",
+      "originalQuote": "Solange die russische Regierung dazu nicht bereit ist, müssen die Sanktionen bestehen bleiben.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausschluss von Extremisten aus der Bundeswehr",
+      "location": "1.7. Moderne und voll einsatzbereite Bundeswehr (source: 3922)",
+      "originalQuote": "Für Extremisten ist in der Bundeswehr kein Platz.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wirksamer Ausschluss von Doppelanrechnungen bei internationalen Klimaschutzmaßnahmen",
+      "location": "1.10. Internationaler Klimaschutz (source: 3982)",
+      "originalQuote": "Dabei müssen Doppelanrechnungen wirksam ausgeschlossen werden.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Ausweitung des Familiennachzugs über die bestehenden Regelungen hinaus",
+      "location": "snippet_4 (source: 3047)",
+      "originalQuote": "Wir lehnen eine Ausweitung des Familiennachzugs über die heute bestehenden Regelungen hinaus ab.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Deponieverbot für unbehandelte Siedlungsabfälle und kunststoffhaltige Abfälle",
+      "location": "snippet_8 (source: 3135)",
+      "originalQuote": "Dazu gehört ein Deponieverbot für unbehandelte Siedlungsabfälle und vor allem kunststoffhaltige Abfälle.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Exporten von Plastik- und Kunststoffabfällen zur bloßen Entsorgung",
+      "location": "snippet_8 (source: 3137)",
+      "originalQuote": "Wir wollen Abfälle wiederverwerten und Exporte von Abfällen – insbesondere von Plastik- und Kunststoffabfällen – zur bloßen Entsorgung verbieten.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Lebenslanger Ausschluss von Sexualstraftätern vom Umgang mit Kindern und Jugendlichen (beruflich/ehrenamtlich)",
+      "location": "snippet_19 (source: 3548)",
+      "originalQuote": "Wer sich an Kindern und Jugendlichen vergeht, darf nie wieder beruflich oder ehrenamtlich Umgang mit ihnen haben.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Prostitution von Schwangeren sowie Heranwachsenden unter 21 Jahren",
+      "location": "snippet_19 (source: 3573)",
+      "originalQuote": "Wir wollen Prostitution von Schwangeren sowie Heranwachsenden unter 21 Jahren verbieten – mit einer entsprechenden Bestrafung der Freier.",
+      "classification": "HERANWACHSENDEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Anwendung des Jugendstrafrechts für 18- bis 21-Jährige soll die Ausnahme bleiben",
+      "location": "snippet_20 (source: 3693)",
+      "originalQuote": "Die Anwendung des Jugendstrafrechts muss in diesen Fällen eine Ausnahme bleiben.",
+      "classification": "Demokratie & Recht"
+    }
+  ]
+}

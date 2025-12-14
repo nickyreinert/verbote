@@ -1,0 +1,411 @@
+{
+  "sourceFile": "Grüne - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fracking",
+      "location": "B. I. 1. Kein Leben ohne Wasser",
+      "originalQuote": "Dar um lehnen wir Fracking nachdrücklich ab.",
+      "classification": "FRACKING"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Flussvertiefungen an Elbe und Weser",
+      "location": "B. I. 1. Kein Leben ohne Wasser",
+      "originalQuote": "Flussvertiefungen wie an Elbe und Weser lehnen wir ab.",
+      "classification": "FLUSSVERTIEFUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Industrielle Massentierhaltung beenden",
+      "location": "B. II. 1. Raus aus der industriellen Massentierhaltung",
+      "originalQuote": "Wir wollen die industrielle Massentierhaltung in den nächsten 20 Jahren beenden.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz von Glyphosat und Neonicotinoiden beenden",
+      "location": "B. II. 2. Für eine Landwirtschaft ohne Gift",
+      "originalQuote": "Darum beenden wir den Einsatz von besonders schädlichen und gesundheitsgefährdenden Stoffen wie Glyphosat",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gentechnikfreiheit",
+      "location": "B. II. 2. Für eine Landwirtschaft ohne Gift",
+      "originalQuote": "Wir werden ein Gentechnikgesetz auflegen, das unsere Äcker und unsere Teller frei von Gentechnik hält",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Landgrabbing beenden",
+      "location": "B. II. 4. Mehr Geld für grüne Landwirtschaft",
+      "originalQuote": "Das wollen wir beenden.",
+      "classification": "LANDGRABBING"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pelzfarmen dulden",
+      "location": "B. II. 5. Tierschutz stärken",
+      "originalQuote": "Eine Mehrheit der Menschen in unserem Land will wie wir keine Pelzfarmen dulden",
+      "classification": "PELZFARMEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kommerzielle Exotenbörsen unterbinden",
+      "location": "B. II. 5. Tierschutz stärken",
+      "originalQuote": "Kommerzielle Exotenbörsen wollen wir unterbinden.",
+      "classification": "KOMMERZIELLE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Illegalen Tierhandel verhindern",
+      "location": "B. II. 5. Tierschutz stärken",
+      "originalQuote": "Illegalen Tierhandel wollen wir konsequent verhindern.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Glyphosat und Neonicotinoide verbieten",
+      "location": "B. II. Wer GRÜN wählt (am Ende von II.)",
+      "originalQuote": "Darum werden wir sie verbieten.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kükenschreddern beenden",
+      "location": "B. II. Wer GRÜN wählt (am Ende von II.)",
+      "originalQuote": "Wir beenden das Kükenschreddern",
+      "classification": "KÜKENSCHREDDERN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neue Braunkohletagebaue und Kohlekraftwerke verhindern",
+      "location": "B. III. 2. Kohleausstieg jetzt einleiten!",
+      "originalQuote": "Den Aufschluss neuer Braunkohletagebaue und ihre Erweiterung sowie den Bau neuer Kohlekraftwerke werden wir verh",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Hermes-Bürgschaften für Kohleexport stoppen",
+      "location": "B. III. 2. Kohleausstieg jetzt einleiten!",
+      "originalQuote": "Um das Klima international zu schützen, werden wir zudem die Hermes-Bürgschaften für den Export deutscher Ko",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine neuen Tagebaue zulassen",
+      "location": "B. III. Wer GRÜN wählt (am Ende von III.)",
+      "originalQuote": "Um die Weichen richtig zu stellen, lassen wir keine neuen Tagebaue zu.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Subventionen für umweltschädliches Verhalten beenden",
+      "location": "B. IV. 1. Grünen Rahmen setzen für die ökologische Modernisierung",
+      "originalQuote": "Umweltschädliches Verhalten wollen wir nicht weiter subventionieren.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gigaliner ablehnen",
+      "location": "B. IV. 2. Mit grüner Industriepolitik den Industriestandort und Arbeitsplätze sichern",
+      "originalQuote": "Gigalinern lehnen wir ab.",
+      "classification": "GIGALINER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Divestment – keine Investitionen in Kohle",
+      "location": "B. IV. Wer GRÜN wählt (am Ende von IV.)",
+      "originalQuote": "Divestment: Keine Kohle für die Kohle!",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schrottreaktoren sofort vom Netz",
+      "location": "B. V. 4. Atomkraft endgültig abschalten",
+      "originalQuote": "Schrottreaktoren wie Tihange und Doel in Belgien oder Fessenheim und Cattenom in Frankreich müssen sofort vom",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Urananreicherung und Brennelementefabrik beenden",
+      "location": "B. V. 4. Atomkraft endgültig abschalten",
+      "originalQuote": "Deswegen wollen wir auch den Betrieb der Urananreicherungsanlage in Gronau und der Brennelementefabrik in Ling",
+      "classification": "BRENNELEMENTEFABRIK"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Urananreicherung und Brennelementefabrik schließen",
+      "location": "B. V. Wer GRÜN wählt (am Ende von V.)",
+      "originalQuote": "Als GRÜNE wollen wir deshalb die Urananreicherung in Gronau und die Brennelementefabrik in Lingen schließen.",
+      "classification": "BRENNELEMENTEFABRIK"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schrottreaktoren an Grenzen sofort vom Netz",
+      "location": "B. V. Wer GRÜN wählt (am Ende von V.)",
+      "originalQuote": "Wir setzen uns dafür ein, dass sie sofort vom Netz gehen.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausländermaut ablehnen und abschaffen",
+      "location": "B. VI. 1. Erhalt vor Neubau...",
+      "originalQuote": "Wir lehnen die europafeindliche und bürokratische Ausländermaut ab und wollen sie schnellstmöglich wieder abs",
+      "classification": "AUSLÄNDERMAUT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gigaliner ablehnen",
+      "location": "B. VI. 1. Erhalt vor Neubau...",
+      "originalQuote": "Sogenannte Gigaliner lehnen wir ab.",
+      "classification": "GIGALINER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kerosinsteuerbefreiung beenden",
+      "location": "B. VI. 1. Erhalt vor Neubau...",
+      "originalQuote": "Das wollen wir beenden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wildwuchs von Regionalflughäfen beenden",
+      "location": "B. VI. 1. Erhalt vor Neubau...",
+      "originalQuote": "Den Wildwuchs von Regionalflughäfen, finanziert durch Subventionen, wollen wir beenden.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nur noch abgasfreie Autos ab 2030",
+      "location": "B. VI. 3. Das Auto der Zukunft fährt ohne Abgase",
+      "originalQuote": "Ab 2030 sollen nur noch abgasfreie Autos neu zugelassen werden.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nur noch abgasfreie Autos",
+      "location": "B. VI. Wer GRÜN wählt (am Ende von VI.)",
+      "originalQuote": "Ab 2030 sollen nur noch abgasfreie Autos zugelassen werden.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Erhöhung des Rüstungshaushalts ablehnen",
+      "location": "C. I. 1. Für ein starkes Europa gegen Spaltung und autoritäre Tendenzen",
+      "originalQuote": "Eine Erhöhung des Rüstungshaushalts auf zwei Prozent der Wirtschaftsleistung lehnen wir ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Umwidmung ziviler Gelder für Militär ablehnen",
+      "location": "C. I. 4. Die EU als handlungsfähige Akteurin...",
+      "originalQuote": "Wir stellen uns gegen einen fatalen Paradigmenwechsel, bislang zivile Gelder aus dem EU-Haushalt für Militär ode",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Erhöhung der Militärausgaben ablehnen",
+      "location": "C. I. 4. Die EU als handlungsfähige Akteurin...",
+      "originalQuote": "Eine Erhöhung der Militärausgaben ist nicht sinnvoll und wir lehnen auch entsprechende Forderungen aus der NA",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Deutsche Rüstungsexporte in die Türkei stoppen",
+      "location": "C. I. 4. Die EU als handlungsfähige Akteurin...",
+      "originalQuote": "Darum werden wir deutsche Rüstungsexporte in die Türkei stoppen.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung der Daseinsvorsorge ablehnen",
+      "location": "C. II. 1. Menschenrechte, Krisenprävention...",
+      "originalQuote": "Eine Privatisierung der öffentlichen Daseinsvorsorge lehnen wir ab.",
+      "classification": "DASEINSVORSORGE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Rüstungsexporte in Konfliktgebiete verbieten",
+      "location": "C. II. 2. Rüstungsexporte in Krisenregionen stoppen...",
+      "originalQuote": "Rüstungsverkäufe in Konfliktgebiete und Länder, in denen schwere Menschenrechtsverletzungen stattfinden, müsse",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Atomare Bewaffnung der EU ablehnen",
+      "location": "C. II. 2. Rüstungsexporte in Krisenregionen stoppen...",
+      "originalQuote": "Wir sind strikt gegen eine eigenständige atomare Bewaffnung der EU.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot autonomer Waffen und Kampfroboter",
+      "location": "C. II. 2. Rüstungsexporte in Krisenregionen stoppen...",
+      "originalQuote": "Wir setzen uns auch für eine internationale Konvention für das Verbot autonomer Waffen und Kampfroboter ein",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beschaffung bewaffnungsfähiger Drohnen ablehnen",
+      "location": "C. II. 2. Rüstungsexporte in Krisenregionen stoppen...",
+      "originalQuote": "und sind gegen die Beschaffung oder Entwicklung bewaffnungsfähiger Drohnen für die Bundeswehr.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nutzung US-Basen für völkerrechtswidrige Angriffe verhindern",
+      "location": "C. II. 2. Rüstungsexporte in Krisenregionen stoppen...",
+      "originalQuote": "Wir wollen nicht, dass die USA ihre Basen in Deutschland für völkerrechtswidrige Angriffe nutzen.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Anwerbung minderjähriger Rekruten ablehnen",
+      "location": "C. II. 3. Stärke des Rechts statt Recht des Stärkeren",
+      "originalQuote": "Die Anwerbung von minderjährigen Rekrut*innen lehnen wir ab.",
+      "classification": "MINDERJÄHRIGER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Erhöhung der Militärausgaben ablehnen",
+      "location": "C. II. Wer GRÜN wählt (am Ende von II.)",
+      "originalQuote": "Wir lehnen eine Erhöhung der Militärausgaben auf zwei Prozent der Wirtschaftsleistung klar ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Rüstungsexporte stoppen",
+      "location": "C. II. Wer GRÜN wählt (am Ende von II.)",
+      "originalQuote": "Wir wollen Rüstungsexporte in Krisenregionen und an Staaten mit einer problematischen Menschenrechtslage mit ",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "TTIP, CETA, TiSA, JEFTA ablehnen",
+      "location": "C. III. 2. Neustart für faire Abkommen",
+      "originalQuote": "Wir GRÜNE lehnen diese Abkommen ab.",
+      "classification": "JEFTA"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Sonderklagerechte für Investoren ablehnen",
+      "location": "C. III. 2. Neustart für faire Abkommen",
+      "originalQuote": "Sonderklagerechte für Investoren und große Konzerne lehnen wir entschieden ab.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wirtschaftspartnerschaftsabkommen mit Afrika stoppen",
+      "location": "C. III. 3. Fairer Handel bringt Chancen für ärmere Länder",
+      "originalQuote": "Wir wollen sie deshalb stoppen",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Sammelabschiebungen inakzeptabel",
+      "location": "C. IV. 1. Unser Plan für eine aktive Flüchtlingspolitik",
+      "originalQuote": "Sammelabschiebungen sind für uns inakzeptabel.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Abschiebungen in Krisenregionen",
+      "location": "C. IV. 1. Unser Plan für eine aktive Flüchtlingspolitik",
+      "originalQuote": "Mit uns in der Bundesregierung wird es keine Abschiebungen in Krisenregionen geben",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Rüstungsexporte in Krisengebiete stoppen",
+      "location": "C. IV. 2. Fluchtursachen bekämpfen",
+      "originalQuote": "Rüstungsexporte in Krisengebiete und an Staaten mit hochproblematischer Menschenrechtslage werden wir stoppe",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Türkei-Deal beenden",
+      "location": "C. IV. 3. Für eine menschenrechtliche und solidarische europäische Flüchtlingspolitik",
+      "originalQuote": "Diesen Türkei-Deal wollen wir beenden.",
+      "classification": "TÜRKEIDEAL"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Auslagerung der Außengrenzen ablehnen",
+      "location": "C. IV. 3. Für eine menschenrechtliche und solidarische europäische Flüchtlingspolitik",
+      "originalQuote": "Die De-facto-Auslagerung der europäischen Außengrenzen durch Migrationspartnerschaften mit Staaten, in denen ",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Menschenrechtswidrige Rücknahmeabkommen zurücknehmen",
+      "location": "C. IV. 3. Für eine menschenrechtliche und solidarische europäische Flüchtlingspolitik",
+      "originalQuote": "Menschenrechtswidrige Rücknahmeabkommen werden wir zurücknehmen",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Asylrechtsverschärfungen ablehnen",
+      "location": "C. IV. 4. Verantwortungsvolle Flüchtlingspolitik für Deutschland",
+      "originalQuote": "Wir lehnen diese Asylrechtsverschärfungen ab",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Konzept 'sichere Herkunftsstaaten' ablehnen",
+      "location": "C. IV. 4. Verantwortungsvolle Flüchtlingspolitik für Deutschland",
+      "originalQuote": "Wir lehnen das Konzept „sichere Herkunftsstaaten“ deshalb ab",
+      "classification": "HERKUNFTSSTAATEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Obergrenze",
+      "location": "C. IV. 4. Verantwortungsvolle Flüchtlingspolitik für Deutschland",
+      "originalQuote": "Mit uns wird es deshalb keine Obergrenze geben.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschiebungen in Kriegs- und Krisengebiete ablehnen",
+      "location": "C. IV. Wer GRÜN wählt (am Ende von IV.)",
+      "originalQuote": "Abschiebungen in Kriegs- und Krisengebiete lehnen wir ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschiebungsstopp nach Afghanistan",
+      "location": "C. IV. Wer GRÜN wählt (am Ende von IV.)",
+      "originalQuote": "Unser Ziel ist ein bundesweiter Abschiebungsstopp nach Afghanistan.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "§166 StGB streichen",
+      "location": "D. I. 1. Ein klarer Rahmen...",
+      "originalQuote": "Deswegen wollen wir §166 Strafgesetzbuch (Beschimpfung von Bekenntnissen, Religionsgesellschaften und Weltans",
+      "classification": "STREICHEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Operationen an intergeschlechtlichen Kindern verbieten",
+      "location": "D. I. 2. Endlich gleiche Rechte für Lesben, Schwule...",
+      "originalQuote": "Operationen zur sogenannten „Geschlechtsanpassung und -zuweisung“ an intergeschlechtlichen Säuglingen und Ki",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Werbung für Nikotin ablehnen",
+      "location": "D. I. 4. Für eine Drogenpolitik...",
+      "originalQuote": "Werbung für Nikotin lehnen wir ab.",
+      "classification": "WERBUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kriminalisierung von Drogenkonsumenten beenden",
+      "location": "D. I. 4. Für eine Drogenpolitik...",
+      "originalQuote": "Die Kriminalisierung von Drogenkonsument*innen muss beendet werden.",
+      "classification": "Gesundheit & Drogen"
+    }
+  ]
+}

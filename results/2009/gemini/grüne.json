@@ -1,0 +1,222 @@
+{
+  "sourceFile": "Grüne - 2009 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fortsetzung der bisherigen Wirtschafts- und Lebensweise",
+      "location": "Präambel",
+      "originalQuote": "Wir können nicht länger so tun, als ob das alles nichts mit der Art und Weise, wie wir wirtschaften und leben, zu tun hat.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fortsetzung der bisherigen Politik und des Wirtschaftens",
+      "location": "Präambel",
+      "originalQuote": "Wir stehen an einer Zeitenwende und können es uns nicht leisten, so weiterzumachen wie bisher.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Weiterer Abbau von Bürgerrechten",
+      "location": "Präambel",
+      "originalQuote": "Es liegt an uns, Bürgerrechte in unserer Gesellschaft zu stärken und sie nicht weiter abzubauen.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Leben auf Kosten anderer (Nachhaltigkeitsprinzip)",
+      "location": "Neuer Gesellschaftsvertrag",
+      "originalQuote": "Dieser Neue Gesellschaftsvertrag basiert auf der Verabredung, nicht auf Kosten anderer zu leben.",
+      "classification": "NACHHALTIGKEITSPRINZIP"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Investitionen in veraltete Ideen und Strukturen von gestern",
+      "location": "Grüne Antworten in der Krise",
+      "originalQuote": "Deshalb wollen wir nicht in die Ideen und Strukturen von gestern investieren, sondern in die Infrastrukturen und Produkte für morgen.",
+      "classification": "INVESTITIONEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ankurbeln der Konjunktur durch Steuergeschenke für Reiche",
+      "location": "Grüne Antworten in der Krise",
+      "originalQuote": "Die Konjunktur kurbelt man nicht durch Steuergeschenke an, die die Reichen auf die hohe Kante legen, sondern durch eine Steigerung der Massenkaufkraft.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Abschiebung von Finanzkrisen-Opfern in die Bedürftigkeit nach einem Jahr",
+      "location": "Grüne Antworten in der Krise",
+      "originalQuote": "Wir werden dafür sorgen, dass die Opfer der Finanzkrise nicht nach einem Jahr in die Bedürftigkeit abgeschoben werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Freiheit der Wenigen und Starken / Profitorientierung auf entfesseltem Markt",
+      "location": "Koordinaten: Klima – Gerechtigkeit – Freiheit",
+      "originalQuote": "Freiheit heißt nicht die Freiheit der Wenigen und Starken, heißt nicht auf einem entfesselten Markt möglichst hohen Profit an sich zu reißen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Rassismus und Rechtsextremismus",
+      "location": "Koordinaten: Klima – Gerechtigkeit – Freiheit",
+      "originalQuote": "Wir stehen auf gegen jede Form von Rassismus und Rechtsextremismus.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weitere Einschränkungen der Bürgerrechte und Teilung von Menschenrechten",
+      "location": "Koordinaten: Klima – Gerechtigkeit – Freiheit",
+      "originalQuote": "Im 60. Jahr des Grundgesetzes wehren wir uns gegen immer weitere Einschränkungen der Bürgerrechte, die alle zum Sicherheitsrisiko machen, und gegen Versuche, unteilbare Menschenrechte nach der Herkunft zu teilen.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bau neuer Kohlekraftwerke",
+      "location": "Wer Grün wählt...",
+      "originalQuote": "Dafür brauchen wir den Atomausstieg – und ein Moratorium gegen den Bau neuer Kohlekraftwerke.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gentechnik im Essen und auf dem Acker (Agro-Gentechnik)",
+      "location": "Wer Grün wählt...",
+      "originalQuote": "Wir schützen die biologische Vielfalt und lehnen Gentechnik im Essen und auf dem Acker ab.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Marsch in die Überwachungsgesellschaft / Unkontrollierter Datenhandel",
+      "location": "Wer Grün wählt...",
+      "originalQuote": "Der Marsch in die Überwachungsgesellschaft muss ebenso gestoppt werden wie eine Welt mit unkontrolliertem Datenhandel.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Speicherung von Daten auf Vorrat und Verdacht",
+      "location": "Wer Grün wählt...",
+      "originalQuote": "Wir wollen eine Beendigung der Speicherung von Daten auf Vorrat und Verdacht.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beteiligung an militärischen Abenteuern wie dem Irak-Krieg",
+      "location": "Wer Grün wählt...",
+      "originalQuote": "In unserer Regierungszeit haben wir eine Beteiligung an militärischen Abenteuern wie dem Irak-Krieg abgelehnt und die zivile Konfliktprävention gestärkt.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wehrpflicht",
+      "location": "Wer Grün wählt...",
+      "originalQuote": "Wir wollen die Bundeswehr gemäß ihrer Aufgaben deutlich reduzieren und die Wehrpflicht abschaffen.",
+      "classification": "WEHRPFLICHT"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Auferlegen von Denkverboten",
+      "location": "Anderes Wirtschaften - Ein Green New Deal",
+      "originalQuote": "Dabei dürfen wir uns keine Denkverbote auferlegen. Wenn wir das nicht vergessen, dann liegt in dieser Krise auch eine Chance.",
+      "classification": "DENKVERBOTEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Ökonomie, Ökologie und soziale Gerechtigkeit gegeneinander ausspielen",
+      "location": "Anderes Wirtschaften - Ein Green New Deal",
+      "originalQuote": "Ein grüner Neuer Gesellschaftsvertrag bedeutet für uns, dass Ökonomie, Ökologie und soziale Gerechtigkeit nicht mehr gegeneinander ausgespielt werden dürfen.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stützung nicht lebensfähiger wirtschaftlicher Strukturen durch staatliche Eingriffe",
+      "location": "Ein Green New Deal",
+      "originalQuote": "Ziel von staatlichen Eingriffen kann es nicht sein, nicht lebensfähige wirtschaftliche Strukturen zu stützen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Nicht nachhaltige Branchen dürfen keine Ressourcen verschlingen und nicht erhalten werden",
+      "location": "Ein Green New Deal",
+      "originalQuote": "Branchen mit falschen Produktpaletten, Überkapazitäten und nicht nachhaltigen Geschäftsmodellen dürfen nicht die finanziellen Ressourcen für die strukturell gesunden Wirtschaftsbereiche verschlingen und nicht auf Kosten der Bürgerinnen und Bürger erhalten werden.",
+      "classification": "VERSCHLINGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Millionen-Boni für Manager trotz Unternehmenszusammenbruch",
+      "location": "Ein Green New Deal",
+      "originalQuote": "Schluss damit, dass Manager Millionen-Boni für Quartalsergebnisse bekommen, auch wenn kurze Zeit später das Unternehmen wie ein Kartenhaus zusammenbricht.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Das Duale System (\"Der Grüne Punkt\")",
+      "location": "2. Ökologische Fairness...",
+      "originalQuote": "Das Duale System, der grüne Punkt, hat sich nicht bewährt und gehört abgeschafft.",
+      "classification": "SYSTEM"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zubau weiterer Müllverbrennungsanlagen / Ressourcenverschwendung / Mülltourismus",
+      "location": "2. Ökologische Fairness...",
+      "originalQuote": "Einen Zubau weiterer Müllverbrennungsanlagen lehnen wir ab. Durch eine Änderung des Genehmigungsrechtes wollen wir ein Überangebot verhindern und so unnötige Ressourcenverschwendung und »Mülltourismus« beenden.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zurückdrehen oder Stillstand des ökologischen Rades",
+      "location": "2. Ökologische Fairness...",
+      "originalQuote": "Wir werden es nicht zulassen, dass unter der Überschrift einer nachhaltigen Entwicklung das ökologische Rad zurückgedreht oder zum Stillstand gebracht wird.",
+      "classification": "ZURÜCKDREHEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Wohlstand einiger auf Kosten anderer und kommender Generationen",
+      "location": "2. Ökologische Fairness...",
+      "originalQuote": "Der Wohlstand einiger darf nicht länger zu Lasten anderer und kommender Generationen gehen.",
+      "classification": "GENERATIONEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Geschäftspolitik, die gute und objektive Beratung verhindert",
+      "location": "2. Ökologische Fairness...",
+      "originalQuote": "Eine Geschäfts- und Provisionspolitik bei Banken und Sparkassen, die auch die Verkäuferinnen und Verkäufer von Finanzprodukten so unter Druck setzt, dass eine gute und objektive Beratung auf der Strecke bleibt, muss beendet werden.",
+      "classification": "GESCHÄFTSPOLITIK"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Leiden unter provisionsgesteuerten Finanzjongleuren oder betrügerischen Anlagemodellen",
+      "location": "2. Ökologische Fairness...",
+      "originalQuote": "Wer privat für das Alter vorsorgt, soll nicht unter provisionsgesteuerten Finanzjongleurinnen und -jongleuren oder betrügerischen Anlagemodellen leiden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Heimliche Computerausforschung und Vorratsdatenspeicherung",
+      "location": "Wer GRÜN wählt, ... (Bürgerrechte)",
+      "originalQuote": "Wer GRÜN wählt, … • ... macht Schluss mit der heimlichen Computerausforschung und der Vorratsdatenspeicherung.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Umwelt- und Gesundheitsschäden / neue Kohlekraftwerke für Rechenzentren / Elektroschrott-Export",
+      "location": "Eine grüne digitale Welt",
+      "originalQuote": "Umwelt- und Gesundheitsschäden bei der Produktion von Handys und PCs oder neue Kohlekraftwerke für Rechenzentren darf es genauso wenig geben wie Elektroschrott, der um die halbe Welt geschickt wird.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Internet als Fangnetz für Betrüger",
+      "location": "Das Internet darf nicht zum Fangnetz werden",
+      "originalQuote": "Das Internet darf nicht zum neuen Fangnetz von Betrügerinnen und Betrügern für unwissende Verbraucherinnen und Verbraucher werden.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausfuhrbürgschaften für Rüstungsexporte und Genehmigungsanspruch auf Rüstungsgüter",
+      "location": "Für Frieden und Menschenrechte",
+      "originalQuote": "Damit Rüstungslieferungen in Krisenregionen leichter als bisher unterbunden werden können, wollen wir Ausfuhrbürgschaften für Rüstungsexporte und den Genehmigungsanspruch auf die Ausfuhr von Rüstungsgütern abschaffen sowie Einstimmigkeit im Bundessicherheitsrat und ein Widerspruchsrecht des Bundestages einführen.",
+      "classification": "Rüstung & Waffen"
+    }
+  ]
+}

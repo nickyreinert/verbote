@@ -1,0 +1,159 @@
+{
+  "sourceFile": "SPD - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verlust des gesellschaftlichen Zusammenhalts durch politische Radikalisierung verhindern",
+      "location": "Quelle: 3675",
+      "originalQuote": "Dazu gehört, dass in unserem Land der gesellschaftliche Zusammenhalt wieder stärker wird und der anständige Umgang",
+      "classification": "GESELLSCHAFTLICHEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aufrüstung und Säbelrasseln als Mittel zur Konfliktlösung ablehnen",
+      "location": "Quelle: 3695",
+      "originalQuote": "Im Geiste der Entspannungspolitik Willy Brandts ist es unser Anspruch, Brücken zu bauen. Aufrüstung und Säbelrasseln lösen keine Konflikte.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kinderarmut in Deutschland verhindern",
+      "location": "Quelle: 3746",
+      "originalQuote": "Kinderarmut bekämpfen: Kinderarmut darf es in einem so reichen Land wie unserem nicht geben.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Benachteiligung von Kindern armer Eltern beseitigen",
+      "location": "Quelle: 3748",
+      "originalQuote": "Wir werden die Benachteiligung von Kindern armer Eltern beseitigen und ihnen eine gleichberechtigte Teilhabe ermöglich",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung der sachgrundlosen Befristung von Arbeitsverträgen",
+      "location": "Quelle: 3780",
+      "originalQuote": "Die sachgrundlose Befristung werden wir abschaffen. Auch zweite und dritte Chancen in Schule und Berufsbildung zu erö",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verlust von Chancen für Jugendliche am Ende der Schulpflicht verhindern",
+      "location": "Quelle: 3781",
+      "originalQuote": "Wir wollen keinen Jugendlichen zurücklassen. Das Ende der Schulpflicht darf deshalb nicht dazu führen, dass Jugendliche",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vollständige Aufhebung des Kooperationsverbotes in der Bildung",
+      "location": "Quelle: 3798",
+      "originalQuote": "Darüber hinaus wollen wir aber eine vollständige Aufhebung des Kooperationsverbotes.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Altersdiskriminierung bei der Freistellung für Berufsschultage",
+      "location": "Quelle: 3888",
+      "originalQuote": "Eine Freistellung für Berufsschultage muss für Auszubildende unabhängig vom Alter gelten.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung des Solidaritätszuschlags für niedrige Einkommen",
+      "location": "Quelle: 3971",
+      "originalQuote": "Wer darunter liegt, muss künftig keinen Solidaritätszuschlag mehr zahlen.",
+      "classification": "SOLIDARITÄTSZUSCHLAGS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stoppen von Kapitalabflüssen durch Steuerhinterziehung und -vermeidung",
+      "location": "Quelle: 3991",
+      "originalQuote": "effizienter nationaler Steuersysteme kommt es darauf an, die Kapitalabflüsse durch Steuerhinterziehung und -vermeidu",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unternehmen daran hindern, Gewinne künstlich klein zu rechnen und Steuern zu entziehen",
+      "location": "Quelle: 3998",
+      "originalQuote": "Damit verhindern wir, dass Unternehmen ihre Gewinne künstlich kleinrechnen und sich ihrer Steuerverantwortung entziehe",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Anonyme Briefkastenfirmen zur Steuerhinterziehung untersagen",
+      "location": "Quelle: 4001",
+      "originalQuote": "Es darf keine anonymen Briefkastenfirmen mehr geben, deren einziger Zweck es ist, Steuern zu hinter",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beenden der Wegwerfkultur",
+      "location": "Quelle: 4022",
+      "originalQuote": "Aktuelle Konsumgewohnheiten und moderne Technologien führen zu immer mehr und neuartigen Abfällen, deshalb fordern wir",
+      "classification": "WEGWERFKULTUR"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abfall vermeiden",
+      "location": "Quelle: 4026",
+      "originalQuote": "Ziel muss sein, Abfall zu vermeiden, Produkte langlebiger zu machen und mehr zu recyceln.",
+      "classification": "VERMEIDEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung und Verhinderung von Gentechnik in Landwirtschaft und Lebensmitteln (Gentechnikfreie Landwirtschaft)",
+      "location": "Quelle: 4050",
+      "originalQuote": "Weiterhin setzen wir uns für gentechnikfreie Landwirtschaft und Lebensmittel ein.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unregulierte Markteinführung neuer gentechnisch erzeugter Pflanzen und Tiere verhindern",
+      "location": "Quelle: 4051",
+      "originalQuote": "Wir werden sicherstellen, dass auch bei den sogenannten neuen Gentechnikverfahren das Vorsorgeprinzip und die Wahlfrei",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Kriminellen und Terroristen den Zutritt zur EU verwehren",
+      "location": "Quelle: 4070",
+      "originalQuote": "Kriminelle und Terroristen dürfen nicht in die Europäische Union gelangen.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Meinungsmonopole in den Medien verhindern",
+      "location": "Quelle: 4104",
+      "originalQuote": "deshalb gemeinsam für moderne Regeln einsetzen, die die Meinungsfreiheit und Meinungsvielfalt gewährleisten und Mei",
+      "classification": "MEINUNGSMONOPOLE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Ablehnung von Verboten zugunsten von Vergütungen im Urheberrecht",
+      "location": "Quelle: 4118",
+      "originalQuote": "Wir wollen Vergütung, keine Verbote. Dazu soll auch das Prinzip der pauschalen",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Straflosigkeit bei Kriegsverbrechen und Verbrechen gegen die Menschlichkeit beenden",
+      "location": "Quelle: 4140",
+      "originalQuote": "Wir setzen uns für die Stärkung des Völkerrechts und des Internationalen Strafgerichtshofs ein, um die Straflosigkeit",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bekämpfung von Steuerhinterziehung, -vermeidung und Finanzverkehr zu illegalen Zwecken",
+      "location": "Quelle: 4149",
+      "originalQuote": "Steuerhinterziehung und -vermeidung sowie Finanzverkehr zu illegalen Zwecken müssen international bekämpft werden.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ächtung (globale Ablehnung) der Todesstrafe und Folter",
+      "location": "Quelle: 4172",
+      "originalQuote": "umgesetzt und weiterentwickelt werden. Dazu gehören insbesondere die Ächtung der Todesstrafe und Folter weltweit, die S",
+      "classification": "TODESSTRAFE"
+    }
+  ]
+}

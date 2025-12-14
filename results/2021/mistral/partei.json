@@ -1,0 +1,110 @@
+{
+  "sourceFile": "Die Partei - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Photoshopverbot für politische Plakate",
+      "location": "Punkt 8",
+      "originalQuote": "Photoshopverbot jetzt! Wer Volker Bouffier – bekannt durch das PARTEI-Plakat „Wie sexy darf Politik sein?“ –, Annalena Baerbock, Frau von Strolch oder Philipp Amthor nur von Plakaten kennt, könnte, bei einem überraschenden Treffen in der Realität, tödlich erschrecken. Besonders bei Amthor, der sieht tatsächlich so aus wie auf seinen Plakaten.",
+      "classification": "PHOTOSHOPVERBOT"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Tierversuche werden eingestellt",
+      "location": "Punkt 18",
+      "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da. Lipgloss, Arsch-Make-up, Biomarmelade und Medikamentencocktails werden ab sofort an Spitzensportlern getestet, die sind allerhand Substanzen gewöhnt. Oder in Bibis Beauty Palace. Bierversuche bleiben frei.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Amazon wird geschlossen",
+      "location": "Punkt 7",
+      "originalQuote": "Amazon plattmachen! Wegen nachhaltigen Marktmisserfolgs müssen wir Amazon leider schließen. 2020 haben die Versager mit 44 Mrd. Rekordumsatz (EU) einen Verlust von 1,2 Mrd. erwirtschaftet (aber nur am Steuersitz Luxemburg, Smiley!). Steuerforderung: 0 Mrd.",
+      "classification": "GESCHLOSSEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vermögensbegrenzung auf 10 Millionen",
+      "location": "Punkt 2",
+      "originalQuote": "Vermögen über der 7. Null wird systematisch gekappt. Und vom obersten 1 % auf die 99 % der gesellschaftlichen Unterschicht umverteilt (Herzlichen Glückwunsch, Sie gehören dazu!). Wer mit 10 Mio. kein’ Spaß am Leben hat, der hat das Leben nicht verdient.",
+      "classification": "VERMÖGENSBEGRENZUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Krieg mit Russland & China wird verschoben",
+      "location": "Punkt 10",
+      "originalQuote": "Krieg mit Russland & China verschieben Für so’n Quatsch wie Blockbildung, Feindbildkonstruktionen und Schützengrabenrhetorik haben wir in Zeiten globaler Pandemie & globalen Ökozids echt gar keine Kapazitäten frei. Wer auf Konfrontation scharf ist (Stoltenberg, USA, Grüne, Spiegel, SZ, Sascha Lobotomie etc.): Feuer frei auf Erdogan, Bolsonaro, Viktator Orban oder Babyhitler Sebastian Kurz.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beschwerden über Ungerechtigkeit werden unterdrückt",
+      "location": "Punkt 17",
+      "originalQuote": "Die PARTEI fordert die Durchsetzung allumfassender universeller Gesamtgerechtigkeit, zumindest aber doppelt so viel Gerechtigkeit wie die SPD. Beschwerden über angebliche Ungerechtigkeiten sind mit aller Gewalt zu unterdrücken. Um den gesellschaftlichen Stellenwert der Gerechtigkeit zu unterstreichen, steigt der Hamburger SV künftig jährlich ab, wohin auch immer.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Korrupte Politiker werden abgeschoben",
+      "location": "Punkt 24",
+      "originalQuote": "Korrupte Parteien dürfen nicht mehr von Spenden & Sponsoring profitieren, korrupte Politiker werden nach Aserbaidschan abgeschoben. Einkünfte aus Abgeordnetennebentätigkeiten werden – wie bei Hartz IV – vom Vermögen abgezogen. Die 290 Abgeordneten der PARTEI in Bundestag, EU-Parlament und den Kommunen unterzeichnen den Politik-Kodex von Plattform Pro. Im Übrigen sind wir der Meinung, „dass der Profitlobbyismus zerstört werden muss“ (Marco Bülow, MdB).",
+      "classification": "ABGESCHOBEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schwarzfahren wird zur Ordnungswidrigkeit degradiert",
+      "location": "Punkt 4",
+      "originalQuote": "Die „Straftat“ Schwarzfahren wird zur Ordnungswidrigkeit degradiert (1,99 €). Jedes Jahr gehen rund 7 000 Bundesbürger wg. „Beförderungserschleichung“ ins Gefängnis, zum Teil zu Fuß. Die 200 000 Verfahren jährlich halten unsere Gerichte von Wichtigerem ab: Bestechlichkeit von CDU-Politikern, Maskenaffären von CDU-Politikern, illegaler Waffenbesitz von CDU-Politikern.",
+      "classification": "ORDNUNGSWIDRIGKEIT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gendern wird Pflicht für Jahrgänge ab 2000",
+      "location": "Punkt 16",
+      "originalQuote": "Gendern wird Pflicht… …für alle Jahrgänge ab 2000. Für die übrigen gilt eine Übergangsfrist bis 2090. VertreteriX beider Gruppen wird etwas mehr Toleranz in der Diskussion empfohlen. (Nach der Wahl: „verordnet“. Smiley!)",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ärztliche Versorgung auf dem Land durch Tierärzte",
+      "location": "Punkt 19",
+      "originalQuote": "Angesichts einer genetischen Übereinstimmung zwischen Schweinen und Menschen auf dem Land von über 90 % liegt es nur nahe, die ärztliche Versorgung im Güllegürtel Deutschlands den Tierärzten zu übertragen.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Flüchtlingsobergrenze wird jährlich neu definiert",
+      "location": "Punkt 21",
+      "originalQuote": "Die Flüchtlingsobergrenze wird – ganz im Sinne der Unionsparteien – jährlich neu definiert: Deutschland darf nicht mehr Flüchtlinge aufnehmen als das Mittelmeer.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "AKW-Betreiber müssen Atommüll zurücknehmen",
+      "location": "Punkt 13",
+      "originalQuote": "AKW werden ins Duale System aufgenommen. Betreiber werden verpflichtet, Brennstäbe und Verpackungen zurückzunehmen und für die Entsorgung des produzierten Mülls aufzukommen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Selbstverpflichtung der Wirtschaft zur Klimazielerreichung",
+      "location": "Punkt 14",
+      "originalQuote": "Die Erderwärmung darf auf gar keinen Fall höher als 1,5° Celsius/Jahr ausfallen. Dafür wird Die PARTEI alle relevanten Wirtschaftszweige auffordern, eine Selbstverpflichtung im Rahmen der jeweiligen Möglichkeiten zu erwägen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bologna-System wird abgeschafft",
+      "location": "Punkt 5",
+      "originalQuote": "Bologna, Bachelor, Master? Werden Geschichte. Wir fühlen uns den Bildungsidealen der europäischen Geistesgeschichte stärker verpflichtet als den Verwertungsinteressen der europäischen Industrie. Studentinnen und Studenten sollen wieder in Ruhe 15 Semester studieren und Zeit haben, sich politisch & gesellschaftlich zu interessieren. Merke: Unter 30 sollte man sich vor geregelter Arbeit drücken!",
+      "classification": "BOLOGNASYSTEM"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stimmzettel mit falschen Antworten werden ungültig",
+      "location": "Punkt 20",
+      "originalQuote": "Bei Volksabstimmungen zum EU-Austritt, Referenden zur Einführung eines Präsidialsystems und Präsidentschaftswahlen in den USA werden auf dem Stimmzettel drei Wissensfragen vorangestellt. Z. B. „Wie heißt die Hauptstadt von Paris?“. Stimmzettel mit weniger als einer richtigen Antwort werden als „ungültig“ gewertet.",
+      "classification": "STIMMZETTEL"
+    }
+  ]
+}

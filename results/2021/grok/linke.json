@@ -1,0 +1,89 @@
+{
+  "sourceFile": "Linke - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Leiharbeit",
+      "location": "Gute Arbeit, gute Löhne",
+      "originalQuote": "Wir wollen Leiharbeit verbieten.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Export hochgefährlicher Pestizide",
+      "location": "Entwicklung durch Gerechtigkeit",
+      "originalQuote": "Der Export von hochgefährlichen Pestiziden muss verboten werden.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung neuer fossiler Infrastruktur",
+      "location": "Die Wirtschaft umbauen",
+      "originalQuote": "Wir wollen keine neue fossile Infrastruktur.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Atomkraft und Fracking",
+      "location": "Die Wirtschaft umbauen",
+      "originalQuote": "Atomkraft und Fracking erteilen wir eine Absage.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Rüstungsexporten in bestimmte Länder",
+      "location": "Europäische Entspannungspolitik",
+      "originalQuote": "Exporte in autoritäre Regime wie Ägypten und die Türkei müssen sofort gestoppt werden.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung europäischer Verteidigungsunion",
+      "location": "Europäische Entspannungspolitik",
+      "originalQuote": "Wir lehnen die Pläne zu einer europäischen Verteidigungsunion und einer Kooperation von EU und NATO ab.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Europäischen Verteidigungsfonds",
+      "location": "Europäische Entspannungspolitik",
+      "originalQuote": "Wir lehnen den Europäischen Verteidigungsfonds ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Rüstungsexporten",
+      "location": "Gegen Aufrüstung und Krieg",
+      "originalQuote": "wir wollen den Export von Waffen und Waffenfabriken verbieten.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stopp von Rüstungsexporten in kriegsbeteiligte Länder",
+      "location": "Gegen Aufrüstung und Krieg",
+      "originalQuote": "Rüstungsexporte in Länder, die an Kriegen beteiligt sind und Menschenrechte missachten, müssen sofort unterbunden werden.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Auslandseinsätzen der Bundeswehr",
+      "location": "Gegen Aufrüstung und Krieg",
+      "originalQuote": "Auslandseinsätze der Bundeswehr werden wir beenden und neue verhindern.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung von Patentausschluss für Medikamente",
+      "location": "Gute Gesundheitsversorgung",
+      "originalQuote": "Es darf nicht sein, dass Menschen durch Patente vom Zugang zu Medikamenten und Impfstoffen ausgeschlossen werden",
+      "classification": "PATENTAUSSCHLUSS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Fracking und Atomkraft",
+      "location": "Die Wirtschaft umbauen",
+      "originalQuote": "Atomkraft und Fracking erteilen wir eine Absage.",
+      "classification": "Umwelt & Klima"
+    }
+  ]
+}

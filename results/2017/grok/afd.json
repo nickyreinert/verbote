@@ -1,0 +1,418 @@
+{
+  "sourceFile": "AfD - 2017 - Wahlprogramm.pdf",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Regierungsmitglieder als Abgeordnete",
+      "location": "Seite 8, Kapitel 1.6",
+      "originalQuote": "Kanzler, Ministerpräsidenten, Minister und parlamen-tarische Staatssekretäre dürfen nicht mehr zugleich Abge-ordnete sein.",
+      "classification": "REGIERUNGSMITGLIEDER"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Ämterpatronage",
+      "location": "Seite 8, Kapitel 1.6",
+      "originalQuote": "Ämterpatronage ist unter Strafe zu stellen.",
+      "classification": "ÄMTERPATRONAGE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Steuerverschwendung",
+      "location": "Seite 10, Kapitel 1.14",
+      "originalQuote": "Einführung eines Straftatbestands der Steuerverschwendung",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einbürgerung Krimineller",
+      "location": "Seite 22, Kapitel 4.1",
+      "originalQuote": "Die Einbürgerung Krimineller ist zuverlässig zu verhin-dern durch:",
+      "classification": "EINBÜRGERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abmahnindustrie",
+      "location": "Seite 24, Kapitel 4.8",
+      "originalQuote": "Der Abmahnindustrie, die das Urheberrecht missbraucht, um von unbescholtenen Bürgern im Internet jährlich Milli-onenbeträge abzukassieren, will die AfD einen gesetzlichen Riegel vorschieben.",
+      "classification": "ABMAHNINDUSTRIE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Inkassokosten auf Schuldner",
+      "location": "Seite 25, Kapitel 4.9",
+      "originalQuote": "gesetzliche Regelung, dass die Beitreibung von Forderungen als originäre Aufgabe eines jeden Gläubigers keinesfalls dem Schuldner durch Einschaltung Dritter, ins-besondere von Inkassobüros, aufgebürdet werden darf.",
+      "classification": "INKASSOKOSTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Massenimmigration",
+      "location": "Seite 28, Kapitel 5.2",
+      "originalQuote": "ungeregelte Massenimmigration in unser Land und seine Sozialsysteme durch überwiegend beruflich unqualifizierte Asylbewerber sofort zu beenden.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Familiennachzug für Flüchtlinge",
+      "location": "Seite 28, Kapitel 5.7",
+      "originalQuote": "Wir lehnen jeglichen Familiennachzug für Flüchtlinge ab,",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Missbrauch des Asylgrundrechts",
+      "location": "Seite 29, Kapitel 5.5",
+      "originalQuote": "Der massenhafte Missbrauch des Asylgrundrechts muss durch eine Grundgesetzänderung beendet werden.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gemeinsames europäisches Asylsystem",
+      "location": "Seite 29, Kapitel 5.5",
+      "originalQuote": "Das „Gemeinsame europäische Asylsystem“ (GEAS) lehnen wir ab.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Geburtsortsprinzip",
+      "location": "Seite 31, Kapitel 5.9",
+      "originalQuote": "Das Geburtsortsprinzip (Erwerb der deutschen Staatsan-gehörigkeit allein durch Geburt in Deutschland, auch wenn kein Elternteil Deutscher ist) wollen wir wieder aus dem Gesetz streichen",
+      "classification": "GEBURTSORTSPRINZIP"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Doppelte Staatsbürgerschaft",
+      "location": "Seite 31, Kapitel 5.9",
+      "originalQuote": "Die doppelte Staatsbürgerschaft soll auf wohlbegründete Sonderfälle beschränkt werden.",
+      "classification": "STAATSBÜRGERSCHAFT"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Moscheen für Verfassungsfeindliche Vereine",
+      "location": "Seite 33, Kapitel 6",
+      "originalQuote": "Verfassungsfeindlichen Vereinen, die nach Art. 9 Abs. 2 Grundgesetz zu verbieten sind, ist der Bau und Betrieb von Moscheen wegen der konkreten Gefahr zu untersagen",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Minarett und Muezzin-Ruf",
+      "location": "Seite 34, Kapitel 6",
+      "originalQuote": "Minarett und Muezzin-Ruf lehnt die AfD als islamisches Herrschafts-zeichen ebenso ab wie den Muezzin-Ruf,",
+      "classification": "MUEZZINRUF"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vollverschleierung",
+      "location": "Seite 34, Kapitel 6",
+      "originalQuote": "Die AfD fordert ein allgemeines Verbot der Vollverschleie-rung in der Öffentlichkeit und im öffentlichen Dienst.",
+      "classification": "VOLLVERSCHLEIERUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Kopftuch in öffentlichem Dienst",
+      "location": "Seite 34, Kapitel 6",
+      "originalQuote": "Im öffentlichen Dienst soll kein Kopftuch getragen werden,",
+      "classification": "ÖFFENTLICHEM"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Religiöse Voraustrauung",
+      "location": "Seite 34, Kapitel 6",
+      "originalQuote": "Das Verbot der religiösen Voraustrauung, etwa durch Imame, soll wieder in Kraft gesetzt",
+      "classification": "VORAUSTRAUUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Anerkennung Scharia-Ehen",
+      "location": "Seite 34, Kapitel 6",
+      "originalQuote": "Ehen gemäß dem Familienrecht der Scharia, die gegen unsere Gesetze und unsere Moralvorstellungen verstoßen, sollen in Deutschland rechtlich nicht anerkannt werden.",
+      "classification": "ANERKENNUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Tötung Ungeborener als Menschenrecht",
+      "location": "Seite 38, Kapitel 7.5",
+      "originalQuote": "Wir lehnen alle Bestrebungen ab, die Tötung Ungebore-nner zu einem Menschenrecht zu erklären.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gender-Ideologie",
+      "location": "Seite 39, Kapitel 7.7",
+      "originalQuote": "Wir lehnen alle Bestrebungen ab, diese Ideologie durch Instrumente wie Gender-Studies, Quotenregelungen z.B. für Frauen, Propa-gandaaktionen wie den „Equal Pay Day“ oder die „geschlech-terneutrale Sprache“ umzusetzen.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausdehnung des Familienbegriffs",
+      "location": "Seite 39, Kapitel 7.7",
+      "originalQuote": "Wir lehnen alle Versuche ab, den Sinn des Wortes „Familie“ in Art. 6 Abs. 1 Grundgesetz auf andere Gemeinschaften auszudehnen",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Frühsexualisierung",
+      "location": "Seite 39, Kapitel 7.7.1",
+      "originalQuote": "Das ideologische Experiment der Frühsexualisierung ist sofort zu beenden.",
+      "classification": "FRÜHSEXUALISIERUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Finanzierung Gender-Forschung",
+      "location": "Seite 39, Kapitel 7.7.2",
+      "originalQuote": "Bund und Länder dürfen keine Mittel für die „Gender-For-schung“ mehr bereitstellen",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nivellierende Einheitsschule",
+      "location": "Seite 41, Kapitel 8.1",
+      "originalQuote": "der schleichenden Abschaffung verschiedener Schulfor-men und der Entwicklung hin zur nivellierenden Einheits-schule muss Einhalt geboten werden.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Umsetzung EU-Feuerwaffenrichtlinie",
+      "location": "Seite 41, Kapitel 4.7",
+      "originalQuote": "Die Umsetzung der EU-Feuerwaffen-richtlinie lehnen wir ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ideologisch motivierte Inklusion",
+      "location": "Seite 42, Kapitel 8.3",
+      "originalQuote": "Keine ideologisch motivierte Inklusion:",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Modularisierung des Studiums",
+      "location": "Seite 42, Kapitel 8.5",
+      "originalQuote": "Die Modularisierung des Studiums und die Akkreditierungsagenturen sollen abgeschafft werden.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bekenntnisgebundener Islamunterricht",
+      "location": "Seite 43, Kapitel 8.8",
+      "originalQuote": "Keinen bekenntnisgebundenen Islam-unterricht an deutschen Schulen",
+      "classification": "BEKENNTNISGEBUNDENER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Sonderrechte für Muslime",
+      "location": "Seite 43, Kapitel 8.9",
+      "originalQuote": "Keine Sonderrechte für Muslime an unseren Schulen",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Koranunterricht durch verfassungsfeindliche Vereine",
+      "location": "Seite 43, Kapitel 8.10",
+      "originalQuote": "Kein Koranunterricht durch verfassungsfeindliche Moscheevereine",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Multikulturalismus",
+      "location": "Seite 45, Kapitel 9.1",
+      "originalQuote": "Die Ideologie des „Multikulturalismus“ gefährdet alle diese kulturellen Errungenschaften.",
+      "classification": "MULTIKULTURALISMUS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Politisch korrekte Sprachvorgaben",
+      "location": "Seite 45, Kapitel 9.2",
+      "originalQuote": "„Politisch korrekte“ Sprachvorgaben lehnen wir entschie-den ab",
+      "classification": "SPRACHVORGABEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Politisch korrekte Kunst",
+      "location": "Seite 46, Kapitel 9.4",
+      "originalQuote": "Für „politisch korrekte“ Kunst und Kultur darf es keine staatlichen Anreize geben.",
+      "classification": "POLITISCH"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Rundfunkbeitrag",
+      "location": "Seite 46, Kapitel 9.5",
+      "originalQuote": "Der Rundfunkbeitrag ist abzuschaffen,",
+      "classification": "RUNDFUNKBEITRAG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Beschränkungen im Internet",
+      "location": "Seite 46, Kapitel 9.6",
+      "originalQuote": "Das Internet als Medium der Kommunikation, Informa-tion und freien Meinungsäußerung darf abseits der Verfol-gung von Straftaten keinerlei Beschränkung und Zensur unterliegen.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Finanzierung Kirchenrepräsentanten",
+      "location": "Seite 48, Kapitel 10.1",
+      "originalQuote": "die Bezahlung von Kirchenrepräsentanten wie Bischöfen etc. aus allgemeinen Steuermitteln ist abzuschaffen",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staatsverschuldung für Sozialsysteme",
+      "location": "Seite 48, Kapitel 10",
+      "originalQuote": "Eine durch Staatsverschuldung finanzierte Stützung der Renten- und Sozialsysteme kommt für die AfD nicht in Be-tracht.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nebenhaushalte",
+      "location": "Seite 49, Kapitel 10.2",
+      "originalQuote": "Nebenhaushalte und Übertragung von gesamtgesellschaftlichen Lasten zur Schönung des Bundeshaushalts beispielsweise an die Sozialkassen abzulehnen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verlängerung Zeitarbeitsverträge",
+      "location": "Seite 50, Kapitel 10.3",
+      "originalQuote": "Zeitarbeitsverträge dürfen nur einmal verlängert werden.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Dekarbonisierung",
+      "location": "Seite 63, Kapitel 13.1",
+      "originalQuote": "Wir wollen das Projekt der Dekarbonisierung über die „Große Transformation“ beenden",
+      "classification": "DEKARBONISIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Klimaschutzplan 2050",
+      "location": "Seite 63, Kapitel 13.1",
+      "originalQuote": "den Klimaschutzplan 2050 der Bundesregierung aufheben.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pariser Klimaabkommen",
+      "location": "Seite 63, Kapitel 13.1",
+      "originalQuote": "Das Pariser Klimaabkommen vom 12.12.2015 ist zu kün-digen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Klimaschutz-Organisationen",
+      "location": "Seite 63, Kapitel 13.1",
+      "originalQuote": "Deutschland soll aus allen staatlichen und privaten „Klimaschutz“-Organisationen austreten",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "EEG",
+      "location": "Seite 64, Kapitel 13.2",
+      "originalQuote": "Das EEG ist ersatzlos zu streichen.",
+      "classification": "SONSTIGES"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "EE-Anlagen in Wäldern",
+      "location": "Seite 64, Kapitel 13.2",
+      "originalQuote": "sollen keine EE-Anlagen in Wäldern und Schutz-gebieten errichtet werden",
+      "classification": "EEANLAGEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Vorrangflächen Windenergie",
+      "location": "Seite 64, Kapitel 13.2",
+      "originalQuote": "sollen keine Vorrangflächen für Windenergieanlagen ohne Zustimmung der betroffenen Bürger ausge-wiesen werden",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "EnEV und EEWärmeG",
+      "location": "Seite 64, Kapitel 13.2",
+      "originalQuote": "Die EnEV und das EEWärmeG sind abzuschaffen.",
+      "classification": "EEWÄRMEG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Technologieverlust stoppen",
+      "location": "Seite 65, Kapitel 13.3",
+      "originalQuote": "Um naturwissenschaftlichen und technischen Kompe-tenzverlust zu stoppen",
+      "classification": "TECHNOLOGIEVERLUST"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ideologisch geleitete Verkehrspolitik",
+      "location": "Seite 67, Kapitel 14.1",
+      "originalQuote": "Eine ideologisch geleitete Verkehrspolitik, die bestimmte Verkehrsmittel bevorzugt oder diskriminiert, z.B. Diesel-fahrzeuge, lehnt die AfD ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Flächendeckendes Tempolimit",
+      "location": "Seite 67, Kapitel 14.1",
+      "originalQuote": "wenden wir uns auch gegen ein flächendeckendes Tempolimit",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Umweltzonen",
+      "location": "Seite 67, Kapitel 14.1",
+      "originalQuote": "Umweltzonen haben nachweislich nicht zur Reduzierung der Feinstaube-mission beigetragen. Sie sind daher abzuschaffen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "PKW-Maut",
+      "location": "Seite 67, Kapitel 14.1",
+      "originalQuote": "keine PKW-Maut",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "EU-weite Liberalisierung Wasser",
+      "location": "Seite 70, Kapitel 15.1",
+      "originalQuote": "Eine EU-weite Liberalisierung und Kommerzialisierung des Wassermarkts lehnt die AfD entschieden ab.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Privatisierung Wasser",
+      "location": "Seite 70, Kapitel 15.1",
+      "originalQuote": "Eine generelle Privatisierung des Wassers oder der Wasserwerke... darf es nicht geben.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weiterer Ausbau Windenergie",
+      "location": "Seite 70, Kapitel 15.2",
+      "originalQuote": "Wir lehnen den weiteren Ausbau der Windenergie ab",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Handel mit Fleisch aus tierquälerischer Schlachtung",
+      "location": "Seite 71, Kapitel 15.5",
+      "originalQuote": "Den Handel, die Bewerbung und die Einfuhr von Fleisch aus tierquälerischer Schlachtung (Schächten) lehnt die AfD ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schächten ohne Betäubung",
+      "location": "Seite 71, Kapitel 15.5",
+      "originalQuote": "Wir fordern eine ersatzlose Streichung des § 4a Abs. 2 Nr. 2 TierSchG.",
+      "classification": "SCHÄCHTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Handelsbeschränkungen alte Kultursorten",
+      "location": "Seite 72, Kapitel 15.6.2",
+      "originalQuote": "Die AfD fordert die Aufhebung aller Handelsbeschränkungen für alte Nutzpflanzensorten.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gentechnik in Landwirtschaft",
+      "location": "Seite 72, Kapitel 15.6.4",
+      "originalQuote": "Die AfD setzt sich für gentechnikfrei erzeugte Lebensmittel aus der deutschen Landwirtschaft ein.",
+      "classification": "Wirtschaft & Steuern"
+    }
+  ]
+}

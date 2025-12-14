@@ -1,0 +1,180 @@
+{
+  "sourceFile": "Linkspartei-PDS - 2005 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Agenda 2010 und Hartz IV",
+      "location": "Einleitung",
+      "originalQuote": "Die Agenda 2010 steht für Wahlbetrug und Entsolidarisierung. Mit ihr hat sich die SPD von sozial",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verschärfung der Zumutbarkeitsregelungen",
+      "location": "I.1",
+      "originalQuote": "ohne Verschärfung der Zumutbarkeitsregelungen, ohne Zwänge und ohne Demütigungen.",
+      "classification": "ZUMUTBARKEITSREGELUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Zwangs zur Arbeit",
+      "location": "I.1",
+      "originalQuote": "ohne Zwänge und ohne Demütigungen.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Zwangs zur Annahme jeglicher Jobs für Jugendliche",
+      "location": "I.1",
+      "originalQuote": "Den Zwang zur Annahme jeglicher Jobs lehnen wir ab.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Lohnkürzungen und Ausweitung des Niedriglohnsektors",
+      "location": "I.2",
+      "originalQuote": "Lohnkürzungen und eine Ausweitung des Niedriglohnsektors, wie von anderen Parteien gefordert,",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Aktienoptionen für Manager",
+      "location": "I.6",
+      "originalQuote": "Aktienoptionen für Manager werden verboten.",
+      "classification": "AKTIENOPTIONEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Steuerbefreiung bei Beteiligungsverkäufen",
+      "location": "I.6",
+      "originalQuote": "Die Steuerbefreiung bei Beteiligungsverkäufen wird zurückgenommen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Kürzens von Renten",
+      "location": "II.2",
+      "originalQuote": "Deshalb lehnen wir das Kürzen von Renten und das Heraufsetzen der Altersgrenze für den Rente",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Neubaus von Atomkraftwerken",
+      "location": "IV.1",
+      "originalQuote": "Den Neubau von Atomkraftwerken lehnen wir ebenso ab wie den Export von Atomtechnik und über",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Exports von Atomtechnik",
+      "location": "IV.1",
+      "originalQuote": "Den Neubau von Atomkraftwerken lehnen wir ebenso ab wie den Export von Atomtechnik und über",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung überflüssiger Atommülltransporte",
+      "location": "IV.1",
+      "originalQuote": "Den Neubau von Atomkraftwerken lehnen wir ebenso ab wie den Export von Atomtechnik und über",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des naturzerstörenden Ausbaus von Flüssen",
+      "location": "IV.2",
+      "originalQuote": "Wir wenden uns gegen den naturzerstörenden Ausbau von Donau, Elbe, Saale, Oder, Havel, Main un",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Patentierung von Lebewesen und Genen",
+      "location": "IV.3",
+      "originalQuote": "Wir lehnen die Patentierung von Lebewesen und Genen ab.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Preisdumping der Handelsketten zu Lasten der Bauern",
+      "location": "IV.3",
+      "originalQuote": "Preisdumping der Handelsketten zu Lasten der Bauern lehnen wir ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Kriminalisierung von Drogenabhängigen",
+      "location": "V.2",
+      "originalQuote": "Eine Kriminalisierung von Drogenabhängigen lehnen wir ab.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Einsatzes der Bundeswehr im Innern",
+      "location": "V.2",
+      "originalQuote": "Wir sind entschiedene Gegner eines Einsatzes der Bundeswehr im Innern.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Abschottungspolitik in der Migrationspolitik",
+      "location": "V.4",
+      "originalQuote": "Eine neue Asyl- und Migrationspolitik muss Abschied nehmen von der gescheiterten Abschottungspo",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Forderung nach Abschaffung des § 218 (Abtreibungsstrafrecht)",
+      "location": "V.5",
+      "originalQuote": "Die Linkspartei.PDS fordert weiterhin die Abschaffung des § 218.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Beteiligung Deutschlands an Kriegseinsätzen",
+      "location": "VII.1",
+      "originalQuote": "Deutschland beteiligt sich nicht mehr an Kriegseinsätzen in aller Welt und holt die Soldaten au",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der NATO-Strategie von 1999",
+      "location": "VII.1",
+      "originalQuote": "Die NATO-Strategie von 1999 ist zurückzunehmen.",
+      "classification": "NATOSTRATEGIE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Verwendung von hoch angereichertem Uran im Reaktor Garching",
+      "location": "VII.2",
+      "originalQuote": "Die Verwendung von hoch angereichertem Uran im Reaktor Garching ist zu beenden.",
+      "classification": "ANGEREICHERTEM"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Ausbaus militärischer Übungsplätze",
+      "location": "VII.2",
+      "originalQuote": "Militärische Übungsplätze sollen ab- und nicht ausgebaut werden.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Bombodroms in der Kyritz-Ruppiner Heide",
+      "location": "VII.2",
+      "originalQuote": "Kein Bombodrom in der Kyritz-Ruppiner Heide.",
+      "classification": "KYRITZRUPPINER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Forderung nach Verbot von Landminen und Anti-Panzer-Minen",
+      "location": "VII.2",
+      "originalQuote": "Verbot von Landminen und Anti-Panzer-Minen.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Forderung nach vollständigem Stopp und Verbot aller Rüstungsexporte",
+      "location": "VII.2",
+      "originalQuote": "Stopp und Verbot aller Rüstungsexporte.",
+      "classification": "Rüstung & Waffen"
+    }
+  ]
+}

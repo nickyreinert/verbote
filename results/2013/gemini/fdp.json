@@ -1,0 +1,187 @@
+{
+  "sourceFile": "FDP - 2013 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neue Subventionen und Staatshilfen für Großkonzerne sollen verhindert werden.",
+      "location": "Vorspann, Quelle 3586",
+      "originalQuote": "Wir haben neue Subventionen verhindert und Staatshilfen für Großkonzerne unterbunden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neue Steuererhöhungen werden abgelehnt.",
+      "location": "Vorspann, Quelle 3599",
+      "originalQuote": "- Für die Abschaffung der Kalten Progression und des Solis sowie gegen neue Steuererhöhungen, um die Menschen",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staatsfinanzierung durch die EZB und Sanierung der Staatshaushalte durch Inflation werden entschieden abgelehnt.",
+      "location": "I. Wachstum – Stabiles Geld, Quelle 3644",
+      "originalQuote": "Eine Staatsfinanzierung durch die EZB und damit die Sanierung der Staatshaushalte durch Inflation lehnen wir mit aller Entschiedenheit ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die Einführung einer Haftungsunion wird abgelehnt.",
+      "location": "I. Wachstum – Stabiles Geld, Quelle 3647",
+      "originalQuote": "- Wir stehen für eine Stabilitätsunion mit soliden Haushalten und Finanzen. Eine Haftungsunion wird es mit uns nicht geben.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Eine gesamtschuldnerische Haftung für Staatsanleihen (z.B. Eurobonds) wird abgelehnt.",
+      "location": "I. Wachstum – Stabiles Geld, Quelle 3648",
+      "originalQuote": "Eine gesamtschuldnerische Haftung für Staatsanleihen der Mitgliedstaaten, wie über Eurobonds oder einen Altschuldentilgungsfonds, lehnen wir Liberalen aus politischen, rechtlichen und wirtschaftlichen Gründen ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Künftigen Generationen soll ihr Weg nicht durch Schuldenberge verbaut werden.",
+      "location": "Aus Verantwortung für heute und morgen – Schuldenberge abbauen, Quelle 3652",
+      "originalQuote": "Der heutigen Generation steht es nicht zu, kommenden Generationen ihren Weg durch Schuldenberge zu verbauen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Forderung nach einem Verschuldungsverbot.",
+      "location": "Aus Verantwortung für heute und morgen – Schuldenberge abbauen, Quelle 3660",
+      "originalQuote": "Aufgrund dieser Überzeugung haben wir für ein Verschuldungsverbot und die Konsolidierung des Staatshaushaltes gekämpft.",
+      "classification": "VERSCHULDUNGSVERBOT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die Belastung von Menschen und Unternehmen durch Steuern und Abgaben soll nicht erhöht werden.",
+      "location": "Aus Verantwortung für heute und morgen – Schuldenberge abbauen, Quelle 3685",
+      "originalQuote": "Wir Liberale stehen dafür ein, die Belastung der Menschen und Unternehmen durch Steuern und Abgaben nicht zu erhöhen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Politische Mehrheiten sollen die Bürger nicht maßlos mit Steuern belasten.",
+      "location": "Aus Verantwortung für heute und morgen – Schuldenberge abbauen, Quelle 3689",
+      "originalQuote": "Deshalb brauchen wir neben der Schuldenbremse auch eine Steuerbremse zum Schutz der Bürger, damit andere politische Mehrheiten sie nicht maßlos mit Steuern belasten.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Eine höhere Steuerbelastung für Bürger und Unternehmen wird entschieden abgelehnt.",
+      "location": "Entlastung für den Aufstieg, Quelle 3706",
+      "originalQuote": "- Unser Ziel bleibt die Entlastung der arbeitenden Mitte. Eine höhere Steuerbelastung für Bürger und Unternehmen lehnen wir entschieden ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die Einführung von EU-Steuern wird abgelehnt.",
+      "location": "Entlastung für den Aufstieg, Quelle 3708",
+      "originalQuote": "Die Einführung von EU-Steuern wird von uns abgelehnt.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Der Staat darf auf keiner Ebene mehr ausgeben als er einnimmt.",
+      "location": "Entlastung für den Aufstieg, Quelle 3712",
+      "originalQuote": "Der Staat darf auf keiner Ebene mehr ausgeben als er einnimmt.",
+      "classification": "AUSGEBEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Staatsschulden dürfen nicht aufgebaut werden.",
+      "location": "Entlastung für den Aufstieg, Quelle 3712",
+      "originalQuote": "Staatsschulden dürfen nicht aufgebaut, sondern müssen jetzt abgebaut werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verschärftes Erbschaftsteuerrecht, Vermögensabgabe und Vermögensteuer werden abgelehnt.",
+      "location": "Entlastung für den Aufstieg, Quelle 3731",
+      "originalQuote": "Das lehnen wir ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Eingriffe in die Soziale Marktwirtschaft zugunsten großer Konzerne wurden unterbunden.",
+      "location": "Mittelstand stärken, industrielle Basis erhalten, Arbeitsplätze schaffen, Quelle 3750",
+      "originalQuote": "Eingriffe in die Soziale Marktwirtschaft zugunsten großer Konzerne wie Opel, Karstadt oder Schlecker haben wir unterbunden.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Versuchen zur Schwächung der Wettbewerbsfähigkeit und Untergrabung der Sozialen Marktwirtschaft wurde entgegengetreten.",
+      "location": "Mittelstand stärken, industrielle Basis erhalten, Arbeitsplätze schaffen, Quelle 3752",
+      "originalQuote": "Entschieden sind wir jedem Versuch entgegen getreten, die Wettbewerbsfähigkeit Deutschlands zu schwächen und die Soziale Marktwirtschaft zu untergraben.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die Innovationskraft von Industrie und Mittelstand soll nicht ausgebremst werden.",
+      "location": "Mittelstand stärken, industrielle Basis erhalten, Arbeitsplätze schaffen, Quelle 3789",
+      "originalQuote": "Die Zukunft des Standorts Deutschlands hängt wesentlich davon ab, dass wir die Innovationskraft von Industrie und Mittelstand stärken – und nicht ausbremsen.",
+      "classification": "INNOVATIONSKRAFT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neue Ideen und Geschäftsfelder sollen nicht durch Bürokratie im Keim erstickt werden.",
+      "location": "Mittelstand stärken, industrielle Basis erhalten, Arbeitsplätze schaffen, Quelle 3790",
+      "originalQuote": "Wir Liberalen setzen uns dafür ein, dass neue Ideen und Geschäftsfelder eine Chance erhalten und nicht durch Bürokratie im Keim erstickt werden.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Der Einsatz von RFID-Chips darf nicht zur Datenschutzfalle für den Verbraucher werden.",
+      "location": "Bürgerrechte und Sicherheit, Quelle 3125",
+      "originalQuote": "Der Einsatz von RFID-Chips etwa zur Verbesserung der Logistik darf nicht zur Datenschutzfalle für den Verbraucher werden.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die anlasslose Vorratsdatenspeicherung wird weiterhin abgelehnt.",
+      "location": "Bürgerrechte und Sicherheit, Quelle 3128",
+      "originalQuote": "- Wir lehnen weiterhin die anlasslose Vorratsdatenspeicherung ab. Die Menschen in Deutschland dürfen nicht pauschal unter Verdacht gestellt und ohne Anlass beim mobilen Telefonieren, Versenden von SMS-Nachrichten oder Surfen im Internet überwacht werden.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Die Menschen dürfen nicht pauschal und ohne Anlass überwacht werden.",
+      "location": "Bürgerrechte und Sicherheit, Quelle 3128",
+      "originalQuote": "- Wir lehnen weiterhin die anlasslose Vorratsdatenspeicherung ab. Die Menschen in Deutschland dürfen nicht pauschal unter Verdacht gestellt und ohne Anlass beim mobilen Telefonieren, Versenden von SMS-Nachrichten oder Surfen im Internet überwacht werden.",
+      "classification": "ÜBERWACHT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Eine weitere Verschärfung des geltenden Waffenrechts wird abgelehnt.",
+      "location": "Wehrhafte Demokratie, Quelle 3246",
+      "originalQuote": "auch die verdachtsunabhängigen Kontrollen gehören auf den Prüfstand. Wir lehnen eine weitere Verschärfung des geltenden Waffenrechts ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die Einführung einer Waffensteuer und die zentrale Lagerung von Jagd- und Sportwaffen werden abgelehnt.",
+      "location": "Wehrhafte Demokratie, Quelle 3247",
+      "originalQuote": "Die Einführung einer Waffensteuer und die zentrale Lagerung von Jagd- und Sportwaffen dienen nicht der Sicherheit und werden deshalb von uns angelehnt.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Extremismus darf nicht toleriert oder entschuldigt werden.",
+      "location": "Wehrhafte Demokratie, Quelle 3276",
+      "originalQuote": "Extremismus darf nicht toleriert oder entschuldigt werden – egal ob er links, rechts oder religiös motiviert ist.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Der Bau von Staustufen in Elbe und Donau wird weiterhin abgelehnt.",
+      "location": "Umwelt, Quelle 3407",
+      "originalQuote": "Auch bei Wasserkraftanlagen müssen die Belange des Hochwasserschutzes genauso wie der Natur- und Tierschutz Beachtung finden. Einen Bau von Staustufen in Elbe und Donau lehnen wir weiter ab.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Eine gesetzliche Quote für Frauen in Führungspositionen wird abgelehnt.",
+      "location": "Gesellschaft, Quelle 2968",
+      "originalQuote": "Als Liberale lehnen wir eine gesetzliche Quote jedoch ab. Wir setzen vielmehr auf Anreize für die Unternehmen, verbindliche Berichtspflichten und transparente Selbstverpflichtungen.",
+      "classification": "Gleichstellung & Gesellschaft"
+    }
+  ]
+}

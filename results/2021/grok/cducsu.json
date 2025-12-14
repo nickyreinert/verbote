@@ -1,0 +1,271 @@
+{
+  "sourceFile": "CDU-CSU - 2021 - Wahlprogramm.pdf",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vergemeinschaftung von Schulden oder Risiken",
+      "location": "Seite 23, 2.4. Wettbewerbsfähiges und stabiles Europa",
+      "originalQuote": "Wir lehnen es weiterhin ab, mitgliedstaatliche Schulden oder Risiken zu ver-",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schulden- und Haftungsunion",
+      "location": "Seite 23, 2.4. Wettbewerbsfähiges und stabiles Europa",
+      "originalQuote": "Denn wir wollen eine echte Stabilitätsunion und keine Schulden- und",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unterschiedliche Regelwerke für Lieferketten",
+      "location": "Seite 23, 2.4. Wettbewerbsfähiges und stabiles Europa",
+      "originalQuote": "So verhindern wir unterschiedliche und damit unpraktikable Re-",
+      "classification": "UNTERSCHIEDLICHE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Illegale Migration",
+      "location": "Seite 27, 2.5. Unser Europa der Ordnung und Sicherheit",
+      "originalQuote": "Das bedeutet: Wir wollen keine illegale Migration und Ausreisepflichten durchset-",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zuwanderung in Sozialsysteme",
+      "location": "Seite 27, 2.5. Unser Europa der Ordnung und Sicherheit",
+      "originalQuote": "Eine Zuwanderung in die Sozialsysteme lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausweitung des Familiennachzugs",
+      "location": "Seite 28, 2.5. Unser Europa der Ordnung und Sicherheit",
+      "originalQuote": "Wir lehnen eine Ausweitung des Familiennachzugs über die heute bestehenden Rege-",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zersplitterung des Europaparlaments",
+      "location": "Seite 32, 2.7. Ein handlungsfähiges und bürgernahes Europa",
+      "originalQuote": "Für ein arbeitsfähiges Parlament darf es keine Zersplitte-",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Neue Belastungen für Unternehmen",
+      "location": "Seite 35, 3.1. Unser Entfesselungspaket für die Wirtschaft",
+      "originalQuote": "dürfen Unternehmen keine neuen Belastungen auferlegt wer-",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Solidaritätszuschlag",
+      "location": "Seite 35, 3.1. Unser Entfesselungspaket für die Wirtschaft",
+      "originalQuote": "Wir werden den Solidaritätszuschlag für alle schrittweise abschaffen",
+      "classification": "SOLIDARITÄTSZUSCHLAG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Missbrauch und Entgrenzung bei Arbeitszeiten",
+      "location": "Seite 40, 3.2. Sichere Arbeit mit Zukunft",
+      "originalQuote": "Dabei werden wir Missbrauch und Entgrenzung verhindern.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Missbrauch bei Befristungen",
+      "location": "Seite 39, 3.2. Sichere Arbeit mit Zukunft",
+      "originalQuote": "Missbrauch werden wir verhindern.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Klimaschutzmaßnahmen an Grenzen",
+      "location": "Seite 42, 3.3. Deutschland als klimaneutrales Industrieland bis 2045",
+      "originalQuote": "Maßnahmen zum Klimaschutz dürfen nicht an unseren Grenzen haltma-",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Entziehung zusätzlicher Flächen für Naturschutz",
+      "location": "Seite 44, 3.4. Unser Energiekonzept für die Zukunft",
+      "originalQuote": "der Landwirtschaft keine zusätzlichen Flächen für naturschutzrechtlichen Ausgleich entzo-",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Export von Abfällen zur Entsorgung",
+      "location": "Seite 47, 3.5. Nachhaltiges Wirtschaften zum Schutz unserer Ressourcen",
+      "originalQuote": "Exporte von Abfällen – insbesondere von Plas- tik- und Kunststoffabfällen – zur bloßen Entsorgung verbieten.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Tierschutz an EU-Grenzen",
+      "location": "Seite 52, 3.7. Eine Landwirtschaft, die stark und nachhaltig ist",
+      "originalQuote": "Tierschutz darf nicht an EU-Grenzen Halt machen.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Risiken beim Erzeuger allein",
+      "location": "Seite 56, 3.7. Eine Landwirtschaft, die stark und nachhaltig ist",
+      "originalQuote": "Die Markt- und Produktionsrisiken dürfen nicht beim Erzeuger alleine liegen.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Doppelbesteuerung von Renten",
+      "location": "Seite 60, 4.1. Finanzielle Sicherheit im Alter",
+      "originalQuote": "werden wir eine Doppelbesteuerung von Renten verhindern",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bedingungsloses Grundeinkommen",
+      "location": "Seite 62, 4.2. Soziale Sicherheit in allen Lebenslagen",
+      "originalQuote": "Ein bedingungsloses Grundeinkommen wird es mit uns aber nicht geben.",
+      "classification": "BEDINGUNGSLOSES"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Legalisierung illegaler Drogen",
+      "location": "Seite 66, 4.3. Leistungsfähiges Gesundheitswesen",
+      "originalQuote": "Eine Legalisierung illegaler Drogen lehnen wir ab.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Eintritt von Pflegebedürftigkeit",
+      "location": "Seite 68, 4.4. Gute Pflege für mehr Sicherheit und Halt",
+      "originalQuote": "um den Eintritt von Pflegebedürftigkeit möglichst lange zu verhindern.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vermögensteuer",
+      "location": "Seite 75, 5.3. Vermögensbildung für jeden",
+      "originalQuote": "Wir lehnen zusätzliche Lasten wie eine Wiedereinführung der Vermögensteuer ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Arbeitsmarktgerechte Familien",
+      "location": "Seite 76, 6.1. Mehr Zeit, Raum und Unterstützung für Familien",
+      "originalQuote": "Wir wollen eine familiengerechte Arbeitswelt und keine arbeitsmarktgerechten Familien.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Herkunft über Zukunft entscheiden",
+      "location": "Seite 80, 6.3. Aufstieg durch Bildung",
+      "originalQuote": "Die Her- kunft von Menschen darf nicht über ihre Zukunft entscheiden.",
+      "classification": "ENTSCHEIDEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fehlanreize in Förderung",
+      "location": "Seite 86, 7.1. Strategische Forschungs- und Innovationspolitik für Deutschland",
+      "originalQuote": "Damit verhindern wir Fehlanreize.",
+      "classification": "FEHLANREIZE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Übertriebene Datenschutzauslegung",
+      "location": "Seite 95, 7.3 Digitale Transformationsoffensive",
+      "originalQuote": "Eine über- triebene Auslegung von Datenschutzanforderungen darf nicht dazu führen",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schriftformerfordernisse",
+      "location": "Seite 97, 8.2. Die Bürgerinnen und Bürger im Mittelpunkt",
+      "originalQuote": "Wir werden außerdem alle Schriftformerfordernisse konsequent beseitigen.",
+      "classification": "SCHRIFTFORMERFORDERNISSE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Benachteiligung wegen Familie",
+      "location": "Seite 103, 8.3. Der öffentliche Dienst als moderner Arbeitgeber",
+      "originalQuote": "dass keine Frau und kein Mann wegen der Erziehung der Kinder oder der Pflege von Angehörigen benachteiligt wird.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Ressortprinzip als Hemmnis",
+      "location": "Seite 104, 8.4. Digitale Infrastruktur",
+      "originalQuote": "Das Ressortprinzip darf nicht zum Hemmnis für die Modernisierung werden.",
+      "classification": "RESSORTPRINZIP"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Parallelgesellschaften",
+      "location": "Seite 112, 9.4. Null Toleranz gegenüber kriminellen Familienclans",
+      "originalQuote": "Parallelgesellschaften verhindern",
+      "classification": "PARALLELGESELLSCHAFTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschottung in Parallelgesellschaften",
+      "location": "Seite 112, 9.4. Null Toleranz gegenüber kriminellen Familienclans",
+      "originalQuote": "Der Abschottung in kriminelle Parallelgesellschaften mit eigenen Regeln und eigener",
+      "classification": "PARALLELGESELLSCHAFTEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Ruhige Minute für Clans",
+      "location": "Seite 112, 9.4. Null Toleranz gegenüber kriminellen Familienclans",
+      "originalQuote": "Sie dürfen keine ruhige Minute mehr haben.",
+      "classification": "RUHIGE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Milde für Gewalt gegen Staat",
+      "location": "Seite 114, 9.5. Schutz unserer Demokratie vor Extremisten und Terroristen",
+      "originalQuote": "darf keine Milde erwarten.",
+      "classification": "GEWALT"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Virtuelles Hausrecht zur Beeinflussung",
+      "location": "Seite 115, 9.5. Schutz unserer Demokratie vor Extremisten und Terroristen",
+      "originalQuote": "Das virtuelle Hausrecht in den Nutzungsbedingungen der Diensteanbieter darf nicht dazu genutzt werden",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Radikalisierung in Gefängnissen",
+      "location": "Seite 115, 9.5. Schutz unserer Demokratie vor Extremisten und Terroristen",
+      "originalQuote": "verhindern, dass sich Menschen dort radikalisieren",
+      "classification": "RADIKALISIERUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Technischer Vorsprung für Terroristen",
+      "location": "Seite 117, 9.6. Stärkung unserer Sicherheitsbehörden",
+      "originalQuote": "Denn es darf keinen technischen Vorsprung",
+      "classification": "TECHNISCHER"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbote in digitaler Welt",
+      "location": "Seite 118, 9.7. Gefahrenabwehr im Cyberraum",
+      "originalQuote": "Was in der analogen Welt verboten ist, muss auch in der digitalen Welt verboten sein.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Paralleljustiz",
+      "location": "Seite 122, 9.9. Starke und bürgernahe Justiz",
+      "originalQuote": "Unser Rechtsstaat duldet keine Paralleljustiz",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Eingeredete Lebensweise",
+      "location": "Seite 124, 10. Neue Lebensqualität in Stadt und Land",
+      "originalQuote": "niemand eingeredet bekommen darf, wie er zu wohnen und zu leben hat.",
+      "classification": "EINGEREDETE"
+    }
+  ]
+}

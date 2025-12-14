@@ -1,0 +1,26 @@
+{
+  "sourceFile": "Die Partei - 2013 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Pub Crawls sollen verboten werden",
+      "location": "Punkt 5",
+      "originalQuote": "Pub Crawls verstoßen gegen Artikel 1 des Grundgesetzes und werden nach der Machtüber",
+      "classification": "VERBOTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staatlicher Rundfunk (ARD, ZDF etc.) wird abgeschaltet",
+      "location": "Punkt 7",
+      "originalQuote": "Der staatliche Rundfunk (ARD, ZDF etc.) ist ein klassisches Beispiel unglaublicher Versch",
+      "classification": "ABGESCHALTET"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wahlrecht für Personen unter 12 und über 52 Jahren wird ausgeschlossen",
+      "location": "Punkt 11",
+      "originalQuote": "Wählen darf, wer zwischen 12 und 52 ist.",
+      "classification": "Demokratie & Recht"
+    }
+  ]
+}

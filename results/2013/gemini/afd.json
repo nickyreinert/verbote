@@ -1,0 +1,47 @@
+{
+  "sourceFile": "AfD - 2013 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Ankaufs von Schrottpapieren durch die EZB.",
+      "location": "Währungspolitik",
+      "originalQuote": "* Wir fordern ein sofortiges Verbot des Ankaufs von Schrottpapieren durch die Europäische Zentralbank. [cite: 9]",
+      "classification": "SCHROTTPAPIEREN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Transferunion oder eines zentralisierten Europastaats.",
+      "location": "Europapolitik",
+      "originalQuote": "Eine Transferunion oder gar einen zentralisierten Europastaat lehnen wir entschieden ab. [cite: 12]",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Inflation darf Ersparnisse der Bürger nicht aufzehren.",
+      "location": "Währungspolitik",
+      "originalQuote": "Inflation darf nicht die Ersparnisse der Bürger aufzehren. [cite: 10]",
+      "classification": "ERSPARNISSE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staatliche Organe dürfen sich nicht über Gesetze und Verträge hinwegsetzen.",
+      "location": "Rechtsstaatlichkeit und Demokratie",
+      "originalQuote": "Staatliche Organe dürfen sich selbst in Einzelfällen nicht über Gesetze und Verträge hinwegsetzen. [cite: 18]",
+      "classification": "HINWEGSETZEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Das Mandat von Bundestagsabgeordneten darf nicht unter bezahlten Nebentätigkeiten leiden.",
+      "location": "Rechtsstaatlichkeit und Demokratie",
+      "originalQuote": "* Wir fordern, dass Bundestagsabgeordnete ihre volle Arbeitskraft der parlamentarischen Arbeit widmen. [cite_start]Das Mandat darf nicht unter bezahlten Nebentätigkeiten leiden. [cite: 27]",
+      "classification": "BUNDESTAGSABGEORDNETEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ungeordnete Zuwanderung in die Sozialsysteme muss unterbunden werden.",
+      "location": "Integrationspolitik",
+      "originalQuote": "Eine ungeordnete Zuwanderung in unsere Sozialsysteme muss unbedingt unterbunden werden. [cite: 52]",
+      "classification": "Soziales & Arbeit"
+    }
+  ]
+}

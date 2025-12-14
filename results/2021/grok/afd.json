@@ -1,0 +1,138 @@
+{
+  "sourceFile": "AfD - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Quotenregelungen",
+      "location": "Kapitel 1",
+      "originalQuote": "Die AfD lehnt jede Art von Quoten ab. Sie sind leistungsfeindlich, ungerecht und stellen eine verfass",
+      "classification": "QUOTENREGELUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Antidiskriminierungsgesetze",
+      "location": "Kapitel 1",
+      "originalQuote": "Deshalb lehnen wir sog. ,Antidiskriminierungsgesetze‘ ab.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Parteienbeteiligung an Medienunternehmen",
+      "location": "Kapitel 1",
+      "originalQuote": "Ferner soll den Parteien endlich die Beteiligung an Unternehmen, insbesondere Medienunternehmen, ver",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "EU als staatsähnliche Union",
+      "location": "Kapitel 2",
+      "originalQuote": "Eine staatsähnliche Europäische Union, wie sie von den etablierten Parteien angestrebt wird, halten w",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einführung von EU-Steuern",
+      "location": "Kapitel 3",
+      "originalQuote": "Die im Zusammenhang mit dem “Recovery Fonds” von der EU-Kommission geforderte Einführung mehrerer St",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Enteignungen und Abschaffung von Privateigentum",
+      "location": "Kapitel 4",
+      "originalQuote": "Forderungen nach Enteignungen, Abschaffung von Privateigentum und Vertragsfreiheit, hetzerische Klass",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nullzinspolitik der EZB",
+      "location": "Kapitel 5",
+      "originalQuote": "Die AfD will die kapitalgedeckten Alterssicherungssysteme wie Betriebsrenten, private Lebensversicher",
+      "classification": "NULLZINSPOLITIK"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Parteienbeteiligung an Medienunternehmen",
+      "location": "Kapitel 16",
+      "originalQuote": "Beteiligungen von Parteien an Medienunternehmen wollen wir verbieten.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Mietpreisbremse und Mietendeckel",
+      "location": "Kapitel 17",
+      "originalQuote": "Die AfD steht für ein ausgewogenes Mietrecht und lehnt staatliche Überregulierungen sowie Investition",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Dekarbonisierung und CO2 auf null",
+      "location": "Kapitel 18",
+      "originalQuote": "Das Ziel der Bundesregierung, die CO2-Emissionen faktisch auf null zu senken, führt zu einem radikal",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Green Deal der EU",
+      "location": "Kapitel 18",
+      "originalQuote": "Wir lehnen den „Green Deal“ der EU sowie jegliche weitere Formen von Planwirtschaft ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kohleausstieg",
+      "location": "Kapitel 18",
+      "originalQuote": "Daher lehnen wir die Ausstiegspläne aus der Kohleverstromung ab.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaltung von Kernkraftwerken aus nicht-technischen Gründen",
+      "location": "Kapitel 18",
+      "originalQuote": "Eine Abschaltung aus anderen Gründen lehnen wir ab.",
+      "classification": "NICHTTECHNISCHEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Generelles Tempolimit auf Autobahnen",
+      "location": "Kapitel 18",
+      "originalQuote": "Die AfD lehnt ein generelles Tempolimit auf Bundesautobahnen strikt ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Luftverkehrsteuer",
+      "location": "Kapitel 18",
+      "originalQuote": "Die AfD befürwortet die Abschaffung der Luftverkehrsteuer und richtet sich gegen unrealistische CO2-",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einseitige Förderung der Elektromobilität",
+      "location": "Kapitel 18",
+      "originalQuote": "Die heutige einseitige Bevorzugung von Elektromobilität ist auf Grund mangelnder Stromkapazitäten und",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "EU-weite Liberalisierung des Wassermarkts",
+      "location": "Kapitel 19",
+      "originalQuote": "Eine EU-weite Liberalisierung und Kommerzialisierung des Wassermarkts lehnt die AfD entschieden ab.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neubau von Photovoltaikanlagen auf Freiflächen",
+      "location": "Kapitel 19",
+      "originalQuote": "Den Neubau von Photovoltaikanlagen auf Freiflächen lehnen wir aufgrund ihres hohen Flächenverbrauchs ",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Windenergieanlagen in Wäldern und Schutzgebieten",
+      "location": "Kapitel 18 und 19",
+      "originalQuote": "In Wäldern und Schutzgebieten dürfen keine Wind- und Solaranlagen errichtet werden.",
+      "classification": "Umwelt & Klima"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "sourceFile": "SPD - 2013 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vorstellung unrealistischer Wahlversprechen",
+      "location": "Kapitel I. Deutschland besser und gerechter regieren.",
+      "originalQuote": "Für den Fall unserer Regierungsübernahme bei der Bundestagswahl 2013 wollen wir deshalb in diesem Regierungsprogra",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fortbestand von Benachteiligungen bei Gesundheit, Arbeitsmarkt und Bildung",
+      "location": "Kapitel I. Deutschland besser und gerechter regieren.",
+      "originalQuote": "Benachteiligungen bei Gesundheit, auf dem Arbeitsmarkt und bei der Bildung sind nicht überwunden.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Missbrauch von Leiharbeit, Minijobs und Niedriglohnbeschäftigung",
+      "location": "Kapitel I. Deutschland besser und gerechter regieren.",
+      "originalQuote": "Den in diesem Prozess auch entstandenen Missbrauch von Leiharbeit, Minijobs und Niedriglohnbeschäftigung allerdi",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Barrieren, die gleitenden Übergängen in reguläre Beschäftigung entgegenstehen",
+      "location": "Abschnitt Arbeit/Mini-Jobs",
+      "originalQuote": "Wir wollen gleitende Übergänge in reguläre Beschäftigung verbessern und Barrieren, die dem entgegenstehen, abbauen.",
+      "classification": "ENTGEGENSTEHEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Welt darf nicht zu einer Welt der sozialen Ausgrenzung werden",
+      "location": "Kapitel I. (Globalisierung)",
+      "originalQuote": "die zusammenwachsende Welt darf nicht zu einer Welt der sozialen Ausgrenzung werden;",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fortsetzung der Politik wachsender Neuverschuldung",
+      "location": "Kapitel I. Die Finanzierung unseres Gemeinwesens.",
+      "originalQuote": "Diese Politik wachsender Neuverschuldung, selbst in Zeiten wirtschaftlicher Hochkonjunktur, war unverantwortlich",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Unregulierte Finanzmarktakteure, Finanzprodukte und Märkte",
+      "location": "Kapitel II.1 Märkte brauchen Regeln.",
+      "originalQuote": "Für uns gilt: Kein Finanzmarktakteur, kein Finanzprodukt und kein Markt darf in Zukunft unreguliert sein.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Abbau der öffentlichen Schuldenlast zu Lasten öffentlicher Zukunftsaufgaben",
+      "location": "Kapitel II.1 Märkte brauchen Regeln.",
+      "originalQuote": "Er darf aber nicht zu Lasten der öffentlichen Zukunftsaufgaben erfolgen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verdrängung von Mieterinnen und Mietern aus sanierten Wohnungen",
+      "location": "Abschnitt Wohnen und Sanierung",
+      "originalQuote": "Wir werden dabei dafür sorgen, dass Mieterinnen und Mieter nicht aus ihren sanierten Wohnungen verdrängt werden.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verletzung der Würde und Freiheit anderer (bei der freien Entfaltung)",
+      "location": "Abschnitt Chancengleichheit/Diskriminierung",
+      "originalQuote": "Wir streben eine Gesellschaft an, in der jeder Mensch sich frei entfalten kann, ohne die Würde und Freiheit ander",
+      "classification": "VERLETZUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Jede Form der Diskriminierung, Sexismus, frauenverachtendes Verhalten und Gewalt gegen Frauen",
+      "location": "Abschnitt Chancengleichheit/Diskriminierung",
+      "originalQuote": "Wir widersetzen uns jeder Form der Diskriminierung. Jeder Form des Sexismus und allen Formen von frauenverachten",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausschluss von Menschen aus Nicht-EU-Staaten vom kommunalen Wahlrecht",
+      "location": "Abschnitt Integration/Wahlrecht",
+      "originalQuote": "Der Zusammenhalt in den Städten ist gefährdet, wenn Menschen, die aus Nicht-EU-Staaten stammen, wie bislang vom ",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Relativierung der NS-Terrorherrschaft und Bagatellisierung des SED-Unrechts",
+      "location": "Abschnitt Gedenken/Diktaturen",
+      "originalQuote": "- Das Gedenken an die beiden deutschen Diktaturen darf weder zu einer Relativierung der NS-Terrorherrschaft führ",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Relativierung des Schutzes individueller Rechte durch die Digitalisierung der Gesellschaft",
+      "location": "Abschnitt Netzpolitik/Individuelle Rechte",
+      "originalQuote": "Die Veränderung unserer Gesellschaft durch das Internet darf allerdings nicht dazu führen, den Schutz von individu",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Infragestellung der unverbrüchlichen Verbindung zwischen Urheber und Werk",
+      "location": "Abschnitt Urheberrecht",
+      "originalQuote": "Die Verbindung zwischen Urheber und Werk ist dabei unverbrüchlich und darf nicht in Frage gestellt werden.",
+      "classification": "UNVERBRÜCHLICHEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gewerbsmäßig betriebene Urheberrechtsverletzungen",
+      "location": "Abschnitt Urheberrecht",
+      "originalQuote": "- Wir wollen insbesondere gewerbsmäßig betriebene Urheberrechtsverletzungen konsequent unterbinden. Dazu bedarf ",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Flächendeckende Inhaltefilterung, Internetsperren und Androhung einer individuellen Internetsperrung",
+      "location": "Abschnitt Urheberrecht",
+      "originalQuote": "Dazu bedarf es keiner flächendeckenden Inhaltefilterung des Datenstroms, keiner Internetsperren und auch keiner A",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Speicherung von Bewegungsprofilen",
+      "location": "Abschnitt Datenschutz",
+      "originalQuote": "Die Speicherung von Bewegungsprofilen wird es mit uns nicht geben.",
+      "classification": "BEWEGUNGSPROFILEN"
+    }
+  ]
+}

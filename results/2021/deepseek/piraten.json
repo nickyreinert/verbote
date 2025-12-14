@@ -1,0 +1,376 @@
+{
+  "sourceFile": "Piraten - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verdachtsunabhängige Durchleuchtung der Bürger und gläserne Kunden",
+      "location": "Freiheit und Grundrechte",
+      "originalQuote": "Wir lehnen die verdachtsunabhängige Durchleuchtung der Bürgerinnen und Bürger und die gläsernen Kundinnen und Kunden ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weitergabe von Meldedaten ohne aktive Einwilligung (Opt-in)",
+      "location": "Freiheit und Grundrechte - Verantwortungsvollen Umgang mit Meldedaten sicherstellen",
+      "originalQuote": "Meldedaten nicht ohne aktive Einwilligung der Bürgerinnen und Bürger an der Erhebungsquelle (Opt-in) an Dritte weitergegeben werden",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Automatsierte Abfrage von Meldedaten",
+      "location": "Freiheit und Grundrechte - Verantwortungsvollen Umgang mit Meldedaten sicherstellen",
+      "originalQuote": "Eine automatisierte Abfrage lehnen wir ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Listenprivileg im Datenschutzrecht für Adresshandel",
+      "location": "Freiheit und Grundrechte - Verantwortungsvollen Umgang mit Meldedaten sicherstellen",
+      "originalQuote": "Daher fordern wir die ersatzlose Abschaffung des sogenannten Listenprivilegs",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weitergabe von Meldedaten an Beitragsservice der öffentlich-rechtlichen Rundfunkanstalten",
+      "location": "Freiheit und Grundrechte - Verantwortungsvollen Umgang mit Meldedaten sicherstellen",
+      "originalQuote": "Die Weitergabe von Meldedaten an den Beitragsservice der öffentlich-rechtlichen Rundfunkanstalten muss beendet",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verdachtsunabhängige Vorratsdatenspeicherung von Telekommunikationsdaten",
+      "location": "Freiheit und Grundrechte - Schluss mit Vorratsdatenspeicherung und Videoüberwachung",
+      "originalQuote": "Wir PIRATEN lehnen eine verdachtsunabhängige Vorratsdatenspeicherung von Telekommunikationsdaten [...] ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausdehnung der öffentlichen Videoüberwachung",
+      "location": "Freiheit und Grundrechte - Schluss mit Vorratsdatenspeicherung und Videoüberwachung",
+      "originalQuote": "sowie eine Ausdehnung der öffentlichen Videoüberwachung ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Anlasslose Erfassung, Speicherung und Abgleich biometrischer Daten",
+      "location": "Freiheit und Grundrechte - Schluss mit Vorratsdatenspeicherung und Videoüberwachung",
+      "originalQuote": "Wir lehnen die anlasslose Erfassung, Speicherung und den Abgleich biometrischer Daten aufgrund des hohen Missbrauchspotenzials ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder Versicherungswirtschaft",
+      "location": "Freiheit und Grundrechte - Schluss mit Vorratsdatenspeicherung und Videoüberwachung",
+      "originalQuote": "Der Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder die Versicherungswirtschaft muss unterbleiben.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkungen des Bargeldverkehrs",
+      "location": "Freiheit und Grundrechte - Keine Einschränkungen beim Bargeldverkehr",
+      "originalQuote": "Wir PIRATEN setzen uns sowohl auf Bundesebene als auch auf europäischer Ebene gegen Einschränkungen des Bargeldverkehrs ein.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Herstellung, Wartung, Handel mit Überwachungssoftware",
+      "location": "Freiheit und Grundrechte - Gegen Überwachungssoftware: Transparenz und Quellcode-Offenlegung",
+      "originalQuote": "Wir PIRATEN sprechen uns deutlich gegen die Herstellung, Wartung, Betreuung und Erhaltung von Überwachungssoftware aus. Sie verurteilt den kommerziellen Handel mit Überwachungssoftware",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "PKW-Maut",
+      "location": "Freiheit und Grundrechte - Keine PKW-Maut",
+      "originalQuote": "Eine PKW-Maut lehnen wir ebenfalls ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bundes- oder Staatstrojaner (verdeckte Eingriffe in IT-Systeme)",
+      "location": "Freiheit und Grundrechte - Keine Bundes- oder Staatstrojaner",
+      "originalQuote": "Für uns PIRATEN sind verdeckte Eingriffe in informationstechnische Systeme durch den Staat nicht mit Grundrechten und Rechtsstaat vereinbar.",
+      "classification": "STAATSTROJANER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pauschale Kategorisierungen von Staaten als 'sichere Herkunftsländer'",
+      "location": "Asyl und Migration - Wiederherstellung des Rechts auf Asyl",
+      "originalQuote": "Außerdem lehnen wir pauschale Kategorisierungen von Staaten als 'sichere Herkunftsländer' ab.",
+      "classification": "KATEGORISIERUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Drittstaatenregelung und Dublin II-Verordnung",
+      "location": "Asyl und Migration - Keine Rückkehr zur Drittstaatenregelung",
+      "originalQuote": "Die Drittstaatenregelung und deren Konkretisierung in der 'Dublin II'-Verordnung lehnen wir ab.",
+      "classification": "DRITTSTAATENREGELUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bevormundende Verschiebungspraxis der EU bei Asyl",
+      "location": "Asyl und Migration - Keine Rückkehr zur Drittstaatenregelung",
+      "originalQuote": "Die bevormundende und entwürdigende Verschiebungspraxis der EU lehnen wir ab.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz bewaffneter Drohnen",
+      "location": "Asyl und Migration - Keine Drohnen gegen Flüchtende",
+      "originalQuote": "Bewaffnete Drohnen lehnen wir PIRATEN grundsätzlich ab",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz unbewaffneter Drohnen durch Frontex gegen Flüchtende",
+      "location": "Asyl und Migration - Keine Drohnen gegen Flüchtende",
+      "originalQuote": "Wir wenden uns ausdrücklich gegen den Einsatz von auch unbewaffneten Drohnen [...] durch die Agentur für Grenz- und Küstenschutz [...] gegen Flüchtende",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschiebungen und Abschiebehaft",
+      "location": "Asyl und Migration - Für ein Ende von Abschiebungen und Abschiebehaft",
+      "originalQuote": "Wir setzen uns für ein generelles Ende von Abschiebungen und der Abschiebehaft ein",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Botschaftsvorführungen zur Identitätsfeststellung",
+      "location": "Asyl und Migration - Für ein Ende von Abschiebungen und Abschiebehaft",
+      "originalQuote": "Botschaftsvorführungen zur Identitätsfeststellung und Passersatzbeschaffung sind diskriminierend und werden daher ebenfalls von uns abgelehnt.",
+      "classification": "BOTSCHAFTSVORFÜHRUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zusätzliche steuerliche Belastung der Bevölkerung zur Finanzierung der Flüchtlingsversorgung",
+      "location": "Asyl und Migration - Finanzierung zur Versorgung der aufgenommenen Geflüchteten",
+      "originalQuote": "Wir PIRATEN lehnen eine zusätzliche steuerliche Belastung der Bevölkerung zur Finanzierung des erhöhten Aufkommens geflüchteter Menschen ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zwang zur Entscheidung für eine Staatsangehörigkeit (Optionspflicht)",
+      "location": "Asyl und Migration - Staatsangehörigkeit – mehrfach und durch Geburt",
+      "originalQuote": "Der Zwang zur Entscheidung für eine Staatsangehörigkeit (Optionspflicht) muss generell entfallen.",
+      "classification": "STAATSANGEHÖRIGKEIT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kollektivstrafen für Vereine oder Fangruppierungen",
+      "location": "Sportpolitik - Gegen Kollektivstrafen",
+      "originalQuote": "Die Praxis, Vereine oder Fangruppierungen für die Vergehen einzelner Anhänger in Sippenhaft zu nehmen und Pläne, dieses Vorgehen gesetzlich zu legitimieren, lehnen wir entschieden ab.",
+      "classification": "KOLLEKTIVSTRAFEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vollkörperkontrollen bei Stadioneinlass",
+      "location": "Sportpolitik - Einlasskontrollen",
+      "originalQuote": "Vollkörperkontrollen sehen wir als menschenunwürdige Maßnahme [...] und lehnen diese entschieden ab.",
+      "classification": "VOLLKÖRPERKONTROLLEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zwang zur Verwendung amtlich erfasster Namen im Netz",
+      "location": "Digitalisierung und Netzpolitik - Gesetzliche Garantie für anonymen Zugang",
+      "originalQuote": "Einen Zwang zur Verwendung von amtlich erfassten Namen lehnen wir ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Abschaffung des Hackerparagraphen § 202c StGB",
+      "location": "Digitalisierung und Netzpolitik - Abschaffung des 'Hackerparagraphen' § 202c StGB",
+      "originalQuote": "Wir PIRATEN setzen uns für die vollständige Abschaffung des sogenannten 'Hackerparagraphen' § 202c StGB ein",
+      "classification": "HACKERPARAGRAPHEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Abschaffung der Störerhaftung",
+      "location": "Digitalisierung und Netzpolitik - Schutz der Freiheit und Privatsphäre im Internet",
+      "originalQuote": "Um Abhilfe zu schaffen, wollen wir die 'Störerhaftung' endgültig abschaffen.",
+      "classification": "STÖRERHAFTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Überwachung der Internetnutzung zur Versendung von Warnhinweisen oder Sperrungen (Three Strikes)",
+      "location": "Digitalisierung und Netzpolitik - Schutz der Freiheit und Privatsphäre im Internet",
+      "originalQuote": "Auch eine Überwachung der Internetnutzung durch Internet-Zugangsanbieter zur Versendung von Warnhinweisen oder Sperrungen des Internetzugangs ('Three Strikes') lehnen wir ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Abschaffung des Netzwerkdurchsetzungsgesetzes (NetzDG)",
+      "location": "Datenschutz und IT-Sicherheit",
+      "originalQuote": "Das Netzwerkdurchsetzungsgesetz (NetzDG) ist ersatzlos abzuschaffen",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Uploadfilter",
+      "location": "Datenschutz und IT-Sicherheit",
+      "originalQuote": "Wir lehnen Uploadfilter ab",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gesetze, die zum Einsatz von Uploadfiltern führen",
+      "location": "Datenschutz und IT-Sicherheit",
+      "originalQuote": "Gesetze, die zur Folge haben, dass Unternehmen diese einsetzen müssen, sind abzuschaffen.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz autonomer Waffen",
+      "location": "Datenschutz und IT-Sicherheit - Algorithmen und KI",
+      "originalQuote": "Im Bereich der Verteidigungspolitik lehnen wir den Einsatz von autonomen Waffen grundsätzlich ab",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz von 'predictive policing'",
+      "location": "Datenschutz und IT-Sicherheit - Algorithmen und KI",
+      "originalQuote": "Im Bereich der Innenpolitik lehnen wir Einsatz von 'predictive policing' grundsätzlich ab",
+      "classification": "PREDICTIVE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz und Bereitstellung offensiver Wirkmittel im Cyberraum",
+      "location": "Datenschutz und IT-Sicherheit - Strikt defensive Cybersicherheitsstrategie",
+      "originalQuote": "Wir verurteilen den Einsatz und die Bereitstellung offensiver Wirkmittel im Cyberraum.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Geplante Gesetzesänderungen zum Einsatz offensiver Wirkmittel im Cyberraum durch BMI",
+      "location": "Datenschutz und IT-Sicherheit - Strikt defensive Cybersicherheitsstrategie",
+      "originalQuote": "Die geplanten Gesetzesänderungen zum Einsatz offensiver Wirkmittel im Cyberraum, an denen das BMI arbeitet, dürfen nicht durchgeführt werden.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vollständige Kontrolle kritischer Infrastruktur durch Privatwirtschaft",
+      "location": "Datenschutz und IT-Sicherheit - Aufsicht über kritische Infrastrukturen",
+      "originalQuote": "Kritische Infrastruktur sollte idealerweise nicht unter vollständiger Kontrolle der Privatwirtschaft sein.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verdachtsunabhängige Vorratsdatenspeicherung, Ausdehnung der Videoüberwachung, Staatstrojaner",
+      "location": "Transparenter Staat und digitale Grundrechte",
+      "originalQuote": "Verdachtsunabhängige Vorratsdatenspeicherung von Telekommunikationsdaten [...] sowie eine Ausdehnung der öffentlichen Videoüberwachung oder den Einsatz des Staatstrojaners lehnen wir als unverhältnismäßigen Eingriff in die Grundrechte ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Finanzierung/Kostenübernahme von Gesundheits-Apps durch Krankenkassen ohne ärztliche Einbindung",
+      "location": "Gesundheit, Pflege, Medizin",
+      "originalQuote": "Die Finanzierung oder Kostenübernahme digitaler Gesundheitsanwendungen wie etwa Fitness-und/oder Gesundheits-Apps, die von den Krankenkassen ohne ärztliche Einbindung direkt an ihre Versicherten vermittelt werden, lehnen wir grundsätzlich ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Abschaffung des Bergrechts",
+      "location": "Umwelt, Landwirtschaft, Tier- und Verbraucherschutz - Umwelt",
+      "originalQuote": "Wir fordern die Abschaffung des Bergrechts.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Patente auf Leben",
+      "location": "Umwelt, Landwirtschaft, Tier- und Verbraucherschutz - Landwirtschaft",
+      "originalQuote": "Keine Patente auf Leben. Dieser Grundsatz muss strikt umgesetzt werden.",
+      "classification": "PATENTE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Ausnahmsloses EU-weites Verbot sämtlicher Formen von Fracking",
+      "location": "Energiepolitik - Kein Fracking",
+      "originalQuote": "Notwendig ist ein sofortiges ausnahmsloses EU-weites Verbot (und weltweite Ächtung) sämtlicher Formen von Fracking",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Subventionen und Beihilfen für fossile und atomare Energien",
+      "location": "Energiepolitik - Abschaffung von Subventionen und Beihilfen für die Energiegewinnung",
+      "originalQuote": "Subventionen und Beihilfen für fossile und atomare Energien sind sofort zu beenden.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bildungsgebühren für steuerfinanzierte Bildungseinrichtungen",
+      "location": "Bildung und Forschung - Finanzierung der Bildung",
+      "originalQuote": "Wir lehnen Bildungsgebühren jeglicher Art für steuerfinanzierte Bildungseinrichtungen kategorisch ab",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kurzfristige Projektförderung in der Hochschulfinanzierung",
+      "location": "Bildung und Forschung - Hochschule",
+      "originalQuote": "Aus diesem Grund lehnen wir PIRATEN kurzfristige Projektförderung ab",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Patentierung von Geschäftsmodellen",
+      "location": "Patente und Markenrecht - Patentierbare Erfindungen",
+      "originalQuote": "Das Patentrecht muss eine Patentierung von Geschäftsmodellen explizit ausschließen.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Softwarepatente",
+      "location": "Patente und Markenrecht - Patentierbare Erfindungen",
+      "originalQuote": "Software ist durch das Urheberrecht bereits ausreichend geschützt, ein Schutz durch Patente ist aus diesem Grund überhaupt nicht notwendig.",
+      "classification": "SOFTWAREPATENTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kopierschutzmaßnahmen",
+      "location": "Kunst und Kultur - Urheberrecht",
+      "originalQuote": "Kopierschutzmaßnahmen werden komplett untersagt",
+      "classification": "KOPIERSCHUTZMASSNAHMEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Agenda 2010 Gesetze",
+      "location": "Arbeit und Soziales",
+      "originalQuote": "Die bisherige Politik, die diesen mit einseitigen, nur der Wirtschaft, dem Kapital und der Gewinnoptimierung dienenden Gesetzen, wie der Agenda 2010 begegnet, ist weder tragfähig noch zukunftsfähig.",
+      "classification": "GESETZE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Missbrauch von Leih-, Zeit- und Werksverträgen",
+      "location": "Arbeit und Soziales - Atypische Beschäftigungsverhältnisse",
+      "originalQuote": "Ferner fordern die PIRATEN, dass der Staat dafür Sorge trägt, Missbrauch von Leih-, Zeit- und Werksverträgen zu kontrollieren und entsprechend zu ahnden.",
+      "classification": "WERKSVERTRÄGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aufforderung zu Bewerbungen bei Zeitarbeitsfirmen in Eingliederungsvereinbarungen",
+      "location": "Arbeit und Soziales - Arbeitnehmerüberlassung im SGB",
+      "originalQuote": "fordern wir PIRATEN, dass in Eingliederungsvereinbarungen (§ 15 SGB II) keine Aufforderung mehr festgeschrieben wird, dass Bewerbungen bei Zeitarbeitsunternehmen/Personaldienstleistern vorzunehmen sind.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Aussetzung von Ein-Euro-Jobs (AGH-MAE)",
+      "location": "Arbeit und Soziales - Sofortige Aussetzung von Arbeitsgelegenheiten (§ 16d SGB II)",
+      "originalQuote": "Wir PIRATEN fordern, die sogenannten 'Ein-Euro-Jobs' [...] mit sofortiger Wirkung auszusetzen",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Extremismusklausel",
+      "location": "Familie und Gesellschaft - Projektförderung",
+      "originalQuote": "Die Extremismusklausel stellt einen staatlichen Generalverdacht gegen zivilgesellschaftliches Engagement dar und gehört umgehend abgeschafft.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Abschaffung des Transsexuellengesetzes (TSG)",
+      "location": "Familie und Gesellschaft - Queerpolitik - TSG-Reform",
+      "originalQuote": "Wir PIRATEN fordern die Abschaffung des 'Transsexuellengesetz'",
+      "classification": "TRANSSEXUELLENGESETZES"
+    }
+  ]
+}

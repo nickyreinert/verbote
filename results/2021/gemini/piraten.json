@@ -1,0 +1,341 @@
+{
+  "sourceFile": "Piraten - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der verdachtsunabhängigen Durchleuchtung der Bürger und gläserner Kunden.",
+      "location": "Freiheit und Grundrechte / Privatsphäre wahren (Quelle: 3622)",
+      "originalQuote": "Wir lehnen die verdachtsunabhängige Durchleuchtung der Bürgerinnen und Bürger und die gläsernen Kundi",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer automatisierten Abfrage von Meldedaten.",
+      "location": "Verantwortungsvollen Umgang mit Meldedaten sicherstellen (Quelle: 3648)",
+      "originalQuote": "B. Unternehmen, Adresshändler, Verbände oder Parteien. Eine automatisierte Abfrage lehnen wir ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung des Listenprivilegs (Ausnahmeregelung im Datenschutzrecht für Adresshandel).",
+      "location": "Verantwortungsvollen Umgang mit Meldedaten sicherstellen (Quelle: 3650)",
+      "originalQuote": "Meinungsforschung darf nur mit Einwilligung der Betroffenen möglich sein. Daher fordern wir die ersatzlose A",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beendigung der Weitergabe von Meldedaten an den Beitragsservice und Streichung der Durchleuchtungsklausel im RÄStV.",
+      "location": "Verantwortungsvollen Umgang mit Meldedaten sicherstellen (Quelle: 3652)",
+      "originalQuote": "Die Weitergabe von Meldedaten an den Beitragsservice der öffentlich-rechtlichen Rundfunkanstalten muss beendet",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der verdachtsunabhängigen Vorratsdatenspeicherung und der Ausdehnung öffentlicher Videoüberwachung.",
+      "location": "Schluss mit Vorratsdatenspeicherung und Videoüberwachung (Quelle: 3653)",
+      "originalQuote": "Wir PIRATEN lehnen eine verdachtsunabhängige Vorratsdatenspeicherung von Telekommunikationsdaten, auch be",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der anlasslosen Erfassung, Speicherung und des Abgleichs biometrischer Daten.",
+      "location": "Schluss mit Vorratsdatenspeicherung und Videoüberwachung (Quelle: 3655)",
+      "originalQuote": "Wir lehnen die anlasslose Erfassung, Speicherung und den Abgleich biometrischer Daten aufgrund des hohen Mis",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot des Aufbaus zentraler Biometriedatenbanken für polizeiliche oder Versicherungswirtschaftszwecke.",
+      "location": "Schluss mit Vorratsdatenspeicherung und Videoüberwachung (Quelle: 3657)",
+      "originalQuote": "Der Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder die Versicherungswirtschaft muss unt",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhindern von Einschränkungen des Bargeldverkehrs.",
+      "location": "Keine Einschränkungen beim Bargeldverkehr (Quelle: 3659)",
+      "originalQuote": "Wir PIRATEN setzen uns sowohl auf Bundesebene als auch auf europäischer Ebene gegen Einschränkungen des Bar",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Herstellung, Wartung, Betreuung und Erhaltung von Überwachungssoftware.",
+      "location": "Gegen Überwachungssoftware: Transparenz und Quellcode-Offenlegung (Quelle: 3662)",
+      "originalQuote": "Wir PIRATEN sprechen uns deutlich gegen die Herstellung, Wartung, Betreuung und Erhaltung von Überwachungsso",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verurteilung des kommerziellen Handels mit Überwachungssoftware und Dienstleistungen dafür.",
+      "location": "Gegen Überwachungssoftware: Transparenz und Quellcode-Offenlegung (Quelle: 3663)",
+      "originalQuote": "Sie verurteilt den kommerziellen Handel mit Überwachungssoftware, einschließlich Dienstleistungen für Überw",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer PKW-Maut.",
+      "location": "Keine PKW-Maut (Quelle: 3670)",
+      "originalQuote": "Eine PKW-Maut lehnen wir ebenfalls ab. Durch viele bislang vorgeschlagene Systeme zur Mauterfassung droht eine",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verdeckte Eingriffe in informationstechnische Systeme (Staatstrojaner) sind mit Grundrechten nicht vereinbar.",
+      "location": "Überwachung / Keine Bundes- oder Staatstrojaner (Quelle: 3678)",
+      "originalQuote": "Für uns PIRATEN sind verdeckte Eingriffe in informationstechnische Systeme durch den Staat nicht mit Grundrecht",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung der Befugnisse für staatliche Behörden zum Verwanzen informationstechnischer Systeme.",
+      "location": "Überwachung / Keine Bundes- oder Staatstrojaner (Quelle: 3679)",
+      "originalQuote": "Wir setzen uns daher für die Abschaffung der Befugnisse für staatliche Behörden zum Verwanzen solcher Systeme e",
+      "classification": "INFORMATIONSTECHNISCHER"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Forderung eines gesetzlich geregelten, ausnahmslosen Verwertungsverbots für Beweise, die durch verdeckte Eingriffe gewonnen wurden.",
+      "location": "Überwachung / Keine Bundes- oder Staatstrojaner (Quelle: 3683)",
+      "originalQuote": "Wir setzen uns deshalb für ein gesetzlich geregeltes ausnahmsloses Verwertungsverbot von Beweisen ein, die auf ",
+      "classification": "VERWERTUNGSVERBOTS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausschluss einer Anordnung für verdeckte Eingriffe durch die Exekutive (Gefahr im Verzug).",
+      "location": "Überwachung / Keine Bundes- oder Staatstrojaner (Quelle: 3688)",
+      "originalQuote": "Eine Anordnung im Falle einer Gefahr im Verzug durch die Exekutive (z. B. Staatsanwalt, Behördenleiter, Minist",
+      "classification": "AUSSCHLUSS"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Konsequentes Einsetzen für die Abschaffung und ein strafbewehrtes Verbot der verdeckten Eingriffe in informationstechnische Systeme.",
+      "location": "Überwachung / Keine Bundes- oder Staatstrojaner (Quelle: 3702)",
+      "originalQuote": "Auch wenn alle diese Maßnahmen im Gesetz verankert werden, werden wir uns weiterhin konsequent für die Ab",
+      "classification": "INFORMATIONSTECHNISCHE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung des großen Lauschangriffs und der Eingriffe in das Briefgeheimnis, Post- und Fernmeldegeheimnis durch GG-Änderung.",
+      "location": "Schutz der Privatsphäre im Grundgesetz (Quelle: 3704)",
+      "originalQuote": "Um dies zu erreichen streben wir die Abschaffung des großen Lauschangriffs sowie die Abschaffung der Eingriffe ",
+      "classification": "FERNMELDEGEHEIMNIS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Entfernung der Absätze 3 bis 6 des Art. 13 GG zur Abschaffung des großen Lauschangriffs.",
+      "location": "Schutz der Privatsphäre im Grundgesetz (Quelle: 3705)",
+      "originalQuote": "Zur Abschaffung des großen Lauschangriffs sollen dazu konkret die Absätze 3 bis 6 des Art.",
+      "classification": "LAUSCHANGRIFFS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Entfernung des Absatz 2 des Art. 10 GG zur Abschaffung der Eingriffe in das Briefgeheimnis, Post- und Fernmeldegeheimnis.",
+      "location": "Schutz der Privatsphäre im Grundgesetz (Quelle: 3706)",
+      "originalQuote": "13 Grundgesetz (GG) wieder entfernt werden. Zur Abschaffung der Eingriffe in das Briefgeheimnis sowie das Post-",
+      "classification": "FERNMELDEGEHEIMNIS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausnahmsloser Verzicht auf Instrumente zur Abschreckung, Isolation, Rassismus und Diskriminierung in der Asylpolitik.",
+      "location": "Asyl und Migration / Grundsätze (Quelle: 3710)",
+      "originalQuote": "Wir setzen uns deshalb für eine solidarische und menschenwürdige Asylpolitik ein, die am Wohl und Schutz der a",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unterbindung bewaffneter Konflikte.",
+      "location": "Ursachenbekämpfung, Konfliktprävention (Quelle: 3716)",
+      "originalQuote": "Um bewaffnete Konflikte zu unterbinden, sind die Ursachen festzustellen, ist ein striktes Waffenembargo durchz",
+      "classification": "UNTERBINDUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Grundsätzliche Ablehnung militärischen Eingreifens.",
+      "location": "Ursachenbekämpfung, Konfliktprävention (Quelle: 3717)",
+      "originalQuote": "Militärisches Eingreifen lehnen wir grundsätzlich ab. ",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Streichung von Art. 16a Abs. 2-5 GG, die das Grundrecht auf Asyl einschränken.",
+      "location": "Wiederherstellung des Rechts auf Asyl (Quelle: 3724)",
+      "originalQuote": "16a Abs. 1 GG („Politisch Verfolgte genießen Asylrecht“) und die Streichung von Art. 16a Abs.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer abgestuften Gültigkeit von Fluchtgründen.",
+      "location": "Wiederherstellung des Rechts auf Asyl (Quelle: 3729)",
+      "originalQuote": "Eine abgestufte Gültigkeit von Fluchtgründen lehnen wir ab. Außerdem lehnen wir pauschale Kategorisierungen vo",
+      "classification": "FLUCHTGRÜNDEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung pauschaler Kategorisierungen von Staaten als „sichere Herkunftsländer“.",
+      "location": "Wiederherstellung des Rechts auf Asyl (Quelle: 3729)",
+      "originalQuote": "Eine abgestufte Gültigkeit von Fluchtgründen lehnen wir ab. Außerdem lehnen wir pauschale Kategorisierungen vo",
+      "classification": "KATEGORISIERUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verzicht auf diskriminierende und inhumane Beweisverfahren bei der Asylprüfung.",
+      "location": "Wiederherstellung des Rechts auf Asyl (Quelle: 3731)",
+      "originalQuote": "Dabei ist auf diskriminierende und inhumane Beweisverfahren zu verzichten. Denn der Begriff der Sicheren Herk",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Drittstaatenregelung und der „Dublin II“-Verordnung.",
+      "location": "Keine Rückkehr zur Drittstaatenregelung (Quelle: 3741)",
+      "originalQuote": "Die Drittstaatenregelung und deren Konkretisierung in der „Dublin II“-Verordnung lehnen wir ab.",
+      "classification": "DRITTSTAATENREGELUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der bevormundenden und entwürdigenden Verschiebungspraxis der EU.",
+      "location": "Keine Rückkehr zur Drittstaatenregelung (Quelle: 3745)",
+      "originalQuote": "Die bevormundende und entwürdigende Verschiebungspraxis der EU lehnen wir ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung der EU-Agentur für Grenz- und Küstenschutz (Frontex) und Rückzug Deutschlands.",
+      "location": "Offenere Grenzen statt der Festung Europa / Keine Abwehr von Flüchtenden (Quelle: 3758)",
+      "originalQuote": "Wir fordern daher deren Abschaffung und den Rückzug Deutschlands aus dem Projekt.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Grundsätzliche Ablehnung bewaffneter Drohnen.",
+      "location": "Keine Drohnen gegen Flüchtende (Quelle: 3759)",
+      "originalQuote": "Bewaffnete Drohnen lehnen wir PIRATEN grundsätzlich ab, da deren Einsatz geeignet ist, Hemmschwellen zu Milit",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Einsatzes von (un-)bewaffneten Drohnen und Luftfahrzeugen durch die Agentur für Grenz- und Küstenschutz gegen Flüchtende.",
+      "location": "Keine Drohnen gegen Flüchtende (Quelle: 3760)",
+      "originalQuote": "Wir wenden uns ausdrücklich gegen den Einsatz von auch unbewaffneten Drohnen und anderer Luftfahrzeuge durch",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung jeglicher Beteiligung am Aufbau, Bereitstellung und Betrieb der drohnengestützten Infrastruktur.",
+      "location": "Keine Drohnen gegen Flüchtende (Quelle: 3761)",
+      "originalQuote": "Damit lehnen wir jegliche Beteiligung am Aufbau, Bereitstellung und Betrieb einer entsprechenden Infrastruktur",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Absehen von hektischen Pauschalurteilen und der Hierarchisierung unter Gruppen von Geflüchteten.",
+      "location": "Faires Asylverfahren schaffen (Quelle: 3775)",
+      "originalQuote": "Zudem ist von hektischen Pauschalurteilen und der Hierarchisierung unter bestimmten Gruppen von Geflüchteten a",
+      "classification": "PAUSCHALURTEILEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot des Qualitätsverlusts der Beurteilungen und Entscheidungen im Asylverfahren.",
+      "location": "Faires Asylverfahren schaffen (Quelle: 3777)",
+      "originalQuote": "Hierbei darf es zu keinem Qualitätsverlust der Beurteilungen und Entscheidungen kommen, wie es im sogenannte",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Aktionismus in jeglicher Form im Umgang mit Geflüchteten.",
+      "location": "Faires Asylverfahren schaffen (Quelle: 3779)",
+      "originalQuote": "Wir PIRATEN lehnen in der Frage des Umgangs mit Geflüchteten Aktionismus in jeglicher Form ab.",
+      "classification": "GEFLÜCHTETEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Generelles Ende von Abschiebungen und der Abschiebehaft (zeitlich befristet).",
+      "location": "Für ein Ende von Abschiebungen und Abschiebehaft (Quelle: 3792)",
+      "originalQuote": "Wir setzen uns für ein generelles Ende von Abschiebungen und der Abschiebehaft ein, insbesondere zwischen dem 1",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Generelle Ablehnung von Abschiebungen in Krisenregionen und Gebiete mit Gefahr für Gesundheit oder Leben.",
+      "location": "Für ein Ende von Abschiebungen und Abschiebehaft (Quelle: 3794)",
+      "originalQuote": "Abschiebungen in Krisenregionen und in Gebiete, in denen die Verhältnisse eine Gefahr für Gesundheit oder Lebe",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Botschaftsvorführungen zur Identitätsfeststellung und Passersatzbeschaffung.",
+      "location": "Für ein Ende von Abschiebungen und Abschiebehaft (Quelle: 3797)",
+      "originalQuote": "Botschaftsvorführungen zur Identitätsfeststellung und Passersatzbeschaffung sind diskriminierend und werden d",
+      "classification": "BOTSCHAFTSVORFÜHRUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer zusätzlichen steuerlichen Belastung der Bevölkerung zur Finanzierung der Versorgung Geflüchteter.",
+      "location": "Finanzierung zur Versorgung der aufgenommenen Geflüchteten (Quelle: 3802)",
+      "originalQuote": "Wir PIRATEN lehnen eine zusätzliche steuerliche Belastung der Bevölkerung zur Finanzierung des erhöhten Aufkom",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Generelles Entfallen des Zwangs zur Entscheidung für eine Staatsangehörigkeit (Optionspflicht).",
+      "location": "Staatsangehörigkeit – mehrfach und durch Geburt (Quelle: 3806)",
+      "originalQuote": "Der Zwang zur Entscheidung für eine Staatsangehörigkeit (Optionspflicht) muss generell entfallen.",
+      "classification": "STAATSANGEHÖRIGKEIT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Ausspielens gesellschaftlicher Gruppen und der mutwilligen Inkaufnahme der Kriminalisierung ganzer Volksgruppen.",
+      "location": "Für eine echte Migrationspolitik (Quelle: 3811)",
+      "originalQuote": "Wir sprechen uns dagegen aus, verschiedene gesellschaftliche Gruppen gegeneinander auszuspielen und dabei die ",
+      "classification": "GESELLSCHAFTLICHER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Überwachung der Internetnutzung durch Internet-Zugangsanbieter (Three Strikes).",
+      "location": "Netzpolitik (Quelle: 3227)",
+      "originalQuote": "Auch eine Überwachung der Internetnutzung durch Internet-Zugangsanbieter zur Versendung von Warnhinweisen oder",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stoppen der Entwicklung von Mais- und Ölpflanzenmonokulturen zur Kraftstoffbeimischung.",
+      "location": "Energetische Nutzung von Biogas und Biotreibstoffen (Quelle: 3263)",
+      "originalQuote": "Durch falsche politische Anreize entstehen z. B. Mais- und Ölpflanzenmonokulturen zur Kraftstoffbeimischung. ",
+      "classification": "ÖLPFLANZENMONOKULTUREN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zuordnung und Betreuung Arbeitsloser im Vermittlungsbereich soll nicht mehr nach bürokratischen Kriterien erfolgen.",
+      "location": "Jobcenter (Quelle: 3323)",
+      "originalQuote": "Die Zuordnung und Betreuung der Arbeitslosen im Vermittlungsbereich sollte nicht mehr nach dem Anfangsbuchsta",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Bestrafung von Anbau und Herstellung von psychotropen Substanzen für den Eigenbedarf.",
+      "location": "Entkriminalisierung der Konsumenten (Quelle: 3404)",
+      "originalQuote": "Anbau und Herstellung für den Eigenbedarf dürfen nicht bestraft werden.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Aufnahme von E-Zigaretten ins Nichtraucherschutzgesetz oder einer Besteuerung nach dem Tabaksteuergesetz.",
+      "location": "Gesundheit / Drogenpolitik (Quelle: 3438)",
+      "originalQuote": "E-Zigaretten ins Nichtraucherschutzgesetz aufzunehmen, oder eine Besteuerung nach dem Tabaksteuergesetz lehne",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Abschaffung von Konkordatslehrstühlen.",
+      "location": "Bildung (Quelle: 3584)",
+      "originalQuote": "Für die Besetzung von Lehrstühlen darf ausschließlich die Eignung und Qualifikation der Kandidaten ausschlag",
+      "classification": "KONKORDATSLEHRSTÜHLEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Abschaffung von Theologischen Fakultäten in staatlichen Hochschulen/Universitäten.",
+      "location": "Bildung (Quelle: 3585)",
+      "originalQuote": "Theologische Fakultäten in staatlichen Hochschulen und Universitäten sind abzuschaffen. Staatliche Zuschüsse ",
+      "classification": "Bildung & Forschung"
+    }
+  ]
+}

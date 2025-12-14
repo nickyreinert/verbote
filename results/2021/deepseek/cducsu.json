@@ -1,0 +1,124 @@
+{
+  "sourceFile": "CDU-CSU - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine neue Schuldenunion in der EU",
+      "location": "Kapitel 2.4",
+      "originalQuote": "Die damit verbundene europÃĪische Schuldenaufnahme ist befristet und einmalig. Sie ist kein Einstieg in eine Schuldenunion â und darf es nie werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Schuldengemeinschaftung in der EU",
+      "location": "Kapitel 2.4",
+      "originalQuote": "Wir lehnen es weiterhin ab, mitgliedstaatliche Schulden oder Risiken zu vergemeinschaften.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Einheitskrankenversicherung",
+      "location": "Kapitel 4.3",
+      "originalQuote": "Eine Einheitsversicherung und Schritte dahin lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Legalisierung illegaler Drogen",
+      "location": "Kapitel 4.3",
+      "originalQuote": "Eine Legalisierung illegaler Drogen lehnen wir ab.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung eines bedingungslosen Grundeinkommens",
+      "location": "Kapitel 4.2",
+      "originalQuote": "Ein bedingungsloses Grundeinkommen wird es mit uns aber nicht geben.",
+      "classification": "BEDINGUNGSLOSEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung neuer Substanzsteuern (Vermögen-/Erbschaftssteuer)",
+      "location": "Kapitel 3.1",
+      "originalQuote": "Wir treten entschieden allen Ãberlegungen zur EinfÃžhrung neuer Substanzsteuern wie der VermÃķgensteuer oder der ErhÃķhung der Erbschaftssteuer entgegen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Vollmitgliedschaft der Türkei in der EU",
+      "location": "Kapitel 2.2",
+      "originalQuote": "Eine Vollmitgliedschaft der TÃžrkei in der EU wird es mit uns nicht geben.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung eines Dieselfahrverbots und Tempolimits",
+      "location": "Kapitel 3.6",
+      "originalQuote": "Ein Dieselfahrverbot lehnen wir ebenso ab wie ein generelles Tempolimit auf Autobahnen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Kettenbefristungen bei Arbeitsverträgen",
+      "location": "Kapitel 3.2",
+      "originalQuote": "Wir lehnen die Ausweitung von Kettenbefristungen ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ausweitung des Familiennachzugs",
+      "location": "Kapitel 2.5",
+      "originalQuote": "Wir lehnen eine Ausweitung des Familiennachzugs Ãžber die heute bestehenden Regelungen hinaus ab.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Zuwanderung in Sozialsysteme",
+      "location": "Kapitel 2.5",
+      "originalQuote": "Eine Zuwanderung in die Sozialsysteme lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Steuererhöhungen nach der Pandemie",
+      "location": "Kapitel 3.1",
+      "originalQuote": "Gerade nach der Pandemie sind SteuererhÃķhungen der falsche Weg.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer europäischen Arbeitslosen-, Renten- oder Gesundheitsversicherung",
+      "location": "Kapitel 2.5",
+      "originalQuote": "Eine europÃĪische Arbeitslosen-, Renten- oder Gesundheitsversicherung lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Vergemeinschaftung von Haftungsübernahme in der Einlagensicherung",
+      "location": "Kapitel 2.4",
+      "originalQuote": "Bankenrettungen aus Steuermitteln und eine Vergemeinschaftung der HaftungsÃžbernahme im Rahmen der europÃĪischen Einlagensicherung lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Deponieverbot für unbehandelte Siedlungsabfälle",
+      "location": "Kapitel 3.5",
+      "originalQuote": "Dazu gehÃķrt ein Deponieverbot fÃžr unbehandelte SiedlungsabfÃĪlle und vor allem kunststoffhaltige AbfÃĪlle.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Abfallexporten zur bloßen Entsorgung",
+      "location": "Kapitel 3.5",
+      "originalQuote": "Wir wollen AbfÃĪlle wiederverwerten und Exporte von AbfÃĪllen â insbesondere von Plastik- und KunststoffabfÃĪllen â zur bloÃen Entsorgung verbieten.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Extremisten haben in der Bundeswehr keinen Platz",
+      "location": "Kapitel 1.7",
+      "originalQuote": "FÃžr Extremisten ist in der Bundeswehr kein Platz.",
+      "classification": "Rüstung & Waffen"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "sourceFile": "SPD - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot der Zwei-Klassen-Medizin",
+      "location": "Kapitel 'Es ist Zeit für einen starken Sozialstaat', Abschnitt 'Eine Bürgerversicherung für alle in Gesundheit und Pflege'",
+      "originalQuote": "Eine Zwei-Klassen-Medizin soll es nicht länger geben. In der Alterssicherung gilt für",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Synchronisation von Leiharbeitsverhältnissen",
+      "location": "Kapitel 'Es ist Zeit für moderne Ausbildung und sichere Arbeit', Abschnitt 'Sichere Arbeit und gute Löhne'",
+      "originalQuote": "Die Koppelung eines Leiharbeitsverhältnisses an einen Arbeitseinsatz (Synchronisation) soll unzulässig sein.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von unkonventionellem Fracking",
+      "location": "Kapitel 'Es ist Zeit für eine gesunde und saubere Zukunft', Abschnitt 'Energiewende vollenden'",
+      "originalQuote": "Daher haben wir ein unbefristetes Verbot für unkonventionelles Fracking durchgesetzt.",
+      "classification": "UNKONVENTIONELLEM"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Anhebung der Regelaltersgrenze über 2029 hinaus",
+      "location": "Kapitel 'Es ist Zeit für einen starken Sozialstaat', Abschnitt 'Ein neuer Generationenvertrag'",
+      "originalQuote": "Eine weitere Anhebung wird es mit uns nicht geben.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Abschiebungen nach Afghanistan",
+      "location": "Kapitel 'Es ist Zeit für eine geordnete Migrationspolitik', Abschnitt 'Schnellere Asylverfahren, bessere Integration, konsequentere Rückführung'",
+      "originalQuote": "Da die Sicherheitslage in Afghanistan kein sicheres Leben zulässt, werden wir bis auf weiteres keine Abschiebungen nach Afghanistan durchführen.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Gentechnik in Landwirtschaft und Lebensmitteln",
+      "location": "Kapitel 'Es ist Zeit für eine gesunde und saubere Zukunft', Abschnitt 'Verantwortungsvolle Landwirtschaft und gesunde Ernährung'",
+      "originalQuote": "Weiterhin setzen wir uns für gentechnikfreie Landwirtschaft und Lebensmittel ein.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Eingriffen an Tieren aus wirtschaftlichen Gründen",
+      "location": "Kapitel 'Es ist Zeit für eine gesunde und saubere Zukunft', Abschnitt 'Verantwortungsvolle Landwirtschaft und gesunde Ernährung'",
+      "originalQuote": "Eingriffe an Tieren aus rein wirtschaftlichen Gründen wie das Schnabelkürzen, das Kupieren von Schwänzen oder den Schenkelbrand bei Pferden werden wir verbieten.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Militarisierung der öffentlichen Sicherheit",
+      "location": "Kapitel 'Es ist Zeit für mehr Sicherheit im Alltag', Abschnitt 'Schutz und Sicherheit durch eine leistungsfähige Polizei und Justiz'",
+      "originalQuote": "Eine Militarisierung der öffentlichen Sicherheit lehnen wir ab.",
+      "classification": "MILITARISIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung von Monopolen bei digitalen Plattformen",
+      "location": "Kapitel 'Es ist Zeit für eine starke Wirtschaft und Innovationen', Abschnitt 'Verbraucherrechte stärken'",
+      "originalQuote": "um Monopole zu verhindern und Pluralität der Anbieter sicherzustellen.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Abschaffung von Bargeld",
+      "location": "Kapitel 'Es ist Zeit für eine starke Wirtschaft und Innovationen', Abschnitt 'Klare Regeln für die Finanzwirtschaft'",
+      "originalQuote": "Wir bekennen uns klar zum Recht der Bürger auf Bargeld und werden Bestrebungen zu dessen Abschaffung entschieden entgegentreten.",
+      "classification": "BARGELD"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Schließung extremistischer islamischer Moscheen",
+      "location": "Kapitel 'Es ist Zeit für mehr Sicherheit im Alltag', Abschnitt 'Terrorabwehr – mehr grenzübergreifende Zusammenarbeit und Prävention'",
+      "originalQuote": "Wir werden extremistische islamistische Moscheen schließen und ihre Finanzierung unterbinden.",
+      "classification": "EXTREMISTISCHER"
+    }
+  ]
+}

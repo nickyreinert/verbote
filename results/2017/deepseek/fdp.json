@@ -1,0 +1,215 @@
+{
+  "sourceFile": "FDP - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung pauschalisierender Verbote in der Landwirtschaft (Grüne Gentechnik)",
+      "location": "Moderne Landwirtschaft",
+      "originalQuote": "Wir lehnen pauschalisierende Verbote ab und fordern stattdessen eine faktenbasierte, ergebnisoffene Bewe",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung radikaler Inklusion ohne Rücksicht auf Einzelfall",
+      "location": "Weltbeste Bildung auch für Schülerinnen und Schüler mit Förderungsbedarf",
+      "originalQuote": "Das radikale Verständnis einer kompromisslosen Inklusion, wie es vielfach gefordert und betrieben ",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Schließung von Förderschulen gegen Elternwillen",
+      "location": "Weltbeste Bildung auch für Schülerinnen und Schüler mit Förderungsbedarf",
+      "originalQuote": "Die Schließung von Förderschulen, in denen Kinder passend zu ihrem Bedarf gefördert werden konnt",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine inklusiven Lerngruppen bei Nichteinhaltung von Basisstandards",
+      "location": "Weltbeste Bildung auch für Schülerinnen und Schüler mit Förderungsbedarf",
+      "originalQuote": "Kann diesen Basisstandards zum Beispiel durch fehlendes Fachpersonal oder mangelnde Ausstattung n",
+      "classification": "NICHTEINHALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Positiv- und Negativlisten für Heimtierhaltung",
+      "location": "Artgerechte Tierhaltung und Tierernährung",
+      "originalQuote": "Modelle wie Positiv- und Negativlisten, welche die Haltung bestimmter Arten untersagen, lehnen w",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Ausweitung sachlicher Verbote im Bundesjagdgesetz",
+      "location": "Sicherung der Artenvielfalt",
+      "originalQuote": "Eine Ausweitung der sachlichen Verbote im Bundesjagdgesetz lehnen wir daher strikt ab.",
+      "classification": "BUNDESJAGDGESETZ"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung allgemeiner Angelverbote in bestimmten Gebieten",
+      "location": "Sicherung der Artenvielfalt",
+      "originalQuote": "Allgemeine Angelverbote für die Freizeitfischerei (zum Beispiel in Natura-2000-Gebieten in der A",
+      "classification": "ANGELVERBOTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Pkw-Maut",
+      "location": "Investitionen in die Verkehrsinfrastruktur",
+      "originalQuote": "Deshalb lehnen wir die Pkw-Maut ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung eines generellen Tempolimits auf Autobahnen und weiterer Absenkung von Höchstgeschwindigkeiten",
+      "location": "Digitalisierungsoffensive im Verkehrswesen",
+      "originalQuote": "Ein generelles Tempolimit auf Autobahnen sowie die weitere Absenkung allgemeiner Höchstgeschwind",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung unnötiger staatlicher Eingriffe in das Eigentumsrecht (Kulturgutschutzgesetz)",
+      "location": "Keine staatlichen Eingriffe in das Eigentumsrecht – Kulturgutschutzgesetz",
+      "originalQuote": "Wir Freie Demokraten lehnen jeden unnötigen staatlichen Eingriff in das Eigentumsrecht ab.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Staatsfinanzierung durch die Notenpresse (EZB)",
+      "location": "Euro nachhaltig stabilisieren",
+      "originalQuote": "Eine Staatsfinanzierung durch die Notenpresse lehnen wir strikt ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Vergemeinschaftung der Einlagensicherung in Europa",
+      "location": "Konsequente Anwendung des Bankenabwicklungsmechanismus und vernünftige Bankenregulierung",
+      "originalQuote": "Eine Vergemeinschaftung der Einlagensicherung im europäischen Raum lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Einführung neuer Steuern (z.B. Vermögensteuer, Finanztransaktionsteuer)",
+      "location": "Fairer Anteil der Bürgerinnen und Bürger am Wachstum",
+      "originalQuote": "Die Einführung neuer Steuern – wie etwa der Vermögensteuer oder Finanztransaktionsteuer – lehnen w",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Wiedereinführung der Vermögensteuer und Verschärfung der Erbschaftsteuer",
+      "location": "Gerechte Erbschaftsteuer",
+      "originalQuote": "Deshalb lehnen wir eine Wiedereinführung der Vermögensteuer und eine weitere Verschärfung der Erb",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer gesetzlichen Frauenquote",
+      "location": "Mehr Frauen in Führungsverantwortung",
+      "originalQuote": "Eine gesetzliche Quote lehnen wir jedoch ab: So werden Frauen zu Platzhaltern degradiert und ni",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Vorratsdatenspeicherung",
+      "location": "Verkehrsdaten bei konkretem Anlass einfrieren statt Vorratsdatenspeicherung",
+      "originalQuote": "Die Vorratsdatenspeicherung, die sie dazu zwingt, lehnen wir deshalb entschieden ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung lückenloser Überwachung unbescholtener Bürger",
+      "location": "Gegen lückenlose Überwachung unbescholtener Bürger",
+      "originalQuote": "Wir Freie Demokraten wollen keine lückenlose Überwachung unbescholtener Bürgerinnen und Bürger,",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine anlasslose Erhebung und Speicherung personenbezogener Daten",
+      "location": "Keine anlasslose Erhebung und Speicherung personenbezogener Daten",
+      "originalQuote": "Wir Freie Demokraten kämpfen gegen jede anlasslose Erhebung und Speicherung von personenbezogene",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Verboten oder Einschränkungen der Bargeldnutzung",
+      "location": "Bargeld ist geprägte Freiheit",
+      "originalQuote": "Es gibt keinerlei Anhaltspunkte, dass durch ein Verbot oder die Einschränkung der Bargeldhaltung",
+      "classification": "EINSCHRÄNKUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer flächendeckenden Videoüberwachung",
+      "location": "Videoüberwachung verantwortungsvoll einsetzen",
+      "originalQuote": "Eine flächendeckende Videoüberwachung lehnen wir ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Blasphemie-Paragraphen 166 StGB",
+      "location": "Respekt vor Grundrechten und dem Rechtsstaat",
+      "originalQuote": "Auch wenn absichtliche Schmähungen Andersgläubiger oder Andersdenkender nicht förderlich für ein f",
+      "classification": "BLASPHEMIEPARAGRAPHEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung eines generellen Verschleierungsverbots",
+      "location": "Religionsfreiheit und Gleichbehandlung von Kirchen-, Religions- und Weltanschauungsgemeinschaften",
+      "originalQuote": "Deshalb lehnen wir auch beispielsweise ein generelles Verbot der freiwilligen Verschleierung ab, ",
+      "classification": "VERSCHLEIERUNGSVERBOTS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer 'Bürgerversicherung' (staatliche Zwangskasse)",
+      "location": "Freie Wahl der Krankenversicherung",
+      "originalQuote": "Einer als \"Bürgerversicherung\" getarnten staatlichen Zwangskasse erteilen wir eine klare Absa",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung pauschaler Versandhandelsverbote für rezeptpflichtige Arzneimittel",
+      "location": "Faire Wettbewerbsbedingungen für Apotheken",
+      "originalQuote": "Ein pauschales Versandhandelsverbot von rezeptpflichtigen Arzneimitteln lehnen wir ab, denn jede",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des § 217 StGB (Strafbarkeit der geschäftsmäßigen Förderung der Selbsttötung)",
+      "location": "Ausbau Palliativmedizin und Hospizwesen",
+      "originalQuote": "Der neue § 217 StGB muss wieder abgeschafft werden. Die Strafandrohung für die Beihilfe zur Selb",
+      "classification": "GESCHÄFTSMÄSSIGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Steuerklasse V",
+      "location": "Chancengleichheit von Frauen und Männern",
+      "originalQuote": "Einseitige Modelle, wie die Steuerklasse V, wollen wir abschaffen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Waffenlieferungen in Krisengebiete",
+      "location": "Keine Waffenlieferungen in Krisengebiete",
+      "originalQuote": "Wir Freie Demokraten wollen keine Waffenlieferungen in Krisengebiete.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer gemeinsamen europäischen Arbeitslosenversicherung",
+      "location": "Reformen für eine bessere EU",
+      "originalQuote": "Deshalb erteilen wir insbesondere einer gemeinsamen europäischen Arbeitslosenversicherung eine k",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Beitrittsverhandlungen der EU mit der Türkei in bisheriger Form",
+      "location": "EU-Beitrittsverhandlungen mit der Türkei beenden",
+      "originalQuote": "Wir Freie Demokraten wollen die Beitrittsverhandlungen der EU mit der Türkei in der bisherigen Fo",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausschluss von Rüstungsexporten in Konfliktregionen als Grundpfeiler der Außenpolitik",
+      "location": "Keine Waffenlieferungen in Krisengebiete",
+      "originalQuote": "Es sollte deshalb auch für die Zukunft Grundpfeiler deutscher Außenpolitik sein, Rüstungsexporte i",
+      "classification": "Rüstung & Waffen"
+    }
+  ]
+}

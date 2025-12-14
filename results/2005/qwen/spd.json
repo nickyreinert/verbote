@@ -1,0 +1,82 @@
+{
+  "sourceFile": "SPD - 2005 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Kopfpauschale im Gesundheitswesen",
+      "location": "Abschnitt: Die Sackgasse(n) > Die Entsolidarisierung von Staat und Gesellschaft",
+      "originalQuote": "CDU/CSU und FDP wollen das Solidarprinzip in der Gesundheitsversorgung durch eine f",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Abschaffung des Kündigungsschutzes",
+      "location": "Abschnitt: 6. Wir garantieren Arbeitnehmerrechte",
+      "originalQuote": "Die von Union und FDP gewollte weitgehende Abschaffung des Kündigungsschutzes wi",
+      "classification": "KÜNDIGUNGSSCHUTZES"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung gesetzlicher Eingriffe in die Tarifautonomie",
+      "location": "Abschnitt: 6. Wir garantieren Arbeitnehmerrechte",
+      "originalQuote": "Gesetzliche Eingriffe in die grundgesetzlich garantierte Tarifautonomie lehnen wi",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Rentenkürzung",
+      "location": "Abschnitt: 19. Wir wollen Anerkennung und Sicherheit im Alter",
+      "originalQuote": "Die Vorschläge aus CDU/CSU, die gezahlten Renten zu kürzen, lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Stufentarifs und der Flat Tax",
+      "location": "Abschnitt: 21. Wir wollen gerechte Steuern",
+      "originalQuote": "Weder der Stufentarif von CDU/CSU noch die einheitliche Kopfsteuer (flat tax) der",
+      "classification": "STUFENTARIFS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Mehrwertsteuererhöhung",
+      "location": "Abschnitt: 22. Solide Finanzen",
+      "originalQuote": "Eine Anhebung der Mehrwertsteuer würde angesichts der derzeit schwachen Binnen",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung zusätzlicher Sparrunden bei unsicherem Aufschwung",
+      "location": "Abschnitt: 22. Solide Finanzen",
+      "originalQuote": "Wir werden bei einem noch nicht gesicherten kräftigen Aufschwung auch weiterhin",
+      "classification": "ZUSÄTZLICHER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Herkunftslandprinzips in der EU-Dienstleistungsrichtlinie",
+      "location": "Abschnitt: 5. Wir wollen Löhne, die existenzsichernd sind",
+      "originalQuote": "Das Herkunftslandprinzip, wie es in der EU-Dienstleistungsrichtlinie vorgeschla",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Kommunalisierung der Langzeitarbeitslosigkeit",
+      "location": "Abschnitt: 2. Wir wollen mehr Arbeit schaffen und weniger Arbeitslosigkeit haben in Deutschland",
+      "originalQuote": "Die SPD will keine Kommunalisierung der Langzeitarbeitslosigkeit und ihrer Finan",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Existenz von Parallelgesellschaften",
+      "location": "Abschnitt: 15. Wir wollen alle integrieren, die legal und dauerhaft in Deutschland leben",
+      "originalQuote": "Wir sind gegen die Existenz von Parallelgesellschaften.",
+      "classification": "PARALLELGESELLSCHAFTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verweigerung der Zustimmung zu einer nicht sozial ausgewogenen EU-Dienstleistungsrichtlinie",
+      "location": "Abschnitt: 5. Wir wollen Löhne, die existenzsichernd sind",
+      "originalQuote": "Wir werden nur einer Dienstleistungsrichtlinie auf europäischer Ebene zustimme",
+      "classification": "Soziales & Arbeit"
+    }
+  ]
+}

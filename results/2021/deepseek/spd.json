@@ -1,0 +1,145 @@
+{
+  "sourceFile": "SPD - 2021 - Langprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gewinnmaximierung und Kostenminimierung dürfen nicht das Maß aller Dinge sein",
+      "location": "Abschnitt 1.0",
+      "originalQuote": "In der Corona-Krise wird einmal mehr überaus deutlich, dass Gewinnmaximierung und Kostenminimierung nicht das Maß aller",
+      "classification": "GEWINNMAXIMIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Abwanderung von Arzneimittelproduktion ins Ausland",
+      "location": "Abschnitt 2.4",
+      "originalQuote": "Durch die Corona-Krise wurde deutlich, dass die Abwanderung der Arzneimittelproduktion ins Ausland und die damit zun",
+      "classification": "ARZNEIMITTELPRODUKTION"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Kommerzialisierung im Gesundheitswesen",
+      "location": "Abschnitt 2.4",
+      "originalQuote": "Wir wollen die Kommerzialisierung im Gesundheitswesen beenden, denn sie wirkt sich negativ auf die Versorgung der ",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot von Steuerbetrug im Onlinehandel",
+      "location": "Abschnitt 2.3",
+      "originalQuote": "Wir werden weiterhin konsequent gegen Steuerbetrug im Onlinehandel vorgehen. Maßnahmen gegen Lohn-, Sozial- u",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von De-Anonymisierung",
+      "location": "Abschnitt 2.3",
+      "originalQuote": "Wir fördern die Entwicklung von Anonymisierungstechniken und setzen uns für strafbewehrte Verbote von De-An",
+      "classification": "DEANONYMISIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gegen Klarnamenpflicht im Netz",
+      "location": "Abschnitt 2.3",
+      "originalQuote": "Wir sind gegen eine Klarnamenpflicht im Netz und setzen uns weiterhin für die Möglichkeit einer anonymen u",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Privatisierung von Währungen, einschließlich Stablecoins",
+      "location": "Abschnitt 2.7",
+      "originalQuote": "Wir lehnen eine Privatisierung von Währungen ab. Dies gilt auch für private digitale Währungen, die in ihr",
+      "classification": "PRIVATISIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine weitere Anhebung des gesetzlichen Renteneintrittsalters",
+      "location": "Abschnitt 3.4",
+      "originalQuote": "Wir lehnen eine weitere Anhebung des gesetzlichen Renteneintrittsalters ab, weil sie für viele, die nicht ",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unfaire Handelspraktiken im Lebensmittelhandel unterbinden",
+      "location": "Abschnitt 3.15",
+      "originalQuote": "Wir werden im Lebensmittelhandel unfairen Handelspraktiken einen Riegel vorschieben, denn sie schaden Ver",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot, genießbare Nahrungsmittel wegzuwerfen",
+      "location": "Abschnitt 3.15",
+      "originalQuote": "Um die Lebensmittelverschwendung einzudämmen, werden wir es den Produzenten und dem Handel untersagen, ge",
+      "classification": "NAHRUNGSMITTEL"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Keine Gentechnik bei Pflanzen",
+      "location": "Abschnitt 3.15",
+      "originalQuote": "Wir bleiben beim Nein zu gentechnisch veränderten Pflanzen.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einstimmigkeitsprinzip in Steuerfragen überwinden",
+      "location": "Abschnitt 4.1",
+      "originalQuote": "Deshalb treten wir ein für die Überwindung des Einstimmigkeitsprinzips in Steuerfragen und die Beendigung ",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung eines Wettlaufs nach unten bei Standards nach dem Brexit",
+      "location": "Abschnitt 4.4",
+      "originalQuote": "Einen Wettlauf nach unten, was Umweltstandards oder die Rechte von Arbeitnehmern und Verbrauchern angeht",
+      "classification": "VERHINDERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Annexionen im Nahostkonflikt",
+      "location": "Abschnitt 4.4",
+      "originalQuote": "Pläne zu Annexionen lehnen wir kategorisch ab. Es muss zu einem Stopp des völkerrechtswidrigen Siedlungs",
+      "classification": "NAHOSTKONFLIKT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einseitige Schritte im Nahostkonflikt müssen unterbleiben",
+      "location": "Abschnitt 4.4",
+      "originalQuote": "Einseitige Schritte von allen Seiten erschweren die Friedensbemühungen und müssen unterbleiben. Von der p",
+      "classification": "NAHOSTKONFLIKT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Klagemöglichkeiten bei öffentlicher Daseinsvorsorge",
+      "location": "Abschnitt 4.2",
+      "originalQuote": "Die Rechte von Arbeitnehmer*innen, strengere Umweltgesetzgebungen, die Umsetzung internationaler Verpfl",
+      "classification": "KLAGEMÖGLICHKEITEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Private Streitschlichtungsmechanismen abschaffen",
+      "location": "Abschnitt 4.2",
+      "originalQuote": "Zudem sollen private Streitschlichtungsmechanismen abgeschafft und durch öffentliche Gerichte ersetzt we",
+      "classification": "STREITSCHLICHTUNGSMECHANISMEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Werbung in Kitas und Schulen untersagen",
+      "location": "Abschnitt 3.7",
+      "originalQuote": "Kitas und Schulen müssen ein werbefreier Raum sein.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine neuen Genehmigungen für unbemannte bewaffnete Drohnen ohne Debatte",
+      "location": "Abschnitt 4.5",
+      "originalQuote": "Die Entscheidung, ob diese auch bewaffnet werden sollen, kann verantwortbar erst nach einer umfassenden p",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Rüstungsexporte in bestimmte Staaten ohne Ratifizierung des ATT",
+      "location": "Abschnitt 4.5",
+      "originalQuote": "Für Staaten, die weder Mitglied der EU noch der NATO sind, ist eine Ratifizierung des Vertrags über Waffe",
+      "classification": "Rüstung & Waffen"
+    }
+  ]
+}

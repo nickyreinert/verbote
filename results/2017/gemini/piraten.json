@@ -1,0 +1,285 @@
+{
+  "sourceFile": "Piraten - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verdachtsunabhängige Durchleuchtung der Bürger und gläserne Kunden",
+      "location": "1.1",
+      "originalQuote": "Wir lehnen die verdachtsunabhängige Durchleuchtung der Bürgerinnen und Bürger und die gläsernen Kundi",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Automatisierte Abfrage von Meldedaten",
+      "location": "1.1.3",
+      "originalQuote": "Eine automatisierte Abfrage lehnen wir ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ersatzlose Abschaffung des Listenprivilegs (Adresshandel)",
+      "location": "1.1.3",
+      "originalQuote": "Daher fordern wir die ersatzlose Abschaffung des sogenannten Listenprivilegs, der zentralen Ausnah",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weitergabe von Meldedaten an den Beitragsservice",
+      "location": "1.1.3",
+      "originalQuote": "Die Weitergabe von Meldedaten an den Beitragsservice der öffentlich-rechtlichen Rundfunkanstalten ",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verdachtsunabhängige Vorratsdatenspeicherung und Ausdehnung der öffentlichen Videoüberwachung",
+      "location": "1.1.4",
+      "originalQuote": "Wir PIRATEN lehnen eine verdachtsunabhängige Vorratsdatenspeicherung von Telekommunikationsdaten, au",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Anlasslose Erfassung, Speicherung und Abgleich biometrischer Daten",
+      "location": "1.1.4",
+      "originalQuote": "Wir lehnen die anlasslose Erfassung, Speicherung und den Abgleich biometrischer Daten aufgrund des h",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder Versicherungswirtschaft",
+      "location": "1.1.4",
+      "originalQuote": "Der Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder die Versicherungswirtschaft m",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkungen des Bargeldverkehrs",
+      "location": "1.1.5",
+      "originalQuote": "Wir PIRATEN setzen uns sowohl auf Bundesebene als auch auf europäischer Ebene gegen Einschränkungen",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Herstellung, Wartung und Erhaltung von Überwachungssoftware",
+      "location": "1.1.6",
+      "originalQuote": "Wir PIRATEN sprechen uns deutlich gegen die Herstellung, Wartung, Betreuung und Erhaltung von Überwa",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kommerzieller Handel mit Überwachungssoftware",
+      "location": "1.1.6",
+      "originalQuote": "Sie verurteilt den kommerziellen Handel mit Überwachungssoftware, einschließlich Dienstleistungen fü",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "PKW-Maut",
+      "location": "1.1.7",
+      "originalQuote": "Eine PKW-Maut lehnen wir ebenfalls ab. Durch viele bislang vorgeschlagene Systeme zur Mauterfassung ",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zensur",
+      "location": "1.2.1",
+      "originalQuote": "Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk, Film und digitale Netzwerke werden gew",
+      "classification": "ZENSUR"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verwertungsverbot von Beweisen aus verdeckten Eingriffen in IT-Systeme",
+      "location": "1.2.3.1",
+      "originalQuote": "Wir setzen uns deshalb für ein gesetzlich geregeltes ausnahmsloses Verwertungsverbot von Beweisen ei",
+      "classification": "VERWERTUNGSVERBOT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Anordnung verdeckter Eingriffe (Staatstrojaner) durch die Exekutive im Eilfall",
+      "location": "1.2.3.1",
+      "originalQuote": "Eine Anordnung im Falle einer Gefahr im Verzug durch die Exekutive (z. B. Staatsanwalt, Behördenleit",
+      "classification": "STAATSTROJANER"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Strafbewehrtes Verbot verdeckter Eingriffe in informationstechnische Systeme",
+      "location": "1.2.3.1",
+      "originalQuote": "Auch wenn alle diese Maßnahmen im Gesetz verankert werden, werden wir uns weiterhin konsequent für d",
+      "classification": "INFORMATIONSTECHNISCHE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung des großen Lauschangriffs und der Eingriffe in Brief-, Post- und Fernmeldegeheimnis",
+      "location": "1.2.4",
+      "originalQuote": "Um dies zu erreichen streben wir die Abschaffung des großen Lauschangriffs sowie die Abschaffung der",
+      "classification": "FERNMELDEGEHEIMNIS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Instrumente zur Abschreckung, Isolation und Diskriminierung in der Asylpolitik",
+      "location": "2.1.1",
+      "originalQuote": "die am Wohl und Schutz der asylsuchenden Menschen interessiert ist und auf Instrumente zur Abschrecku",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Militärisches Eingreifen",
+      "location": "2.1.2",
+      "originalQuote": "Militärisches Eingreifen lehnen wir grundsätzlich ab. Ob in besonderen Einzelfällen wie organisiertem",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verpflichtende Deutschkenntnisse vor der Einreise für Ehegatten",
+      "location": "2.1.4.1",
+      "originalQuote": "Wir fordern die Abschaffung der verpflichtenden Deutschkenntnisse noch vor der Einreise. Es ist voll",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zwang zur Entscheidung für eine Staatsangehörigkeit (Optionspflicht)",
+      "location": "2.1.5",
+      "originalQuote": "Der Zwang zur Entscheidung für eine Staatsangehörigkeit (Optionspflicht) entfällt. Menschen, die seit",
+      "classification": "STAATSANGEHÖRIGKEIT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abgestufte Gültigkeit von Fluchtgründen",
+      "location": "2.1.6",
+      "originalQuote": "Eine abgestufte Gültigkeit von Fluchtgründen lehnen wir ab. Außerdem lehnen wir pauschale Kategorisie",
+      "classification": "FLUCHTGRÜNDEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pauschale Kategorisierungen von Staaten als „sichere Herkunftsländer“",
+      "location": "2.1.6",
+      "originalQuote": "Außerdem lehnen wir pauschale Kategorisierungen von Staaten als „sichere Herkunftsländer“ ab. Schutz",
+      "classification": "KATEGORISIERUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Diskriminierende und inhumane Beweisverfahren im Asylverfahren",
+      "location": "2.1.6",
+      "originalQuote": "Dabei ist auf diskriminierende und inhumane Beweisverfahren zu verzichten. 2.1.7 Grundrechte auf all",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aktionismus in der Frage des Umgangs mit Geflüchteten",
+      "location": "2.1.11",
+      "originalQuote": "Wir PIRATEN lehnen in der Frage des Umgangs mit Geflüchteten Aktionismus in jeglicher Form ab. Wir ha",
+      "classification": "GEFLÜCHTETEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Generelles Ende von Abschiebungen und Abschiebehaft",
+      "location": "2.1.12",
+      "originalQuote": "Wir setzen uns für ein generelles Ende von Abschiebungen und der Abschiebehaft ein, insbesondere zwis",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschiebungen in Krisenregionen und gesundheits- oder lebensgefährdende Gebiete",
+      "location": "2.1.12",
+      "originalQuote": "Abschiebungen in Krisenregionen und in Gebiete, in denen die Verhältnisse eine Gefahr für Gesundheit",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Botschaftsvorführungen zur Identitätsfeststellung und Passersatzbeschaffung",
+      "location": "2.1.12",
+      "originalQuote": "Botschaftsvorführungen zur Identitätsfeststellung und Passersatzbeschaffung sind diskriminierend und",
+      "classification": "BOTSCHAFTSVORFÜHRUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Sofortige bundesweite Aussetzung der Abschiebehaft",
+      "location": "2.1.12",
+      "originalQuote": "Die Abschiebehaft ist sofort bundesweit auszusetzen. Inhaftierte Personen sind sofort zu entlassen.",
+      "classification": "ABSCHIEBEHAFT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zusätzliche steuerliche Belastung der Bevölkerung zur Flüchtlingsfinanzierung",
+      "location": "2.1.14",
+      "originalQuote": "Wir PIRATEN lehnen eine zusätzliche steuerliche Belastung der Bevölkerung zur Finanzierung des erhöh",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Mehr-Klassen-Situation auf dem Arbeitsmarkt",
+      "location": "2.2.2.1",
+      "originalQuote": "Wir wollen eine Mehr-Klassen-Situation auf dem Arbeitsmarkt beenden. Diskriminierungsmaßnahmen jeder",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gesetzliche Schlechterstellung von Menschen aus Nicht-EU-Staaten auf dem Arbeitsmarkt",
+      "location": "2.2.2.1",
+      "originalQuote": "Wir setzen uns dafür ein, die gesetzliche Schlechterstellung von Menschen aus Nicht-EU-Staaten auf d",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vollkörperkontrollen bei Einlasskontrollen zu Stadien",
+      "location": "3.1.5",
+      "originalQuote": "Vollkörperkontrollen sehen wir als menschenunwürdige Maßnahme, die in keinem Verhältnis zu den zu ve",
+      "classification": "VOLLKÖRPERKONTROLLEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Automatische und pauschale Sanktionierung des Konsums von Drogen und Medikamenten durch Führerscheinbehörde",
+      "location": "13.13.12",
+      "originalQuote": "Aber die automatische und pauschale Sanktionierung des Konsums von Drogen und Medikamenten durch die",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Reines Moralstrafrecht und Bestrafung von Handlungen mit geringem oder fraglichem Unrechtsgehalt",
+      "location": "17.2.4.1",
+      "originalQuote": "Ein reines Moralstrafrecht lehnen wir PIRATEN ebenso ab wie die Bestrafung von Handlungen mit gering",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Entwicklung von Technologien zur verstärkten Überwachung, Erfassung und Kontrolle von Bürgern",
+      "location": "17.4.6",
+      "originalQuote": "Die Entwicklung von Technologien zur verstärkten Überwachung, Erfassung und Kontrolle von Bürgerinne",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz der Bundeswehr im Innern",
+      "location": "17.7",
+      "originalQuote": "Wir PIRATEN lehnen den Einsatz der Bundeswehr im Innern ab. Ausgenommen sind rein humanitäre, unbewa",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ersatzlose Abschaffung staatlicher Sondervorteile für Religions- und Weltanschauungsgemeinschaften",
+      "location": "18.3",
+      "originalQuote": "Zudem fordern wir die ersatzlose Abschaffung staatlicher Sondervorteile (wie Freistellung von Grundst",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staatliche Finanzierung von Militär-, JVA- und Polizeiseelsorge",
+      "location": "18.3",
+      "originalQuote": "Insbesondere ist die staatliche Finanzierung von Militär-, JVA- und Polizeiseelsorge einzustellen und",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Sonderregelung für Religionsgemeinschaften im Betriebsverfassungsgesetz (§ 118 (2) BetrVG)",
+      "location": "18.4",
+      "originalQuote": "deshalb sprechen wir uns dafür aus, § 118 (2) des Betriebsverfassungsgesetzes (Sonderregelung für Re",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Abfrage und Registrierung der Religionszugehörigkeit durch staatliche Stellen",
+      "location": "18.5",
+      "originalQuote": "Die Zugehörigkeit oder Nichtzugehörigkeit zu einer Religionsgemeinschaft darf von staatlichen Stelle",
+      "classification": "RELIGIONSZUGEHÖRIGKEIT"
+    }
+  ]
+}

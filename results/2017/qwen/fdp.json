@@ -1,0 +1,215 @@
+{
+  "sourceFile": "FDP - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine lückenlose Überwachung unbescholtener Bürger",
+      "location": "Selbstbestimmt in allen Lebenslagen > Schutz der Privatsphäre",
+      "originalQuote": "Wir Freie Demokraten wollen keine lückenlose Überwachung unbescholtener Bürgerinnen und B",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine anlasslose Erhebung und Speicherung personenbezogener Daten",
+      "location": "Selbstbestimmt in allen Lebenslagen > Schutz der Privatsphäre",
+      "originalQuote": "Wir Freie Demokraten kämpfen gegen jede anlasslose Erhebung und Speicherung von personenbezo",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vorratsdatenspeicherung wird abgelehnt",
+      "location": "Selbstbestimmt in allen Lebenslagen > Schutz der Privatsphäre",
+      "originalQuote": "Die Vorratsdatenspeicherung, die sie dazu zwingt, lehnen wir deshalb entschieden ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein generelles Tempolimit auf Autobahnen",
+      "location": "Vorankommen durch eigene Leistung > Moderne Mobilität braucht moderne Infrastruktur",
+      "originalQuote": "Ein generelles Tempolimit auf Autobahnen sowie die weitere Absenkung allgemeiner Höchstgesch",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatlichen Eingriffe in das Eigentumsrecht außer bei Raubkunst",
+      "location": "Vorankommen durch eigene Leistung > Kultur gibt Wurzeln und Zukunft zugleich",
+      "originalQuote": "Wir Freie Demokraten lehnen jeden unnötigen staatlichen Eingriff in das Eigentumsrecht ab. Dah",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pauschalverbote in der Landwirtschaft werden abgelehnt",
+      "location": "Vorankommen durch eigene Leistung > Moderne Landwirtschaft",
+      "originalQuote": "Wir lehnen pauschalisierende Verbote ab und fordern stattdessen eine faktenbasierte, ergebnisoff",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausweitung sachlicher Verbote im Bundesjagdgesetz wird strikt abgelehnt",
+      "location": "Vorankommen durch eigene Leistung > Sicherung der Artenvielfalt",
+      "originalQuote": "Eine Ausweitung der sachlichen Verbote im Bundesjagdgesetz lehnen wir daher strikt ab.",
+      "classification": "BUNDESJAGDGESETZ"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Allgemeine Angelverbote in Schutzgebieten werden als unverhältnismäßig abgelehnt",
+      "location": "Vorankommen durch eigene Leistung > Sicherung der Artenvielfalt",
+      "originalQuote": "Allgemeine Angelverbote für die Freizeitfischerei (zum Beispiel in Natura-2000-Gebieten in d",
+      "classification": "UNVERHÄLTNISMÄSSIG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Modelle wie Positiv- und Negativlisten für Tierhaltung werden abgelehnt",
+      "location": "Vorankommen durch eigene Leistung > Artgerechte Tierhaltung und Tierernährung",
+      "originalQuote": "Modelle wie Positiv- und Negativlisten, welche die Haltung bestimmter Arten untersagen, lehnen",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staatsfinanzierung durch Notenpresse wird strikt abgelehnt",
+      "location": "Politik, die rechnen kann > Euro nachhaltig stabilisieren",
+      "originalQuote": "Eine Staatsfinanzierung durch die Notenpresse lehnen wir strikt ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vergemeinschaftung der Einlagensicherung im europäischen Raum wird abgelehnt",
+      "location": "Politik, die rechnen kann > Konsequente Anwendung des Bankenabwicklungsmechanismus",
+      "originalQuote": "Eine Vergemeinschaftung der Einlagensicherung im europäischen Raum lehnen wir ab.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wiedereinführung der Vermögensteuer wird abgelehnt",
+      "location": "Politik, die rechnen kann > Gerechte Erbschaftsteuer",
+      "originalQuote": "Deshalb lehnen wir eine Wiedereinführung der Vermögensteuer und eine weitere Verschärfung der",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nationale Alleingänge in der Klimapolitik werden abgelehnt",
+      "location": "Politik, die rechnen kann > Keine Alleingänge in der Klimapolitik ohne Nutzen",
+      "originalQuote": "Nationale Alleingänge wie den Klimaschutzplan 2050 lehnen wir ab.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zwang zur Einführung von Elektroautos wird abgelehnt",
+      "location": "Politik, die rechnen kann > Für den Wettbelt neuer Technologien",
+      "originalQuote": "Denn wir sehen in staatlicher Investitionslenkung, wie beispielsweise der zwangsweisen Einfüh",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Waffenlieferungen in Krisengebiete werden abgelehnt",
+      "location": "Freiheit und Menschenrechte weltweit > Sicherheitspolitik mit Augenmaß",
+      "originalQuote": "Wir Freie Demokraten wollen keine Waffenlieferungen in Krisengebiete.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pkw-Maut wird abgelehnt",
+      "location": "Vorankommen durch eigene Leistung > Moderne Mobilität braucht moderne Infrastruktur",
+      "originalQuote": "Voraussichtlich übersteigen die Verwaltungskosten sogar die Einnahmen. Deshalb lehnen wir di",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gemeinsame europäische Arbeitslosenversicherung wird abgelehnt",
+      "location": "Freiheit und Menschenrechte weltweit > Europa bleibt unsere Zukunft",
+      "originalQuote": "Deshalb erteilen wir insbesondere einer gemeinsamen europäischen Arbeitslosenversicherung eine",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gesetzliche Quote für Frauen in Führungspositionen wird abgelehnt",
+      "location": "Vorankommen durch eigene Leistung > Mehr Frauen in Führungsverantwortung",
+      "originalQuote": "Eine gesetzliche Quote lehnen wir jedoch ab: So werden Frauen zu Platzhaltern degradiert und n",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bürgerversicherung wird abgelehnt",
+      "location": "Selbstbestimmt in allen Lebenslagen > Der Patient im Mittelpunkt",
+      "originalQuote": "Einer als „Bürgerversicherung“ getarnten staatlichen Zwangskasse erteilen wir eine klare Absa",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vermischung von Verantwortung durch gemeinschaftliche Haftung im Euro-Raum wird abgelehnt",
+      "location": "Politik, die rechnen kann > Euro nachhaltig stabilisieren",
+      "originalQuote": "Wir wollen, dass die Vermischung von Verantwortung durch gemeinschaftliche Haftung ausgeschl",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staatlich organisierte Zuteilungsmedizin wird abgelehnt",
+      "location": "Selbstbestimmt in allen Lebenslagen > Der Patient im Mittelpunkt",
+      "originalQuote": "Staatlich organisierte und rationierte Zuteilungsmedizin führt langfristig zu einer drastische",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot oder Einschränkung von Bargeld wird abgelehnt",
+      "location": "Selbstbestimmt in allen Lebenslagen > Schutz der Privatsphäre",
+      "originalQuote": "Es gibt keinerlei Anhaltspunkte, dass durch ein Verbot oder die Einschränkung der Bargeldhalt",
+      "classification": "EINSCHRÄNKUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Doppelte Staatsbürgerschaft darf bei Auswanderern nicht zum Verlust der deutschen Staatsbürgerschaft führen",
+      "location": "Vernünftiges Einwanderungsrecht > Doppelte Staatsbürgerschaft",
+      "originalQuote": "Deutsche, welche aus rechtlichen Gründen ihre zweite Staatsbürgerschaft nicht ablegen können, ",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Obergrenzen bei der Gewährung von Asyl werden abgelehnt",
+      "location": "Freiheit und Menschenrechte weltweit > Asylpolitik wieder ordnen",
+      "originalQuote": "Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl kl",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verstärkung der EU im Bereich sozialer Säule wird abgelehnt",
+      "location": "Freiheit und Menschenrechte weltweit > Europa bleibt unsere Zukunft",
+      "originalQuote": "Deshalb sind die Vorschläge der Europäischen Kommission zu einer sozialen Säule Europas nich",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verschärfung des deutschen Waffenrechts wird abgelehnt",
+      "location": "Freiheit und Menschenrechte weltweit > Entschiedene Bekämpfung von Terror",
+      "originalQuote": "Eine Verschärfung des deutschen Waffenrechts lehnen wir ab, weil sie nicht mehr Sicherheit bri",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pauschales Versandhandelsverbot für rezeptpflichtige Arzneimittel wird abgelehnt",
+      "location": "Selbstbestimmt in allen Lebenslagen > Der Patient im Mittelpunkt",
+      "originalQuote": "Ein pauschales Versandhandelsverbot von rezeptpflichtigen Arzneimitteln lehnen wir ab, denn j",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Generalverdacht gegenüber allen Bürgern durch Symbolpolitik soll vermieden werden",
+      "location": "Schauen wir nicht länger zu! > Wir sehen die Chancen",
+      "originalQuote": "statt mit Symbolpolitik alle Bürger unter Generalverdacht zu stellen.",
+      "classification": "GENERALVERDACHT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beibehaltung des Blasphemie-Paragraphen wird abgelehnt",
+      "location": "Selbstbestimmt in allen Lebenslagen > Respekt vor Grundrechten und dem Rechtsstaat",
+      "originalQuote": "halten wir den Blasphemie-Paragraphen 166 StGB für überflüssig und wollen ihn abschaffen.",
+      "classification": "BLASPHEMIEPARAGRAPHEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zwangsrationierung im Gesundheitswesen wird abgelehnt",
+      "location": "Selbstbestimmt in allen Lebenslagen > Der Patient im Mittelpunkt",
+      "originalQuote": "Gleichzeitig werden ihnen Untersuchungen und Therapien durch Budgetierung und versteckte Zwan",
+      "classification": "Gesundheit & Drogen"
+    }
+  ]
+}

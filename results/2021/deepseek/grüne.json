@@ -1,0 +1,166 @@
+{
+  "sourceFile": "Grüne - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot besonders schädlicher Umweltgifte wie Glyphosat",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Artensterben stoppen",
+      "originalQuote": "Deshalb werden wir ein Sofortprogramm Artenschutz auflegen, mit dem wir den Pestizideinsatz deutlich verringern und den Einsatz beso",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stopp des Verkaufs naturwertvoller bundeseigener Flächen",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Artensterben stoppen",
+      "originalQuote": "Wir wollen den Verkauf von naturwertvollen bundeseigenen Flächen sowie die Entwässerung von Moorstandorten stoppen und militä",
+      "classification": "NATURWERTVOLLER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stopp der Entwässerung von Moorstandorten",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Artensterben stoppen",
+      "originalQuote": "Wir wollen den Verkauf von naturwertvollen bundeseigenen Flächen sowie die Entwässerung von Moorstandorten stoppen und militä",
+      "classification": "MOORSTANDORTEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Keine neuen Öl- und Gasbohrungen in der deutschen AWZ",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Meere schützen, Plastikmüllflut stoppen",
+      "originalQuote": "In der deutschen Ausschließlichen Wirtschaftszone wollen wir einen sofortigen Stopp neuer Öl- und Gasbohrungen umsetzen sowie ein",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neue Hafenterminals für Flüssigerdgas nicht mehr genehmigen",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Unsere Energieinfrastruktur klimaneutral machen",
+      "originalQuote": "Neue Hafenterminals zur Anlandung von Flüssigerdgas sollen nicht mehr genehmigt werden.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gene Drive-Technologien ausschließen",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Biologische Vielfalt an Land und im Meer schützen",
+      "originalQuote": "Bei Eingriffen in die Natur müssen nicht verantwortbare Risiken, wie die Manipulation oder Ausrottung ganzer Populationen oder Ar",
+      "classification": "DRIVETECHNOLOGIEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fracking ausschließen",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Sauberes Wasser ist Leben",
+      "originalQuote": "Wir machen das Vorsorgeprinzip auch im Gewässerschutz zur Richtschnur, deswegen wollen wir im Bergrecht Fracking und künftige Pro",
+      "classification": "AUSSCHLIESSEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausstieg aus der Pestizidabhängigkeit durch Sofortverbote",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Wir stärken Bäuer*innen, Tiere und Natur / Pestizide reduzieren",
+      "originalQuote": "Wir wollen den Ausstieg aus der Pestizidabhängigkeit unserer Landwirtschaft schnell und machbar gestalten: durch eine systematisch",
+      "classification": "PESTIZIDABHÄNGIGKEIT"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Pestiziden in Schutzgebieten und Trinkwasserschutzgebieten",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Wir stärken Bäuer*innen, Tiere und Natur / Pestizide reduzieren",
+      "originalQuote": "Um wirksamen Artenschutz zu betreiben und unser Trinkwasser zu schützen, wollen wir die Ausbringung von Pestiziden in Naturschutz",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Exportverbot für in der EU nicht zugelassene oder verbotene Pestizide",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Wir stärken Bäuer*innen, Tiere und Natur / Pestizide reduzieren",
+      "originalQuote": "Wir werden außerdem den Export von Pestiziden beenden, die in Deutschland oder der EU aufgrund von Umwelt- und Gesundheitsrisiken",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Keine Patente auf Lebewesen und ihre genetischen Anlagen",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Wir stärken Bäuer*innen, Tiere und Natur / Vielfältiges Saatgut ohne Patente",
+      "originalQuote": "Wir wollen das Patentrecht so ausrichten, dass es keine Patente auf Lebewesen und ihre genetischen Anlagen mehr gibt.",
+      "classification": "GENETISCHEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wildtierhandel auf Online-Portalen und gewerblichen Börsen verbieten",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Wir stärken Bäuer*innen, Tiere und Natur / Wildtierhandel an die Leine legen",
+      "originalQuote": "Wildtierhandel auf Online-Portalen und gewerblichen Börsen sowie kommerzielle Importe von Wildfängen und die Einfuhr von Jagdtro",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kommerzielle Importe von Wildfängen verbieten",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Wir stärken Bäuer*innen, Tiere und Natur / Wildtierhandel an die Leine legen",
+      "originalQuote": "Wildtierhandel auf Online-Portalen und gewerblichen Börsen sowie kommerzielle Importe von Wildfängen und die Einfuhr von Jagdtro",
+      "classification": "KOMMERZIELLE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einfuhr von Jagdtrophäen verbieten",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Wir stärken Bäuer*innen, Tiere und Natur / Wildtierhandel an die Leine legen",
+      "originalQuote": "Wildtierhandel auf Online-Portalen und gewerblichen Börsen sowie kommerzielle Importe von Wildfängen und die Einfuhr von Jagdtro",
+      "classification": "JAGDTROPHÄEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beendigung der Haltung von Wildtieren in Zirkussen",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Wir stärken Bäuer*innen, Tiere und Natur / Tiere schützen und respektieren",
+      "originalQuote": "Die Haltung von Wildtieren in Zirkussen werden wir beenden.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Atomkraftwerke sind nicht erlaubt (Atomausstieg)",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Atomausstieg vollenden",
+      "originalQuote": "Wir werden den Atomausstieg in Deutschland vollenden.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Keine neuen emissionsfreien Autos ab 2030",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Den Autoverkehr klimaneutral gestalten",
+      "originalQuote": "Ab 2030 dürfen deshalb nur noch emissionsfreie Autos neu zugelassen werden; den Weg dorthin bereiten europäische CO2-Flottengrenzw",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kurzstreckenflüge bis 2030 überflüssig machen",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Flugverkehr zukunftsfähig ausrichten",
+      "originalQuote": "Kurzstreckenflüge wollen wir ab sofort Zug um Zug verringern und bis 2030 überflüssig machen, indem wir massiv Bahnangebote – ger",
+      "classification": "KURZSTRECKENFLÜGE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung weiteren Ausbaus der Flughafeninfrastruktur",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Flugverkehr zukunftsfähig ausrichten",
+      "originalQuote": "Einen weiteren Ausbau der Flughafeninfrastruktur lehnen wir ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Ausbaus der Oder und Tideelbe",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Flüsse und Moore schützen und renaturieren",
+      "originalQuote": "Naturnahe Bäche und die letzten frei fließenden Flüsse wie die Elbe müssen erhalten bleiben, einen Ausbau der Oder lehnen wir ab",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Maßnahmen, die den ökologischen Zustand von Fließgewässern verschlechtern, sind nicht erlaubt",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Flüsse und Moore schützen und renaturieren",
+      "originalQuote": "Maßnahmen, die den ökologischen Zustand unserer Fließgewässer verschlechtern, sind nicht erlaubt.",
+      "classification": "FLIESSGEWÄSSERN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ende der Torfnutzung",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Flüsse und Moore schützen und renaturieren",
+      "originalQuote": "Daher wollen wir ein Ende der Torfnutzung und unsere Moore so schnell und umfassend wie möglich wiedervernässen.",
+      "classification": "TORFNUTZUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Mikroplastik hat in Kosmetika nichts verloren",
+      "location": "Kapitel 1: Lebensgrundlagen schützen / Giftfreie Produkte im Alltag",
+      "originalQuote": "In Kosmetika und Pflegeprodukten hat Mikroplastik nichts verloren.",
+      "classification": "Umwelt & Klima"
+    }
+  ]
+}

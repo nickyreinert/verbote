@@ -1,0 +1,40 @@
+{
+  "sourceFile": "Die Partei - 2017 - Wahlprogramm.pdf",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unterdrücken von Beschwerden über Ungerechtigkeiten",
+      "location": "Seite 2, Punkt 1",
+      "originalQuote": "Beschwerden über angebliche Ungerechtigkeiten sind mit aller Gewalt zu unterdrücken. Um den gesellschaftlichen Stellenwert der Ge",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nicht verhandelbar sein der Kontinentaldrift-Ergebnisse ohne Geld",
+      "location": "Seite 2, Punkt 3",
+      "originalQuote": "Die Ergebnisse der Kontinental- drift sind für uns nicht verhandelbar bzw. nur gegen Geld.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einstellung von Tierversuchen",
+      "location": "Seite 2, Punkt 6",
+      "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da. Lipgloss, Arsch-Make-up, Biomarmelade und",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Einsatzes von Chatbots im Wahlkampf",
+      "location": "Seite 2, Punkt 7",
+      "originalQuote": "Chatbots wie Ralf Stegner (SPD), Peter Tauber (CDU), Beatrix von Strolch (AfD), Andy Scheuer (CSU) und Chris Lindner (FDP) dürfe",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Protest gegen öffentliche Zurschaustellung von Grünen-Politikern",
+      "location": "Seite 2, Punkt 10",
+      "originalQuote": "Die PARTEI protestiert aus ethischen Erwägungen dagegen, dass Grüne (Anton Hofreiter, Katrin Boring- Eckhardt, Sprechdöner Cem",
+      "classification": "ZURSCHAUSTELLUNG"
+    }
+  ]
+}

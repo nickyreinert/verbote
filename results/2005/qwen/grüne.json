@@ -1,0 +1,285 @@
+{
+  "sourceFile": "Grüne - 2005 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wiedereinstieg in die Atomkraft",
+      "location": "Energiepolitik / Weg von Öl und Atom",
+      "originalQuote": "Nur BÜNDNIS 90/DIE GRÜNEN garantieren die weitere Abschaltung von Atomkraftwerken, wie si",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Export von Atomtechnologie ins Ausland",
+      "location": "Energiepolitik / Wiedereinstieg – Nein danke!",
+      "originalQuote": "Den Export von Atomtechnologie ins Ausland lehnen wir ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weiterführung der EURATOM-Forschung",
+      "location": "Energiepolitik / Wiedereinstieg – Nein danke!",
+      "originalQuote": "Den EURATOM-Vertrag wollen wir abschaffen und bilaterale Nuklear-Abkommen durch Kooperati",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staatliche Finanzierung der Kernfusionsforschung",
+      "location": "Energiepolitik / Wiedereinstieg – Nein danke!",
+      "originalQuote": "Eine weitere staatliche Finanzierung der Forschungen zur Kernfusion lehnen wir ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Agro-Gentechnik in der Landwirtschaft",
+      "location": "Verbraucherschutz / Gen-Food – Nein danke!",
+      "originalQuote": "Wir GRÜNE wollen keine gentechnisch veränderten Lebensmittel. Landwirtschaft und Gentechnik",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Käfighaltung von Legehennen",
+      "location": "Tierschutz",
+      "originalQuote": "Wir werden das Verbot der Käfighaltung von Legehennen weiter gegen die Eierbarone in der CD",
+      "classification": "KÄFIGHALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nicht artgerechte Haltung von Wildtieren im Zirkus",
+      "location": "Tierschutz",
+      "originalQuote": "Unwürdige Zustände bei der Haltung, der Gesundheit und beim Transport von Tieren oder einer",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Import von Wildtieren als Heimtiere",
+      "location": "Tierschutz",
+      "originalQuote": "Unwürdige Zustände bei der Haltung, der Gesundheit und beim Transport von Tieren oder einer",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Tierversuche ohne alternative Methoden",
+      "location": "Tierschutz",
+      "originalQuote": "Tierversuche müssen konsequent durch alternative Testmethoden ersetzt werden.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Zwangsverheiratung von Migrantinnen",
+      "location": "Frauenpolitik / Frauenrechte sind Menschenrechte",
+      "originalQuote": "Häusliche Gewalt, Zwangsverheiratung und »Ehrenmorde« müssen konsequent, auch durch niedersc",
+      "classification": "ZWANGSVERHEIRATUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Genitalverstümmelung an Frauen",
+      "location": "Frauenpolitik / Frauenrechte sind Menschenrechte",
+      "originalQuote": "Wir setzen uns für die konsequente Verhinderung von Genitalverstümmelungen an Frauen ein.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbrauchende Embryonenforschung",
+      "location": "Forschung / Ethische Maßstäbe in der Forschung",
+      "originalQuote": "Menschenwürde und Menschenrechte haben Vorrang vor Forschungs- und Verwertungsinteressen Drit",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Klonen von Menschen",
+      "location": "Forschung / Ethische Maßstäbe in der Forschung",
+      "originalQuote": "Menschenwürde und Menschenrechte haben Vorrang vor Forschungs- und Verwertungsinteressen Drit",
+      "classification": "MENSCHEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fremdnützige Forschung an Nichteinwilligungsfähigen",
+      "location": "Forschung / Ethische Maßstäbe in der Forschung",
+      "originalQuote": "Menschenwürde und Menschenrechte haben Vorrang vor Forschungs- und Verwertungsinteressen Drit",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung der Wasserversorgung",
+      "location": "Umweltpolitik / Gute Umwelt, gesundes Leben",
+      "originalQuote": "Für BÜNDNIS 90/DIE GRÜNEN sind Wasserversorgung und Abwasserbeseitigung Bestandteile der Da",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Umweltbelastende Straßenbauprojekte",
+      "location": "Verkehrspolitik / Ökologisch mobil",
+      "originalQuote": "Zu umweltfreundlicher Mobilität gehört auch der Verzicht auf ökologisch bedenkliche Straßenba",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Öffentliche Subventionen für Flughafenausbauten",
+      "location": "Verkehrspolitik / Ökologisch mobil",
+      "originalQuote": "Staatliche Subventionen für Flughafenaus- oder -neubauten lehnen wir ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nachtflüge an wohnortnahen Flughäfen",
+      "location": "Verkehrspolitik / Ökologisch mobil",
+      "originalQuote": "Wir setzen uns für ein Nachtflugverbot an wohnortnahen Flughäfen ein.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Börsengang der Deutschen Bahn AG",
+      "location": "Verkehrspolitik / Ökologisch mobil",
+      "originalQuote": "Einen voreiligen Börsengang der Deutschen Bahn AG lehnen wir ab, weil dies zu überzogenen Kür",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Überteuerte Prestigeprojekte im Verkehrsbau",
+      "location": "Verkehrspolitik / Ökologisch mobil",
+      "originalQuote": "Auf überteuerte Prestigeprojekte wie die Untertunnelung des Thüringer Waldes, »Stuttgart 21« und",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Elterliche Gewalt in der Erziehung",
+      "location": "Familienpolitik / Familien unterstützen",
+      "originalQuote": "Die gewaltfreie Erziehung von Kindern, die wir gesetzlich verankert haben, wollen wir durch P",
+      "classification": "ELTERLICHE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kriminalisierung von Jugendlichen durch Erhöhung des Strafrahmens",
+      "location": "Jugendpolitik / Jugend braucht Zukunft",
+      "originalQuote": "Statt auf eine Erhöhung des gesetzlichen Strafrahmens setzen wir auf die Verbesserung der Pra",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Herabsetzung der Strafmündigkeit",
+      "location": "Jugendpolitik / Jugend braucht Zukunft",
+      "originalQuote": "Eine Herabsetzung der Strafmündigkeit und geschlossene Heime lehnen wir ab.",
+      "classification": "STRAFMÜNDIGKEIT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschiebehaft für besonders schutzbedürftige Personen",
+      "location": "Integrationspolitik / Zukunftsaufgabe Integration",
+      "originalQuote": "Besonders schutzwürdige Personen wie Minderjährige, Schwangere, ältere Personen, Alleinerziehen",
+      "classification": "SCHUTZBEDÜRFTIGE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschiebungen in Krisengebiete",
+      "location": "Integrationspolitik / Zukunftsaufgabe Integration",
+      "originalQuote": "Die derzeit in Deutschland praktizierte Form der Abschiebungen in Krisengebiete wie Afghanista",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Flüchtlingslager außerhalb der EU",
+      "location": "Integrationspolitik / Zukunftsaufgabe Integration",
+      "originalQuote": "Plänen zur Einrichtung von Flüchtlingslagern außerhalb der EU erteilen wir eine klare Absage.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kronzeugenregelung",
+      "location": "Sicherheitspolitik / Sicherheit rechtsstaatlich gestalten",
+      "originalQuote": "Die rechtsstaatlich fragwürdige Kronzeugenregelung haben wir abgeschafft. Dabei bleiben wir.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Großer Lauschangriff",
+      "location": "Bürgerrechte / Der Mensch hat ein Recht darauf, in Ruhe gelassen zu werden",
+      "originalQuote": "Den großen Lauschangriff lehnen wir ab.",
+      "classification": "LAUSCHANGRIFF"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zwangsheirat",
+      "location": "Frauenpolitik / Frauenrechte sind Menschenrechte",
+      "originalQuote": "Wir haben die Strafbarkeit beim Menschenhandel und bei der Zwangsheirat verschärft und den Opfe",
+      "classification": "ZWANGSHEIRAT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aufhebung des Waffenembargos gegen China",
+      "location": "Außenpolitik / Weniger Rüstung bedeutet mehr Sicherheit",
+      "originalQuote": "Die Aufhebung des Waffenembargos gegen China lehnen wir strikt ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Luft-Boden-Schießplatz in der Kyritz-Ruppiner Heide",
+      "location": "Außenpolitik / Weniger Rüstung bedeutet mehr Sicherheit",
+      "originalQuote": "Der Errichtung eines Luft-Boden-Schießplatzes in der Kyritz-Ruppiner Heide werden wir uns auc",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Residenzpflicht für Flüchtlinge",
+      "location": "Integrationspolitik / Zukunftsaufgabe Integration",
+      "originalQuote": "Wir wollen die Residenzpflicht, die Ausreisezentren und das Flughafenverfahren abschaffen.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausreisezentren",
+      "location": "Integrationspolitik / Zukunftsaufgabe Integration",
+      "originalQuote": "Wir wollen die Residenzpflicht, die Ausreisezentren und das Flughafenverfahren abschaffen.",
+      "classification": "AUSREISEZENTREN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Flughafenverfahren für Asylsuchende",
+      "location": "Integrationspolitik / Zukunftsaufgabe Integration",
+      "originalQuote": "Wir wollen die Residenzpflicht, die Ausreisezentren und das Flughafenverfahren abschaffen.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Pauschale Widerrufsverfahren gegen ganze Flüchtlingsgruppen",
+      "location": "Integrationspolitik / Zukunftsaufgabe Integration",
+      "originalQuote": "Wir werden uns weiterhin dafür einsetzen, dass die pauschale Widerrufseinleitung gegen ganze G",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bundeswehr-Einsatz im Innern",
+      "location": "Sicherheitspolitik / Sicherheit rechtsstaatlich gestalten",
+      "originalQuote": "Wir lehnen eine Grundgesetzänderung zum Einsatz der Bundeswehr im Innern ab, diese ist für die",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung öffentlicher Ordnungsaufgaben",
+      "location": "Sicherheitspolitik / Sicherheit rechtsstaatlich gestalten",
+      "originalQuote": "Auch ein Hintertreiben des staatlichen Gewaltmonopols durch eine schleichende Privatisierung ö",
+      "classification": "ORDNUNGSAUFGABEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vorratsdatenspeicherung von Telekommunikationsdaten",
+      "location": "Bürgerrechte / Der Mensch hat ein Recht darauf, in Ruhe gelassen zu werden",
+      "originalQuote": "Die europäischen Pläne, Anbieter von Telekommunikationsdiensten zu verpflichten, die Verkehrsd",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kriminalisierung von Cannabis-Konsumenten",
+      "location": "Rechtspolitik / Einmischen erwünscht!",
+      "originalQuote": "Bei weichen Drogen wie Cannabis wollen wir unter Berücksichtigung des Jugendschutzes eine leg",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Angriff auf AKW oder Nutzung nuklearen Mülls für „schmutzige Bomben“",
+      "location": "Energiepolitik / Wiedereinstieg – Nein danke!",
+      "originalQuote": "In Zeiten des internationalen Terrorismus sind »schmutzige Bomben« mit nuklearem Müll oder de",
+      "classification": "SCHMUTZIGE"
+    }
+  ]
+}

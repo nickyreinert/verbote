@@ -1,0 +1,110 @@
+{
+  "sourceFile": "Linke - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Auslandseinsätze der Bundeswehr und Unterstützung von Militärinterventionen",
+      "location": "Allgemeine Einführung",
+      "originalQuote": "Wir lehnen Aufrüstung, Waffenexporte und Auslandseinsätze der Bundeswehr sowie jegliche deutsche Unter",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Waffenexporte",
+      "location": "Allgemeine Einführung",
+      "originalQuote": "Wir wollen abrüsten und Waffenexporte verbieten.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Leiharbeit",
+      "location": "Kapitel I: Gute Arbeit für alle",
+      "originalQuote": "Wir wollen die Leiharbeit abschaffen.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Sachgrundlose Befristungen",
+      "location": "Kapitel I: Gute Arbeit für alle",
+      "originalQuote": "Sachgrundlose Befristungen müssen ausgeschlossen werden.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Kettenbefristungen",
+      "location": "Kapitel I: Gute Arbeit für alle",
+      "originalQuote": "Kettenbefristungen verboten werden",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Missbrauch von Werkverträgen",
+      "location": "Kapitel I: Gute Arbeit für alle",
+      "originalQuote": "Der Missbrauch von Werkverträgen durch Scheinwerkverträge muss wirksam unterbunden werden",
+      "classification": "WERKVERTRÄGEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Werbung der Bundeswehr in Bildungseinrichtungen",
+      "location": "Kapitel VIII: Gute Bildung. Für alle.",
+      "originalQuote": "Bildung ohne Bundeswehr! Die Bundeswehr soll nicht mehr in Schulen oder Universitäten werben",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Privatisierung öffentlicher Daseinsvorsorge",
+      "location": "Kapitel VI: In die Zukunft investieren",
+      "originalQuote": "Privatisierung von Wasser, öffentlichem Wohnungsbestand, von Energieversorgung, Nahverkehr u",
+      "classification": "DASEINSVORSORGE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neoliberale Freihandelsabkommen (TTIP, CETA, etc.)",
+      "location": "Allgemeine Einführung",
+      "originalQuote": "Wir lehnen die neoliberalen Freihandels- und Konzernschutz-Abkommen ab: TTIP mit den USA, CE",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Militärausgaben erhöhen",
+      "location": "Allgemeine Einführung",
+      "originalQuote": "Die Militärausgaben dürfen nicht erhöht, sondern müssen deutlich gesenkt werden.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Steuerfreie Vererbung großer Vermögen",
+      "location": "Kapitel V: Ungleichheit ist unsozial",
+      "originalQuote": "Gerade die Superreichen können ihre Millionenvermögen in Unternehmensanteilen steuerfrei ver",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Spekulation mit Wohnraum",
+      "location": "Kapitel VII: Die Mieten runter!",
+      "originalQuote": "und ein Verbot der Spekulation mit Wohnraum.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zweckentfremdung von Wohnraum",
+      "location": "Kapitel VII: Die Mieten runter!",
+      "originalQuote": "Die Zweckentfremdung von Wohnraum wollen wir stoppen.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Umwandlung von Miet- in Eigentumswohnungen in Milieuschutzgebieten",
+      "location": "Kapitel VII: Die Mieten runter!",
+      "originalQuote": "Hier wollen wir ein generelles Umwandlungsverbot von Miet- in Eigentumswohnungen.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Share Deals zur Umgehung der Grunderwerbsteuer",
+      "location": "Kapitel VII: Die Mieten runter!",
+      "originalQuote": "Mit Share Deals umgehen große Investoren die Grunderwerbsteuer. ... Wir wollen sie abschaff",
+      "classification": "Wirtschaft & Steuern"
+    }
+  ]
+}

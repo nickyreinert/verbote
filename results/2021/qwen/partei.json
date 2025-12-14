@@ -1,0 +1,33 @@
+{
+  "sourceFile": "Die Partei - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Nutzung von Photoshop bei politischen Werbemitteln",
+      "location": "Punkt 8",
+      "originalQuote": "Photoshopverbot jetzt!",
+      "classification": "WERBEMITTELN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schließung von Amazon aufgrund angeblichen Marktmisserfolgs",
+      "location": "Punkt 7",
+      "originalQuote": "Wegen nachhaltigen Marktmisserfolgs müssen wir Amazon leider schließen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unterlassung von Krieg mit Russland und China",
+      "location": "Punkt 10",
+      "originalQuote": "Krieg mit Russland & China verschieben",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einstellung von Tierversuchen",
+      "location": "Punkt 18",
+      "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da.",
+      "classification": "Tierschutz & Landwirtschaft"
+    }
+  ]
+}

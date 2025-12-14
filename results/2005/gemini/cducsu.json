@@ -1,0 +1,215 @@
+{
+  "sourceFile": "CDU-CSU - 2005 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Einschränkung der Entfaltungsmöglichkeiten von Kindern und Familien und Leben auf Kosten künftiger Generationen",
+      "location": "A. Richtungsentscheidung für Deutschland / Wohin wollen wir?",
+      "originalQuote": "Denn wir dürfen nicht zulassen, dass Kinder und Familien weiter in ihren Entfaltungsmöglichkeiten ei",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Die Zwangsverheiratung",
+      "location": "5. Integration – ein Gewinn für Deutschland",
+      "originalQuote": "Die Zwangsverheiratung ist verboten. Die Nötigung zur Zwangsheirat wird ein eigener Straftatbestand.",
+      "classification": "ZWANGSVERHEIRATUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Der Kreislauf von Versprechungen, Erwartungen und Enttäuschungen soll gestoppt werden",
+      "location": "A. Richtungsentscheidung für Deutschland / Was leitet uns?",
+      "originalQuote": "Nur so können wir den Kreislauf von Versprechungen, Erwartungen und Enttäuschungen durchbrechen.",
+      "classification": "VERSPRECHUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Politik, die den Eindruck zulässt, der Ehrliche sei der Dumme, wird abgelehnt",
+      "location": "A. Richtungsentscheidung für Deutschland / Was leitet uns?",
+      "originalQuote": "Respektlos aber ist eine Politik, die den Eindruck bei den Menschen zulässt, der Ehrliche sei der Dumme.",
+      "classification": "ABGELEHNT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Politik, die den Menschen mehr zumutet als sich selbst, wird abgelehnt",
+      "location": "A. Richtungsentscheidung für Deutschland / Was leitet uns?",
+      "originalQuote": "Respektlos ist eine Politik, die den Menschen mehr zumutet als sich selbst.",
+      "classification": "ABGELEHNT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Politik, die den Menschen nichts zutraut, wird abgelehnt",
+      "location": "A. Richtungsentscheidung für Deutschland / Was leitet uns?",
+      "originalQuote": "Respektlos ist eine Politik, die den Menschen nichts zutraut, genauso wie eine Politik, die etwas ver",
+      "classification": "ABGELEHNT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Politik, die etwas verlangt, was nicht zu leisten ist, wird abgelehnt",
+      "location": "A. Richtungsentscheidung für Deutschland / Was leitet uns?",
+      "originalQuote": "Respektlos ist eine Politik, die den Menschen nichts zutraut, genauso wie eine Politik, die etwas ver",
+      "classification": "ABGELEHNT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausgrenzung von Menschen, die beruflich oder privat gescheitert sind, wird abgelehnt",
+      "location": "A. Richtungsentscheidung für Deutschland / Was leitet uns?",
+      "originalQuote": "Respektlos ist eine Gesellschaft, die Menschen ausgrenzt, wenn sie beruflich oder privat gescheitert s",
+      "classification": "AUSGRENZUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ächtung von erfolgreichen Menschen durch die Politik wird abgelehnt",
+      "location": "A. Richtungsentscheidung für Deutschland / Was leitet uns?",
+      "originalQuote": "Respektlos ist eine Gesellschaft, die Menschen ausgrenzt, wenn sie beruflich oder privat gescheitert s",
+      "classification": "ERFOLGREICHEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Behinderung von Investitionen in neue Breitband-Netze durch staatliche Regulierung",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.1 Innovation schafft Arbeit",
+      "originalQuote": "Unser Ziel ist es, Anreize für den Aufbau neuer Breitband-Netze zu setzen, in dem wir dafür sorgen, da",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gängelung der wirtschaftlichen Betätigung durch Rechtsvorgaben des Bundes",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.2 Weniger Vorschriften, mehr Freiheit",
+      "originalQuote": "Wir führen die Gängelung der wirtschaftlichen Betätigung durch Rechtsvorgaben des Bundes zurück und en",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Statistikpflichten für Existenzgründer",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.2 Weniger Vorschriften, mehr Freiheit",
+      "originalQuote": "Wir stellen Existenzgründer von Statistikpflichten frei. Vollstatistiken werden wir weitestgehend ab",
+      "classification": "STATISTIKPFLICHTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vollstatistiken (weitestgehende Abschaffung)",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.2 Weniger Vorschriften, mehr Freiheit",
+      "originalQuote": "Wir stellen Existenzgründer von Statistikpflichten frei. Vollstatistiken werden wir weitestgehend ab",
+      "classification": "VOLLSTATISTIKEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Buchführungspflichten für kleine Unternehmen",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.2 Weniger Vorschriften, mehr Freiheit",
+      "originalQuote": "o Wir entlasten kleine Unternehmen von Buchführungspflichten. \no Wir bauen überzogene bundesrechtliche",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Überzogene bundesrechtliche Standards",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.2 Weniger Vorschriften, mehr Freiheit",
+      "originalQuote": "o Wir entlasten kleine Unternehmen von Buchführungspflichten. \no Wir bauen überzogene bundesrechtliche",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unnötige Verpflichtung der Betriebe zur Bestellung von Beauftragten",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.2 Weniger Vorschriften, mehr Freiheit",
+      "originalQuote": "Wir begrenzen die Verpflichtung der Betriebe zur Bestellung von Beauftragten auf das notwendige Maß un",
+      "classification": "VERPFLICHTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Überflüssige Nachweis- und Dokumentationspflichten",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.2 Weniger Vorschriften, mehr Freiheit",
+      "originalQuote": "Wir begrenzen die Verpflichtung der Betriebe zur Bestellung von Beauftragten auf das notwendige Maß un",
+      "classification": "DOKUMENTATIONSPFLICHTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbandsklagerecht bei Planungsverfahren (soweit nicht europarechtlich vorgeschrieben)",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.2 Weniger Vorschriften, mehr Freiheit",
+      "originalQuote": "o Wir schaffen das Verbandsklagerecht bei Planungsverfahren ab, soweit es nicht europarechtlich vorge",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Der Staat soll Nicht-Kernaufgaben unterlassen",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.2 Weniger Vorschriften, mehr Freiheit",
+      "originalQuote": "Der Staat muss sich auf seine Kernaufgaben beschränken. Wir wollen weitere Prüfzuständigkeiten auf ",
+      "classification": "NICHTKERNAUFGABEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einseitige Belastungen der Wettbewerbsfähigkeit der deutschen Wirtschaft",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.2 Weniger Vorschriften, mehr Freiheit",
+      "originalQuote": "So verhindern wir einseitige Belastungen der Wettbewerbsfähigkeit der deutschen Wirtschaft.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bürokratische EU-Regelungen, die die Wirtschaft unnötig belasten, sollen beschränkt werden",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.2 Weniger Vorschriften, mehr Freiheit",
+      "originalQuote": "Wir wollen bürokratische EU-Regelungen, wie zum Beispiel die Chemikalienrichtlinie, die die Wirtscha",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unwirksame und ineffiziente arbeitsmarktpolitische Maßnahmen",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.4 Senkung von Lohnzusatzkosten für mehr Arbeitsplätze",
+      "originalQuote": "Alle arbeitsmarktpolitischen Maßnahmen kommen auf den Prüfstand. Was sich als unwirksam und ineffizie",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die Ich-AG als Arbeitsmarktinstrument",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.4 Senkung von Lohnzusatzkosten für mehr Arbeitsplätze",
+      "originalQuote": "was in Arbeit führt, wird weitergeführt. \n• Wir fördern für Arbeitslose den Schritt in die Selbstständigkei",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Spekulative Absichten bei Aktienoptionen als Entlohnungsbestandteile",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.5 Unternehmenskultur mit Zukunft",
+      "originalQuote": "Aktienoptionen als Entlohnungsbestandteile müssen mindestens zehn Jahre gehalten werden, um spekulati",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unfairer Steuer- und Subventionswettlauf zu Lasten deutscher Arbeitsplätze",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.5 Unternehmenskultur mit Zukunft",
+      "originalQuote": "Ein unfairer Steuer - und Subventionswettlauf zu Lasten deutscher Arbeitsplätze und der öffentlichen ",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Förderung von bloßen Betriebsverlagerungen",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.5 Unternehmenskultur mit Zukunft",
+      "originalQuote": "Bloße Betriebsverlagerungen sollen nicht mehr gefördert werden. Wir setzen uns dafür ein, dass das Fö",
+      "classification": "BETRIEBSVERLAGERUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weitestgehende Beseitigung von Ausnahmen im Steuerrecht",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.6 Steuern: einfach, wettbewerbsfähig und gerecht",
+      "originalQuote": "Dazu werden wir die Ausnahmen weitestgehend beseitigen und im Gegenzug die Grundfreibeträge erhöhe",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Steuerschlupflöcher",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.6 Steuern: einfach, wettbewerbsfähig und gerecht",
+      "originalQuote": "Bei den Gegenfinanzierungsmaßnahmen wird im Vordergrund das Schließen von Steuerschlupflöchern stehe",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Steuersparmodelle",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 1.6 Steuern: einfach, wettbewerbsfähig und gerecht",
+      "originalQuote": "Bei den Gegenfinanzierungsmaßnahmen wird im Vordergrund das Schließen von Steuerschlupflöchern stehe",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die Eigenheimzulage",
+      "location": "B. Unsere Ziele – unsere Maßnahmen / 3.3 Verlässliche Rente",
+      "originalQuote": "wir den Zukunftsbeitrag von Familien zum Generationenvertrag in unserer Gesellschaft. Der Kinderbonus ",
+      "classification": "EIGENHEIMZULAGE"
+    }
+  ]
+}

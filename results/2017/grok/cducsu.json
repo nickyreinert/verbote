@@ -1,0 +1,33 @@
+{
+  "sourceFile": "CDU-CSU - 2017 - Wahlprogramm.pdf",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Generelle Fahrverbote für bestimmte Fahrzeugtypen",
+      "location": "Seite 48, Kapitel Chancen im digitalen Zeitalter",
+      "originalQuote": "Generelle Fahrverbote für bestimmte Fahrzeugtypen lehnen wir ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Versandhandel mit verschreibungspflichtigen Arzneimitteln",
+      "location": "Seite 40, Kapitel Gesundheit und Pflege auf hohem Niveau",
+      "originalQuote": "dem wir den Versandhandel mit verschreibungspflichtigen Arzneimitteln verbieten.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verpflichtende Fahrtüchtigkeitstests",
+      "location": "Seite 44, Kapitel Politik für Ältere und Senioren",
+      "originalQuote": "Wir setzen auf mündige Verkehrsteilnehmerinnen und lehnen verpflichtende Fahrtüchtigkeitstests ab.",
+      "classification": "FAHRTÜCHTIGKEITSTESTS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vollmitgliedschaft der Türkei in der EU",
+      "location": "Seite 59, Kapitel Europa: Mit Sicherheit!",
+      "originalQuote": "Eine Vollmitgliedschaft der Türkei lehnen wir ab, weil sie die Voraussetzungen für einen Beitritt nicht erfüllt. Wir sehen mit großer Sorge die jüngsten ",
+      "classification": "Europa & Außenpolitik"
+    }
+  ]
+}

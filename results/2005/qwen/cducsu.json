@@ -1,0 +1,145 @@
+{
+  "sourceFile": "CDU-CSU - 2005 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Zwangsverheiratung",
+      "location": "Abschnitt 5.5",
+      "originalQuote": "Die Zwangsverheiratung ist verboten. Die Nötigung zur Zwangsheirat wird ein eigener Straftatb",
+      "classification": "ZWANGSVERHEIRATUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Förderung bloßer Betriebsverlagerungen",
+      "location": "Abschnitt 1.5",
+      "originalQuote": "Bloße Betriebsverlagerungen sollen nicht mehr gefördert werden.",
+      "classification": "BETRIEBSVERLAGERUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Finanzierung in ausschließliche Länderzuständigkeiten",
+      "location": "Abschnitt 5.3",
+      "originalQuote": "In die ausschließlichen Länderzuständigkeiten wird der Bund künftig nicht hinein finan",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein weiterer Zentralismus in der EU",
+      "location": "Abschnitt 6.1",
+      "originalQuote": "Wir verhindern weiteren Zentralismus und holen Kompetenzen zurück.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Vollmitgliedschaft der Türkei in der EU",
+      "location": "Abschnitt 6.1",
+      "originalQuote": "Eine Vollmitgliedschaft lehnen wir ab, weil das die Integrationsfähigkeit der Europäischen ",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Aufnahme nicht beitrittsreifer Länder in die EU",
+      "location": "Abschnitt 6.1",
+      "originalQuote": "Wir werden nur beitrittsreife Länder in die Europäische Union aufnehmen.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ideologisierung der Energiepolitik",
+      "location": "Abschnitt 1.8",
+      "originalQuote": "Fast nirgends in Europa ist Energie so teuer wie in Deutschland. Das ist das Ergebnis von",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Zwei-Klassen-Medizin",
+      "location": "Abschnitt 3.1",
+      "originalQuote": "Eine Zwei-Klassen-Medizin wird es mit uns nicht geben.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Ausbau der Kernenergie-Ausstiegspolitik",
+      "location": "Abschnitt 1.8",
+      "originalQuote": "Der Ausstieg aus der Kernenergie ist umweltpolitisch und auch technologisch verheerend.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Fortführung ineffektiver arbeitsmarktpolitischer Maßnahmen",
+      "location": "Abschnitt 1.4",
+      "originalQuote": "Alle arbeitsmarktpolitischen Maßnahmen kommen auf den Prüfstand. Was sich als unwirksam und",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Beibehaltung der Ich-AG als Instrument",
+      "location": "Abschnitt 1.4",
+      "originalQuote": "Wir fördern für Arbeitslose den Schritt in die Selbstständigkeit, schaffen aber die Ich-AG",
+      "classification": "BEIBEHALTUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine nationalen Alleingänge in der Agrarpolitik",
+      "location": "Abschnitt 1.11",
+      "originalQuote": "Wir wollen eine konsequente 1:1 Umsetzung des EU-Rechts und die Beseitigung nationaler",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Überregulierung im Kreditwesengesetz",
+      "location": "Abschnitt 1.7",
+      "originalQuote": "Wir entschlacken die Vorschriften zum Kreditwesengesetz und führen die bestehende Überregu",
+      "classification": "KREDITWESENGESETZ"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Fortsetzung der aktuellen Politik des 'Weiter so'",
+      "location": "Abschnitt A",
+      "originalQuote": "Eine Politik des „Weiter so“ vergibt Deutschlands Chancen.",
+      "classification": "FORTSETZUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Beibehaltung unrealistischer Beitrittsperspektiven (für Türkei)",
+      "location": "Abschnitt 6.1",
+      "originalQuote": "Mit einer privilegierten Partnerschaft, nicht mit einer unrealistischen Beitrittsperspektiv",
+      "classification": "BEITRITTSPERSPEKTIVEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Bevormundung oder Dominanz in der deutsch-französischen Zusammenarbeit",
+      "location": "Abschnitt 6.1",
+      "originalQuote": "Wir werden die deutsch-französische Zusammenarbeit wieder in einer Weise gestalten, die d",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verdrängung des konfessionellen Religionsunterrichts durch staatlichen Werteunterricht",
+      "location": "Abschnitt 2",
+      "originalQuote": "er darf nicht durch einen allein in Verantwortung des Staates erteilten „Werteunterricht“ ve",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Verzicht auf Kernenergie im Energiemix",
+      "location": "Abschnitt 1.8",
+      "originalQuote": "Ohne Kernenergie ist eine globale Lösung der CO2-Problematik derzeit undenkbar.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine weitere Verschleppung oder Stilllegung wichtiger Verkehrsprojekte im Osten",
+      "location": "Abschnitt 1.10",
+      "originalQuote": "Wir werden vor allem die seit langem geplanten, aber von Rot-Grün verschleppten oder gestoppt",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Beibehaltung des Verbandsklagerechts bei Planungsverfahren (soweit nicht EU-rechtlich vorgeschrieben)",
+      "location": "Abschnitt 1.2",
+      "originalQuote": "Wir schaffen das Verbandsklagerecht bei Planungsverfahren ab, soweit es nicht europarechtlic",
+      "classification": "Demokratie & Recht"
+    }
+  ]
+}

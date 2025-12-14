@@ -1,0 +1,236 @@
+{
+  "sourceFile": "CDU-CSU - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Abkehr von der erfolgreichen Politik und einer Rückkehr zu Fehlern der Vergangenheit.",
+      "location": "Quelle: 2697",
+      "originalQuote": "Eine Abkehr von unserer erfolgreichen Politik, eine Wende rückwärts zu den Fehlern der Vergangenheit wird es mit der Union nicht geben.",
+      "classification": "ERFOLGREICHEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Tatenloses Zusehen bei der Diffamierung des Landes durch Populisten ist untersagt.",
+      "location": "Quelle: 2712",
+      "originalQuote": "Deshalb dürfen wir nicht tatenlos zusehen, wenn unser Land von einigen Wenigen schlecht geredet und unter Wert verkauft wird: Von linken und rechten Populisten und radikalen Kräften, die unsere demokratischen Institutionen und unsere freie Presse diffamieren und versuchen, unser Land zu spalten.",
+      "classification": "DIFFAMIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Abschottung, außenpolitischer Isolation und Politik, die nur nationale Interessen in den Vordergrund stellt.",
+      "location": "Quelle: 2733",
+      "originalQuote": "Die moderne globalisierte Welt, in der wir leben, verträgt sich weder mit Abschottung oder außenpolitischer Isolation noch mit einer Politik, die nur das scheinbar eigene nationale Interesse in den Vordergrund stellt.",
+      "classification": "AUSSENPOLITISCHER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung vorgefertigter Ideologien und Feindbilder.",
+      "location": "Quelle: 2751",
+      "originalQuote": "Wir lehnen vorgefertigte Ideologien und Feindbilder ab. Stattdessen wollen wir praktikable und pragmatische Lösungen für konkrete Probleme.",
+      "classification": "VORGEFERTIGTER"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Notwendige Regelungen zum Umwelt- und Klimaschutz dürfen nicht zur Verlagerung von Arbeitsplätzen ins Ausland führen.",
+      "location": "Quelle: 2795",
+      "originalQuote": "Wir kämpfen um jeden Produktionssektor und um jeden Arbeitsplatz. Notwendige Regelungen zum Umwelt- und Klimaschutz dürfen nicht zur Verlagerung von Arbeitsplätzen in Ländern mit geringeren Umwelt-Auflagen führen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fehler der Vergangenheit in der Automobilindustrie müssen für die Zukunft ausgeschlossen werden.",
+      "location": "Quelle: 2797",
+      "originalQuote": "Fehler der Vergangenheit müssen korrigiert und für die Zukunft ausgeschlossen werden.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Einwanderung in die sozialen Sicherungssysteme.",
+      "location": "Quelle: 2814",
+      "originalQuote": "Eine Einwanderung in die sozialen Sicherungssysteme lehnen wir ab. Mit einer klug gesteuerten und begrenzten Einwanderungspolitik für Fachkräfte unterstützen wir die Schaffung von Arbeitsplätzen in Deutschland und verringern spürbar die Attraktivität von illegaler Einwanderung und Migration.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Befristete Arbeitsverhältnisse dürfen unbefristete Arbeitsverhältnisse nicht einfach ersetzen.",
+      "location": "Quelle: 2845",
+      "originalQuote": "Befristete Arbeitsverhältnisse dürfen unbefristete Arbeitsverhältnisse nicht einfach ersetzen. Deshalb werden wir offenkundige Missbräuche abstellen.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Klonierung von Tieren.",
+      "location": "Quelle: 2875",
+      "originalQuote": "Wir treten für die Bewahrung der Schöpfung ein. Deshalb lehnen wir Klonierung von Tieren ab.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Markt- und Produktionsrisiken dürfen nicht allein beim Erzeuger liegen.",
+      "location": "Quelle: 2904",
+      "originalQuote": "Die Markt- und Produktionsrisiken dürfen nicht beim Erzeuger alleine liegen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verzicht auf Kontrolle und Regulierung bei neuen Gesetzen, solange keine Notwendigkeit nachgewiesen ist.",
+      "location": "Quelle: 2916",
+      "originalQuote": "Bei neuen Gesetzgebungsvorhaben soll – soweit vertretbar – auf Kontrolle und Regulierung verzichtet werden, bis eine Notwendigkeit dafür eindeutig nachgewiesen ist.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung von Stromausfällen.",
+      "location": "Quelle: 2933",
+      "originalQuote": "Wir wollen, dass unser Stromnetz zukunftsfähig ist, damit Stromausfälle verhindert werden. Gleichzeitig wird der gleichwertige Ausbau der Netze im ländlichen Raum sichergestellt.",
+      "classification": "STROMAUSFÄLLEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vermeidung einer Ausbremsung des Breitbandausbaus durch exzessive Bürokratie.",
+      "location": "Quelle: 2942",
+      "originalQuote": "Wir wollen ein Ausbremsen des Breitbandausbaus durch exzessive Bürokratie vermeiden und streben an, dass die Zahl der Antragsverfahren reduziert wird.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Der Staat darf die Entgeltverhandlungen der öffentlich-rechtlichen Sender nicht durch Vorgaben beeinflussen.",
+      "location": "Quelle: 2948",
+      "originalQuote": "Der Staat darf die Verhandlungen über die Entgelte der öffentlich-rechtlichen Sender nicht durch Vorgaben beeinflussen.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer flächendeckenden Ausweitung der Videoüberwachung an allen öffentlichen Plätzen.",
+      "location": "Quelle: 2962",
+      "originalQuote": "Wir wenden uns gegen eine flächendeckende Ausweitung der Videoüberwachung an allen öffentlichen Plätzen. Stattdessen wollen wir die Videoüberwachung dort ausweiten, wo sie aus Kriminalprävention oder Gefahrenabwehr notwendig und geboten ist.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Der Einsatz von 'Staatstrojanern' (Quellen-TKÜ) durch Nachrichtendienste wird verboten.",
+      "location": "Quelle: 2966",
+      "originalQuote": "Der Einsatz von so genannten „Staatstrojanern“ zur Quellen-Telekommunikationsüberwachung (Quellen-TKÜ) durch Nachrichtendienste wird verboten. Die Bundesregierung wird die rechtlichen Voraussetzungen für ein...",
+      "classification": "NACHRICHTENDIENSTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung von islamistischem Terrorismus und der Ausreise gefährlicher Personen zu Terror-Trainings.",
+      "location": "Quelle: 2968",
+      "originalQuote": "Wir werden alles tun, um islamistischen Terrorismus zu verhindern. Dazu gehört, dass gefährliche Personen und so genannte „Gefährder“ Deutschland nicht verlassen, um sich in Terrorcamps ausbilden zu lassen oder an Kampfhandlungen teilzunehmen.",
+      "classification": "TERRORTRAININGS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Einführung einer Vorratsdatenspeicherung ohne konkreten Anlass.",
+      "location": "Quelle: 2984",
+      "originalQuote": "Die rechtlichen Möglichkeiten für die Nutzung von Daten für die innere Sicherheit müssen ausgeschöpft werden. Wir werden jedoch keine Vorratsdatenspeicherung ohne konkreten Anlass einführen.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Haftentlassung von Gefährdern aufgrund von formalen oder verfahrensrechtlichen Fehlern wird ausgeschlossen.",
+      "location": "Quelle: 2993",
+      "originalQuote": "Wir werden die Strafprozessordnung so ändern, dass eine Haftentlassung eines Gefährders aufgrund von formalen oder verfahrensrechtlichen Fehlern ausgeschlossen wird.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung, dass sich Gefährder und Straftäter der konsequenten Abschiebepraxis entziehen.",
+      "location": "Quelle: 3010",
+      "originalQuote": "Deutschland ist und bleibt ein sicheres Herkunftsland. Abschiebungen in Länder wie Afghanistan werden deshalb nach wie vor erforderlich sein. Wir wollen nicht, dass sich Gefährder und Straftäter unserer konsequenten Abschiebepraxis entziehen.",
+      "classification": "ABSCHIEBEPRAXIS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung der Attraktivität der Balkanroute für illegale Migration.",
+      "location": "Quelle: 3012",
+      "originalQuote": "Wir werden die Attraktivität der Balkanroute für illegale Migration wirksam verhindern. Dazu gehört die Sicherstellung, dass Asylverfahren an der EU-Außengrenze in Griechenland und Italien abgeschlossen werden.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Es darf nicht weiter hingenommen werden, dass Menschen in Deutschland Asyl beantragen, die bereits in anderen EU-Ländern registriert wurden (sekundäre Migration).",
+      "location": "Quelle: 3020",
+      "originalQuote": "Wir müssen irreguläre Zuwanderung begrenzen und weiter reduzieren. Es darf nicht weiter hingenommen werden, dass in Deutschland nach wie vor Menschen Asyl beantragen, die bereits in anderen EU-Ländern registriert wurden.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die Weitervererbung der doppelten Staatsbürgerschaft über viele Generationen soll unterbleiben.",
+      "location": "Quelle: 3022",
+      "originalQuote": "Die doppelte Staatsbürgerschaft soll künftig nicht mehr über viele Generationen weitervererbt werden. Um dieses Ziel zu erreichen, wollen wir bei Bürgern, die nicht aus der Europäischen Union stammen, einen Generationenschnitt einführen.",
+      "classification": "STAATSBÜRGERSCHAFT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung der Überforderung der Kommunen durch die Aufnahme von Flüchtlingen.",
+      "location": "Quelle: 3026",
+      "originalQuote": "Wir werden zudem darauf achten, dass die Aufnahme von Flüchtlingen nicht zur Überforderung der Kommunen führt.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung der Behinderung der Integration in den Arbeitsmarkt durch unklare Aufenthaltsperspektiven.",
+      "location": "Quelle: 3029",
+      "originalQuote": "Wir werden zudem darauf achten, dass die Integration in den deutschen Arbeitsmarkt nicht durch unklare Aufenthaltsperspektiven verhindert wird.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung von Ausbildungs- und Arbeitslosigkeit bei jungen Flüchtlingen.",
+      "location": "Quelle: 3034",
+      "originalQuote": "Wir werden zudem darauf achten, dass junge Flüchtlinge nicht ausbildungs- und arbeitslos werden.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Forderung nach unbegrenzter Aufnahme von Flüchtlingen.",
+      "location": "Quelle: 3042",
+      "originalQuote": "Wir lehnen die Forderung ab, unbegrenzt Flüchtlinge aufzunehmen. Vielmehr muss der Zuzug von Flüchtlingen nach Deutschland auf Dauer auf dem Niveau des Jahres 2012 bleiben, welches bei 180.000 bis 220.000 Flüchtlingen liegt.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Einführung von Steuern auf Wohnimmobilien; Ablehnung der Einführung einer Vermögensteuer oder Erhöhung der Erbschaftsteuer.",
+      "location": "Quelle: 3044",
+      "originalQuote": "Mit der Union wird es keine Steuern auf Wohnimmobilien geben. Wir lehnen die Einführung einer Vermögensteuer oder einer Erhöhung der Erbschaftsteuer ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung jeder Form von Steuererhöhungen.",
+      "location": "Quelle: 3048",
+      "originalQuote": "CDU und CSU lehnen jede Form von Steuererhöhungen ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die Staatsverschuldung soll nicht weiter steigen.",
+      "location": "Quelle: 3051",
+      "originalQuote": "Wir wollen, dass die Staatsverschuldung nicht weiter steigt.",
+      "classification": "STAATSVERSCHULDUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Das Machen neuer Schulden ist verboten.",
+      "location": "Quelle: 3060",
+      "originalQuote": "Wir werden die Schuldenbremse strikt einhalten. Neue Schulden sind mit uns verboten.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung staatlicher Bevormundung der Bürger.",
+      "location": "Quelle: 3067",
+      "originalQuote": "Wir wollen nicht, dass der Staat die Bürger bevormundet, sondern fördern die Eigenverantwortung und Freiräume.",
+      "classification": "BEVORMUNDUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Unterstützung des Verbots der geschäftsmäßigen Förderung der Selbsttötung.",
+      "location": "Quelle: 3088",
+      "originalQuote": "Wir werden dem Verbot der geschäftsmäßigen Förderung der Selbsttötung zum Erfolg verhelfen und die notwendigen Anpassungen bei der Palliativ-Versorgung durchführen.",
+      "classification": "GESCHÄFTSMÄSSIGEN"
+    }
+  ]
+}

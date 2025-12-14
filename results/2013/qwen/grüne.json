@@ -1,0 +1,292 @@
+{
+  "sourceFile": "Grüne - 2013 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fracking wegen Gefahren für Gesundheit und Umwelt ablehnen",
+      "location": "Kapitel B, Abschnitt 3",
+      "originalQuote": "Die Förderung von unkonventionellem Erdgas insbesondere mittels giftiger Chemikalien („Fracking“) lehnen wir wegen der unabsehbaren Gefahren für Gesundheit und Umwelt ab.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "CCS an fossilen Kraftwerken ablehnen",
+      "location": "Kapitel B, Abschnitt 3",
+      "originalQuote": "Die CO2-Abscheidung und -Speicherung (CCS) an fossilen Kraftwerken sowie die Förderung von unkonventionellem Erdgas insbesondere mittels giftiger Chemikalien („Fracking“) lehnen wir wegen der unabsehbaren Gefahren für Gesundheit und Umwelt ab.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neubau von Atomkraftwerken in der EU verhindern",
+      "location": "Kapitel R, Abschnitt 3",
+      "originalQuote": "Die Bundesregierung muss sich für einen EU-weiten Atomausstieg einsetzen. Sie muss ihre Möglichkeiten nutzen, um den Neubau von Atomkraftwerken zu verhindern",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Käfighaltung von Legehennen und anderen Tieren verbieten",
+      "location": "Kapitel I, Abschnitt 6",
+      "originalQuote": "Die Käfighaltung von Legehennen, Kaninchen und anderen Tieren muss beendet werden.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Massentierhaltung stoppen",
+      "location": "Kapitel I, Abschnitt 5",
+      "originalQuote": "Deshalb wollen wir die Errichtung neuer Riesenställe und Megamastanlagen stoppen.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Qualzucht bei Tieren ablehnen",
+      "location": "Kapitel I, Abschnitt 6",
+      "originalQuote": "Qualzuchten und die Praxis, Tiere etwa durch das Kupieren ihrer Schnäbel oder Schwänze an nicht artgerechte Haltungssysteme anzupassen oder durch Brandzeichen zu misshandeln, wollen wir verbieten.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Patente auf Lebewesen ablehnen",
+      "location": "Kapitel C, Abschnitt 4",
+      "originalQuote": "Patente auf Lebewesen sind zu verbieten.",
+      "classification": "LEBEWESEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Versuche an Menschenaffen strikt verbieten",
+      "location": "Kapitel G, Abschnitt 4",
+      "originalQuote": "Versuche an Menschenaffen wollen wir strikt verbieten.",
+      "classification": "MENSCHENAFFEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Export von Überwachungstechnologie an Diktaturen stoppen",
+      "location": "Kapitel S, Abschnitt 5",
+      "originalQuote": "Auch den Export von Überwachungs- und Zensurtechnologie an autokratische Regime lehnen wir ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Genitalverstümmelung ausdrücklich als Straftatbestand aufnehmen",
+      "location": "Kapitel O, Abschnitt 5",
+      "originalQuote": "Das wollen wir ausdrücklich als Fall von schwerer Körperverletzung in das Strafgesetzbuch aufnehmen.",
+      "classification": "GENITALVERSTÜMMELUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zwangsweise Geschlechtsanpassung intersexueller Menschen beenden",
+      "location": "Kapitel N, Abschnitt 8",
+      "originalQuote": "Die zwangsweise Geschlechtsanpassung intersexueller Menschen muss ein Ende haben.",
+      "classification": "GESCHLECHTSANPASSUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kriminalisierung von Drogenkonsumenten beenden",
+      "location": "Kapitel G, Abschnitt 4",
+      "originalQuote": "Die Kriminalisierung von DrogenkonsumentInnen muss beendet werden.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neue Verbote bei Legal Highs ablehnen",
+      "location": "Kapitel G, Abschnitt 4",
+      "originalQuote": "Neue Verbote, wie zum Beispiel eine Stoffgruppenregelung bei Legal Highs lehnen wir ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gentechnik in Lebensmitteln ablehnen",
+      "location": "Kapitel K, Abschnitt 5",
+      "originalQuote": "Gentechnik in Lebensmitteln lehnen wir ab, auf dem Tisch wie auf dem Acker.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Anbau und Import von gentechnisch veränderten Pflanzen ablehnen",
+      "location": "Kapitel I, Abschnitt 4",
+      "originalQuote": "Wir lehnen den Anbau und Import von gentechnisch veränderten Pflanzen ebenso ab wie gentechnisch veränderte oder geklonte Tiere.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Agrogentechnik ablehnen",
+      "location": "Kapitel I, Abschnitt 4",
+      "originalQuote": "Agrogentechnik macht unsere Ernährung und unser Saatgut abhängig von einer kleinen Zahl von Großkonzernen und beendet die freie Landwirtschaft und den Ökolandbau.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Tiertransporte auf über vier Stunden begrenzen",
+      "location": "Kapitel I, Abschnitt 6",
+      "originalQuote": "Tiertransporte innerhalb Deutschlands wollen wir auf eine Dauer von höchstens vier Stunden begrenzen",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz von Uranmunition ächten",
+      "location": "Kapitel S, Abschnitt 5",
+      "originalQuote": "Auch Uranmunition wollen wir umfassend ächten.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Anschaffung bewaffneter Drohnen ablehnen",
+      "location": "Kapitel S, Abschnitt 5",
+      "originalQuote": "Wir wenden uns gegen die Anschaffung bewaffneter Drohnen durch die Bundeswehr",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschiebungen nach Syrien verhindern",
+      "location": "Kapitel N, Abschnitt 7",
+      "originalQuote": "Abschiebungen von SyrerInnen in andere EU-Länder, die weiterhin nach Syrien abschieben, lehnen wir ab.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Flughafenverfahren für Asylsuchende abschaffen",
+      "location": "Kapitel N, Abschnitt 7",
+      "originalQuote": "Das entwürdigende Flughafenverfahren, bei dem Asylsuchende bereits am Flughafen festgehalten werden, muss ein Ende haben.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vorratsdatenspeicherung verhindern",
+      "location": "Kapitel N, Abschnitt 1",
+      "originalQuote": "Deshalb werden wir alles in unserer Macht Stehende tun, um eine Wiedereinführung der vom Bundesverfassungsgericht gestoppten Vorratsdatenspeicherung zu verhindern.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Heimliche Online-Durchsuchung ablehnen",
+      "location": "Kapitel N, Abschnitt 1",
+      "originalQuote": "Auch die heimliche Online-Durchsuchung lehnen wir ab.",
+      "classification": "ONLINEDURCHSUCHUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Militäreinsatz im Inneren ablehnen",
+      "location": "Kapitel N, Abschnitt 1",
+      "originalQuote": "Kriminalitätsbekämpfung ist Sache der Polizei, nicht des Militärs. Den Einsatz der Bundeswehr im Inneren lehnen wir ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung der Justiz ablehnen",
+      "location": "Kapitel N, Abschnitt 3",
+      "originalQuote": "Der Privatisierung der Justiz treten wir entschieden entgegen.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Strafbarkeit von Schwarzfahrerei abschaffen",
+      "location": "Kapitel N, Abschnitt 3",
+      "originalQuote": "So darf etwa die Nutzung öffentlicher Verkehrsmittel ohne Fahrschein nicht mehr länger als Straftat verfolgt werden.",
+      "classification": "SCHWARZFAHREREI"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschiebehaft abschaffen",
+      "location": "Kapitel N, Abschnitt 7",
+      "originalQuote": "Wir wollen die Abschiebehaft abschaffen.",
+      "classification": "ABSCHIEBEHAFT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Strafgesetz gegen Beleidigung religiöser Gefühle streichen",
+      "location": "Kapitel N, Abschnitt 1",
+      "originalQuote": "Gläubige sind in gleicher Weise vor Beleidigung und Hetze geschützt wie andere Menschen auch. Deshalb soll § 166 StGB ersatzlos entfallen.",
+      "classification": "STRAFGESETZ"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verkauf und Überlassung atomwaffenfähiger U-Boote stoppen",
+      "location": "Kapitel S, Abschnitt 5",
+      "originalQuote": "Den Verkauf und die Überlassung von Waffenträgern, die zur nuklearen Bewaffnung in der Region beitragen können, lehnen wir ab und wollen wir verhindern, einschließlich der Lieferung weiterer atomwaffenfähiger U-Boote.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Export von Produktionslizenzen für Kriegswaffen verbieten",
+      "location": "Kapitel S, Abschnitt 5",
+      "originalQuote": "genauso wie den Export von Produktionslizenzen für Kriegswaffen an Drittstaaten.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privilegien der Massentierhaltung abschaffen",
+      "location": "Kapitel I, Abschnitt 5",
+      "originalQuote": "Die Subventionierung der Massentierhaltung gehört abgeschafft, genau wie ihre Privilegien im Baurecht.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Landgrabbing ächten",
+      "location": "Kapitel C, Abschnitt 3",
+      "originalQuote": "Auch das sogenannte Land-Grabbing (Landnahme) gehört geächtet.",
+      "classification": "LANDGRABBING"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot der Prostitution ablehnen",
+      "location": "Kapitel O, Abschnitt 5",
+      "originalQuote": "Eine Rückkehr zum Verbot der Prostitution würde die Prostituierten in die Illegalität drängen",
+      "classification": "PROSTITUTION"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Ferkelkastration nur unter Betäubung erlauben",
+      "location": "Kapitel I, Abschnitt 6",
+      "originalQuote": "Mit Schmerzen verbundene Eingriffe wie die Ferkelkastration dürfen nur mit Betäubung erfolgen oder müssen gänzlich unterbleiben.",
+      "classification": "FERKELKASTRATION"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Zulassung von gentechnisch verändertem Saatgut unterbinden",
+      "location": "Kapitel I, Abschnitt 4",
+      "originalQuote": "Wir wollen das Gentechnikgesetz verschärfen und auf EU-Ebene durchsetzen, dass die Kennzeichnungslücke für Fleisch, Eier, Milch oder Käse geschlossen wird",
+      "classification": "GENTECHNISCH"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Geldautomaten-Abzocke bei Dispozinsen begrenzen",
+      "location": "Kapitel K, Abschnitt 2",
+      "originalQuote": "Dispo-Wucher wollen wir durch einen Zinsdeckel verhindern",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Waffen in privaten Haushalten stark einschränken",
+      "location": "Kapitel N, Abschnitt 1",
+      "originalQuote": "Einsatzbereite funktionsfähige scharfe Schusswaffen wollen wir nur noch in zwingenden Ausnahmefällen (z.B. PolizeibeamtInnen) in privaten Haushalten zulassen.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Staatliche Finanzierung von Werbung für Tabakprodukte ablehnen",
+      "location": "Kapitel G, Abschnitt 4",
+      "originalQuote": "Bestehende Präventionsprogramme für alle psychoaktiven Substanzen und nicht stoffgebundene Süchte hinsichtlich ihrer Wirksamkeit überprüfen und gegebenenfalls korrigieren; öffentliche Werbung wirksam verbieten.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neue Autobahnneubauten und Prestigeprojekte vermeiden",
+      "location": "Kapitel J, Abschnitt 3",
+      "originalQuote": "Leider wird dieses Geld allzu oft in teure und zweifelhafte Prestigeprojekte oder überflüssige Autobahnneubauten gesteckt.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Export von Wildtieren und Jagdtrophäen einschränken",
+      "location": "Kapitel I, Abschnitt 6",
+      "originalQuote": "Auf europäischer Ebene muss der Tierschutz durch Importverbote von unter tierquälerischen Bedingungen erzeugten Produkten, Jagdtrophäen und wild gefangenen Tieren gestärkt werden.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Geoscoring verbieten",
+      "location": "Kapitel N, Abschnitt 2",
+      "originalQuote": "Wir wollen es grundsätzlich verbieten, die Kreditwürdigkeit nach dem Wohnort zu berechnen.",
+      "classification": "GEOSCORING"
+    }
+  ]
+}

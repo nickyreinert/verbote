@@ -1,0 +1,173 @@
+{
+  "sourceFile": "CDU-CSU - 2009 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhindern, dass 2009 nur das Jahr einer weltweiten Krise ist",
+      "location": "A. Zusammenhalt schafft Zukunft",
+      "originalQuote": "Das Jahr 2009 darf nicht nur das Jahr einer außergewöhnlichen weltweiten Krise sein, sondern e",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der kontinuierlichen Übertragung immer neuer Aufgaben auf den Staat",
+      "location": "A. Zusammenhalt schafft Zukunft (Staat und Wirtschaft)",
+      "originalQuote": "Denn es wäre ein großer Fehler, wenn wir die Rolle des Staates falsch verstünden und ihm nun au",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung staatswirtschaftlicher Modelle",
+      "location": "A. Zusammenhalt schafft Zukunft (Staat und Wirtschaft)",
+      "originalQuote": "Staatswirtschaften schaffen keinen Wohlstand, sondern sie nehmen den Menschen die Freiheit.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung, dass der Staat unternehmerische Entscheidungen an sich zieht",
+      "location": "A. Zusammenhalt schafft Zukunft (Staat und Wirtschaft)",
+      "originalQuote": "Darum lehnen wir es ab, dass der Staat unternehmerische Entscheidungen an sich zieht.",
+      "classification": "UNTERNEHMERISCHE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhindern der Fortführung des 'Business as usual' nach der Krise",
+      "location": "A. Zusammenhalt schafft Zukunft (Staat und Wirtschaft)",
+      "originalQuote": "Nach der Krise darf es nicht so weitergehen wie vor der Krise.",
+      "classification": "FORTFÜHRUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Steuererhöhungen",
+      "location": "B.I.1 Verantwortungsbewusste Steuerpolitik",
+      "originalQuote": "Steuererhöhungen lehnen CDU und CSU ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer höheren staatlichen Belastung der Energiepreise",
+      "location": "B.I.1 Verantwortungsbewusste Steuerpolitik",
+      "originalQuote": "Eine höhere staatliche Belastung der Energiepreise wird es mit CDU und CSU nicht geben.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhindern zusätzlicher Steuer-Steine für Unternehmen in der Krise",
+      "location": "B.I.1 Verantwortungsbewusste Steuerpolitik",
+      "originalQuote": "In einer weltweiten Wirtschaftskrise darf der Staat den Unternehmen keine zusätzlichen Steuer-St",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung wachstumsfeindlicher Steuerpolitik",
+      "location": "B.I.1 Verantwortungsbewusste Steuerpolitik",
+      "originalQuote": "Wachstumsfeindliche Steuerpolitik wird es mit CDU und CSU nicht geben.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung weiterer Antidiskriminierungsvorgaben der EU",
+      "location": "B.I.2 Mittelstand stärken",
+      "originalQuote": "Weitere Antidiskriminierungsvorgaben der EU lehnen wir ab. Wir fordern weniger Bürokratie in Eur",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung eines generellen Tempolimits auf Autobahnen",
+      "location": "III.6 Verkehr",
+      "originalQuote": "Ein generelles Tempolimit auf Autobahnen lehnen wir ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung eines bundesweiten Einheitspreises in der Krankenhausfinanzierung",
+      "location": "III.5 Gesundheit",
+      "originalQuote": "Einen bundesweiten Einheitspreis lehnen wir ab. Das Recht der Länder, eigenständig zwischen der",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Legalisierung 'weicher Drogen'",
+      "location": "III.5 Gesundheit",
+      "originalQuote": "Eine „Legalisierung“ angeblich „weicher Drogen“ lehnen wir ab.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Zugänglichmachung gewaltverherrlichender Computerspiele für Kinder und Jugendliche",
+      "location": "II.2 Wahlfreiheit für Familien",
+      "originalQuote": "Der Staat hat die Verpflichtung, durch geeignete gesetzgeberische Maßnahmen und einem konsequen",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der vollständigen rechtlichen Gleichstellung von Lebensgemeinschaften mit der Ehe",
+      "location": "II.2 Wahlfreiheit für Familien",
+      "originalQuote": "Eine vollständige rechtliche Gleichstellung solcher Lebensgemeinschaften mit der Ehe lehnen CDU und CSU ab.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der schematischen Erstreckung der Bologna-Reform auf alle Studiengänge",
+      "location": "II.3 Bildung",
+      "originalQuote": "Die Reform der Studienstrukturen nach dem „Bologna-Prozess“ muss unvoreingenommen überprüft und d",
+      "classification": "SCHEMATISCHEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhindern der Aufweichung nationaler Asylstandards durch EU-Regelung",
+      "location": "II.4 Vorfahrt für Integration",
+      "originalQuote": "Die Bestrebungen der EU, das Asylrecht EU-weit weitestgehend einheitlich zu regeln, würden zu einer Aufwe",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer generellen Hinnahme doppelter Staatsbürgerschaften",
+      "location": "II.4 Vorfahrt für Integration",
+      "originalQuote": "Eine generelle Hinnahme doppelter Staatsbürgerschaften lehnen wir dabei ab. Um festzustellen,",
+      "classification": "STAATSBÜRGERSCHAFTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Patenten auf Tiere und Pflanzen",
+      "location": "III.4 Landwirtschaft",
+      "originalQuote": "Wir wenden uns gegen Patente auf Tiere und Pflanzen.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer EU-Richtlinie zum Bodenschutz",
+      "location": "III.6 Umwelt",
+      "originalQuote": "Eine EU-Richtlinie zum Bodenschutz lehnen wir ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhindern von Liberalisierungstendenzen der EU bei Trinkwasserversorgung und Abwasserentsorgung",
+      "location": "III.6 Umwelt",
+      "originalQuote": "Deutschland muss hier Liberalisierungstendenzen der EU einen Riegel vorschieben. Wir stehen",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verhindern der Existenz von rechtsfreien Räumen",
+      "location": "III.8 Innere Sicherheit",
+      "originalQuote": "Es darf keine rechtsfreien, sondern nur angstfreie Räume geben.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Duldung von Zusammenarbeit mit Extremisten",
+      "location": "III.8 Innere Sicherheit",
+      "originalQuote": "Wir dulden keine Zusammenarbeit mit Extremisten. Vielmehr muss der Schutz unseres Grundgesetze",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verhindern zusätzlicher Belastungen für die Wirtschaft in der Krise, die Arbeitsplätze gefährden",
+      "location": "IV. Europa",
+      "originalQuote": "Gerade in der aktuellen Krise darf es keine zusätzlichen Belastungen für die Wirtschaft geben, die",
+      "classification": "Soziales & Arbeit"
+    }
+  ]
+}

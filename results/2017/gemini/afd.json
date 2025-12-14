@@ -1,0 +1,229 @@
+{
+  "sourceFile": "AfD - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zentralismus, Gleichmacherei und Uniformität",
+      "location": "Kapitel 1.1",
+      "originalQuote": "Auch in Deutschland wenden wir uns gegen Zentralismus, Gleichmacherei und Uniformität. Denn wir stehen entschieden",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Nicht rückholbare Souveränitätsverzichte der Staaten",
+      "location": "Kapitel 1.2",
+      "originalQuote": "Nicht rückholbare Souveränitätsverzichte der Staaten dürfen mit einer solchen Konstruktion nicht verbunden werden.",
+      "classification": "SOUVERÄNITÄTSVERZICHTE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Änderung des Grundgesetzes und Abschluss bedeutsamer völkerrechtlicher Verträge ohne Volkszustimmung",
+      "location": "Kapitel 1.4",
+      "originalQuote": "Ohne Zustimmung des Volkes darf das Grundgesetz nicht geändert und kein bedeutsamer völkerrechtlicher Vertrag gesc",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbotene Ämterpatronage",
+      "location": "Kapitel 1.5",
+      "originalQuote": "Zahlreiche Gesetze haben die Gewaltenteilung in Deutschland über die Jahre erodieren lassen und zu einer überbord",
+      "classification": "ÄMTERPATRONAGE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Doppelfunktion von Amtsträgern (Kanzler, Minister etc.) als Abgeordnete",
+      "location": "Kapitel 1.6",
+      "originalQuote": "Kanzler, Ministerpräsidenten, Minister und parlamentarische Staatssekretäre dürfen nicht mehr zugleich Abgeordnet",
+      "classification": "DOPPELFUNKTION"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Parteibuchwirtschaft",
+      "location": "Kapitel 1.6",
+      "originalQuote": "Die „Parteibuchwirtschaft“ muss beendet werden. Ämterpatronage ist unter Strafe zu stellen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Beteiligung von Parteien an Unternehmen und Annahme von Firmenspenden",
+      "location": "Kapitel 1.9",
+      "originalQuote": "Ferner soll den deutschen Parteien endlich die Beteiligung an Unternehmen, insbesondere Medienunternehmen, sowie d",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Quotenregelungen",
+      "location": "Kapitel 1.15",
+      "originalQuote": "Die Alternative für Deutschland tritt für die Gleichheit vor dem Gesetz ein. Deshalb lehnen wir sogenannte „Quo",
+      "classification": "QUOTENREGELUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gesetze zur gesetzlich vorgeschriebenen Ungleichbehandlung/Quoten",
+      "location": "Kapitel 1.15",
+      "originalQuote": "Gesetze, die solches vorschreiben, sind verfassungswidrig und abzulehnen. Die AfD wird sich im Deutschen Bundest",
+      "classification": "UNGLEICHBEHANDLUNGQUOTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Antidiskriminierungsgesetze",
+      "location": "Kapitel 1.15.1",
+      "originalQuote": "Deshalb lehnen wir sogenannte ,,Antidiskriminierungsgesetze“ ab. Zentraler Grundwert einer freiheitlichen Zivilrech",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fortführung der Transferunion / Verbleib im Euroraum (durch Aufkündigung)",
+      "location": "Kapitel 2.1",
+      "originalQuote": "Deshalb muss Deutschland die Transferunion aufkündigen und den Euroraum verlassen.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "EZB-Maßnahmen zur Manipulation des freien Kapitalmarkts",
+      "location": "Kapitel 2.2",
+      "originalQuote": "Alle Maßnahmen der EZB zur Manipulation des freien Kapitalmarkts müssen eingestellt werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Rotation der Gelddruckmaschine (EZB-Anleihenkäufe) nach EU-Verträgen",
+      "location": "Kapitel 2.2",
+      "originalQuote": "Eine solche „Rotation der Gelddruckmaschine“ ist nach den europäischen Verträgen verboten.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Willkürliche Rettungsmaßnahmen oder eine EU-Wirtschaftsregierung",
+      "location": "Kapitel 2.2",
+      "originalQuote": "Willkürliche „Rettungsmaßnahmen“ zugunsten einzelner Banken und Unternehmen oder gar eine „EU-Wirtschaftsregierun",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Europäische Vergemeinschaftung von Haftungsrisiken aus Bankgeschäften",
+      "location": "Kapitel 2.4",
+      "originalQuote": "Wir wenden uns gegen jegliche Versuche der europäischen Vergemeinschaftung von Haftungsrisiken, insbesondere aus B",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Grenzüberschreitende Haftung deutscher Banken für andere EU-Banken",
+      "location": "Kapitel 2.4",
+      "originalQuote": "Die grenzüberschreitende Haftung der deutschen Banken für alle anderen EU-Banken muss ausgeschlossen bleiben.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schaffung einer EU-Armee oder Einsatz deutscher Streitkräfte für fremde Interessen",
+      "location": "Kapitel 3.2",
+      "originalQuote": "Die Schaffung einer EU-Armee oder den Einsatz deutscher Streitkräfte für fremde Interessen lehnt die AfD ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beitritt der Türkei zur EU und Fortführung der Beitrittsverhandlungen",
+      "location": "Kapitel 3.2",
+      "originalQuote": "Die AfD lehnt ferner den Beitritt der Türkei zur EU ab und fordert das sofortige Ende aller Beitrittsverhandlun",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausverkauf von Wissen/Technologie durch Übernahme deutscher Unternehmen",
+      "location": "Kapitel 3.5",
+      "originalQuote": "Der Ausverkauf von Wissen, das in unserem Land in Generationen aufgebaut wurde, muss beendet werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "CETA, TISA und TTIP Handelsabkommen",
+      "location": "Kapitel 3.5",
+      "originalQuote": "Die AfD lehnt aus den dargelegten Gründen CETA, TISA und TTIP ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Umsetzung der EU-Feuerwaffenrichtlinie",
+      "location": "Kapitel 4.7",
+      "originalQuote": "Die Umsetzung der EU-Feuerwaffenrichtlinie lehnen wir ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Religiöse Voraustrauung (z.B. durch Imame)",
+      "location": "Kapitel 6",
+      "originalQuote": "# Das Verbot der religiösen Voraustrauung, etwa durch Imame, soll wieder in Kraft gesetzt und die Streichung der §§ 67 und",
+      "classification": "VORAUSTRAUUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bestrebungen, die Tötung Ungeborener zu einem Menschenrecht zu erklären",
+      "location": "Kapitel 7.5",
+      "originalQuote": "Wir lehnen alle Bestrebungen ab, die Tötung Ungeborener zu einem Menschenrecht zu erklären.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zuerkennung des Privilegs eines bekenntnisgebundenen Islamunterrichts an staatlichen Schulen",
+      "location": "Kapitel 8.8",
+      "originalQuote": "Da die islamischen Gemeinschaften in Deutschland keine kirchenähnliche Struktur aufweisen, kann ihnen das Privileg ",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Erteilung von Koranunterricht durch verfassungsfeindliche Moscheevereine",
+      "location": "Kapitel 8.10",
+      "originalQuote": "Wir fordern deshalb eine flächendeckende Überprüfung aller Moscheevereine und bei Verdacht auf Verfassungsfeindlic",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verlust des kulturellen Gesichts Deutschlands",
+      "location": "Kapitel 9.1",
+      "originalQuote": "nicht zulassen, dass Deutschland aus falsch verstandener Toleranz sein kulturelles Gesicht verliert.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "„Politisch korrekte“ Sprachvorgaben",
+      "location": "Kapitel 9.2",
+      "originalQuote": "„Politisch korrekte“ Sprachvorgaben lehnen wir entschieden ab, weil sie einer natürlichen Sprachentwicklung entgeg",
+      "classification": "SPRACHVORGABEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Beschränkung und Zensur des Internets außerhalb der Verfolgung von Straftaten",
+      "location": "Kapitel 9.6",
+      "originalQuote": "Das Internet als Medium der Kommunikation, Information und freien Meinungsäußerung darf abseits der Verfolgung von S",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Reaktivierung der Vermögensteuer",
+      "location": "Kapitel 10.1",
+      "originalQuote": "Die AfD ist für eine Abschaffung der Erbschaftsteuer als Substanzsteuer und gegen die Reaktivierung der Vermögensteu",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ideologisch geleitete Verkehrspolitik",
+      "location": "Kapitel 14.1",
+      "originalQuote": "Eine ideologisch geleitete Verkehrspolitik, die bestimmte Verkehrsmittel bevorzugt oder diskriminiert, z.B. Dieself",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Flächendeckendes Tempolimit und erfolglose Umweltzonen",
+      "location": "Kapitel 14.1",
+      "originalQuote": "Deshalb wenden wir uns auch gegen ein flächendeckendes Tempolimit und erfolglose Umweltzonen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Umweltzonen",
+      "location": "Kapitel 14.1",
+      "originalQuote": "Umweltzonen haben nachweislich nicht zur Reduzierung der Feinstaubemission beigetragen. Sie sind daher abzuschaffen.",
+      "classification": "Umwelt & Klima"
+    }
+  ]
+}

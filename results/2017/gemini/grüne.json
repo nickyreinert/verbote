@@ -1,0 +1,187 @@
+{
+  "sourceFile": "Grüne - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Raubbau an der Umwelt",
+      "location": "A. EINLEITUNG (Quelle 4817)",
+      "originalQuote": "Während die Koalition erschöpft ist, wachsen die Probleme. Statt den Raubbau an der Umwelt zu stoppen, b",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Industrielle Massentierhaltung und landwirtschaftliche Monokulturen",
+      "location": "A. EINLEITUNG (Quelle 4836)",
+      "originalQuote": "Wir machen Schluss mit industrieller Massentierhaltung und landwirtschaftlichen Monokulturen, wir wolle",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Essen mit Gift und Gentechnik",
+      "location": "A. EINLEITUNG (Quelle 4837)",
+      "originalQuote": "Mit uns gibt es gutes Essen ohne Gift und Gentechnik.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Toleranz der Intoleranz",
+      "location": "A. EINLEITUNG (Quelle 4858)",
+      "originalQuote": "Keine Toleranz der Intoleranz.",
+      "classification": "INTOLERANZ"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zerstörung des Planeten durch blinden Wachstumsglauben und Profitstreben",
+      "location": "B. UMWELT IM KOPF (Quelle 4895)",
+      "originalQuote": "Uns geht es darum zu verhindern, dass blinder Wachstumsglaube und ungebremstes Profitstreben unseren ein",
+      "classification": "WACHSTUMSGLAUBEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Folgekosten umweltschädlichen Handelns für die Allgemeinheit",
+      "location": "B. UMWELT IM KOPF (Quelle 4907)",
+      "originalQuote": "Wir wollen einen fairen Wettbewerb, der die Folgekosten umweltschädlichen Handelns nicht weiter der Allg",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schädliche Subventionen für die Agrarindustrie",
+      "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR (Quelle 4916)",
+      "originalQuote": "Wir recyceln unsere Rohstoffe, beenden die schädlichen Subventionen für die Agrarindustrie, die zum Bil",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Überfischung vor Afrikas Küsten",
+      "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR (Quelle 4916)",
+      "originalQuote": "Wir recyceln unsere Rohstoffe, beenden die schädlichen Subventionen für die Agrarindustrie, die zum Bil",
+      "classification": "ÜBERFISCHUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verunreinigung von Trinkwasser, Atemluft und Essen durch Schadstoffe",
+      "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR (Quelle 4930)",
+      "originalQuote": "Es gelangt in unser Trinkwasser, in unsere Atemluft und in unser Essen. Es ist allerhöchste Zeit, das zu",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fracking",
+      "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 1. Kein Leben ohne Wasser (Quelle 4940)",
+      "originalQuote": "Zusätzliche Risiken wollen wir ausschließen. Darum lehnen wir Fracking nachdrücklich ab.",
+      "classification": "FRACKING"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beförderung neuer, unabsehbarer Gefahren (bei Öl-/Gasförderung)",
+      "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 1. Kein Leben ohne Wasser (Quelle 4942)",
+      "originalQuote": "Auch müssen die bereits nachgewiesenen Probleme mit Lagerstättenwasser, aber auch Methanemissionen bei d",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Flussvertiefungen an Elbe und Weser",
+      "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 1. Kein Leben ohne Wasser (Quelle 4946)",
+      "originalQuote": "Flussvertiefungen wie an Elbe und Weser lehnen wir ab.",
+      "classification": "FLUSSVERTIEFUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die Meere dürfen kein Raum ohne Leben werden",
+      "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 1. Kein Leben ohne Wasser (Quelle 4952)",
+      "originalQuote": "Wir akzeptieren nicht, dass die Meere ein Raum ohne Leben werden, in dem es mehr Plastik als Fische gibt",
+      "classification": "DÜRFEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Eintrag von Plastik in Gewässer und Umwelt",
+      "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 1. Kein Leben ohne Wasser (Quelle 4953)",
+      "originalQuote": "Deshalb wollen wir Schluss machen mit dem Eintrag von Plastik in Gewässer und Umwelt.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Grundschleppnetze und Stellnetze in Naturschutzgebieten",
+      "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 1. Kein Leben ohne Wasser (Quelle 4961)",
+      "originalQuote": "Kurzfristig müssen Naturschutzgebiete frei von Grundschleppnetzen und Stellnetzen sein, die den Meeresbo",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ölbohrungen im Nationalpark Wattenmeer",
+      "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 1. Kein Leben ohne Wasser (Quelle 4964)",
+      "originalQuote": "Das wollen wir beenden. Dank der GRÜNEN in Schleswig-Holstein wurden bereits Erkundungsbohrungen im Nati",
+      "classification": "NATIONALPARK"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Flächenfraß (Inanspruchnahme von mehr Flächen als freigelegt)",
+      "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 2. Saubere Luft und gesunder Boden (Quelle 4977)",
+      "originalQuote": "Wir streben das Null-Hektar-Ziel an: Künftig sollen nicht mehr Flächen in Anspruch genommen werden, als ",
+      "classification": "INANSPRUCHNAHME"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Flächenfraß",
+      "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 2. Saubere Luft und gesunder Boden (Quelle 4978)",
+      "originalQuote": "So stoppen wir den Flächenfraß. Dazu führen wir einen Mix an Instrumenten ein, um den Flächenverbrauch s",
+      "classification": "FLÄCHENFRASS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verdrängung von Mehrwegsystemen durch Plastikeinwegflaschen",
+      "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 4. Ressourcen schonen – Vom Müllberg zum Kreislauf (Quelle 5008)",
+      "originalQuote": "Wir GRÜNE wollen, dass unsere Ressourcen geschützt werden, so werden wir unter anderem dafür sorgen, dass",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unnötiger Einsatz von Mikroplastik in Kosmetikprodukten",
+      "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR (Quelle 5018)",
+      "originalQuote": "Wir machen uns für eine internationale Plastikkonvention zur Verringerung von Plastikmüll stark, fördern",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Hass, LSBTIQ*-Feindlichkeit, Sexismus, Rassismus, Antisemitismus, antimuslimischer Rassismus und Antiziganismus",
+      "location": "II. WIR SCHÜTZEN DIE FREIHEIT / 1. Eine Gesellschaft ohne Hass (Quelle 4356)",
+      "originalQuote": "Ihr sagen wir weiterhin den Kampf an. Wir dulden keinen Hass, keine LSBTIQ*-Feindlichkeit, keinen Sexismu",
+      "classification": "LSBTIQFEINDLICHKEIT"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Operationen an intergeschlechtlichen Säuglingen und Kindern",
+      "location": "II. WIR SCHÜTZEN DIE FREIHEIT / 2. Gleichberechtigung in Vielfalt (Quelle 4408)",
+      "originalQuote": "Operationen an intergeschlechtlichen Säuglingen und Kindern wollen wir grundsätzlich verbieten. BÜNDNIS 9",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Pathologisierung von Trans* Menschen",
+      "location": "II. WIR SCHÜTZEN DIE FREIHEIT / 2. Gleichberechtigung in Vielfalt (Quelle 4409)",
+      "originalQuote": "Trans* Menschen dürfen nicht pathologisiert werden. Deshalb setzen wir uns national wie international daf",
+      "classification": "PATHOLOGISIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Klassifizierung von Trans* Menschen als psychisch krank",
+      "location": "II. WIR SCHÜTZEN DIE FREIHEIT / 2. Gleichberechtigung in Vielfalt (Quelle 4409)",
+      "originalQuote": "Trans* Menschen dürfen nicht pathologisiert werden. Deshalb setzen wir uns national wie international daf",
+      "classification": "KLASSIFIZIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Werbung für Nikotin",
+      "location": "II. WIR SCHÜTZEN DIE FREIHEIT / 4. Drogen- und Suchthilfe (Quelle 4448)",
+      "originalQuote": "soll intensiver auf die Gefahren von Tabak und Alkohol hingewiesen werden. Werbung für Nikotin lehnen wir",
+      "classification": "WERBUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kriminalisierung von Drogenkonsument*innen",
+      "location": "II. WIR SCHÜTZEN DIE FREIHEIT / 4. Drogen- und Suchthilfe (Quelle 4449)",
+      "originalQuote": "Die Kriminalisierung von Drogenkonsument*innen muss beendet werden. Wer abhängig ist, braucht Hilfe und ",
+      "classification": "Gesundheit & Drogen"
+    }
+  ]
+}

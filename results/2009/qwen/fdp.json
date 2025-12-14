@@ -1,0 +1,376 @@
+{
+  "sourceFile": "FDP - 2009 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Gentests bei Arbeitnehmern dürfen nicht verlangt werden",
+      "location": "Abschnitt 3, Datenschutz im Arbeitsverhältnis",
+      "originalQuote": "Die Erstellung und Vorlage eines Gentests darf nicht verlangt werden.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Abschuss unschuldiger Menschen in entführtem Flugzeug verboten",
+      "location": "Abschnitt 3, Terrorismusbekämpfung",
+      "originalQuote": "die gezielte Ermordung von potentiellen Terroristen oder auch der Abschuss unschuldiger",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Keine unangemessene Überwachung ohne Anlass",
+      "location": "Abschnitt 3, Keine unangemessene Überwachung der Bürger",
+      "originalQuote": "Die automatische Kfz-Kennzeichenerfassung auf deutschen Straßen ohne konkreten Anlass",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Zwang zur Nutzung des Tarifvertrags abgelehnt – Abweichung erlaubt",
+      "location": "Abschnitt 2, Den Mittelstand stärken",
+      "originalQuote": "Wenn die Belegschaften und Arbeitgeber vom Tarifvertrag abweichende Regelungen wollen, muss",
+      "classification": "TARIFVERTRAGS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein „Feindstrafrecht“",
+      "location": "Abschnitt 3, Terrorismus wirksam bekämpfen",
+      "originalQuote": "Insbesondere lehnt die FDP die Einführung eines „Feindstrafrechts“, bei dem Kategorien des",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Sonderrecht für Terrorismusbekämpfung",
+      "location": "Abschnitt 3, Terrorismus wirksam bekämpfen",
+      "originalQuote": "Ein Sonderrecht für Terrorismusbekämpfung darf es nicht geben.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Entkriminalisierung von Bagatelldelikten",
+      "location": "Abschnitt 3, Den Rechtsstaat stärken",
+      "originalQuote": "Plänen zur Entkriminalisierung so genannter Bagatelldelikte erteilen wir eine Absage.",
+      "classification": "ENTKRIMINALISIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein staatlicher Mindestlohn",
+      "location": "Abschnitt 2, Arbeit hat Vorfahrt",
+      "originalQuote": "Die FDP ist gegen die Einführung von gesetzlichen Mindestlöhnen.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine allgemeinverbindlichen Tarifverträge",
+      "location": "Abschnitt 2, Den Mittelstand stärken",
+      "originalQuote": "Allgemeinverbindliche Tarifverträge verhindern dem gegenüber betriebliche Bündnisse.",
+      "classification": "ALLGEMEINVERBINDLICHEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ausweitung der Funktionärsmitbestimmung",
+      "location": "Abschnitt 2, Den Mittelstand stärken",
+      "originalQuote": "Die Ausweitung der Funktionärsmitbestimmung hat den Mittelstand mit zusätzlichen Kosten in",
+      "classification": "FUNKTIONÄRSMITBESTIMMUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Staffelung der Bezugsdauer des Arbeitslosengeldes I",
+      "location": "Abschnitt 2, Arbeit hat Vorfahrt",
+      "originalQuote": "Die FDP lehnt eine Staffelung der Bezugsdauer des Arbeitslosengeldes I nach der",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine vollständige Privatisierung der Arbeitsvermittlung",
+      "location": "Abschnitt 2, Arbeit hat Vorfahrt",
+      "originalQuote": "Eine vollständige Privatisierung der Arbeitsvermittlung ist nicht vorgesehen.",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Einführung einer Kulturflatrate",
+      "location": "Abschnitt 3, Urheberrecht",
+      "originalQuote": "Die Einführung einer \"Kulturflatrate\" lehnt die FDP ab.",
+      "classification": "KULTURFLATRATE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Zensur im Internet",
+      "location": "Abschnitt 3, Neue Medien",
+      "originalQuote": "Mit der FDP wird es keine aktionistischen Verbote oder staatliche Zensur im Internet geben.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Online-Durchsuchung",
+      "location": "Abschnitt 3, Neue Medien",
+      "originalQuote": "Die so genannte Online-Durchsuchung lehnt die FDP strikt ab.",
+      "classification": "ONLINEDURCHSUCHUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine gesetzlichen Universaldienstverpflichtungen bei Breitbandversorgung",
+      "location": "Abschnitt 3, Neue Medien",
+      "originalQuote": "Die FDP spricht sich darüber hinaus gegen gesetzliche Universaldienstverpflichtungen bei der",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Wirtschaftsbeteiligung von Parteien an Medienunternehmen",
+      "location": "Abschnitt 3, Neue Medien",
+      "originalQuote": "Die FDP ist gegen wirtschaftliche Beteiligungen von Parteien an Rundfunksendern,",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Rekommunalisierung der Entsorgungswirtschaft",
+      "location": "Abschnitt 5, Entsorgungswirtschaft marktwirtschaftlich gestalten",
+      "originalQuote": "Eine Rekommunalisierung der Entsorgungswirtschaft lehnt die FDP ab.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verwendung von Meldedaten für GEZ",
+      "location": "Abschnitt 3, Datenschutz",
+      "originalQuote": "Die Weitergabe der Meldedaten an die Gebühreneinzugszentrale (GEZ) durch die",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Glühbirnenverbot",
+      "location": "Abschnitt 5, Klima schützen",
+      "originalQuote": "Die FDP will keine überzogenen Regulierungen wie das Glühbirnenverbot.",
+      "classification": "GLÜHBIRNENVERBOT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Einsatz der Bundeswehr im Innern über bestehende Aufgaben hinaus",
+      "location": "Abschnitt 3, Terrorismusbekämpfung",
+      "originalQuote": "Die FDP lehnt den Einsatz der Bundeswehr im Innern über bestehende Aufgaben hinaus strikt",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Anwendung von Folter oder menschenunwürdigen Verhörmethoden",
+      "location": "Abschnitt 3, Terrorismusbekämpfung",
+      "originalQuote": "Die Menschenwürde verletzende Verhörmethoden, die Anwendung von Folter, die gezielte",
+      "classification": "MENSCHENUNWÜRDIGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Abbau des Bankgeheimnisses durch Vorratsdatenspeicherung",
+      "location": "Abschnitt 3, Datenschutz",
+      "originalQuote": "Die FDP will die Wiederherstellung des Bankgeheimnisses durch die Abschaffung der",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Speicherung und Nutzung von Mautdaten zur Strafverfolgung",
+      "location": "Abschnitt 3, Keine unangemessene Überwachung der Bürger",
+      "originalQuote": "Die automatische Kfz-Kennzeichenerfassung auf deutschen Straßen ohne konkreten Anlass und",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verlängerung des Zivildienstes",
+      "location": "Abschnitt 2, Soziale Dienstleistungen marktwirtschaftlich gestalten",
+      "originalQuote": "Die von der FDP geforderte Aussetzung der Wehrpflicht bedeutet auch das Aus für den",
+      "classification": "ZIVILDIENSTES"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Bevormundung durch den Wohlfahrtsstaat",
+      "location": "Präambel",
+      "originalQuote": "Wir setzen Eigenverantwortung gegen die Bevormundung durch die bürokratischen",
+      "classification": "WOHLFAHRTSSTAAT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Bevormundung im Allgemeinen",
+      "location": "Präambel",
+      "originalQuote": "Die FDP ist die Partei für alle, die ihr Leben selbst gestalten und dabei nicht vom Staat",
+      "classification": "BEVORMUNDUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatlich verordnete Gleichheit",
+      "location": "Präambel",
+      "originalQuote": "Politik der staatlich verordneten Gleichheit hat bisher immer zu Unfreiheit geführt.",
+      "classification": "VERORDNETE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine staatliche Bevormundung in der Umweltpolitik",
+      "location": "Präambel",
+      "originalQuote": "Politik muss im Umgang mit natürlichen Ressourcen technologieoffen und ideologiefrei",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Denkverbote in der Forschung",
+      "location": "Präambel",
+      "originalQuote": "Denkverbote sind nicht nur in der Forschung fehl am Platze.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Einführung eines Betreuungsgeldes",
+      "location": "Abschnitt 3, Familienpolitik",
+      "originalQuote": "Die Einführung eines Betreuungsgeldes lehnt die FDP ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ausweitung der DNA-Datei",
+      "location": "Abschnitt 3, Den Rechtsstaat stärken",
+      "originalQuote": "Die Liberalen lehnen eine uferlose Ausweitung der DNA-Datei ab.",
+      "classification": "AUSWEITUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein „Spähangriff“",
+      "location": "Abschnitt 3, Keine unangemessene Überwachung der Bürger",
+      "originalQuote": "Daher lehnen die Liberalen jegliche Überlegungen hinsichtlich eines „Spähangriffes“ ab.",
+      "classification": "SPÄHANGRIFF"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein „Großer Lauschangriff“",
+      "location": "Abschnitt 3, Keine unangemessene Überwachung der Bürger",
+      "originalQuote": "Daher setzen sich die Liberalen für eine konsequente Abschaffung des „Großen",
+      "classification": "LAUSCHANGRIFF"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Aufwertung des Zivildienstes",
+      "location": "Abschnitt 2, Soziale Dienstleistungen marktwirtschaftlich gestalten",
+      "originalQuote": "Die von der FDP geforderte Aussetzung der Wehrpflicht bedeutet auch das Aus für den",
+      "classification": "ZIVILDIENSTES"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Übernahme des US-amerikanischen Rechtssystems (Sammelklagen)",
+      "location": "Abschnitt 3, Für ein modernes Zivil- und Wirtschaftsrecht",
+      "originalQuote": "Die FDP setzt sich für ein modernes deutsches Rechtssystem ein, ohne das amerikanische zu",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Enteignungen ohne Entschädigung",
+      "location": "Abschnitt 3, Für ein modernes Zivil- und Wirtschaftsrecht",
+      "originalQuote": "Die Enteignungen in der Folge der sogenannten Bodenreform bleiben ein Unrecht.",
+      "classification": "ENTSCHÄDIGUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ausweitung der nachträglichen Sicherungsverwahrung auf Jugendsträflinge",
+      "location": "Abschnitt 3, Den Rechtsstaat stärken",
+      "originalQuote": "Die Ausweitung der nachträglichen Sicherungsverwahrung auf Täter, die nach Jugendstrafrecht",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Unterordnung des Jagdrechts unter das Naturschutzrecht",
+      "location": "Abschnitt 2, Für eine unternehmerische Land- und Forstwirtschaft",
+      "originalQuote": "Die FDP ist gegen eine Unterordnung des Jagdrechts unter das Naturschutzrecht.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Steuern auf Trinkgeld",
+      "location": "Abschnitt 2, Chancen des Tourismus nutzen",
+      "originalQuote": "Auch zukünftig dürfen keine Steuern auf Trinkgeld erhoben werden.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verwendung von staatlichem Zugriff auf private Altersvorsorge",
+      "location": "Abschnitt 2, Bürgergeld",
+      "originalQuote": "Wir wollen zugleich die private Altersvorsorge gegenüber staatlichem Zugriff besser",
+      "classification": "ALTERSVORSORGE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Erhebung von Fluggastdaten",
+      "location": "Abschnitt 3, Datenschutz",
+      "originalQuote": "Die Erhebung und Speicherung von Fluggastdaten lehnen die Liberalen ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Übernahme staatlicher Hochschulen in Beamtenverhältnisse",
+      "location": "Abschnitt 4, Mehr Freiheit für die Bildungseinrichtungen vor Ort",
+      "originalQuote": "Die FDP ist gegen die Regel-Verbeamtung bei Neueinstellungen von Lehrern.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Bürokratie bei der Anzeige anonymer Geburten",
+      "location": "Abschnitt 3, Familienpolitik",
+      "originalQuote": "Die FDP setzt sich für die Schaffung einer Rechtsgrundlage zur anonymen Geburt ein, da das",
+      "classification": "BÜROKRATIE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Bevormundung in der Verbraucherpolitik",
+      "location": "Abschnitt 5, Mündige Verbraucher stärken",
+      "originalQuote": "Moderne Verbraucher wollen nicht vom Staat bevormundet werden, sondern bessere Information,",
+      "classification": "VERBRAUCHERPOLITIK"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Werbeverbote für Lebensmittel",
+      "location": "Abschnitt 5, Mündige Verbraucher stärken",
+      "originalQuote": "Liberale sind aber gegen die politische Steuerung des Konsums und Bevormundung der",
+      "classification": "WERBEVERBOTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Ampelsystem zur Lebensmittelkennzeichnung",
+      "location": "Abschnitt 5, Mündige Verbraucher stärken",
+      "originalQuote": "Werbeverbote für vermeintlich ungesunde Lebensmittel und ein Ampelsystem zur",
+      "classification": "LEBENSMITTELKENNZEICHNUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine EU-Wegekostenrichtlinie (Eurovignette III)",
+      "location": "Abschnitt 5, Mobilität",
+      "originalQuote": "Die FDP lehnt die geplante EU-Wegekostenrichtlinie (\"Eurovignette III\") ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein US-Raketenabwehrsystem in Tschechien und Polen",
+      "location": "Abschnitt 6, Abrüstung jetzt!",
+      "originalQuote": "Den Plan für ein US-Raketenabwehrsystem in Tschechien und Polen lehnen wir ab.",
+      "classification": "USRAKETENABWEHRSYSTEM"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Militäreinsatz ohne völkerrechtliche Legitimation",
+      "location": "Abschnitt 6, Militärische Einsätze bleiben letztes Mittel",
+      "originalQuote": "Einsätze ohne klare völkerrechtliche Grundlage lehnt die FDP ab, ebenso wie einen",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Einsatz der Bundeswehr im Innern",
+      "location": "Abschnitt 6, Bundeswehr der Zukunft",
+      "originalQuote": "Einen Einsatz der Bundeswehr im Innern über die bestehenden Regelungen unserer",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Folter und unmenschliche Behandlung",
+      "location": "Abschnitt 6, Menschenrechte schützen",
+      "originalQuote": "Folter, unmenschliche und grausame Behandlung, Verschleppung und das Betreiben von",
+      "classification": "UNMENSCHLICHE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verwendung von Melderegisterdaten zu Werbezwecken ohne Zustimmung",
+      "location": "Abschnitt 3, Datenschutz",
+      "originalQuote": "Melderegisterauskünfte zu Werbezwecken sollen nur zulässig sein, wenn die Betroffenen",
+      "classification": "Digitales & Überwachung"
+    }
+  ]
+}

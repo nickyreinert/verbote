@@ -1,0 +1,40 @@
+{
+  "sourceFile": "CDU-CSU - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Für uns ist klar: Damit die Wirtschaft wieder in S...",
+      "location": "Zeile 309",
+      "originalQuote": "Für uns ist klar: Damit die Wirtschaft wieder in Schwung kommt und wir gemeinsam neuen Wohlstand sch",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Für uns ist klar: Maßnahmen zum Klimaschutz dürfen...",
+      "location": "Zeile 389",
+      "originalQuote": "Für uns ist klar: Maßnahmen zum Klimaschutz dürfen nicht an unseren Grenzen haltmachen. ",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "• Marktpreise müssen fair sein und den Erzeugern e...",
+      "location": "Zeile 527",
+      "originalQuote": "• Marktpreise müssen fair sein und den Erzeugern ein auskömmliches Einkommen ermöglichen. Die Markt-",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "• Neue Angebote dürfen nicht nur in einzelnen (Pil...",
+      "location": "Zeile 978",
+      "originalQuote": "• Neue Angebote dürfen nicht nur in einzelnen (Pilot-)Kommunen oder Ländern langsam ausgerollt werde",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Die Angriffsmethoden werden immer ausgefeilter. Da...",
+      "location": "Zeile 1194",
+      "originalQuote": "Die Angriffsmethoden werden immer ausgefeilter. Daher brauchen wir widerstandsfähige IT-Infrastruk",
+      "classification": "ANGRIFFSMETHODEN"
+    }
+  ]
+}

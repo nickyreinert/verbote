@@ -1,0 +1,523 @@
+{
+  "sourceFile": "AfD - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbieten der Vollverschleierung in Öffentlichkeit und öffentlichem Dienst",
+      "location": "Kapitel 6",
+      "originalQuote": "Die AfD fordert ein allgemeines Verbot der Vollverschleierung in der Öffentlichkeit und im öffentlichen D",
+      "classification": "VOLLVERSCHLEIERUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbieten von Koranunterricht durch verfassungsfeindliche Moscheevereine",
+      "location": "Kapitel 8",
+      "originalQuote": "Wir fordern deshalb eine flächendeckende Überprüfung aller Moscheevereine und bei Verdacht auf V",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbieten von Parteibeteiligung an Unternehmen und Firmenspenden",
+      "location": "Kapitel 1",
+      "originalQuote": "Ferner soll den deutschen Parteien endlich die Beteiligung an Unternehmen, insbesondere Medien",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbieten von Handel und Einfuhr von Fleisch aus tierquälerischer Schlachtung",
+      "location": "Kapitel 15",
+      "originalQuote": "Den Handel, die Bewerbung und die Einfuhr von Fleisch aus tierquälerischer Schlachtung (Schächt",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der weiteren Einwanderung in Sozialsysteme",
+      "location": "Kapitel 5",
+      "originalQuote": "Keine weitere Einwanderung in die Sozialsysteme",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der EU-Armee und des Einsatzes deutscher Streitkräfte für fremde Interessen",
+      "location": "Kapitel 3",
+      "originalQuote": "Die Schaffung einer EU-Armee oder den Einsatz deutscher Streitkräfte für fremde Interessen le",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von CETA, TISA und TTIP",
+      "location": "Kapitel 3",
+      "originalQuote": "Die AfD lehnt aus den dargelegten Gründen CETA, TISA und TTIP ab.",
+      "classification": "CETA"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des EU-Beitritts der Türkei und Ende der Beitrittsverhandlungen",
+      "location": "Kapitel 5",
+      "originalQuote": "Die AfD lehnt ferner den Beitruchritt der Türkei zur EU ab und fordert das sofortige Ende alle",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Umsetzung der EU-Feuerwaffenrichtlinie",
+      "location": "Kapitel 4",
+      "originalQuote": "Die Umsetzung der EU-Feuerwaffenrichtlinie lehnen wir ab.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Quotenregelungen und Gender-Ideologie",
+      "location": "Kapitel 1, 7",
+      "originalQuote": "Deshalb lehnen wir sogenannte „Quotenregelungen“ ab. ... Wir lehnen daher Bestrebungen auf nat",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Freigabe von Cannabis",
+      "location": "Kapitel 12",
+      "originalQuote": "Die AfD lehnt deshalb die Freigabe von Cannabis ab.",
+      "classification": "Gesundheit & Drogen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stopp des weiteren Ausbaus der Windenergie",
+      "location": "Kapitel 15",
+      "originalQuote": "Wir lehnen den weiteren Ausbau der Windenergie ab, denn er bringt mehr Schaden als Nutzen.",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unterbinden der Finanzierung von Moscheen durch islamische Staaten",
+      "location": "Kapitel 6",
+      "originalQuote": "Auch die Finanzierung des Baus und Betriebs von Moscheen durch islamische Staaten oder auslän",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vermeidung von Doppelbesteuerung der staatlichen Rente",
+      "location": "Kapitel 11",
+      "originalQuote": "Die AfD setzt sich dafür ein, zu überprüfen, ob ... die ... Doppelbesteuerung der Renten tatsäc",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung der Einbürgerung Krimineller",
+      "location": "Kapitel 4",
+      "originalQuote": "Die Einbürgerung Krimineller ist zuverlässig zu verhindern",
+      "classification": "VERHINDERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine ideologisch motivierte Inklusion – Erhalt von Förder- und Sonderschulen",
+      "location": "Kapitel 8",
+      "originalQuote": "Die AfD setzt sich deshalb für den Erhalt der Förder- und Sonderschulen ein.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein bekenntnisgebundener Islamunterricht an deutschen Schulen",
+      "location": "Kapitel 8",
+      "originalQuote": "Da die islamischen Gemeinschaften in Deutschland keine kirchenähnliche Struktur aufweisen, kan",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Sonderrechte für Muslime an Schulen (z.B. Sportunterricht)",
+      "location": "Kapitel 8",
+      "originalQuote": "Muslimische Schüler müssen genauso wie alle anderen Schüler auch am Sport- und Schwimmunterri",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stopp der Frühsexualisierung in Schulen",
+      "location": "Kapitel 7",
+      "originalQuote": "Das ideologische Experiment der Frühsexualisierung ist sofort zu beenden.",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beendigung der Steuerverschwendung und Gender-Forschung",
+      "location": "Kapitel 1, 7",
+      "originalQuote": "Bund und Länder dürfen keine Mittel für die „Gender-Forschung“ mehr bereitstellen",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Öffentlich-Private Partnerschaften (ÖPP) bei Infrastrukturprojekten",
+      "location": "Kapitel 14",
+      "originalQuote": "keine Öffentlich-Private Partnerschaft (ÖPP) bei Projekten der öffentlichen Infrastruktur",
+      "classification": "INFRASTRUKTURPROJEKTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine PKW-Maut",
+      "location": "Kapitel 14",
+      "originalQuote": "keine PKW-Maut",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung der Umweltzonen",
+      "location": "Kapitel 14",
+      "originalQuote": "Abschaffung der Umweltzonen",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein flächendeckendes Tempolimit auf Autobahnen",
+      "location": "Kapitel 14",
+      "originalQuote": "kein flächendeckendes Tempolimit auf Autobahnen",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer EU-weiten Liberalisierung des Wassermarkts",
+      "location": "Kapitel 15",
+      "originalQuote": "Eine EU-weite Liberalisierung und Kommerzialisierung des Wassermarkts lehnt die AfD entschiede",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gentechnikfreie deutsche Landwirtschaft",
+      "location": "Kapitel 15",
+      "originalQuote": "Die AfD setzt sich für gentechnikfrei erzeugte Lebensmittel aus der deutschen Landwirtschaft e",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Visafreiheit für türkische Staatsbürger",
+      "location": "Kapitel 5",
+      "originalQuote": "Einen EU-Beitritt der Türkei lehnen wir ebenso strikt ab wie Visaerleichterungen oder gar Visaf",
+      "classification": "VISAFREIHEIT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Gemeinsamen europäischen Asylsystems (GEAS)",
+      "location": "Kapitel 5",
+      "originalQuote": "Das „Gemeinsame europäische Asylsystem“ (GEAS) lehnen wir ab.",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Familiennachzug für Flüchtlinge",
+      "location": "Kapitel 5",
+      "originalQuote": "Wir lehnen jeglichen Familiennachzug für Flüchtlinge ab",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unterbindung der Einwanderung durch die Hintertür via temporärem Schutz",
+      "location": "Kapitel 5",
+      "originalQuote": "Insbesondere der Schutz vor Bürgerkrieg ist rein temporär ausgelegt und darf nicht zu einer Ei",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stopp der Massenzuwanderung bei Erreichen einer Belastungsgrenze",
+      "location": "Kapitel 5",
+      "originalQuote": "Führen diese Maßnahmen nicht mindestens zu einer Null-Zuwanderung, muss ein Gesetz eine absolut",
+      "classification": "Migration & Asyl"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Anerkennung von Scharia-Ehen in Deutschland",
+      "location": "Kapitel 6",
+      "originalQuote": "Im Ausland geschlossene Ehen gemäß dem Familienrecht der Scharia, die gegen unsere Gesetze un",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Verleihung des Status einer Körperschaft des öffentlichen Rechts an islamische Organisationen",
+      "location": "Kapitel 6",
+      "originalQuote": "Die AfD lehnt es ab, islamischen Organisationen den Status einer Körperschaft des öffentliche",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung der islamtheologischen Lehrstühle an Universitäten",
+      "location": "Kapitel 6",
+      "originalQuote": "Die islamtheologischen Lehrstühle an deutschen Universitäten sind abzuschaffen",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Kopftuch im öffentlichen Dienst und in Bildungseinrichtungen",
+      "location": "Kapitel 6",
+      "originalQuote": "Im öffentlichen Dienst soll kein Kopftuch getragen werden, in Bildungseinrichtungen weder vo",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verbot der religiösen Voraustrauung (z.B. durch Imame)",
+      "location": "Kapitel 6",
+      "originalQuote": "Das Verbot der religiösen Voraustrauung, etwa durch Imame, soll wieder in Kraft gesetzt",
+      "classification": "VORAUSTRAUUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stopp der weiteren Zentralisierung der EU",
+      "location": "Kapitel 1",
+      "originalQuote": "Stattdessen werden durch die EU, die den Anspruch erhebt, kontinentaler Staat zu werden, die e",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine unwiderruflichen Souveränitätsverzichte in der EU",
+      "location": "Kapitel 1",
+      "originalQuote": "Nicht rückholbare Souveränitätsverzichte der Staaten dürfen mit einer solchen Konstruktion ni",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Antidiskriminierungsgesetzen",
+      "location": "Kapitel 1",
+      "originalQuote": "Deshalb lehnen wir sogenannte ,,Antidiskriminierungsgesetze“ ab.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Staatsfinanzierung durch die EZB",
+      "location": "Kapitel 2",
+      "originalQuote": "Die AfD fordert die Durchsetzung des vertraglichen Verbots der Staatsfinanzierung",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Haftung für Schulden anderer EU-Länder (Transferunion)",
+      "location": "Kapitel 2",
+      "originalQuote": "Deshalb muss Deutschland die Transferunion aufkündigen und den Euroraum verlassen.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung willkürlicher Rettungsmaßnahmen für Banken und EU-Wirtschaftsregierung",
+      "location": "Kapitel 2",
+      "originalQuote": "Willkürliche „Rettungsmaßnahmen“ zugunsten einzelner Banken und Unternehmen oder gar eine „EU-",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine europäische Vergemeinschaftung von Haftungsrisiken (Bankenunion)",
+      "location": "Kapitel 2",
+      "originalQuote": "Wir wenden uns gegen jegliche Versuche der europäischen Vergemeinschaftung von Haftungsrisike",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Abschaffung des Bargelds",
+      "location": "Kapitel 2",
+      "originalQuote": "Die AfD fordert den dauerhaften Erhalt der uneingeschränkten Bargeldnutzung",
+      "classification": "BARGELDS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beendigung der Sanktionspolitik gegenüber Russland",
+      "location": "Kapitel 3",
+      "originalQuote": "Die AfD tritt für die Beendigung der Sanktionspolitik ein.",
+      "classification": "SANKTIONSPOLITIK"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beendigung der NATO-Mitgliedschaft der Türkei und Abzug der Bundeswehr aus Incirlik",
+      "location": "Kapitel 3",
+      "originalQuote": "Die Mitgliedschaft der Türkei in der NATO ist zu beenden, die Bundeswehr aus Incirlik abzuzieh",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stopp aller Geldleistungen an die Türkei",
+      "location": "Kapitel 3",
+      "originalQuote": "alle direkt und indirekt an die Türkei im Rahmen internationaler, multilateraler und bilatera",
+      "classification": "GELDLEISTUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Übernahme deutscher Unternehmen durch ausländische staatliche Unternehmen",
+      "location": "Kapitel 3",
+      "originalQuote": "Wir fordern außerdem, die Übernahmen deutscher Unternehmen durch ausländische stärker unter",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stopp der Entwicklungshilfe bei Weigerung der Rücknahme von Bürgern",
+      "location": "Kapitel 5",
+      "originalQuote": "Sollten sich die Herkunftsländer weigern, ihre Bürger wieder einreisen zu lassen, muss auf di",
+      "classification": "ENTWICKLUNGSHILFE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Sozialleistungen für EU-Ausländer ohne vorherige vierjährige versicherungspflichtige Beschäftigung",
+      "location": "Kapitel 5",
+      "originalQuote": "Sozialleistungen sollen Ausländern aus EU-Mitgliedsstaaten erst dann gewährt werden, wenn di",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beschränkung von Sozialleistungen für Asylbewerber auf das unbedingt notwendige Maß",
+      "location": "Kapitel 5",
+      "originalQuote": "Sozial- und Gesundheitsleistungen für Asylbewerber dürfen keine Anreizwirkung entfalten und s",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beendigung der Schlepper-Hilfsdienste auf dem Mittelmeer",
+      "location": "Kapitel 5",
+      "originalQuote": "Die europäische Grenzschutzagentur Frontex und die Bundeswehr müssen ihre Schlepper-Hilfsdien",
+      "classification": "SCHLEPPERHILFSDIENSTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Anerkennung des Islam als zu Deutschland gehörig",
+      "location": "Kapitel 6",
+      "originalQuote": "Der Islam gehört nicht zu Deutschland.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Diffamierung von Islamkritik als Islamophobie oder Rassismus",
+      "location": "Kapitel 6",
+      "originalQuote": "Einer Diffamierung rationaler Religionskritik als „Islamophobie“ oder „Rassismus“ tritt die A",
+      "classification": "DIFFAMIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Minarett und Muezzin-Ruf",
+      "location": "Kapitel 6",
+      "originalQuote": "Das Minarett lehnt die AfD als islamisches Herrschaftszeichen ebenso ab wie den Muezzin-Ruf",
+      "classification": "MUEZZINRUF"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung des Geburtsortsprinzips bei der Staatsangehörigkeit",
+      "location": "Kapitel 5",
+      "originalQuote": "Das Geburtsortsprinzip (Erwerb der deutschen Staatsangehörigkeit allein durch Geburt in Deuts",
+      "classification": "GEBURTSORTSPRINZIPS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beschränkung der doppelten Staatsbürgerschaft auf Sonderfälle",
+      "location": "Kapitel 5",
+      "originalQuote": "Die doppelte Staatsbürgerschaft soll auf wohlbegründete Sonderfälle beschränkt werden.",
+      "classification": "STAATSBÜRGERSCHAFT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verlust der deutschen Staatsangehörigkeit bei Zugehörigkeit zu ausländischen Terrororganisationen",
+      "location": "Kapitel 5",
+      "originalQuote": "Die Zugehörigkeit zu ausländischen Terrororganisationen führt zum Verlust der deutschen Staats",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stopp der Bologna-Reform und Wiedereinführung von Diplom und Magister",
+      "location": "Kapitel 8",
+      "originalQuote": "Die AfD will die bewährten Diplom- und Magisterstudiengänge wieder einführen. Die Modularisie",
+      "classification": "WIEDEREINFÜHRUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung der Akkreditierungsagenturen",
+      "location": "Kapitel 8",
+      "originalQuote": "Die Modularisierung des Studiums und die Akkreditierungsagenturen sollen abgeschafft werden.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ökonomisierung und Globalisierung des deutschen Bildungswesens",
+      "location": "Kapitel 8",
+      "originalQuote": "Eine Ökonomisierung und Globalisierung des deutschen Bildungswesens wird es mit uns nicht ge",
+      "classification": "Bildung & Forschung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung des Rundfunkbeitrags",
+      "location": "Kapitel 9",
+      "originalQuote": "Der Rundfunkbeitrag ist abzuschaffen",
+      "classification": "RUNDFUNKBEITRAGS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Beschränkung oder Zensur des Internets",
+      "location": "Kapitel 9",
+      "originalQuote": "Das Internet als Medium der Kommunikation, Information und freien Meinungsäußerung darf abseit",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung der Erbschaftsteuer",
+      "location": "Kapitel 10",
+      "originalQuote": "Die AfD ist für eine Abschaffung der Erbschaftsteuer als Substanzsteuer",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Reaktivierung der Vermögensteuer",
+      "location": "Kapitel 10",
+      "originalQuote": "und gegen die Reaktivierung der Vermögensteuer.",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Staatsverschuldung zur Finanzierung der Renten- und Sozialsysteme",
+      "location": "Kapitel 10",
+      "originalQuote": "Eine durch Staatsverschuldung finanzierte Stützung der Renten- und Sozialsysteme kommt für die",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Erhöhung von Steuern und Abgaben über eine Obergrenze",
+      "location": "Kapitel 10",
+      "originalQuote": "Die AfD wendet sich gegen eine Ausweitung der Abgabenbelastung und fordert die Absenkung der M",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kündigung des deutsch-türkischen Sozialversicherungsabkommens",
+      "location": "Kapitel 12",
+      "originalQuote": "Das deutsch-türkische Sozialversicherungsabkommen benachteiligt einheimische Versicherte. Desh",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der zentralen Speicherung von Gesundheitsdaten",
+      "location": "Kapitel 12",
+      "originalQuote": "Die AfD lehnt die Schaffung einer solchen zentralen Datenbank zur Speicherung sensibler Gesundh",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kündigung des Pariser Klimaabkommens und Austritt aus Klimaschutzorganisationen",
+      "location": "Kapitel 13",
+      "originalQuote": "Das Pariser Klimaabkommen vom 12.12.2015 ist zu kündigen. Deutschland soll aus allen staatlichen",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung des EEG, der EnEV und des EEWärmeG",
+      "location": "Kapitel 13",
+      "originalQuote": "Das EEG ist ersatzlos zu streichen. ... Die EnEV und das EEWärmeG sind abzuschaffen.",
+      "classification": "EEWÄRMEG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Vorrangflächen für Windenergieanlagen ohne Zustimmung der Bürger",
+      "location": "Kapitel 13",
+      "originalQuote": "sollen keine Vorrangflächen für Windenergieanlagen ohne Zustimmung der betroffenen Bürger ausg",
+      "classification": "Umwelt & Klima"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Errichtung von EE-Anlagen in Wäldern und Schutzgebieten",
+      "location": "Kapitel 13",
+      "originalQuote": "sollen keine EE-Anlagen in Wäldern und Schutzgebieten errichtet werden",
+      "classification": "SCHUTZGEBIETEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aufhebung aller Handelsbeschränkungen für alte Nutzpflanzensorten",
+      "location": "Kapitel 15",
+      "originalQuote": "Die AfD fordert die Aufhebung aller Handelsbeschränkungen für alte Nutzpflanzensorten.",
+      "classification": "Wirtschaft & Steuern"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "sourceFile": "SPD - 2009 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Rückfall hinter die Prinzipien des Grundgesetzes",
+      "location": "I.1 Zeit für Entscheidungen [3121]",
+      "originalQuote": "Das Grundgesetz bestimmt die Prinzipien unseres Zusammenlebens. Dahinter darf niemand zurück.",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wiederholung der globalen Finanz- und Wirtschaftskrise",
+      "location": "I.2 Eigentum verpflichtet: Die Soziale Marktwirtschaft [3130]",
+      "originalQuote": "Die Aufgabe der Politik ist es, die Folgen zu bewältigen und eine Wiederholung dieser Krise auszusch",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Einseitige Lastenaufbürdung der Krise auf die Bürger",
+      "location": "I.2 Eigentum verpflichtet: Die Soziale Marktwirtschaft [3144]",
+      "originalQuote": "Die Lasten der Krise dürfen nicht einseitig den Bürgerinnen und Bürgern aufgebürdet werden.",
+      "classification": "LASTENAUFBÜRDUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Die Gier an den Finanzmärkten",
+      "location": "I.2 Eigentum verpflichtet: Die Soziale Marktwirtschaft [3146]",
+      "originalQuote": "Die Finanzmärkte brauchen neue Regeln. Die Gier muss gestoppt werden. Wir haben im nationalen Ra",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Zurücklassen von Kindern durch die Gesellschaft",
+      "location": "I.4 Unsere Ziele [3219]",
+      "originalQuote": "Kein Kind darf von der Gesellschaft zurückgelassen werden.",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zerschlagung der Deutschen Bahn AG",
+      "location": "II. (Mobilität) [2345]",
+      "originalQuote": "Die Bahn muss stark, wettbewerbsfähig und kundenfreundlich sein. Eine Zerschlagung der Deutschen ",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bloßes Wegsperren von Jugendlichen auf Basis des Erwachsenenstrafrechts",
+      "location": "II. (Justiz) [2727]",
+      "originalQuote": "Bloßes Wegsperren auf Basis des Erwachsenenstrafrechts lehnen wir ab. * Opferschutz. Wir haben die",
+      "classification": "Demokratie & Recht"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz der Bundeswehr zur Gefahrenabwehr im Inneren",
+      "location": "II. (Innere Sicherheit) [2771]",
+      "originalQuote": "Den Einsatz der Bundeswehr zur Gefahrenabwehr im Inneren lehnen wir ab. Gerechtigkeit braucht eine ",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Flächendeckende und anlasslose Funkzellenabfrage und Überwachung",
+      "location": "II. (Datenschutz) [2802]",
+      "originalQuote": "Mit einer flächendeckenden und anlasslosen Funkzellenabfrage, bei der alle Handynutzer erfasst un",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Jede Form von Diskriminierung (Verstoß gegen das Gleichheitsgebot)",
+      "location": "II. (Gleichstellung) [2826]",
+      "originalQuote": "Und im Grundgesetz steht: Männer und Frauen sind gleichberechtigt. Jede Form von Diskriminierung ",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Europa der Niedriglöhne und der Arbeitsplatzkonkurrenz",
+      "location": "II. (Europa) [2945]",
+      "originalQuote": "Wir wenden uns gegen ein Europa der Niedriglöhne und der Arbeitsplatzkonkurrenz. Wir brauchen ein",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Geschäfte außerhalb der Bilanz",
+      "location": "II.1 Wohlstand erhalten und sichern [3254]",
+      "originalQuote": "In Zukunft darf es keine Geschäfte mehr außerhalb der Bilanz geben.",
+      "classification": "GESCHÄFTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kurzfristige und spekulative Beteiligungen zu Lasten von Standorten und Arbeitsplätzen",
+      "location": "II.1 Wohlstand erhalten und sichern [3256]",
+      "originalQuote": "Kurzfristige und spekulative Beteiligungen zu Lasten von Standorten und Arbeitsplätzen lehnen wir ",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Prozyklische und krisenverschärfende Wirkung von Vermögensbewertungen",
+      "location": "II.1 Wohlstand erhalten und sichern [3257]",
+      "originalQuote": "Vermögenswerte müssen so bewertet werden können, dass sie bei sich stark veränderndem Markt nicht ",
+      "classification": "VERMÖGENSBEWERTUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schädliche Leerverkäufe",
+      "location": "II.1 Wohlstand erhalten und sichern [3261]",
+      "originalQuote": "Schädliche Leerverkäufe, die vor allem von Hedge-Fonds eingesetzt werden, müssen unterbunden werd",
+      "classification": "LEERVERKÄUFE"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Mitfinanzierung von Gehaltsexzessen und Abfindungen für unfähige Manager durch die Allgemeinheit",
+      "location": "II.1 Wohlstand erhalten und sichern [3275]",
+      "originalQuote": "Gehaltsexzesse und goldene Handschläge für unfähige Manager dürfen nicht von der Allgemeinheit mit",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Volle steuerliche Geltendmachung von Vorstandsvergütungen und Abfindungen über 1 Mio. Euro",
+      "location": "II.1 Wohlstand erhalten und sichern [3277]",
+      "originalQuote": "Wir wollen, dass Vorstandsvergütungen und -abfindungen oberhalb von einer Million Euro nur noch zu",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unmittelbarer Wechsel von Vorstandsmitgliedern in den Aufsichtsrat ohne zweijährige Wartezeit",
+      "location": "II.1 Wohlstand erhalten und sichern [3279]",
+      "originalQuote": "Der Wechsel bisheriger Vorstandsmitglieder in den Aufsichtsrat einer börsennotierten Aktiengesel",
+      "classification": "VORSTANDSMITGLIEDERN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verletzung der Verbraucherinteressen bei Unternehmenszusammenschlüssen",
+      "location": "II.1 Wohlstand erhalten und sichern [3296]",
+      "originalQuote": "Wir werden dafür sorgen, dass bei Zusammenschlüssen von Unternehmen das Wettbewerbsprinzip erhalte",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einflussnahme auf Unternehmen aus kurzfristigem Profitinteresse",
+      "location": "II.1 Wohlstand erhalten und sichern [3302]",
+      "originalQuote": "Die Einflussnahme auf Unternehmen sollte nicht im kurzfristigen Profitinteresse erfolgen. Das voll",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Alleinige Verpflichtung von Unternehmen auf den finanziellen Gewinn der Eigentümer (Shareholder Value)",
+      "location": "II.1 Wohlstand erhalten und sichern [3312]",
+      "originalQuote": "Unternehmen sind für uns nicht nur dem finanziellen Gewinn der Eigentümer („shareholder value“) v",
+      "classification": "Wirtschaft & Steuern"
+    }
+  ]
+}
