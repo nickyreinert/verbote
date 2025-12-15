@@ -13,7 +13,7 @@
       "topic": "Änderungen am ersten Abschnitt (Art. 1 bis 19) des Grundgesetzes",
       "location": "Kapitel 1 / Das Grundgesetz bewahren, Bürgerrechte verteidigen",
       "originalQuote": "Insbesondere lehnen wir Änderungen an dem die Grundrechte umfassenden ersten Abschnitt (Art. 1 bis 19) kategorisch ab, da die Vergangenheit gezeigt hat, dass diese immer nur zu einem Abbau von Bürgerrechten führen.",
-      "classification": "Demokratie & Recht"
+      "classification": "GRUNDGESETZES"
     },
     {
       "category": "semantisches Verbot",
@@ -48,7 +48,7 @@
       "topic": "Weitergabe personenbezogener Daten vom Staat an die Privatwirtschaft",
       "location": "Kapitel 2 / Kein Überwachungsstaat – das Recht in Ruhe gelassen zu werden",
       "originalQuote": "Die Weitergabe personenbezogener Daten vom Staat an die Privatwirtschaft hat in jedem Falle zu unterbleiben.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "semantisches Verbot",
@@ -69,7 +69,7 @@
       "topic": "Aufbau zentraler Datenbanken mit biometrischen Daten und Gentests",
       "location": "Kapitel 2 / Informationelle Selbstbestimmung",
       "originalQuote": "Der Aufbau zentraler Datenbanken mit solchen Daten muss unterbleiben. Die Verwendung biometrischer Merkmale in Passdokumenten hat zu unterbleiben oder auf Freiwilligkeit zu beruhen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "semantisches Verbot",
@@ -90,14 +90,14 @@
       "topic": "Weitere Grundrechtseingriffe im Namen der inneren Sicherheit (Moratorium)",
       "location": "Kapitel 2 / Innere Sicherheit – die Sicherheit der inneren Gewissheit",
       "originalQuote": "Um den fortschreitenden Abbau der Bürgerrechte seit 2001 zu stoppen, fordern wir ein Moratorium für weitere Grundrechtseingriffe im Namen der inneren Sicherheit ein, solange nicht die systematische Überprüfung der bestehenden Befugnisse abgeschlossen ist.",
-      "classification": "Demokratie & Recht"
+      "classification": "GRUNDRECHTSEINGRIFFE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Anlasslose, massenhafte, automatisierte Datenerhebungen, Datenabgleichungen und Datenspeicherungen",
       "location": "Kapitel 2 / Innere Sicherheit – die Sicherheit der inneren Gewissheit",
       "originalQuote": "Zum Schutz unserer offenen Gesellschaft und im Interesse einer effizienten Sicherheitspolitik wollen wir auf anlasslose, massenhafte, automatisierte Datenerhebungen, Datenabgleichungen und Datenspeicherungen verzichten.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "DATENABGLEICHUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -111,14 +111,14 @@
       "topic": "Absenkung der Hürden für den Informationsaustausch zwischen Polizeien ohne einheitlichen Datenschutz",
       "location": "Kapitel 2 / Konkrete Maßnahmen",
       "originalQuote": "Konkrete Forderungen im Bereich der Privatsphäre und der Inneren Sicherheit sind: \n- Durchsetzung des Folterverbots \n- Bessere, wirksame Kontrolle von Geheimdiensten und Polizei national und europaweit \n- Solange kein europaweiter einheitlicher Datenschutz auf hohem Niveau existiert, dürfen die Hürden für den Informationsaustausch zwischen der deutschen Polizei und der anderer Mitgliedsstaaten nicht weiter abgesenkt werden\n- Kein Informationsaustausch mit Staaten ohne wirksamen Datenschutz \n- Einführung einer Informations- und Auskunftspflicht gegenüber den Betroffenen beim Datenaustausch zwischen Polizeien der EU-Länder\n- Rücknahme des Gesetzes über die Vorratsdatenspeicherung\n- keine Vorratsspeicherung von Flug-, Schiff- und sonstigen Passagierdaten (PNR: Passenger Name Records) \n- keine Weitergabe von solchen",
-      "classification": "Digitales & Überwachung"
+      "classification": "INFORMATIONSAUSTAUSCH"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Informationsaustausch mit Staaten ohne wirksamen Datenschutz",
       "location": "Kapitel 2 / Konkrete Maßnahmen",
       "originalQuote": "Konkrete Forderungen im Bereich der Privatsphäre und der Inneren Sicherheit sind: \n- Durchsetzung des Folterverbots \n- Bessere, wirksame Kontrolle von Geheimdiensten und Polizei national und europaweit \n- Solange kein europaweiter einheitlicher Datenschutz auf hohem Niveau existiert, dürfen die Hürden für den Informationsaustausch zwischen der deutschen Polizei und der anderer Mitgliedsstaaten nicht weiter abgesenkt werden\n- Kein Informationsaustausch mit Staaten ohne wirksamen Datenschutz \n- Einführung einer Informations- und Auskunftspflicht gegenüber den Betroffenen beim Datenaustausch zwischen Polizeien der EU-Länder\n- Rücknahme des Gesetzes über die Vorratsdatenspeicherung\n- keine Vorratsspeicherung von Flug-, Schiff- und sonstigen Passagierdaten (PNR: Passenger Name Records) \n- keine Weitergabe von solchen",
-      "classification": "Digitales & Überwachung"
+      "classification": "INFORMATIONSAUSTAUSCH"
     },
     {
       "category": "semantisches Verbot",
@@ -132,14 +132,14 @@
       "topic": "Weitergabe von Passagierdaten an Dritte",
       "location": "Kapitel 2 / Konkrete Maßnahmen",
       "originalQuote": "Passagierdaten an Dritte \n- Rücknahme der Auslandskopfüberwachung \n- kein automatisiertes KFZ-Kennzeichen-Scanning \n- Abschaffung der biometrischen Daten in Pässen und Ausweisen.",
-      "classification": "Digitales & Überwachung"
+      "classification": "PASSAGIERDATEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Automatisiertes KFZ-Kennzeichen-Scanning",
       "location": "Kapitel 2 / Konkrete Maßnahmen",
       "originalQuote": "Passagierdaten an Dritte \n- Rücknahme der Auslandskopfüberwachung \n- kein automatisiertes KFZ-Kennzeichen-Scanning \n- Abschaffung der biometrischen Daten in Pässen und Ausweisen.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "KFZKENNZEICHENSCANNING"
     },
     {
       "category": "semantisches Verbot",
@@ -167,14 +167,14 @@
       "topic": "Videoüberwachung von öffentlichen Plätzen",
       "location": "Kapitel 2 / Konkrete Maßnahmen",
       "originalQuote": "Rücknahme der geheimdienstlichen Befugnisse für das BKA\n- Schutz von Ermittlungsdaten vor automatischem Austausch zwischen Polizeien verschiedener Staaten \n- Einführung eines eindeutigen, gut sichtbaren Identifikationsmerkmals (Nummer oder Name) für Polizisten bei Einsätzen zur Identifikation \n- Verzicht auf Videoüberwachung von öffentlichen Plätzen etc., Videoüberwachung generell verstärkt ersetzen durch unbewaffnete Polizeistreifen.",
-      "classification": "Digitales & Überwachung"
+      "classification": "VIDEOÜBERWACHUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Automatische Gesichts- oder Verhaltenskontrolle",
       "location": "Kapitel 2 / Konkrete Maßnahmen",
       "originalQuote": "- Keine automatische Gesichts- oder Verhaltenskontrolle \n- Ausweitung des Persönlichkeitskernbereichs auf elektronische Medien (z.B. Mail bei Webmailern, Laptop) \n- Keine geheimen Durchsuchungen – weder online noch offline!",
-      "classification": "Verkehr & Mobilität"
+      "classification": "VERHALTENSKONTROLLE"
     },
     {
       "category": "semantisches Verbot",
@@ -195,21 +195,21 @@
       "topic": "Europaweite Vereinheitlichung staatlicher Informationssammlungen (Stockholmer Programm)",
       "location": "Kapitel 2 / Bürgerrechtsbündnis – gemeinsam sind wir stark",
       "originalQuote": "triftigen Grund; keine europaweite Vereinheitlichung staatlicher Informationssammlungen (Stockholmer Programm) \n- Keine systematische Überwachung des Zahlungsverkehrs oder sonstige Massendatenanalyse (Stockholmer Programm) \n- Kein Informationsaustausch mit den USA und anderen Staaten ohne wirksamen Grundrechtsschutz \n- Abbau von Videoüberwachung und Verbot des Einsatzes von Verhaltenserkennungssystemen \n- Keine pauschale Registrierung aller Flug- und Schiffsreisenden (PNR-Daten) \n- Keine geheime Durchsuchung von Privatcomputern, weder online noch offline \n- Keine Einführung der Elektronischen Gesundheitskarte in der derzeit geplanten Form \nEvaluierung der bestehenden Überwachungsbefugnisse",
-      "classification": "Europa & Außenpolitik"
+      "classification": "INFORMATIONSSAMMLUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Systematische Überwachung des Zahlungsverkehrs oder sonstige Massendatenanalyse (Stockholmer Programm)",
       "location": "Kapitel 2 / Bürgerrechtsbündnis – gemeinsam sind wir stark",
       "originalQuote": "triftigen Grund; keine europaweite Vereinheitlichung staatlicher Informationssammlungen (Stockholmer Programm) \n- Keine systematische Überwachung des Zahlungsverkehrs oder sonstige Massendatenanalyse (Stockholmer Programm) \n- Kein Informationsaustausch mit den USA und anderen Staaten ohne wirksamen Grundrechtsschutz \n- Abbau von Videoüberwachung und Verbot des Einsatzes von Verhaltenserkennungssystemen \n- Keine pauschale Registrierung aller Flug- und Schiffsreisenden (PNR-Daten) \n- Keine geheime Durchsuchung von Privatcomputern, weder online noch offline \n- Keine Einführung der Elektronischen Gesundheitskarte in der derzeit geplanten Form \nEvaluierung der bestehenden Überwachungsbefugnisse",
-      "classification": "Verkehr & Mobilität"
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Informationsaustausch mit den USA und anderen Staaten ohne wirksamen Grundrechtsschutz",
       "location": "Kapitel 2 / Bürgerrechtsbündnis – gemeinsam sind wir stark",
       "originalQuote": "triftigen Grund; keine europaweite Vereinheitlichung staatlicher Informationssammlungen (Stockholmer Programm) \n- Keine systematische Überwachung des Zahlungsverkehrs oder sonstige Massendatenanalyse (Stockholmer Programm) \n- Kein Informationsaustausch mit den USA und anderen Staaten ohne wirksamen Grundrechtsschutz \n- Abbau von Videoüberwachung und Verbot des Einsatzes von Verhaltenserkennungssystemen \n- Keine pauschale Registrierung aller Flug- und Schiffsreisenden (PNR-Daten) \n- Keine geheime Durchsuchung von Privatcomputern, weder online noch offline \n- Keine Einführung der Elektronischen Gesundheitskarte in der derzeit geplanten Form \nEvaluierung der bestehenden Überwachungsbefugnisse",
-      "classification": "Demokratie & Recht"
+      "classification": "INFORMATIONSAUSTAUSCH"
     },
     {
       "category": "explizites Verbot",
@@ -237,28 +237,28 @@
       "topic": "Einführung der Elektronischen Gesundheitskarte in der derzeit geplanten Form",
       "location": "Kapitel 2 / Bürgerrechtsbündnis – gemeinsam sind wir stark",
       "originalQuote": "triftigen Grund; keine europaweite Vereinheitlichung staatlicher Informationssammlungen (Stockholmer Programm) \n- Keine systematische Überwachung des Zahlungsverkehrs oder sonstige Massendatenanalyse (Stockholmer Programm) \n- Kein Informationsaustausch mit den USA und anderen Staaten ohne wirksamen Grundrechtsschutz \n- Abbau von Videoüberwachung und Verbot des Einsatzes von Verhaltenserkennungssystemen \n- Keine pauschale Registrierung aller Flug- und Schiffsreisenden (PNR-Daten) \n- Keine geheime Durchsuchung von Privatcomputern, weder online noch offline \n- Keine Einführung der Elektronischen Gesundheitskarte in der derzeit geplanten Form \nEvaluierung der bestehenden Überwachungsbefugnisse",
-      "classification": "Gesundheit & Drogen"
+      "classification": "GESUNDHEITSKARTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Beschränkung des Internetzugangs durch staatliche Stellen oder Internetanbieter (Sperrlisten)",
       "location": "Kapitel 2 / Gewährleistung der Meinungsfreiheit und des freien Meinungs- und Informationsaustauschs über das Internet",
       "originalQuote": "Gewährleistung der Meinungsfreiheit und des freien Meinungs- und Informationsaustauschs über das Internet\n- keine Beschränkung des Internetzugangs durch staatliche Stellen oder Internetanbieter (Sperrlisten)\n- keine Sperrungen von Internetanschlüssen\n- Verbot der Installation von Filtern in die Infrastruktur des Internet\n- Entfernung von Internetinhalten nur auf Anordnung unabhängiger und unparteiischer Richter\n- Einführung eines uneingeschränkten Zitierrechts für Multimedia-Inhalte, das heute unverzichtbar für die öffentliche Debatte in Demokratien ist\n- Schutz von Plattformen zur freien Meinungsäußerung im Internet (partizipatorische Websites, Foren, Kommentare in Blogs), die heute durch unzureichende Gesetze bedroht sind, welche Selbstzensur begünstigen (abschreckende Wirkung)",
-      "classification": "Digitales & Überwachung"
+      "classification": "INTERNETANBIETER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Sperrungen von Internetanschlüssen",
       "location": "Kapitel 2 / Gewährleistung der Meinungsfreiheit und des freien Meinungs- und Informationsaustauschs über das Internet",
       "originalQuote": "Gewährleistung der Meinungsfreiheit und des freien Meinungs- und Informationsaustauschs über das Internet\n- keine Beschränkung des Internetzugangs durch staatliche Stellen oder Internetanbieter (Sperrlisten)\n- keine Sperrungen von Internetanschlüssen\n- Verbot der Installation von Filtern in die Infrastruktur des Internet\n- Entfernung von Internetinhalten nur auf Anordnung unabhängiger und unparteiischer Richter\n- Einführung eines uneingeschränkten Zitierrechts für Multimedia-Inhalte, das heute unverzichtbar für die öffentliche Debatte in Demokratien ist\n- Schutz von Plattformen zur freien Meinungsäußerung im Internet (partizipatorische Websites, Foren, Kommentare in Blogs), die heute durch unzureichende Gesetze bedroht sind, welche Selbstzensur begünstigen (abschreckende Wirkung)",
-      "classification": "Digitales & Überwachung"
+      "classification": "INTERNETANSCHLÜSSEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Installation von Filtern in die Infrastruktur des Internets",
       "location": "Kapitel 2 / Gewährleistung der Meinungsfreiheit und des freien Meinungs- und Informationsaustauschs über das Internet",
       "originalQuote": "Gewährleistung der Meinungsfreiheit und des freien Meinungs- und Informationsaustauschs über das Internet\n- keine Beschränkung des Internetzugangs durch staatliche Stellen oder Internetanbieter (Sperrlisten)\n- keine Sperrungen von Internetanschlüssen\n- Verbot der Installation von Filtern in die Infrastruktur des Internet\n- Entfernung von Internetinhalten nur auf Anordnung unabhängiger und unparteiischer Richter\n- Einführung eines uneingeschränkten Zitierrechts für Multimedia-Inhalte, das heute unverzichtbar für die öffentliche Debatte in Demokratien ist\n- Schutz von Plattformen zur freien Meinungsäußerung im Internet (partizipatorische Websites, Foren, Kommentare in Blogs), die heute durch unzureichende Gesetze bedroht sind, welche Selbstzensur begünstigen (abschreckende Wirkung)",
-      "classification": "Digitales & Überwachung"
+      "classification": "INFRASTRUKTUR"
     },
     {
       "category": "semantisches Verbot",
@@ -300,7 +300,7 @@
       "topic": "Weitere Ausweitung der Schutzfristen (Urheberrecht)",
       "location": "Kapitel 4 / Urheberrecht und Nutzungsrechte",
       "originalQuote": "Dies wird durch eine Anpassung des Urheberrechts gewährleistet. \nWir stellen uns gegen eine weitere Ausweitung der Schutzfristen.",
-      "classification": "Demokratie & Recht"
+      "classification": "SCHUTZFRISTEN"
     },
     {
       "category": "explizites Verbot",
@@ -328,21 +328,21 @@
       "topic": "Privatisierung der Biodiversität oder der Grundlage menschlichen, tierischen und pflanzlichen Lebens",
       "location": "Kapitel 4 / Patentrecht",
       "originalQuote": "Der Privatisierung der Biodiversität oder der Grundlage menschlichen, tierischen und pflanzlichen Lebens ist mit aller Entschiedenheit entgegenzutreten.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "PRIVATISIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Beeinflussung von Infrastrukturen durch privatwirtschaftliche Interessen (wettbewerbsverzerrend und auf Kosten der Gesellschaft)",
       "location": "Kapitel 5 / Allgemeines",
       "originalQuote": "Die Piratenpartei möchte verhindern, dass durch privatwirtschaftliche Interessen Infrastrukturen wettbewerbsverzerrend und auf Kosten der Gesellschaft beeinflusst werden.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "PRIVATWIRTSCHAFTLICHE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Installation von Filtern in die Infrastruktur des Internets",
       "location": "Kapitel 5 / Infrastruktur Internet",
       "originalQuote": "Das Netz muss sich neutral gegenüber den transportierten Inhalten verhalten. Die Netzbetreiber tragen keine Verantwortung für die übertragenen Daten.\nDie Installation von Filtern in die Infrastruktur des Internets lehnen wir ab.",
-      "classification": "Digitales & Überwachung"
+      "classification": "INFRASTRUKTUR"
     },
     {
       "category": "semantisches Verbot",
@@ -356,7 +356,7 @@
       "topic": "Bildungsgebühren jeglicher Art",
       "location": "Kapitel 6 / Die öffentliche Bildungsinfrastruktur",
       "originalQuote": "Deshalb ist es Aufgabe der gesamten Gesellschaft, in Form des Staates, eine leistungsfähige und ihrem Zwecke angemessene Bildungsinfrastruktur zu finanzieren und frei zur Verfügung zu stellen. Private Finanzierung öffentlicher Bildungseinrichtungen ist grundsätzlich zu begrüßen, solange sie keinen Einfluss auf die bestehenden Lehrinhalte hat.\nBildungsgebühren jeglicher Art schränken den Zugang zu Bildung ein und sind deshalb kategorisch abzulehnen.",
-      "classification": "Bildung & Forschung"
+      "classification": "BILDUNGSGEBÜHREN"
     },
     {
       "category": "semantisches Verbot",

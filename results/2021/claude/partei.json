@@ -5,49 +5,57 @@
       "category": "semantisches Verbot",
       "topic": "Vermögen über 10 Millionen Euro",
       "location": "Punkt 2: Existenzmaximum 10 Millionen",
-      "originalQuote": "Vermögen über der 7. Null wird systematisch gekappt. Und vom obersten 1 % auf die 99 % der gesel"
+      "originalQuote": "Vermögen über der 7. Null wird systematisch gekappt. Und vom obersten 1 % auf die 99 % der gesel",
+      "classification": "MILLIONEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Amazon-Schließung",
       "location": "Punkt 7: Amazon plattmachen!",
-      "originalQuote": "Wegen nachhaltigen Marktmisserfolgs müssen wir Amazon leider schließen. 2020 haben die Versager mi"
+      "originalQuote": "Wegen nachhaltigen Marktmisserfolgs müssen wir Amazon leider schließen. 2020 haben die Versager mi",
+      "classification": "AMAZONSCHLIESSUNG"
     },
     {
       "category": "explizites Verbot",
       "topic": "Photoshop-Nutzung auf Wahlplakaten",
       "location": "Punkt 8: Photoshopverbot jetzt!",
-      "originalQuote": "Photoshopverbot jetzt!\nWer Volker Bouffier – bekannt durch das PARTEI-Plakat „Wie sexy darf Polit"
+      "originalQuote": "Photoshopverbot jetzt!\nWer Volker Bouffier – bekannt durch das PARTEI-Plakat „Wie sexy darf Polit",
+      "classification": "PHOTOSHOPNUTZUNG"
     },
     {
       "category": "explizites Verbot",
       "topic": "Erderwärmung über 1,5° Celsius/Jahr",
       "location": "Punkt 14: Klima",
-      "originalQuote": "Die Erderwärmung darf auf gar keinen Fall höher als 1,5° Celsius/Jahr ausfallen. Dafür wird Die PAR"
+      "originalQuote": "Die Erderwärmung darf auf gar keinen Fall höher als 1,5° Celsius/Jahr ausfallen. Dafür wird Die PAR",
+      "classification": "ERDERWÄRMUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Beschwerden über Ungerechtigkeiten",
       "location": "Punkt 17: Bekenntnis zu Gerechtigkeit",
-      "originalQuote": "Beschwerden über angebliche Ungerechtigkeiten sind mit aller Gewalt zu unterdrücken. Um den gesells"
+      "originalQuote": "Beschwerden über angebliche Ungerechtigkeiten sind mit aller Gewalt zu unterdrücken. Um den gesells",
+      "classification": "UNGERECHTIGKEITEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Tierversuche",
       "location": "Punkt 18: Tierschutz",
-      "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da. Lipgloss, Arsch- Ma"
+      "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da. Lipgloss, Arsch- Ma",
+      "classification": "TIERVERSUCHE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Flüchtlingsaufnahme über Mittelmeer-Anzahl",
       "location": "Punkt 21: Obergrenze für Flüchtlinge",
-      "originalQuote": "Die Flüchtlingsobergrenze wird – ganz im Sinne der Unionsparteien – jährlich neu definiert: Deutsch"
+      "originalQuote": "Die Flüchtlingsobergrenze wird – ganz im Sinne der Unionsparteien – jährlich neu definiert: Deutsch",
+      "classification": "FLÜCHTLINGSAUFNAHME"
     },
     {
       "category": "explizites Verbot",
       "topic": "Spenden und Sponsoring für korrupte Parteien",
       "location": "Punkt 24: Korruption & Lobbyismus",
-      "originalQuote": "Korrupte Parteien dürfen nicht mehr von Spenden & Sponsoring profitieren, korrupte Politiker werden"
+      "originalQuote": "Korrupte Parteien dürfen nicht mehr von Spenden & Sponsoring profitieren, korrupte Politiker werden",
+      "classification": "SPONSORING"
     }
   ]
 }

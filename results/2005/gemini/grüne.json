@@ -20,7 +20,7 @@
       "topic": "Rückkehr zur gefährlichen Atomenergie",
       "location": "3165",
       "originalQuote": "Ein Zurück zur gefährlichen Atomenergie, wie es CDU/CSU und FDP wollen, wird es mit uns nicht geben.",
-      "classification": "Umwelt & Klima"
+      "classification": "GEFÄHRLICHEN"
     },
     {
       "category": "explizites Verbot",
@@ -62,7 +62,7 @@
       "topic": "Wettlauf um niedrigere Löhne, schlechtere Mitbestimmung und Sozialstandards",
       "location": "3288",
       "originalQuote": "Den von CDU/CSU und FDP angestrebten Wettlauf um niedrigere Löhne, weniger Mitbestimmung, schlechte Sozialstandards und immer niedrigere Steuern kann unser Land nicht gewinnen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "SOZIALSTANDARDS"
     },
     {
       "category": "semantisches Verbot",
@@ -76,42 +76,42 @@
       "topic": "Gewinnen des Wettlaufs um niedrigere Löhne und schlechtere Arbeitsbedingungen",
       "location": "3306",
       "originalQuote": "Die Konkurrenz um niedrigere Löhne, schlechtere Arbeitsbedingungen und weniger Arbeitnehmerrechte wollen wir nicht gewinnen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSBEDINGUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ausschluss von Auftraggebern wegen schwerer Verfehlungen (Korruption, Schwarzarbeit) von öffentlichen Aufträgen",
       "location": "2398",
       "originalQuote": "Auftraggebern wegen schwerer Verfehlungen, wie zum Beispiel Korruption, Schwarzarbeit oder illegale Beschäftigung, von der Vergabe öffentlicher Aufträge ausgeschlossen worden sind.",
-      "classification": "Soziales & Arbeit"
+      "classification": "Demokratie & Recht"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Beendigung der Steinkohleförderung im Saarland spätestens 2010",
       "location": "2459",
       "originalQuote": "Wegen der extrem hohen Schäden durch den Bergbau ist die Steinkohleförderung im Saarland spätestens 2010 zu beenden.",
-      "classification": "Umwelt & Klima"
+      "classification": "STEINKOHLEFÖRDERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Abschaffung der Residenzpflicht, Ausreisezentren und des Flughafenverfahrens",
       "location": "2825",
       "originalQuote": "Wir wollen die Residenzpflicht, die Ausreisezentren und das Flughafenverfahren abschaffen.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "FLUGHAFENVERFAHRENS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Pläne zur Einrichtung von Flüchtlingslagern außerhalb der EU",
       "location": "2826",
       "originalQuote": "Plänen zur Einrichtung von Flüchtlingslagern außerhalb der EU erteilen wir eine klare Absage.",
-      "classification": "Migration & Asyl"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Aushöhlung rechtsstaatlicher Prinzipien",
       "location": "2827",
       "originalQuote": "Mit uns wird es keine Aushöhlung rechtsstaatlicher Prinzipien geben. Stattdessen kämpfen wir für die Beseitigung von Fluchtursachen.",
-      "classification": "Demokratie & Recht"
+      "classification": "RECHTSSTAATLICHER"
     },
     {
       "category": "explizites Verbot",
@@ -125,14 +125,14 @@
       "topic": "Wiedereinführung der Kronzeugenregelung",
       "location": "2868",
       "originalQuote": "Die rechtsstaatlich fragwürdige Kronzeugenregelung haben wir abgeschafft. Dabei bleiben wir.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "KRONZEUGENREGELUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Aufrüstung der inneren Sicherheit",
       "location": "2873",
       "originalQuote": "Die von der Union betriebene Aufrüstung der inneren Sicherheit lehnen wir ab. Die föderale Struktur der Sicherheitsbehörden hat sich bewährt.",
-      "classification": "Rüstung & Waffen"
+      "classification": "AUFRÜSTUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -167,7 +167,7 @@
       "topic": "Vorratsdatenspeicherung der Verkehrsdaten",
       "location": "2909",
       "originalQuote": "Die europäischen Pläne, Anbieter von Telekommunikationsdiensten zu verpflichten, die Verkehrsdaten ihrer Kunden für den Zugriff von Polizei und Nachrichtendienste auf Vorrat zu speichern, lehnen wir ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "semantisches Verbot",

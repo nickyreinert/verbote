@@ -5,73 +5,85 @@
       "category": "explizites Verbot",
       "topic": "Verbot der Leiharbeit",
       "location": "I. Solidarität neu erfinden",
-      "originalQuote": "– DIE LINKE fordert ein Verbot der Leiharbeit. Bis zu dessen Umsetzung ist mit sofortiger Wirkung"
+      "originalQuote": "– DIE LINKE fordert ein Verbot der Leiharbeit. Bis zu dessen Umsetzung ist mit sofortiger Wirkung",
+      "classification": "Soziales & Arbeit"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Strom- und Gassperren",
       "location": "Einführung",
-      "originalQuote": "Strom- und Gassperren wollen wir verbieten."
+      "originalQuote": "Strom- und Gassperren wollen wir verbieten.",
+      "classification": "GASSPERREN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Waffenexporten",
       "location": "Vorwort",
-      "originalQuote": "und fordern ein Ende der Rüstungsexporte."
+      "originalQuote": "und fordern ein Ende der Rüstungsexporte.",
+      "classification": "WAFFENEXPORTEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Produktion von Rüstungsgütern",
       "location": "Einführung",
-      "originalQuote": "Waffenexporte und die Produktion von Rüstungsgütern in der Bundesrepublik müssen verboten werden."
+      "originalQuote": "Waffenexporte und die Produktion von Rüstungsgütern in der Bundesrepublik müssen verboten werden.",
+      "classification": "RÜSTUNGSGÜTERN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verhinderung von Lohndumping über Werkverträge",
       "location": "I. Solidarität neu erfinden",
-      "originalQuote": "Kein Lohndumping über Werkverträge! Der Missbrauch von Werkverträgen – ob als Scheinselbstständig"
+      "originalQuote": "Kein Lohndumping über Werkverträge! Der Missbrauch von Werkverträgen – ob als Scheinselbstständig",
+      "classification": "VERHINDERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verhinderung der Privatisierung von Sicherheit",
       "location": "Freiheit und Sicherheit",
-      "originalQuote": "Wir wollen die Privatisierung von Sicherheit durch Ordnerdienste, Schwarze Sheriffs verhindern b"
+      "originalQuote": "Wir wollen die Privatisierung von Sicherheit durch Ordnerdienste, Schwarze Sheriffs verhindern b",
+      "classification": "PRIVATISIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Netzsperren",
       "location": "Für ein offenes und freies Internet",
-      "originalQuote": "Zensur und Netzsperren wollen wir verhindern."
+      "originalQuote": "Zensur und Netzsperren wollen wir verhindern.",
+      "classification": "NETZSPERREN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Stopp der Privatisierung der Rechtsdurchsetzung im Netz",
       "location": "Für ein offenes und freies Internet",
-      "originalQuote": "Wir wollen die Privatisierung der Rechtsdurchsetzung im Netz stoppen und die Deep Packet Inspect"
+      "originalQuote": "Wir wollen die Privatisierung der Rechtsdurchsetzung im Netz stoppen und die Deep Packet Inspect",
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung eines Leistungsschutzrechts für Presseverlage",
       "location": "Für ein offenes und freies Internet",
-      "originalQuote": "Wir lehnen ein Leistungsschutzrecht für Presseverlage ab."
+      "originalQuote": "Wir lehnen ein Leistungsschutzrecht für Presseverlage ab.",
+      "classification": "LEISTUNGSSCHUTZRECHTS"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Spielautomaten in gastronomischen Einrichtungen",
       "location": "Für eine moderne Drogenpolitik",
-      "originalQuote": "In gastronomischen Einrichtungen plädieren wir für ein Automatenverbot."
+      "originalQuote": "In gastronomischen Einrichtungen plädieren wir für ein Automatenverbot.",
+      "classification": "GASTRONOMISCHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verhinderung der Behinderung des Familiennachzugs",
       "location": "Demokratie für alle",
-      "originalQuote": "Der Familiennachzug von Kindern, Ehegatten und (gleichgeschlechtlichen) Lebenspartnerinnen und -"
+      "originalQuote": "Der Familiennachzug von Kindern, Ehegatten und (gleichgeschlechtlichen) Lebenspartnerinnen und -",
+      "classification": "FAMILIENNACHZUGS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Visaliberalisierungen verhindern",
       "location": "Demokratie für alle",
-      "originalQuote": "Die diskriminierenden Deutsch-Tests beim Ehegattennachzug und im Aufenthaltsrecht wollen wir abs"
+      "originalQuote": "Die diskriminierenden Deutsch-Tests beim Ehegattennachzug und im Aufenthaltsrecht wollen wir abs",
+      "classification": "VISALIBERALISIERUNGEN"
     }
   ]
 }

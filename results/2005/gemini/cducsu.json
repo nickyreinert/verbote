@@ -6,7 +6,7 @@
       "topic": "Einschränkung der Entfaltungsmöglichkeiten von Kindern und Familien und Leben auf Kosten künftiger Generationen",
       "location": "A. Richtungsentscheidung für Deutschland / Wohin wollen wir?",
       "originalQuote": "Denn wir dürfen nicht zulassen, dass Kinder und Familien weiter in ihren Entfaltungsmöglichkeiten ei",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "ENTFALTUNGSMÖGLICHKEITEN"
     },
     {
       "category": "explizites Verbot",
@@ -69,14 +69,14 @@
       "topic": "Behinderung von Investitionen in neue Breitband-Netze durch staatliche Regulierung",
       "location": "B. Unsere Ziele – unsere Maßnahmen / 1.1 Innovation schafft Arbeit",
       "originalQuote": "Unser Ziel ist es, Anreize für den Aufbau neuer Breitband-Netze zu setzen, in dem wir dafür sorgen, da",
-      "classification": "Digitales & Überwachung"
+      "classification": "BREITBANDNETZE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Gängelung der wirtschaftlichen Betätigung durch Rechtsvorgaben des Bundes",
       "location": "B. Unsere Ziele – unsere Maßnahmen / 1.2 Weniger Vorschriften, mehr Freiheit",
       "originalQuote": "Wir führen die Gängelung der wirtschaftlichen Betätigung durch Rechtsvorgaben des Bundes zurück und en",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WIRTSCHAFTLICHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -104,7 +104,7 @@
       "topic": "Überzogene bundesrechtliche Standards",
       "location": "B. Unsere Ziele – unsere Maßnahmen / 1.2 Weniger Vorschriften, mehr Freiheit",
       "originalQuote": "o Wir entlasten kleine Unternehmen von Buchführungspflichten. \no Wir bauen überzogene bundesrechtliche",
-      "classification": "Demokratie & Recht"
+      "classification": "BUNDESRECHTLICHE"
     },
     {
       "category": "semantisches Verbot",
@@ -125,7 +125,7 @@
       "topic": "Verbandsklagerecht bei Planungsverfahren (soweit nicht europarechtlich vorgeschrieben)",
       "location": "B. Unsere Ziele – unsere Maßnahmen / 1.2 Weniger Vorschriften, mehr Freiheit",
       "originalQuote": "o Wir schaffen das Verbandsklagerecht bei Planungsverfahren ab, soweit es nicht europarechtlich vorge",
-      "classification": "Demokratie & Recht"
+      "classification": "VERBANDSKLAGERECHT"
     },
     {
       "category": "semantisches Verbot",
@@ -153,28 +153,28 @@
       "topic": "Unwirksame und ineffiziente arbeitsmarktpolitische Maßnahmen",
       "location": "B. Unsere Ziele – unsere Maßnahmen / 1.4 Senkung von Lohnzusatzkosten für mehr Arbeitsplätze",
       "originalQuote": "Alle arbeitsmarktpolitischen Maßnahmen kommen auf den Prüfstand. Was sich als unwirksam und ineffizie",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSMARKTPOLITISCHE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Die Ich-AG als Arbeitsmarktinstrument",
       "location": "B. Unsere Ziele – unsere Maßnahmen / 1.4 Senkung von Lohnzusatzkosten für mehr Arbeitsplätze",
       "originalQuote": "was in Arbeit führt, wird weitergeführt. \n• Wir fördern für Arbeitslose den Schritt in die Selbstständigkei",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSMARKTINSTRUMENT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Spekulative Absichten bei Aktienoptionen als Entlohnungsbestandteile",
       "location": "B. Unsere Ziele – unsere Maßnahmen / 1.5 Unternehmenskultur mit Zukunft",
       "originalQuote": "Aktienoptionen als Entlohnungsbestandteile müssen mindestens zehn Jahre gehalten werden, um spekulati",
-      "classification": "Soziales & Arbeit"
+      "classification": "ENTLOHNUNGSBESTANDTEILE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Unfairer Steuer- und Subventionswettlauf zu Lasten deutscher Arbeitsplätze",
       "location": "B. Unsere Ziele – unsere Maßnahmen / 1.5 Unternehmenskultur mit Zukunft",
       "originalQuote": "Ein unfairer Steuer - und Subventionswettlauf zu Lasten deutscher Arbeitsplätze und der öffentlichen ",
-      "classification": "Soziales & Arbeit"
+      "classification": "Wirtschaft & Steuern"
     },
     {
       "category": "semantisches Verbot",
@@ -188,21 +188,21 @@
       "topic": "Weitestgehende Beseitigung von Ausnahmen im Steuerrecht",
       "location": "B. Unsere Ziele – unsere Maßnahmen / 1.6 Steuern: einfach, wettbewerbsfähig und gerecht",
       "originalQuote": "Dazu werden wir die Ausnahmen weitestgehend beseitigen und im Gegenzug die Grundfreibeträge erhöhe",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WEITESTGEHENDE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Steuerschlupflöcher",
       "location": "B. Unsere Ziele – unsere Maßnahmen / 1.6 Steuern: einfach, wettbewerbsfähig und gerecht",
       "originalQuote": "Bei den Gegenfinanzierungsmaßnahmen wird im Vordergrund das Schließen von Steuerschlupflöchern stehe",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERSCHLUPFLÖCHER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Steuersparmodelle",
       "location": "B. Unsere Ziele – unsere Maßnahmen / 1.6 Steuern: einfach, wettbewerbsfähig und gerecht",
       "originalQuote": "Bei den Gegenfinanzierungsmaßnahmen wird im Vordergrund das Schließen von Steuerschlupflöchern stehe",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERSPARMODELLE"
     },
     {
       "category": "semantisches Verbot",

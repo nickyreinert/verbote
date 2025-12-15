@@ -6,7 +6,7 @@
       "topic": "Verdachtsunabhängige Durchleuchtung der Bürger ablehnen",
       "location": "Freiheit und Grundrechte",
       "originalQuote": "Wir lehnen die verdachtsunabhängige Durchleuchtung der Bürgerinnen und Bürger und die gläsernen Kund",
-      "classification": "Europa & Außenpolitik"
+      "classification": "VERDACHTSUNABHÄNGIGE"
     },
     {
       "category": "semantisches Verbot",
@@ -20,7 +20,7 @@
       "topic": "Ausdehnung öffentlicher Videoüberwachung ablehnen",
       "location": "Freiheit und Grundrechte",
       "originalQuote": "auch bekannt als Mindest- und Höchstspeicherfrist sowie eine Ausdehnung der öffentlichen Videoüberwa",
-      "classification": "Digitales & Überwachung"
+      "classification": "VIDEOÜBERWACHUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -34,14 +34,14 @@
       "topic": "Aufbau zentraler Biometriedatenbanken unterbleiben",
       "location": "Freiheit und Grundrechte",
       "originalQuote": "Der Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder die Versicherungswirtschaft ",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "BIOMETRIEDATENBANKEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einschränkungen beim Bargeldverkehr ablehnen",
       "location": "Freiheit und Grundrechte",
       "originalQuote": "Wir PIRATEN setzen uns sowohl auf Bundesebene als auch auf europäischer Ebene gegen Einschränkungen",
-      "classification": "Verkehr & Mobilität"
+      "classification": "EINSCHRÄNKUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -55,7 +55,7 @@
       "topic": "PKW-Maut ablehnen",
       "location": "Freiheit und Grundrechte",
       "originalQuote": "Eine PKW-Maut lehnen wir ebenfalls ab. Durch viele bislang vorgeschlagene Systeme zur Mauterfassung",
-      "classification": "Verkehr & Mobilität"
+      "classification": "PKWMAUT"
     },
     {
       "category": "semantisches Verbot",
@@ -97,7 +97,7 @@
       "topic": "Abschiebungen und Abschiebehaft beenden",
       "location": "Asyl und Migration",
       "originalQuote": "Wir setzen uns für ein generelles Ende von Abschiebungen und der Abschiebehaft ein, insbesondere zw",
-      "classification": "Migration & Asyl"
+      "classification": "ABSCHIEBUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -139,7 +139,7 @@
       "topic": "Militärisches Eingreifen ablehnen",
       "location": "Asyl und Migration",
       "originalQuote": "Militärisches Eingreifen lehnen wir grundsätzlich ab.",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITÄRISCHES"
     },
     {
       "category": "semantisches Verbot",
@@ -153,7 +153,7 @@
       "topic": "Weitergabe von Meldedaten an Beitragsservice beenden",
       "location": "Freiheit und Grundrechte",
       "originalQuote": "Die Weitergabe von Meldedaten an den Beitragsservice der öffentlich-rechtlichen Rundfunkanstalten ",
-      "classification": "Digitales & Überwachung"
+      "classification": "BEITRAGSSERVICE"
     },
     {
       "category": "semantisches Verbot",
@@ -181,7 +181,7 @@
       "topic": "Bundeswehr-Einsatz im Inneren ablehnen",
       "location": "Polizei und Justiz",
       "originalQuote": "Wir PIRATEN lehnen den Einsatz der Bundeswehr im Innern ab. Ausgenommen sind rein humanitäre, unbe",
-      "classification": "Rüstung & Waffen"
+      "classification": "BUNDESWEHREINSATZ"
     }
   ]
 }

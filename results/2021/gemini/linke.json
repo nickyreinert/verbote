@@ -6,7 +6,7 @@
       "topic": "Personalmangel und Dauerstress im Gesundheits- und Bildungssystem",
       "location": "5337",
       "originalQuote": "Personalmangel und Dauerstress etwa im Gesundheits- und Bildungssystem dürfen nicht sein.",
-      "classification": "Gesundheit & Drogen"
+      "classification": "PERSONALMANGEL"
     },
     {
       "category": "semantisches Verbot",
@@ -20,7 +20,7 @@
       "topic": "Krankenhäuser und Pflegekonzerne an der Börse",
       "location": "5374",
       "originalQuote": "Wir wollen Krankenhäuser und Pflegekonzerne von der Börse nehmen. Private Krankenhäuser und Pflegebetriebe, die ni",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "PFLEGEKONZERNE"
     },
     {
       "category": "semantisches Verbot",
@@ -34,7 +34,7 @@
       "topic": "Eigenanteile in der Pflegeversicherung",
       "location": "5379",
       "originalQuote": "Die Eigenanteile für die Versicherten oder ihre Angehörigen, die heute viele Menschen in Armut und Verzweiflung treiben, entfallen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "PFLEGEVERSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -55,49 +55,49 @@
       "topic": "Kürzung/Sanktionierung der Mindestsicherung",
       "location": "5391",
       "originalQuote": "Die Zeit von Hartz IV ist abgelaufen. Wir kämpfen für eine Mindestsicherung, die sanktionsfrei ist, also nich",
-      "classification": "Soziales & Arbeit"
+      "classification": "KÜRZUNGSANKTIONIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Rentenkürzung",
       "location": "5394",
       "originalQuote": "Dafür wollen wir die Rentenkürzung zurücknehmen und die Regelaltersgrenze wieder senken. Das Rentenniveau wolle",
-      "classification": "Soziales & Arbeit"
+      "classification": "RENTENKÜRZUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Altersarmut (Leben unter 1.200 Euro netto)",
       "location": "5397",
       "originalQuote": "Und niemand soll im Alter von weniger als 1.200 Euro netto leben müssen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ALTERSARMUT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Immobilienkonzerne an der Börse",
       "location": "5407",
       "originalQuote": "Besonders hohe Mieten müssen abgesenkt werden. Immobilienkonzerne wollen wir von der Börse nehmen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "IMMOBILIENKONZERNE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Schuldenbremse",
       "location": "5413",
       "originalQuote": "Wir halten gemeinsam mit vielen Expert*innen die Schuldenbremse für volkswirtschaftlich schädlich und wollen sie",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "SCHULDENBREMSE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Umbau von Regionen ohne Bürgerbeteiligung",
       "location": "5421",
       "originalQuote": "Kein Umbau der Regionen mehr über die Köpfe der Menschen vor Ort hinweg!",
-      "classification": "Wohnen & Miete"
+      "classification": "BÜRGERBETEILIGUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kurzstreckenflüge und Frachtverkehr auf der Straße/Luft",
       "location": "5445",
       "originalQuote": "Wir verlagern Kurzstreckenflüge und Frachtverkehr auf die Schiene. Die Bahn muss ausgebaut und für alle bezahlb",
-      "classification": "Umwelt & Klima"
+      "classification": "KURZSTRECKENFLÜGE"
     },
     {
       "category": "semantisches Verbot",
@@ -111,7 +111,7 @@
       "topic": "Verfassungsschutzbehörden in ihrer jetzigen Form",
       "location": "5459",
       "originalQuote": "Der sogenannte Verfassungsschutz schützt nicht die Demokratie, sondern oft rechte Strukturen. Wir wollen die Verfassungs",
-      "classification": "Demokratie & Recht"
+      "classification": "VERFASSUNGSSCHUTZBEHÖRDEN"
     },
     {
       "category": "explizites Verbot",
@@ -125,7 +125,7 @@
       "topic": "Rüstungsexporte an kriegführende/Menschenrechte missachtende Länder",
       "location": "5463",
       "originalQuote": "Wir wollen den Export von Waffen und Waffenfabriken verbieten. Rüstungsexporte in Länder, die an Kriegen beteiligt",
-      "classification": "Rüstung & Waffen"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
@@ -146,7 +146,7 @@
       "topic": "Elend und Sterben an den europäischen Außengrenzen",
       "location": "5472",
       "originalQuote": "Elend und Sterben an den europäischen Außengrenzen müssen ein Ende haben: Seenotrettung und die Flüchtlingskonventi",
-      "classification": "Migration & Asyl"
+      "classification": "EUROPÄISCHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -174,14 +174,14 @@
       "topic": "Kaufprämien für Autos",
       "location": "4639",
       "originalQuote": "gemeinwohlorientiert in öffentlichem und genossenschaftlichem Eigentum erfolgen. - Kaufprämien für Autos lehnen wir ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "KAUFPRÄMIEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Renditeorientierte Investoren (von Agrarförderung)",
       "location": "4680",
       "originalQuote": "Die Schaffung und der Erhalt sozialversicherungspflichtiger Arbeitsplätze soll unterstützt und renditeorientierte Investo",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "RENDITEORIENTIERTE"
     },
     {
       "category": "explizites Verbot",
@@ -195,7 +195,7 @@
       "topic": "Wirtschaftliche Verwertung von Nutzerdaten (Tracking, Profilbildung, personalisierte Werbung)",
       "location": "4727",
       "originalQuote": "- Die Nutzung öffentlich zugänglicher Angebote muss möglich sein, ohne dass die dabei entstehenden Daten wirtschaftlich verwertet werden, wie derzeit durch Tracking, Profilbildung und personalisierte Werbung.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WIRTSCHAFTLICHE"
     },
     {
       "category": "semantisches Verbot",
@@ -209,14 +209,14 @@
       "topic": "Kompromittierung von Sicherheitsstandards durch Wahlfreiheit/Interoperabilität",
       "location": "4732",
       "originalQuote": "Wir wollen eine Wahlfreiheit durch Interoperabilität und Datenportabilität zwischen den Diensten. Das darf nicht zulasten von Sicherheitsstandards gehen.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "WAHLFREIHEITINTEROPERABILITÄT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kriminalisierung und Stigmatisierung von Sexarbeiter*innen",
       "location": "4776",
       "originalQuote": "Einig sind wir uns darin, dass wir die Kriminalisierung und Stigmatisierung von Sexarbeiter*innen ablehnen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "KRIMINALISIERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -230,14 +230,14 @@
       "topic": "Möglichkeit für Erziehungsberechtigte, Kinder vom Aufklärungsunterricht auszuschließen",
       "location": "4818",
       "originalQuote": "Erziehungsberechtigten darf nicht die Möglichkeit zum Ausschluss ihrer Kinder vom Aufklärungsunterricht angeboten werden.",
-      "classification": "Demokratie & Recht"
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einschränkung sozialer Sicherheiten für Migrant*innen",
       "location": "4936",
       "originalQuote": "Der Einschränkung sozialer Sicherheiten für Migrant*innen aus EU-Ländern und anderen Staaten durch die Bundesregierung stellen wir uns entgegen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "EINSCHRÄNKUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -265,7 +265,7 @@
       "topic": "Einsatz von V-Leuten",
       "location": "5025",
       "originalQuote": "Als Erstes muss der Einsatz von V-Leuten beendet werden (vgl. Kapitel »Rechten Terror und Gewalt stoppen«).",
-      "classification": "Europa & Außenpolitik"
+      "classification": "EINSATZ"
     },
     {
       "category": "semantisches Verbot",
@@ -279,14 +279,14 @@
       "topic": "Nichtindividualisierte Funkzellenabfrage, Videoüberwachung, Späh-/Lauschangriffe, Rasterfahndung",
       "location": "5026",
       "originalQuote": "Wir wollen das Recht auf informationelle Selbstbestimmung sichern: gegen Vorratsdatenspeicherung, Bestandsdatenauskunft und Onlinedurchsuchungen (»Staatstrojaner«), nichtindividualisierte Funkzellenabfrage, allgegenwärtige Videoüberwachung, Späh- und Lauschangriffe und Rasterfahndung.",
-      "classification": "Digitales & Überwachung"
+      "classification": "NICHTINDIVIDUALISIERTE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Gesetzeserstellung durch Profitierende (Lobbyisten)",
       "location": "5071",
       "originalQuote": "zurückgedrängt werden. Gesetze dürfen nicht von denen geschrieben werden, die davon profitieren.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "GESETZESERSTELLUNG"
     },
     {
       "category": "explizites Verbot",
@@ -307,21 +307,21 @@
       "topic": "Unternehmens-/Lobbyistenspenden und Parteiensponsoring an Parteien",
       "location": "5100",
       "originalQuote": "Unternehmens- und Lobbyistenspenden an Parteien sowie das Parteiensponsoring wie Unternehmensstände auf Parteitagen wollen wir verbieten und Spenden von Privatpersonen auf 25.000 Euro im Jahr begrenzen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "UNTERNEHMENSLOBBYISTENSPENDEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Spenden von Privatpersonen über 25.000 Euro pro Jahr",
       "location": "5100",
       "originalQuote": "Unternehmens- und Lobbyistenspenden an Parteien sowie das Parteiensponsoring wie Unternehmensstände auf Parteitagen wollen wir verbieten und Spenden von Privatpersonen auf 25.000 Euro im Jahr begrenzen.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "PRIVATPERSONEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Beschleunigung des Planfeststellungsverfahrens zulasten der Bürgerbeteiligung",
       "location": "5136",
       "originalQuote": "Eine Beschleunigung des Planfeststellungsverfahrens zulasten von Bürger*innenbeteiligung lehnen wir ab.",
-      "classification": "Bildung & Forschung"
+      "classification": "PLANFESTSTELLUNGSVERFAHRENS"
     }
   ]
 }

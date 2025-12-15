@@ -5,61 +5,71 @@
       "category": "explizites Verbot",
       "topic": "Verbot rein spekulativer Finanzprodukte",
       "location": "II.1",
-      "originalQuote": "Rein spekulative Finanzprodukte, die keinen wirtschaftlichen Nutzen haben, wollen wir verbieten."
+      "originalQuote": "Rein spekulative Finanzprodukte, die keinen wirtschaftlichen Nutzen haben, wollen wir verbieten.",
+      "classification": "FINANZPRODUKTE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot des Einsatzes von Leiharbeitnehmern als Streikbrecher",
       "location": "I.2",
-      "originalQuote": "Der Einsatz von Leiharbeitnehmern als Streikbrecher soll verboten werden."
+      "originalQuote": "Der Einsatz von Leiharbeitnehmern als Streikbrecher soll verboten werden.",
+      "classification": "LEIHARBEITNEHMERN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Rüstungsexporten in Krisengebiete und Länder mit Menschenrechtsverletzungen",
       "location": "X",
-      "originalQuote": "Rüstungsexporte in Krisengebiete und in Länder, in denen die Menschenrechte massiv missachtet und ver"
+      "originalQuote": "Rüstungsexporte in Krisengebiete und in Länder, in denen die Menschenrechte massiv missachtet und ver",
+      "classification": "MENSCHENRECHTSVERLETZUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung einer Ausweitung von Rüstungsexporten aus wirtschaftlichen Gründen",
       "location": "X",
-      "originalQuote": "Eine Ausweitung von Rüstungsexporten aus wirtschaftlichen Gründen und als Ersatz für eine gestalteris"
+      "originalQuote": "Eine Ausweitung von Rüstungsexporten aus wirtschaftlichen Gründen und als Ersatz für eine gestalteris",
+      "classification": "RÜSTUNGSEXPORTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verhinderung der Spekulation mit Nahrungsmitteln",
       "location": "II.1",
-      "originalQuote": "Die Spekulation mit Nahrungsmitteln wollen wir unterbinden."
+      "originalQuote": "Die Spekulation mit Nahrungsmitteln wollen wir unterbinden.",
+      "classification": "Wohnen & Miete"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Untersagung konzerninterner Verleihung durch Leiharbeitsgesellschaften",
       "location": "I.2",
-      "originalQuote": "Die zunehmend verbreitete konzerninterne Verleihung durch Leiharbeitsgesellschaften der Unternehmen w"
+      "originalQuote": "Die zunehmend verbreitete konzerninterne Verleihung durch Leiharbeitsgesellschaften der Unternehmen w",
+      "classification": "LEIHARBEITSGESELLSCHAFTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung einer überstürzten Beschaffung von Kampfdrohnen",
       "location": "X",
-      "originalQuote": "Eine überstürzte Entscheidung zur Beschaffung von Kampfdrohnen lehnen wir ab."
+      "originalQuote": "Eine überstürzte Entscheidung zur Beschaffung von Kampfdrohnen lehnen wir ab.",
+      "classification": "ÜBERSTÜRZTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung einer Aufweichung des Parlamentsvorbehalts",
       "location": "X",
-      "originalQuote": "Eine Aufweichung des Parlamentsvorbehalts lehnen wir ab."
+      "originalQuote": "Eine Aufweichung des Parlamentsvorbehalts lehnen wir ab.",
+      "classification": "PARLAMENTSVORBEHALTS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verhinderung von Lohn- und Sozialdumping in Europa",
       "location": "IX",
-      "originalQuote": "Lohn- und Sozialdumping darf kein Raum gegeben werden."
+      "originalQuote": "Lohn- und Sozialdumping darf kein Raum gegeben werden.",
+      "classification": "Soziales & Arbeit"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Gegen Vorhaben mit Zwang zur Privatisierung",
       "location": "IX",
-      "originalQuote": "Wir werden uns Vorhaben, die einen Zwang zur Privatisierung beinhalten, entgegenstellen."
+      "originalQuote": "Wir werden uns Vorhaben, die einen Zwang zur Privatisierung beinhalten, entgegenstellen.",
+      "classification": "PRIVATISIERUNG"
     }
   ]
 }

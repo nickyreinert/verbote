@@ -5,109 +5,127 @@
       "category": "semantisches Verbot",
       "topic": "Neue Subventionen",
       "location": "Einleitung",
-      "originalQuote": "Wir haben neue Subventionen verhindert und Staatshilfen für Großkonzerne unterbunden."
+      "originalQuote": "Wir haben neue Subventionen verhindert und Staatshilfen für Großkonzerne unterbunden.",
+      "classification": "SUBVENTIONEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Staatshilfen für Großkonzerne",
       "location": "Einleitung",
-      "originalQuote": "Wir haben neue Subventionen verhindert und Staatshilfen für Großkonzerne unterbunden."
+      "originalQuote": "Wir haben neue Subventionen verhindert und Staatshilfen für Großkonzerne unterbunden.",
+      "classification": "STAATSHILFEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Neue Steuererhöhungen",
       "location": "Einleitung",
-      "originalQuote": "Für die Abschaffung der Kalten Progression und des Solis sowie gegen neue Steuererhöhungen"
+      "originalQuote": "Für die Abschaffung der Kalten Progression und des Solis sowie gegen neue Steuererhöhungen",
+      "classification": "STEUERERHÖHUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Staatsfinanzierung durch EZB",
       "location": "Die Grundlage für unseren Wohlstand – stabiles Geld",
-      "originalQuote": "Eine Staatsfinanzierung durch die EZB und damit die Sanierung der Staatshaushalte durch Inflatio"
+      "originalQuote": "Eine Staatsfinanzierung durch die EZB und damit die Sanierung der Staatshaushalte durch Inflatio",
+      "classification": "STAATSFINANZIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Haftungsunion",
       "location": "Die Grundlage für unseren Wohlstand – stabiles Geld",
-      "originalQuote": "Eine Haftungsunion wird es mit uns nicht geben."
+      "originalQuote": "Eine Haftungsunion wird es mit uns nicht geben.",
+      "classification": "HAFTUNGSUNION"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Eurobonds oder Altschuldentilgungsfonds",
       "location": "Die Grundlage für unseren Wohlstand – stabiles Geld",
-      "originalQuote": "eine gesamtschuldnerische Haftung für Staatsanleihen der Mitgliedstaaten, wie über Eurobonds oder"
+      "originalQuote": "eine gesamtschuldnerische Haftung für Staatsanleihen der Mitgliedstaaten, wie über Eurobonds oder",
+      "classification": "ALTSCHULDENTILGUNGSFONDS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Höhere Steuerbelastung",
       "location": "Entlastung für den Aufstieg",
-      "originalQuote": "Eine höhere Steuerbelastung für Bürger und Unternehmen lehnen wir entschieden ab."
+      "originalQuote": "Eine höhere Steuerbelastung für Bürger und Unternehmen lehnen wir entschieden ab.",
+      "classification": "STEUERBELASTUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einführung von EU-Steuern",
       "location": "Entlastung für den Aufstieg",
-      "originalQuote": "Die Einführung von EU-Steuern wird von uns abgelehnt."
+      "originalQuote": "Die Einführung von EU-Steuern wird von uns abgelehnt.",
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verschärftes Erbschaftsteuerrecht, Vermögensabgabe, Vermögensteuer",
       "location": "Entlastung für den Aufstieg",
-      "originalQuote": "Ein verschärftes Erbschaftsteuerrecht sowie eine Vermögensabgabe und eine Vermögensteuer wären ge"
+      "originalQuote": "Ein verschärftes Erbschaftsteuerrecht sowie eine Vermögensabgabe und eine Vermögensteuer wären ge",
+      "classification": "ERBSCHAFTSTEUERRECHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Eingriffe in Soziale Marktwirtschaft zugunsten großer Konzerne",
       "location": "Mittelstand stärken",
-      "originalQuote": "Eingriffe in die Soziale Marktwirtschaft zugunsten großer Konzerne wie Opel, Karstadt oder Schlec"
+      "originalQuote": "Eingriffe in die Soziale Marktwirtschaft zugunsten großer Konzerne wie Opel, Karstadt oder Schlec",
+      "classification": "MARKTWIRTSCHAFT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ordnungsrecht für Erneuerbare Wärme, Zwangssanierungen",
       "location": "Impulsgeber für ein neues Zeitalter",
-      "originalQuote": "Ordnungsrecht, das jeden Eigentümer im Gebäudebestand zur Nutzung Erneuerbarer Wärme verpflichtet"
+      "originalQuote": "Ordnungsrecht, das jeden Eigentümer im Gebäudebestand zur Nutzung Erneuerbarer Wärme verpflichtet",
+      "classification": "ZWANGSSANIERUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Bevormundungsmaßnahmen wie Verbote von Glühlampen",
       "location": "Impulsgeber für ein neues Zeitalter",
-      "originalQuote": "Bevormundungsmaßnahmen wie Verbote von Glühlampen oder von Heizpilzen lehnen wir Liberale ab."
+      "originalQuote": "Bevormundungsmaßnahmen wie Verbote von Glühlampen oder von Heizpilzen lehnen wir Liberale ab.",
+      "classification": "BEVORMUNDUNGSMASSNAHMEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Fracking in Wasserschutzgebieten",
       "location": "Impulsgeber für ein neues Zeitalter",
-      "originalQuote": "In Wasserschutzgebieten wollen wir Fracking grundsätzlich ausschließen."
+      "originalQuote": "In Wasserschutzgebieten wollen wir Fracking grundsätzlich ausschließen.",
+      "classification": "WASSERSCHUTZGEBIETEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kappung und degressive Direktzahlungen in Agrarpolitik",
       "location": "Vom gemeinsamen Währungsraum zur Stabilitätsunion",
-      "originalQuote": "Kappung ab einer bestimmten Hektarzahl und eine degressive Ausgestaltung von Direktzahlungen, auc"
+      "originalQuote": "Kappung ab einer bestimmten Hektarzahl und eine degressive Ausgestaltung von Direktzahlungen, auc",
+      "classification": "DIREKTZAHLUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Rückfall in keynesianische Schuldenpolitik",
       "location": "Vom gemeinsamen Währungsraum zur Stabilitätsunion",
-      "originalQuote": "Einen Rückfall in die keynesianische Schuldenpolitik der 1970er Jahre lehnen wir vehement ab."
+      "originalQuote": "Einen Rückfall in die keynesianische Schuldenpolitik der 1970er Jahre lehnen wir vehement ab.",
+      "classification": "SCHULDENPOLITIK"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Europäische Steuern",
       "location": "Vom gemeinsamen Währungsraum zur Stabilitätsunion",
-      "originalQuote": "Deshalb lehnen wir europäische Steuern ab."
+      "originalQuote": "Deshalb lehnen wir europäische Steuern ab.",
+      "classification": "EUROPÄISCHE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Eurobonds oder Schuldentilgungsfonds",
       "location": "Vom gemeinsamen Währungsraum zur Stabilitätsunion",
-      "originalQuote": "eine gesamtschuldnerische Haftung für Staatsanleihen der Mitgliedstaaten, wie über Eurobonds ode"
+      "originalQuote": "eine gesamtschuldnerische Haftung für Staatsanleihen der Mitgliedstaaten, wie über Eurobonds ode",
+      "classification": "SCHULDENTILGUNGSFONDS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Vergemeinschaftung der Entwicklungspolitik",
       "location": "Partnerschaftlich Verantwortung übernehmen",
-      "originalQuote": "Eine Vergemeinschaftung der Entwicklungspolitik lehnen wir jedoch ab."
+      "originalQuote": "Eine Vergemeinschaftung der Entwicklungspolitik lehnen wir jedoch ab.",
+      "classification": "ENTWICKLUNGSPOLITIK"
     }
   ]
 }

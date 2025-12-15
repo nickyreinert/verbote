@@ -1,1 +1,61 @@
-{"sourceFile":"SPD - 2017 - Wahlprogramm.txt","topics":[{"category":"semantisches Verbot","topic":"Abschaffung sachgrundloser Befristung","location":"Sichere Arbeit und gute Löhne","originalQuote":"Deshalb werden wir die sachgrundlose Befristung abschaffen, um insbesondere jungen Menschen Perspekt"},{"category":"semantisches Verbot","topic":"Einschränkung von Kettenbefristungen","location":"Sichere Arbeit und gute Löhne","originalQuote":"Die Sachgründe für Befristungen werden wir einschränken und die Möglichkeit von Kettenbefristungen be"},{"category":"semantisches Verbot","topic":"Abbau geringfügiger Beschäftigung und Bekämpfung von Missbrauch","location":"Sichere Arbeit und gute Löhne","originalQuote":"Auch geringfügige Beschäftigung wollen wir abbauen, den Missbrauch bekämpfen und Beschäftigten den We"},{"category":"semantisches Verbot","topic":"Abschaffung von Mindestlohnausnahmen für Langzeitarbeitslose","location":"Sichere Arbeit und gute Löhne","originalQuote":"Die Ausnahmen beim Mindestlohn für Langzeitarbeitslose werden wir abschaffen. Wo reguläre Arbeit gele"},{"category":"semantisches Verbot","topic":"Ablehnung europäischer oder deutscher Atomwaffen","location":"Eine neue Abrüstungsinitiative","originalQuote":"Mit aller Entschiedenheit wenden wir uns gegen verantwortungslose Gedankenspiele über die Schaffung e"},{"category":"explizites Verbot","topic":"Grundsätzliches Verbot von Kleinwaffenexporten in Drittstaaten","location":"Eine neue Abrüstungsinitiative","originalQuote":"Sie wird ein grundsätzliches Verbot des Kleinwaffenexportes in Drittstaaten außerhalb von EU, Nato un"},{"category":"semantisches Verbot","topic":"Ablehnung völkerrechtswidriger Tötungen durch Drohnen","location":"Eine neue Abrüstungsinitiative","originalQuote":"Völkerrechtswidrige Tötungen durch unbemannte militärische Systeme lehnen wir kategorisch ab. Es darf"},{"category":"semantisches Verbot","topic":"Ablehnung unrealistischer Verteidigungsausgabensteigerung auf 2% BIP","location":"Moderne Streitkräfte zur Sicherung des Friedens","originalQuote":"Wir wenden uns allerdings entschieden gegen völlig unnötige und unrealistische Steigerungsraten des d"}]}
+{
+  "sourceFile": "SPD - 2017 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung sachgrundloser Befristung",
+      "location": "Sichere Arbeit und gute Löhne",
+      "originalQuote": "Deshalb werden wir die sachgrundlose Befristung abschaffen, um insbesondere jungen Menschen Perspekt",
+      "classification": "Soziales & Arbeit"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung von Kettenbefristungen",
+      "location": "Sichere Arbeit und gute Löhne",
+      "originalQuote": "Die Sachgründe für Befristungen werden wir einschränken und die Möglichkeit von Kettenbefristungen be",
+      "classification": "KETTENBEFRISTUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abbau geringfügiger Beschäftigung und Bekämpfung von Missbrauch",
+      "location": "Sichere Arbeit und gute Löhne",
+      "originalQuote": "Auch geringfügige Beschäftigung wollen wir abbauen, den Missbrauch bekämpfen und Beschäftigten den We",
+      "classification": "GERINGFÜGIGER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung von Mindestlohnausnahmen für Langzeitarbeitslose",
+      "location": "Sichere Arbeit und gute Löhne",
+      "originalQuote": "Die Ausnahmen beim Mindestlohn für Langzeitarbeitslose werden wir abschaffen. Wo reguläre Arbeit gele",
+      "classification": "MINDESTLOHNAUSNAHMEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung europäischer oder deutscher Atomwaffen",
+      "location": "Eine neue Abrüstungsinitiative",
+      "originalQuote": "Mit aller Entschiedenheit wenden wir uns gegen verantwortungslose Gedankenspiele über die Schaffung e",
+      "classification": "EUROPÄISCHER"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Grundsätzliches Verbot von Kleinwaffenexporten in Drittstaaten",
+      "location": "Eine neue Abrüstungsinitiative",
+      "originalQuote": "Sie wird ein grundsätzliches Verbot des Kleinwaffenexportes in Drittstaaten außerhalb von EU, Nato un",
+      "classification": "KLEINWAFFENEXPORTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung völkerrechtswidriger Tötungen durch Drohnen",
+      "location": "Eine neue Abrüstungsinitiative",
+      "originalQuote": "Völkerrechtswidrige Tötungen durch unbemannte militärische Systeme lehnen wir kategorisch ab. Es darf",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung unrealistischer Verteidigungsausgabensteigerung auf 2% BIP",
+      "location": "Moderne Streitkräfte zur Sicherung des Friedens",
+      "originalQuote": "Wir wenden uns allerdings entschieden gegen völlig unnötige und unrealistische Steigerungsraten des d",
+      "classification": "VERTEIDIGUNGSAUSGABENSTEIGERUNG"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "sourceFile": "Grüne - 2009 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Gentechnik in Essen und auf dem Acker",
+      "location": "Wer Grün wählt",
+      "originalQuote": "Wir schützen die biologische Vielfalt und lehnen Gentechnik im Essen und auf dem Acker ab.",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Moratorium gegen den Bau neuer Kohlekraftwerke",
+      "location": "Wer Grün wählt",
+      "originalQuote": "Dafür brauchen wir den Atomausstieg – und ein Moratorium gegen den Bau neuer Kohlekraftwerke.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Internetsperrlisten und Sperrinfrastruktur",
+      "location": "13. Digital ist besser",
+      "originalQuote": "Den aktuellen Vorschlägen zur Einführung von Internetsperrlisten und den Aufbau einer umfassenden Sperr",
+      "classification": "INTERNETSPERRLISTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Vorratsdatenspeicherung",
+      "location": "13. Digital ist besser",
+      "originalQuote": "Die Filterung des Datenverkehrs sowie massenhafte und unbegründete Speicherorgien, wie die Vorratsdaten",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Massenverfolgung und digitalem Rechtemanagement im Urheberrecht",
+      "location": "13. Digital ist besser",
+      "originalQuote": "Massenhaft Verfolgung, den Einsatz von digitalem Rechtemanagement sowie die Bestrafung von digitalen P",
+      "classification": "MASSENVERFOLGUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung pauschaler Übertragung von Rechten in sozialen Netzwerken",
+      "location": "13. Digital ist besser",
+      "originalQuote": "Eine Pflicht zur pauschalen Übertragung von Rechten am eigenen Bild, Text oder Video lehnen wir dort gl",
+      "classification": "ÜBERTRAGUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Exportsubventionen für Nahrungsmittel",
+      "location": "14. Eine Welt",
+      "originalQuote": "Wir setzen uns dafür ein, dass handelsverzerrende EU-Agrarsubventionen, vor allem die Exporterstattunge",
+      "classification": "EXPORTSUBVENTIONEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Rüstungsexporten ohne strenge Kontrolle",
+      "location": "14. Eine Welt",
+      "originalQuote": "Wir wollen eine menschenrechtsorientierte, restriktive Rüstungsexportpolitik durchsetzen mit mehr Trans",
+      "classification": "RÜSTUNGSEXPORTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Uranmunition",
+      "location": "14. Eine Welt",
+      "originalQuote": "Uranwaffen wirken unterschiedslos und treffen vor allem die Zivilbevölkerung. Deshalb wollen wir Uranmu",
+      "classification": "URANMUNITION"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Ausbaus der NATO zu einer Weltpolizei",
+      "location": "14. Eine Welt",
+      "originalQuote": "Den Ausbau der NATO zu einer Weltpolizei lehnen wir ab.",
+      "classification": "WELTPOLIZEI"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von militärischen Abenteuern wie dem Irak-Krieg",
+      "location": "14. Eine Welt",
+      "originalQuote": "Militärischen Abenteuern wie dem Irak-Krieg, Ressourcenkriegen oder Bundeswehreinsätzen im Innern ertei",
+      "classification": "MILITÄRISCHEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von neuen Kohlekraftwerken als Klimaschutz",
+      "location": "Wer Grün wählt",
+      "originalQuote": "Die SPD will neue Kohlekraftwerke als Klimaschutz verkaufen und die CDU Atomkraft als »Ökoenergie«.",
+      "classification": "KOHLEKRAFTWERKEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Kinderpornografie und NS-Propaganda im Netz (Löschung statt Sperrung)",
+      "location": "13. Digital ist besser",
+      "originalQuote": "Inhalte wie Kinderpornografie müssen aus dem Netz gelöscht werden, sobald sie bekannt sind.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Streumunition und Landminen weltweit",
+      "location": "14. Eine Welt",
+      "originalQuote": "Das Verbot von Streumunition und Landminen soll weltweit gelten.",
+      "classification": "STREUMUNITION"
+    }
+  ]
+}

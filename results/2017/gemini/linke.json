@@ -13,7 +13,7 @@
       "topic": "Neoliberale Politik von Privatisierung, Spekulation und unsozialer Kürzungspolitik",
       "location": "Einführung, Seite 8",
       "originalQuote": "Die neoliberale Politik von Privatisierung,\n Spekulation und unsozialer Kürzungspolitik\n wollen wir beenden.",
-      "classification": "Soziales & Arbeit"
+      "classification": "Wohnen & Miete"
     },
     {
       "category": "semantisches Verbot",
@@ -41,14 +41,14 @@
       "topic": "Ausnahmeregeln für Befristungen im wissenschaftlichen Bereich",
       "location": "Einführung, Seite 10",
       "originalQuote": "Die Ausnahmeregeln für Befris-\n tungen im wissenschaftlichen Bereich\n wollen wir abschaffen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "WISSENSCHAFTLICHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Hartz-IV-System, Sanktionen und Kürzungsmöglichkeiten",
       "location": "Einführung, Seite 10",
       "originalQuote": "Armut abschaffen, statt die Armen bekämpfen:\n Wir schaffen das Hartz-IV-System ab und\n ersetzen es durch eine bedarfsdeckende\n und sanktionsfreie Mindestsicherung in\n Höhe von 1.050 Euro ohne Sanktionen und\n Kürzungsmöglichkeiten.",
-      "classification": "Soziales & Arbeit"
+      "classification": "KÜRZUNGSMÖGLICHKEITEN"
     },
     {
       "category": "semantisches Verbot",
@@ -69,7 +69,7 @@
       "topic": "Kinderarmut",
       "location": "III. Soziale Sicherheit, Seite 26",
       "originalQuote": "Kinderarmut abschaffen!",
-      "classification": "Soziales & Arbeit"
+      "classification": "KINDERARMUT"
     },
     {
       "category": "semantisches Verbot",
@@ -90,7 +90,7 @@
       "topic": "Mieterhöhungen",
       "location": "VII. Die Mieten runter!, Seite 45",
       "originalQuote": "Die Mieten sind zu hoch.\n Mieterhöhungen stoppen!",
-      "classification": "Wohnen & Miete"
+      "classification": "MIETERHÖHUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -104,7 +104,7 @@
       "topic": "Organisierte Finanzkriminalität",
       "location": "XIV. Menschen und Natur vor Profite, Seite 77",
       "originalQuote": "Steueroasen trockenlegen\n die organisierte\n Finanzkriminalität stoppen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "FINANZKRIMINALITÄT"
     },
     {
       "category": "explizites Verbot",
@@ -118,7 +118,7 @@
       "topic": "Ökologischer Dumpingwettbewerb im Luftverkehr",
       "location": "XIV. Menschen und Natur vor Profite, Seite 87/88",
       "originalQuote": "ökologischen Dumpingwettbewerb im Luftverkehr wollen wir unterbinden. Wir wollen eine einheitliche Kerosinsteuer in der EU.",
-      "classification": "Umwelt & Klima"
+      "classification": "DUMPINGWETTBEWERB"
     },
     {
       "category": "semantisches Verbot",
@@ -132,21 +132,21 @@
       "topic": "Rüstungsexporte",
       "location": "XV. Nein zum Krieg, Seite 96",
       "originalQuote": "Frieden schaffen ohne Waffen:\n Rüstungsexporte verbieten.\n Fluchtursachen bekämpfen",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Europäische Union der Aufrüstung und Militarisierung",
       "location": "XVI. Für ein Europa der Menschen, Seite 106",
       "originalQuote": "Keine Europäische Union\n der Aufrüstung und Militarisierung...... 106",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITARISIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Rechte Gewalt",
       "location": "XVII. Für eine Demokratie, Seite 108",
       "originalQuote": "Rechte Gewalt stoppen:\n Antifaschismus ist\n gelebte Demokratie",
-      "classification": "Demokratie & Recht"
+      "classification": "RECHTE"
     },
     {
       "category": "semantisches Verbot",

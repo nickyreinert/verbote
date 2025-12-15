@@ -6,7 +6,7 @@
       "topic": "Keine neuen Atomkraftwerke",
       "location": "Kapitel II.2, Abschnitt „Atomausstieg umsetzen, Sicherheit gewährleisten“",
       "originalQuote": "Die Nutzung der Atomenergie birgt zu große Risiken. Nicht zuletzt ist die Frage der End",
-      "classification": "Umwelt & Klima"
+      "classification": "ATOMKRAFTWERKE"
     },
     {
       "category": "semantisches Verbot",
@@ -20,7 +20,7 @@
       "topic": "Kurzfristige und spekulative Beteiligungen zu Lasten von Standorten und Arbeitsplätzen abgelehnt",
       "location": "Kapitel II.1, Abschnitt „Neue Regeln für die Finanzmärkte“",
       "originalQuote": "Kurzfristige und spekulative Beteiligungen zu Lasten von Standorten und Arbeitsplätzen leh",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSPLÄTZEN"
     },
     {
       "category": "semantisches Verbot",
@@ -104,28 +104,28 @@
       "topic": "Bloßes Wegsperren jugendlicher Straftäter abgelehnt",
       "location": "Kapitel II.10, Abschnitt „Mehr Sicherheit im Alltag“",
       "originalQuote": "Bloßes Wegsperren auf Basis des Erwachsenenstrafrechts lehnen wir ab.",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "JUGENDLICHER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Bündnis mit der Linkspartei ausgeschlossen",
       "location": "Kapitel III, Abschnitt „Eine solidarische Mehrheit für Deutschland“",
       "originalQuote": "Ein Bündnis mit der Partei „Die Linke“ schließen wir Sozialdemokratinnen und Sozialdem",
-      "classification": "Demokratie & Recht"
+      "classification": "AUSGESCHLOSSEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Minderheitsregierung mit Duldung durch die Linkspartei ausgeschlossen",
       "location": "Kapitel III, Abschnitt „Eine solidarische Mehrheit für Deutschland“",
       "originalQuote": "Wir werden auch keine Minderheitsregierung bilden, die von der Linkspartei geduldet wir",
-      "classification": "Demokratie & Recht"
+      "classification": "MINDERHEITSREGIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Neue Atomkraftwerke ausgeschlossen",
       "location": "Kapitel III, Abschnitt „Eine solidarische Mehrheit für Deutschland“",
       "originalQuote": "* Wer keine neuen Atomkraftwerke will, muss SPD wählen.",
-      "classification": "Umwelt & Klima"
+      "classification": "ATOMKRAFTWERKE"
     },
     {
       "category": "explizites Verbot",

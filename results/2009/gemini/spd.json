@@ -6,7 +6,7 @@
       "topic": "Rückfall hinter die Prinzipien des Grundgesetzes",
       "location": "I.1 Zeit für Entscheidungen [3121]",
       "originalQuote": "Das Grundgesetz bestimmt die Prinzipien unseres Zusammenlebens. Dahinter darf niemand zurück.",
-      "classification": "Demokratie & Recht"
+      "classification": "GRUNDGESETZES"
     },
     {
       "category": "semantisches Verbot",
@@ -27,14 +27,14 @@
       "topic": "Die Gier an den Finanzmärkten",
       "location": "I.2 Eigentum verpflichtet: Die Soziale Marktwirtschaft [3146]",
       "originalQuote": "Die Finanzmärkte brauchen neue Regeln. Die Gier muss gestoppt werden. Wir haben im nationalen Ra",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "FINANZMÄRKTEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Zurücklassen von Kindern durch die Gesellschaft",
       "location": "I.4 Unsere Ziele [3219]",
       "originalQuote": "Kein Kind darf von der Gesellschaft zurückgelassen werden.",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "ZURÜCKLASSEN"
     },
     {
       "category": "semantisches Verbot",
@@ -48,7 +48,7 @@
       "topic": "Bloßes Wegsperren von Jugendlichen auf Basis des Erwachsenenstrafrechts",
       "location": "II. (Justiz) [2727]",
       "originalQuote": "Bloßes Wegsperren auf Basis des Erwachsenenstrafrechts lehnen wir ab. * Opferschutz. Wir haben die",
-      "classification": "Demokratie & Recht"
+      "classification": "ERWACHSENENSTRAFRECHTS"
     },
     {
       "category": "semantisches Verbot",
@@ -76,7 +76,7 @@
       "topic": "Europa der Niedriglöhne und der Arbeitsplatzkonkurrenz",
       "location": "II. (Europa) [2945]",
       "originalQuote": "Wir wenden uns gegen ein Europa der Niedriglöhne und der Arbeitsplatzkonkurrenz. Wir brauchen ein",
-      "classification": "Soziales & Arbeit"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
@@ -90,7 +90,7 @@
       "topic": "Kurzfristige und spekulative Beteiligungen zu Lasten von Standorten und Arbeitsplätzen",
       "location": "II.1 Wohlstand erhalten und sichern [3256]",
       "originalQuote": "Kurzfristige und spekulative Beteiligungen zu Lasten von Standorten und Arbeitsplätzen lehnen wir ",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSPLÄTZEN"
     },
     {
       "category": "explizites Verbot",
@@ -111,14 +111,14 @@
       "topic": "Mitfinanzierung von Gehaltsexzessen und Abfindungen für unfähige Manager durch die Allgemeinheit",
       "location": "II.1 Wohlstand erhalten und sichern [3275]",
       "originalQuote": "Gehaltsexzesse und goldene Handschläge für unfähige Manager dürfen nicht von der Allgemeinheit mit",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "MITFINANZIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Volle steuerliche Geltendmachung von Vorstandsvergütungen und Abfindungen über 1 Mio. Euro",
       "location": "II.1 Wohlstand erhalten und sichern [3277]",
       "originalQuote": "Wir wollen, dass Vorstandsvergütungen und -abfindungen oberhalb von einer Million Euro nur noch zu",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VORSTANDSVERGÜTUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -132,7 +132,7 @@
       "topic": "Verletzung der Verbraucherinteressen bei Unternehmenszusammenschlüssen",
       "location": "II.1 Wohlstand erhalten und sichern [3296]",
       "originalQuote": "Wir werden dafür sorgen, dass bei Zusammenschlüssen von Unternehmen das Wettbewerbsprinzip erhalte",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "UNTERNEHMENSZUSAMMENSCHLÜSSEN"
     },
     {
       "category": "semantisches Verbot",

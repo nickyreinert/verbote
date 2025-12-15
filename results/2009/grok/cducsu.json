@@ -1,1 +1,75 @@
-{"sourceFile":"CDU-CSU - 2009 - Wahlprogramm.txt","topics":[{"category":"semantisches Verbot","topic":"Steuererhöhungen","location":"B.I.1 Verantwortungsbewusste Steuerpolitik","originalQuote":"Steuererhöhungen lehnen CDU und CSU ab. Eine höhere staatliche Belastung der Energiepreise wird es"},{"category":"semantisches Verbot","topic":"Höhere Belastung der Energiepreise","location":"B.I.1 Verantwortungsbewusste Steuerpolitik","originalQuote":"Eine höhere staatliche Belastung der Energiepreise wird es mit CDU und CSU nicht geben."},{"category":"semantisches Verbot","topic":"Wachstumsfeindliche Steuerpolitik","location":"B.I.1 Verantwortungsbewusste Steuerpolitik","originalQuote":"Wachstumsfeindliche Steuerpolitik wird es mit CDU und CSU nicht geben."},{"category":"semantisches Verbot","topic":"Generelles Tempolimit auf Autobahnen","location":"B.I.2 Leistungsfähige Verkehrsnetze","originalQuote":"Ein generelles Tempolimit auf Autobahnen lehnen wir ab."},{"category":"semantisches Verbot","topic":"EU-Richtlinie zum Bodenschutz","location":"B.III.6 Umweltschutz","originalQuote":"Eine EU-Richtlinie zum Bodenschutz lehnen wir ab."},{"category":"semantisches Verbot","topic":"Liberalisierungstendenzen bei Trinkwasser und Abwasser","location":"B.III.6 Umweltschutz","originalQuote":"Deutschland muss hier Liberalisierungstendenzen der EU einen Riegel vorschieben."},{"category":"semantisches Verbot","topic":"Sammelklagen im Zivilrecht","location":"IV.1 Recht sichert Freiheit","originalQuote":"Eine Übernahme strukturfremder Rechtsfiguren aus dem anglo-amerikanischen Recht, wie z. B. Sammelkla"},{"category":"semantisches Verbot","topic":"EU-Steuern","location":"IV.3 Starkes Europa","originalQuote":"EU-Steuern lehnen wir ab."},{"category":"semantisches Verbot","topic":"Vollmitgliedschaft der Türkei in der EU","location":"IV.3 Starkes Europa","originalQuote":"Die Türkei erfüllt die Voraussetzungen nicht. Wir halten eine Privilegierte Partnerschaft anstelle "},{"category":"explizites Verbot","topic":"Walfang","location":"B.III.6 Umweltschutz","originalQuote":"Wir sprechen uns auch für ein umfassendes Walfangverbot aus."}]}
+{
+  "sourceFile": "CDU-CSU - 2009 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Steuererhöhungen",
+      "location": "B.I.1 Verantwortungsbewusste Steuerpolitik",
+      "originalQuote": "Steuererhöhungen lehnen CDU und CSU ab. Eine höhere staatliche Belastung der Energiepreise wird es",
+      "classification": "STEUERERHÖHUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Höhere Belastung der Energiepreise",
+      "location": "B.I.1 Verantwortungsbewusste Steuerpolitik",
+      "originalQuote": "Eine höhere staatliche Belastung der Energiepreise wird es mit CDU und CSU nicht geben.",
+      "classification": "ENERGIEPREISE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wachstumsfeindliche Steuerpolitik",
+      "location": "B.I.1 Verantwortungsbewusste Steuerpolitik",
+      "originalQuote": "Wachstumsfeindliche Steuerpolitik wird es mit CDU und CSU nicht geben.",
+      "classification": "WACHSTUMSFEINDLICHE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Generelles Tempolimit auf Autobahnen",
+      "location": "B.I.2 Leistungsfähige Verkehrsnetze",
+      "originalQuote": "Ein generelles Tempolimit auf Autobahnen lehnen wir ab.",
+      "classification": "Verkehr & Mobilität"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "EU-Richtlinie zum Bodenschutz",
+      "location": "B.III.6 Umweltschutz",
+      "originalQuote": "Eine EU-Richtlinie zum Bodenschutz lehnen wir ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Liberalisierungstendenzen bei Trinkwasser und Abwasser",
+      "location": "B.III.6 Umweltschutz",
+      "originalQuote": "Deutschland muss hier Liberalisierungstendenzen der EU einen Riegel vorschieben.",
+      "classification": "LIBERALISIERUNGSTENDENZEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Sammelklagen im Zivilrecht",
+      "location": "IV.1 Recht sichert Freiheit",
+      "originalQuote": "Eine Übernahme strukturfremder Rechtsfiguren aus dem anglo-amerikanischen Recht, wie z. B. Sammelkla",
+      "classification": "SAMMELKLAGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "EU-Steuern",
+      "location": "IV.3 Starkes Europa",
+      "originalQuote": "EU-Steuern lehnen wir ab.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vollmitgliedschaft der Türkei in der EU",
+      "location": "IV.3 Starkes Europa",
+      "originalQuote": "Die Türkei erfüllt die Voraussetzungen nicht. Wir halten eine Privilegierte Partnerschaft anstelle ",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Walfang",
+      "location": "B.III.6 Umweltschutz",
+      "originalQuote": "Wir sprechen uns auch für ein umfassendes Walfangverbot aus.",
+      "classification": "WALFANG"
+    }
+  ]
+}

@@ -6,21 +6,21 @@
       "topic": "Fortsetzung der bisherigen Wirtschafts- und Lebensweise",
       "location": "Präambel",
       "originalQuote": "Wir können nicht länger so tun, als ob das alles nichts mit der Art und Weise, wie wir wirtschaften und leben, zu tun hat.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "FORTSETZUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Fortsetzung der bisherigen Politik und des Wirtschaftens",
       "location": "Präambel",
       "originalQuote": "Wir stehen an einer Zeitenwende und können es uns nicht leisten, so weiterzumachen wie bisher.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WIRTSCHAFTENS"
     },
     {
       "category": "explizites Verbot",
       "topic": "Weiterer Abbau von Bürgerrechten",
       "location": "Präambel",
       "originalQuote": "Es liegt an uns, Bürgerrechte in unserer Gesellschaft zu stärken und sie nicht weiter abzubauen.",
-      "classification": "Wohnen & Miete"
+      "classification": "BÜRGERRECHTEN"
     },
     {
       "category": "semantisches Verbot",
@@ -41,14 +41,14 @@
       "topic": "Ankurbeln der Konjunktur durch Steuergeschenke für Reiche",
       "location": "Grüne Antworten in der Krise",
       "originalQuote": "Die Konjunktur kurbelt man nicht durch Steuergeschenke an, die die Reichen auf die hohe Kante legen, sondern durch eine Steigerung der Massenkaufkraft.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERGESCHENKE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Abschiebung von Finanzkrisen-Opfern in die Bedürftigkeit nach einem Jahr",
       "location": "Grüne Antworten in der Krise",
       "originalQuote": "Wir werden dafür sorgen, dass die Opfer der Finanzkrise nicht nach einem Jahr in die Bedürftigkeit abgeschoben werden.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Migration & Asyl"
     },
     {
       "category": "semantisches Verbot",
@@ -62,21 +62,21 @@
       "topic": "Rassismus und Rechtsextremismus",
       "location": "Koordinaten: Klima – Gerechtigkeit – Freiheit",
       "originalQuote": "Wir stehen auf gegen jede Form von Rassismus und Rechtsextremismus.",
-      "classification": "Demokratie & Recht"
+      "classification": "RECHTSEXTREMISMUS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Weitere Einschränkungen der Bürgerrechte und Teilung von Menschenrechten",
       "location": "Koordinaten: Klima – Gerechtigkeit – Freiheit",
       "originalQuote": "Im 60. Jahr des Grundgesetzes wehren wir uns gegen immer weitere Einschränkungen der Bürgerrechte, die alle zum Sicherheitsrisiko machen, und gegen Versuche, unteilbare Menschenrechte nach der Herkunft zu teilen.",
-      "classification": "Demokratie & Recht"
+      "classification": "EINSCHRÄNKUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Bau neuer Kohlekraftwerke",
       "location": "Wer Grün wählt...",
       "originalQuote": "Dafür brauchen wir den Atomausstieg – und ein Moratorium gegen den Bau neuer Kohlekraftwerke.",
-      "classification": "Umwelt & Klima"
+      "classification": "Wohnen & Miete"
     },
     {
       "category": "semantisches Verbot",
@@ -90,7 +90,7 @@
       "topic": "Marsch in die Überwachungsgesellschaft / Unkontrollierter Datenhandel",
       "location": "Wer Grün wählt...",
       "originalQuote": "Der Marsch in die Überwachungsgesellschaft muss ebenso gestoppt werden wie eine Welt mit unkontrolliertem Datenhandel.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ÜBERWACHUNGSGESELLSCHAFT"
     },
     {
       "category": "semantisches Verbot",
@@ -104,7 +104,7 @@
       "topic": "Beteiligung an militärischen Abenteuern wie dem Irak-Krieg",
       "location": "Wer Grün wählt...",
       "originalQuote": "In unserer Regierungszeit haben wir eine Beteiligung an militärischen Abenteuern wie dem Irak-Krieg abgelehnt und die zivile Konfliktprävention gestärkt.",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITÄRISCHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -125,14 +125,14 @@
       "topic": "Ökonomie, Ökologie und soziale Gerechtigkeit gegeneinander ausspielen",
       "location": "Anderes Wirtschaften - Ein Green New Deal",
       "originalQuote": "Ein grüner Neuer Gesellschaftsvertrag bedeutet für uns, dass Ökonomie, Ökologie und soziale Gerechtigkeit nicht mehr gegeneinander ausgespielt werden dürfen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "GERECHTIGKEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Stützung nicht lebensfähiger wirtschaftlicher Strukturen durch staatliche Eingriffe",
       "location": "Ein Green New Deal",
       "originalQuote": "Ziel von staatlichen Eingriffen kann es nicht sein, nicht lebensfähige wirtschaftliche Strukturen zu stützen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WIRTSCHAFTLICHER"
     },
     {
       "category": "explizites Verbot",
@@ -146,7 +146,7 @@
       "topic": "Millionen-Boni für Manager trotz Unternehmenszusammenbruch",
       "location": "Ein Green New Deal",
       "originalQuote": "Schluss damit, dass Manager Millionen-Boni für Quartalsergebnisse bekommen, auch wenn kurze Zeit später das Unternehmen wie ein Kartenhaus zusammenbricht.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "UNTERNEHMENSZUSAMMENBRUCH"
     },
     {
       "category": "semantisches Verbot",
@@ -160,7 +160,7 @@
       "topic": "Zubau weiterer Müllverbrennungsanlagen / Ressourcenverschwendung / Mülltourismus",
       "location": "2. Ökologische Fairness...",
       "originalQuote": "Einen Zubau weiterer Müllverbrennungsanlagen lehnen wir ab. Durch eine Änderung des Genehmigungsrechtes wollen wir ein Überangebot verhindern und so unnötige Ressourcenverschwendung und »Mülltourismus« beenden.",
-      "classification": "Wohnen & Miete"
+      "classification": "MÜLLVERBRENNUNGSANLAGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -188,7 +188,7 @@
       "topic": "Leiden unter provisionsgesteuerten Finanzjongleuren oder betrügerischen Anlagemodellen",
       "location": "2. Ökologische Fairness...",
       "originalQuote": "Wer privat für das Alter vorsorgt, soll nicht unter provisionsgesteuerten Finanzjongleurinnen und -jongleuren oder betrügerischen Anlagemodellen leiden.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "PROVISIONSGESTEUERTEN"
     },
     {
       "category": "semantisches Verbot",
@@ -202,7 +202,7 @@
       "topic": "Umwelt- und Gesundheitsschäden / neue Kohlekraftwerke für Rechenzentren / Elektroschrott-Export",
       "location": "Eine grüne digitale Welt",
       "originalQuote": "Umwelt- und Gesundheitsschäden bei der Produktion von Handys und PCs oder neue Kohlekraftwerke für Rechenzentren darf es genauso wenig geben wie Elektroschrott, der um die halbe Welt geschickt wird.",
-      "classification": "Rüstung & Waffen"
+      "classification": "Umwelt & Klima"
     },
     {
       "category": "explizites Verbot",
@@ -216,7 +216,7 @@
       "topic": "Ausfuhrbürgschaften für Rüstungsexporte und Genehmigungsanspruch auf Rüstungsgüter",
       "location": "Für Frieden und Menschenrechte",
       "originalQuote": "Damit Rüstungslieferungen in Krisenregionen leichter als bisher unterbunden werden können, wollen wir Ausfuhrbürgschaften für Rüstungsexporte und den Genehmigungsanspruch auf die Ausfuhr von Rüstungsgütern abschaffen sowie Einstimmigkeit im Bundessicherheitsrat und ein Widerspruchsrecht des Bundestages einführen.",
-      "classification": "Rüstung & Waffen"
+      "classification": "GENEHMIGUNGSANSPRUCH"
     }
   ]
 }

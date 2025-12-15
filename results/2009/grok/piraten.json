@@ -1,0 +1,145 @@
+{
+  "sourceFile": "Piraten - 2009 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Änderungen am ersten Abschnitt des Grundgesetzes",
+      "location": "Kapitel 1",
+      "originalQuote": "Insbesondere lehnen wir Änderungen an dem die Grundrechte umfassenden ersten Abschnitt (Art. 1 bis 19) kategorisch ab",
+      "classification": "GRUNDGESETZES"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "flächendeckende Überwachung des öffentlichen Raums",
+      "location": "Kapitel 2",
+      "originalQuote": "Die flächendeckende Überwachung des öffentlichen Raums durch Videokameras oder andere Maßnahmen darf nicht zugelassen werden.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "kommerzielle Nutzung persönlicher Daten ohne Erlaubnis",
+      "location": "Kapitel 2",
+      "originalQuote": "Jegliche kommerzielle Nutzung persönlicher Daten muss verboten sein, solange sie nicht ausdrücklich vom Betroffenen erlaubt wird.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aufbau zentraler Datenbanken mit biometrischen Daten",
+      "location": "Kapitel 2",
+      "originalQuote": "Der Aufbau zentraler Datenbanken mit solchen Daten muss unterbleiben.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verwendung biometrischer Merkmale in Passdokumenten",
+      "location": "Kapitel 2",
+      "originalQuote": "Die Verwendung biometrischer Merkmale in Passdokumenten hat zu unterbleiben oder auf Freiwilligkeit zu beruhen.",
+      "classification": "PASSDOKUMENTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Massengentests für polizeiliche Zwecke ohne individuellen Verdacht",
+      "location": "Kapitel 2",
+      "originalQuote": "Massengentests für polizeiliche Zwecke, bei denen die Vorgeladenen nicht individuell verdächtigt werden, müssen als anlasslose Verdächtigungen gewertet und entsprechend untersagt werden.",
+      "classification": "MASSENGENTESTS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Entwicklung von Technologien zur verstärkten Überwachung",
+      "location": "Kapitel 2",
+      "originalQuote": "Die Entwicklung von Technologien zur verstärkten Überwachung, Erfassung und Kontrolle von Bürgerinnen und Bürgern lehnen wir ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "automatisches KFZ-Kennzeichen-Scanning",
+      "location": "Kapitel 2",
+      "originalQuote": "kein automatisiertes KFZ-Kennzeichen-Scanning",
+      "classification": "KFZKENNZEICHENSCANNING"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "RFID-Chips in Ausweisdokumenten",
+      "location": "Kapitel 2",
+      "originalQuote": "Verzicht auf RFID-Chips in Ausweisdokumenten.",
+      "classification": "AUSWEISDOKUMENTEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "geheime Durchsuchungen online und offline",
+      "location": "Kapitel 2",
+      "originalQuote": "Keine geheimen Durchsuchungen – weder online noch offline!",
+      "classification": "DURCHSUCHUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "automatische Gesichts- oder Verhaltenskontrolle",
+      "location": "Kapitel 2",
+      "originalQuote": "Keine automatische Gesichts- oder Verhaltenskontrolle",
+      "classification": "VERHALTENSKONTROLLE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Inhaltsfilterung im Internet (Zensur)",
+      "location": "Kapitel 3",
+      "originalQuote": "Die derzeitigen Bestrebungen einiger politischer Kräfte, eine Inhaltsfilterung im Internet zu etablieren, lehnen wir kategorisch ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Installation von Filtern in die Internet-Infrastruktur",
+      "location": "Kapitel 3",
+      "originalQuote": "Verbot der Installation von Filtern in die Infrastruktur des Internet",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "gleichzeitige Ausübung von Amt und Mandat",
+      "location": "Kapitel 3",
+      "originalQuote": "Insbesondere soll die gleichzeitige Ausübung von Amt und Mandat verboten werden.",
+      "classification": "GLEICHZEITIGE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "DRM-Technologie und ähnliche Kopierschutzmechanismen",
+      "location": "Kapitel 4",
+      "originalQuote": "Der Einsatz von Maßnahmen wie die DRM-Technologie oder ähnliche Kopierschutzmechanismen, die diese und andere rechtmäßige Nutzungen einseitig verhindern, soll untersagt werden.",
+      "classification": "KOPIERSCHUTZMECHANISMEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Patente auf Software und Geschäftsideen",
+      "location": "Kapitel 4",
+      "originalQuote": "Wir PIRATEN lehnen Patente auf Software und Geschäftsideen ab",
+      "classification": "GESCHÄFTSIDEEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Patente auf Leben, Gene und Saatgut",
+      "location": "Kapitel 4",
+      "originalQuote": "Aus den gleichen Gründen dürfen Patente auf das Leben, inklusive der Patente auf Saatgut und Gene, nicht erteilt werden.",
+      "classification": "PATENTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Installation von Filtern in die Internet-Infrastruktur",
+      "location": "Kapitel 5",
+      "originalQuote": "Die Installation von Filtern in die Infrastruktur des Internets lehnen wir ab.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausschluss von Bürgern aus dem Internet (Three-Strikes)",
+      "location": "Kapitel 5",
+      "originalQuote": "Der Ausschluss von Bürgern aus dem Internet ist nach Ansicht der Piratenpartei eine eklatante Bürgerrechtsverletzung.",
+      "classification": "Digitales & Überwachung"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bildungsgebühren jeglicher Art",
+      "location": "Kapitel 6",
+      "originalQuote": "Bildungsgebühren jeglicher Art schränken den Zugang zu Bildung ein und sind deshalb kategorisch abzulehnen.",
+      "classification": "BILDUNGSGEBÜHREN"
+    }
+  ]
+}

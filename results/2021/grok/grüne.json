@@ -13,14 +13,14 @@
       "topic": "Neue Gaskraftwerke ohne Wasserstoffready",
       "location": "Kapitel 1",
       "originalQuote": "Neue Gaskraftwerke oder Infrastrukturen, die wir für den Kohleausstieg brauchen, darf es deshalb üb",
-      "classification": "Umwelt & Klima"
+      "classification": "WASSERSTOFFREADY"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Neue Hafenterminals für Flüssigerdgas",
       "location": "Kapitel 1",
       "originalQuote": "Neue Hafenterminals zur Anlandung von Flüssigerdgas sollen nicht mehr genehmigt werden.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "HAFENTERMINALS"
     },
     {
       "category": "semantisches Verbot",
@@ -41,14 +41,14 @@
       "topic": "Atomfabriken schließen",
       "location": "Kapitel 1",
       "originalQuote": "Unser Ziel ist es, die Atomfabriken in Gronau und Lingen schnellstmöglich zu schließen. Der Betrieb",
-      "classification": "Umwelt & Klima"
+      "classification": "ATOMFABRIKEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Privilegierung oder neue Förderungen der Atomkraft",
       "location": "Kapitel 1",
       "originalQuote": "gegen die weitere Privilegierung oder neue Förderungen der Atomkraft, und für verbindliche Sicherhe",
-      "classification": "Umwelt & Klima"
+      "classification": "PRIVILEGIERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -62,28 +62,28 @@
       "topic": "Rüstungsexporte in Kriegsgebiete und Diktaturen",
       "location": "Schlusskapitel",
       "originalQuote": "Exporte von Waffen und Rüstungsgütern an Diktaturen, menschenrechtsverachtende Regime und in Kriegs",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Hermesbürgschaften für Rüstungsexporte",
       "location": "Schlusskapitel",
       "originalQuote": "Hermesbürgschaften für Rüstungsexporte darf es nicht geben.",
-      "classification": "Rüstung & Waffen"
+      "classification": "HERMESBÜRGSCHAFTEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Private Militärfirmen",
       "location": "Schlusskapitel",
       "originalQuote": "private Militärfirmen verbieten.",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITÄRFIRMEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Autonome tödliche Waffensysteme ächten und verbieten",
       "location": "Schlusskapitel",
       "originalQuote": "Anwendungen, die gegen ethische und völkerrechtliche Grundsätze verstoßen, international verbindlic",
-      "classification": "Rüstung & Waffen"
+      "classification": "WAFFENSYSTEME"
     },
     {
       "category": "semantisches Verbot",
@@ -111,7 +111,7 @@
       "topic": "Umwidmung von EU-Geldern für militärische Zwecke",
       "location": "Schlusskapitel",
       "originalQuote": "Die Umwidmung von bisher ausschließlich für zivile Zwecke vorgesehenen Geldern aus dem EU-Haushalt ",
-      "classification": "Rüstung & Waffen"
+      "classification": "Europa & Außenpolitik"
     }
   ]
 }

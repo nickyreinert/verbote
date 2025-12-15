@@ -1,0 +1,68 @@
+{
+  "sourceFile": "CDU-CSU - 2005 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Vollmitgliedschaft der Türkei in der EU",
+      "location": "6.1 Neues Vertrauen in Europa",
+      "originalQuote": "Eine Vollmitgliedschaft lehnen wir ab, weil das die Integrationsfähigkeit der Europäischen Union übe",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Zwangsverheiratung",
+      "location": "5.5 Zuwanderung begrenzen, Integration stärken",
+      "originalQuote": "Die Zwangsverheiratung ist verboten. Die Nötigung zur Zwangsheirat wird ein eigener Straftatbestand.",
+      "classification": "ZWANGSVERHEIRATUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Bürgerversicherung",
+      "location": "3.1 Medizinischer Fortschritt für alle",
+      "originalQuote": "Die von SPD und Grünen propagierte „Bürgerversicherung“ ist keine geeignete Alternative zur solidar",
+      "classification": "BÜRGERVERSICHERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Ausbildungsplatzabgabe",
+      "location": "1.7 Mittelstand und Existenzgründer fördern",
+      "originalQuote": "Wir setzen auf Freirwilligkeit und Verantwortungsbewusstsein statt auf eine Ausbildungsplatzabgabe;",
+      "classification": "AUSBILDUNGSPLATZABGABE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verhinderung weiteren Zentralismus in der EU",
+      "location": "6.1 Neues Vertrauen in Europa",
+      "originalQuote": "Wir verhindern weiteren Zentralismus und holen Kompetenzen zurück. Nicht jedes Problem in Europa ist",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unterbleiben eines unfairen Steuer- und Subventionswettlaufs",
+      "location": "1.5 Unternehmenskultur mit Zukunft",
+      "originalQuote": "Ein unfairer Steuer - und Subventionswettlauf zu Lasten deutscher Arbeitsplätze und der öffentliche",
+      "classification": "Wirtschaft & Steuern"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung bloßer Betriebsverlagerungen mit Förderung",
+      "location": "1.5 Unternehmenskultur mit Zukunft",
+      "originalQuote": "Bloße Betriebsverlagerungen sollen nicht mehr gefördert werden.",
+      "classification": "BETRIEBSVERLAGERUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung der Ich-AG",
+      "location": "1.4 Senkung von Lohnzusatzkosten für mehr Arbeitsplätze",
+      "originalQuote": "wir schaffen aber die Ich-AG ab. Für bereits genehmigte Ich-AG´s gilt Bestandschutz.",
+      "classification": "ICHAG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ausschluss spekulativer Absichten bei Aktienoptionen",
+      "location": "1.5 Unternehmenskultur mit Zukunft",
+      "originalQuote": "Aktienoptionen als Entlohnungsbestandteile müssen mindestens zehn Jahre gehalten werden, um spekula",
+      "classification": "AKTIENOPTIONEN"
+    }
+  ]
+}

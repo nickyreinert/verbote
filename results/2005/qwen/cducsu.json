@@ -20,7 +20,7 @@
       "topic": "Keine staatliche Finanzierung in ausschließliche Länderzuständigkeiten",
       "location": "Abschnitt 5.3",
       "originalQuote": "In die ausschließlichen Länderzuständigkeiten wird der Bund künftig nicht hinein finan",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "LÄNDERZUSTÄNDIGKEITEN"
     },
     {
       "category": "semantisches Verbot",
@@ -48,7 +48,7 @@
       "topic": "Keine Ideologisierung der Energiepolitik",
       "location": "Abschnitt 1.8",
       "originalQuote": "Fast nirgends in Europa ist Energie so teuer wie in Deutschland. Das ist das Ergebnis von",
-      "classification": "Umwelt & Klima"
+      "classification": "IDEOLOGISIERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -62,14 +62,14 @@
       "topic": "Kein Ausbau der Kernenergie-Ausstiegspolitik",
       "location": "Abschnitt 1.8",
       "originalQuote": "Der Ausstieg aus der Kernenergie ist umweltpolitisch und auch technologisch verheerend.",
-      "classification": "Umwelt & Klima"
+      "classification": "KERNENERGIEAUSSTIEGSPOLITIK"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Fortführung ineffektiver arbeitsmarktpolitischer Maßnahmen",
       "location": "Abschnitt 1.4",
       "originalQuote": "Alle arbeitsmarktpolitischen Maßnahmen kommen auf den Prüfstand. Was sich als unwirksam und",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSMARKTPOLITISCHER"
     },
     {
       "category": "semantisches Verbot",
@@ -83,7 +83,7 @@
       "topic": "Keine nationalen Alleingänge in der Agrarpolitik",
       "location": "Abschnitt 1.11",
       "originalQuote": "Wir wollen eine konsequente 1:1 Umsetzung des EU-Rechts und die Beseitigung nationaler",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "AGRARPOLITIK"
     },
     {
       "category": "semantisches Verbot",
@@ -111,35 +111,35 @@
       "topic": "Keine Bevormundung oder Dominanz in der deutsch-französischen Zusammenarbeit",
       "location": "Abschnitt 6.1",
       "originalQuote": "Wir werden die deutsch-französische Zusammenarbeit wieder in einer Weise gestalten, die d",
-      "classification": "Soziales & Arbeit"
+      "classification": "DEUTSCHFRANZÖSISCHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Verdrängung des konfessionellen Religionsunterrichts durch staatlichen Werteunterricht",
       "location": "Abschnitt 2",
       "originalQuote": "er darf nicht durch einen allein in Verantwortung des Staates erteilten „Werteunterricht“ ve",
-      "classification": "Europa & Außenpolitik"
+      "classification": "RELIGIONSUNTERRICHTS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Verzicht auf Kernenergie im Energiemix",
       "location": "Abschnitt 1.8",
       "originalQuote": "Ohne Kernenergie ist eine globale Lösung der CO2-Problematik derzeit undenkbar.",
-      "classification": "Umwelt & Klima"
+      "classification": "KERNENERGIE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine weitere Verschleppung oder Stilllegung wichtiger Verkehrsprojekte im Osten",
       "location": "Abschnitt 1.10",
       "originalQuote": "Wir werden vor allem die seit langem geplanten, aber von Rot-Grün verschleppten oder gestoppt",
-      "classification": "Verkehr & Mobilität"
+      "classification": "VERKEHRSPROJEKTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Beibehaltung des Verbandsklagerechts bei Planungsverfahren (soweit nicht EU-rechtlich vorgeschrieben)",
       "location": "Abschnitt 1.2",
       "originalQuote": "Wir schaffen das Verbandsklagerecht bei Planungsverfahren ab, soweit es nicht europarechtlic",
-      "classification": "Demokratie & Recht"
+      "classification": "Europa & Außenpolitik"
     }
   ]
 }

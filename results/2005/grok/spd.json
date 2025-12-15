@@ -1,0 +1,61 @@
+{
+  "sourceFile": "SPD - 2005 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Kündigungsschutz-Abschaffung",
+      "location": "Wir garantieren Arbeitnehmerrechte",
+      "originalQuote": "Die von Union und FDP gewollte weitgehende Abschaffung des Kündigungsschutzes wird es mit uns nicht ",
+      "classification": "KÜNDIGUNGSSCHUTZABSCHAFFUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Stufentarif und Flat Tax",
+      "location": "Wir wollen gerechte Steuern",
+      "originalQuote": "Weder der Stufentarif von CDU/CSU noch die einheitliche Kopfsteuer (flat tax) der FDP entsprechen d",
+      "classification": "STUFENTARIF"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Mehrwertsteuer-Anhebung",
+      "location": "Solide Finanzen",
+      "originalQuote": "Eine Anhebung der Mehrwertsteuer würde angesichts der derzeit schwachen Binnennachfrage in die fals",
+      "classification": "MEHRWERTSTEUERANHEBUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Rentenkürzungen",
+      "location": "Wir wollen Anerkennung und Sicherheit im Alter",
+      "originalQuote": "Die Vorschläge aus CDU/CSU, die gezahlten Renten zu kürzen, lehnen wir ab.",
+      "classification": "RENTENKÜRZUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung des Herkunftslandprinzips in EU-Dienstleistungsrichtlinie",
+      "location": "Wir wollen Löhne, die existenzsichernd sind",
+      "originalQuote": "Das Herkunftslandprinzip, wie es in der EU-Dienstleistungsrichtlinie vorgeschlagen ist, ist nicht a",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Zwangsheirat",
+      "location": "Wir wollen alle integrieren",
+      "originalQuote": "Wir dulden keine Zwangsheirat. Damit diese Tatsache stärker in das Bewusstsein der betroffenen Grup",
+      "classification": "ZWANGSHEIRAT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Wortbruch bei EU-Erweiterung",
+      "location": "Wir wollen ein bürgernahes, soziales und starkes Europa",
+      "originalQuote": "Einem Wortbruch gegenüber Bulgarien und Rumänien, deren Beitrittsverträge sich bereits im Ratifizie",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Schlussstrich unter NS-Verbrechen",
+      "location": "Wir wollen ein Land der Kultur sein",
+      "originalQuote": "Es kann keinen Schlussstrich geben. Wir werden unser Engagement in der Erinnerungspolitik weiter ve",
+      "classification": "SCHLUSSSTRICH"
+    }
+  ]
+}

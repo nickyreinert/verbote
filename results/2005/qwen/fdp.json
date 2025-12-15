@@ -6,7 +6,7 @@
       "topic": "Erhöhung der Mehrwertsteuer zur Reform direkter oder indirekter Steuern",
       "location": "Kapitel 2",
       "originalQuote": "Die FDP spricht sich gegen eine Erhöhung der Mehrwertsteuer zur Reform der direkten Steuern",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "MEHRWERTSTEUER"
     },
     {
       "category": "semantisches Verbot",
@@ -20,14 +20,14 @@
       "topic": "Fortsetzung der Steinkohlesubventionen",
       "location": "Kapitel 2",
       "originalQuote": "Wir wollen die Steinkohlesubventionen einstellen. Der Bedarf an Steinkohle wird zu mehr",
-      "classification": "Umwelt & Klima"
+      "classification": "STEINKOHLESUBVENTIONEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Forschungsverbote für bereits genehmigte Projekte",
       "location": "Kapitel 3",
       "originalQuote": "Forschungsverbote für bereits genehmigte Projekte lehnt die FDP ab.",
-      "classification": "Bildung & Forschung"
+      "classification": "FORSCHUNGSVERBOTE"
     },
     {
       "category": "semantisches Verbot",
@@ -41,42 +41,42 @@
       "topic": "Luftsicherheitsgesetz mit Abschussermächtigung",
       "location": "Kapitel 4",
       "originalQuote": "Das Luftsicherheitsgesetz lehnen wir ab. Unsere Kritik richtet sich in erster Linie gege",
-      "classification": "Umwelt & Klima"
+      "classification": "LUFTSICHERHEITSGESETZ"
     },
     {
       "category": "semantisches Verbot",
       "topic": "EU-Fluggastdatenabkommen mit den USA",
       "location": "Kapitel 4",
       "originalQuote": "Das EU-Fluggastdatenabkommen mit den USA lehnt die FDP ab. Es erlaubt den Fluglinien be",
-      "classification": "Verkehr & Mobilität"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verlängerung des „Gesetzes zur Umsetzung des Urteils des Bundesverfassungsgerichts“ (Großer Lauschangriff)",
       "location": "Kapitel 4",
       "originalQuote": "Wir haben uns gegen das „Gesetz zur Umsetzung des Urteils des Bundesverfassungsgerichts",
-      "classification": "Demokratie & Recht"
+      "classification": "BUNDESVERFASSUNGSGERICHTS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Medienbeteiligungen von Parteien",
       "location": "Kapitel 4",
       "originalQuote": "Im Interesse einer klaren Gewaltenteilung und der Kontrollfunktion unabhängiger Medien, ",
-      "classification": "Demokratie & Recht"
+      "classification": "MEDIENBETEILIGUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "unverhältnismäßige Einschränkungen von Freiheitsrechten bei der Fußball-WM 2006",
       "location": "Kapitel 4",
       "originalQuote": "Hingegen lehnen wir unverhältnismäßige Einschränkungen von Freiheitsrechten der Besucher",
-      "classification": "Demokratie & Recht"
+      "classification": "UNVERHÄLTNISMÄSSIGE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Aufhebung des EU-Waffenembargos gegen China",
       "location": "Kapitel 5",
       "originalQuote": "Die FDP lehnt eine Aufhebung des EU-Waffenembargos gegen China ab, solange sich die Mensc",
-      "classification": "Rüstung & Waffen"
+      "classification": "Europa & Außenpolitik"
     }
   ]
 }

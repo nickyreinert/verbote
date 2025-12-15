@@ -20,63 +20,63 @@
       "topic": "Verbot von Qualzuchten bei Tieren",
       "location": "Kapitel 7",
       "originalQuote": "sowie sämtliche Qualzuchten. Es darf bei allen mit Schmerzen",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "QUALZUCHTEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Schusswaffen in Privatwohnungen",
       "location": "Kapitel 8",
       "originalQuote": "Wir wollen grundsätzlich keine Schusswaffen in der Privatwoh",
-      "classification": "Rüstung & Waffen"
+      "classification": "PRIVATWOHNUNGEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Großkaliberwaffen im Sportschießen",
       "location": "Kapitel 8",
       "originalQuote": "Großkalibrige Waffen dürfen nicht länger für den Schießspor",
-      "classification": "Rüstung & Waffen"
+      "classification": "GROSSKALIBERWAFFEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von medizinisch unnötigen Geschlechtsanpassungsoperationen bei intersexuellen Kindern",
       "location": "Kapitel 8",
       "originalQuote": "Intersexuelle Menschen, die mit uneindeutigen Geschlechtsmer",
-      "classification": "Gesundheit & Drogen"
+      "classification": "GESCHLECHTSANPASSUNGSOPERATIONEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Bau neuer Kohlekraftwerke",
       "location": "Kapitel 2",
       "originalQuote": "Wir lehnen den Bau neuer klimaschädlicher Kohlekraftwerke",
-      "classification": "Umwelt & Klima"
+      "classification": "Wohnen & Miete"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Laufzeitverlängerung für Atomkraftwerke",
       "location": "Kapitel 2",
       "originalQuote": "Mit uns wird es keine Laufzeitverlängerung geben.",
-      "classification": "Umwelt & Klima"
+      "classification": "LAUFZEITVERLÄNGERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine neuen Müllverbrennungsanlagen",
       "location": "Kapitel 7",
       "originalQuote": "Einen Zubau weiterer Müllverbrennungsanlagen lehnen wir ab.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "MÜLLVERBRENNUNGSANLAGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Billiglohn- oder Niedriglohnsektorenausweitung",
       "location": "Schlusswort",
       "originalQuote": "Den Billiglohnsektor wollen sie ausbauen und die soziale Si",
-      "classification": "Soziales & Arbeit"
+      "classification": "NIEDRIGLOHNSEKTORENAUSWEITUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Subventionen für Flughafenausbau oder -neubau",
       "location": "Kapitel 2",
       "originalQuote": "Staatliche Subventionen für Flughafenaus- oder neubauten l",
-      "classification": "Verkehr & Mobilität"
+      "classification": "FLUGHAFENAUSBAU"
     },
     {
       "category": "semantisches Verbot",
@@ -90,7 +90,7 @@
       "topic": "Kein Abwurf von Passagierflugzeugen zur Terrorabwehr",
       "location": "Kapitel 8",
       "originalQuote": "Passagierflugzeuge dürfen nicht abgeschossen werden, wenn u",
-      "classification": "Verkehr & Mobilität"
+      "classification": "PASSAGIERFLUGZEUGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -111,42 +111,42 @@
       "topic": "Keine heimliche Videoüberwachung in Wohnungen",
       "location": "Kapitel 8",
       "originalQuote": "Wir sagen »Nein« zur staatlichen Bespitzelung via Videospi",
-      "classification": "Digitales & Überwachung"
+      "classification": "VIDEOÜBERWACHUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine staatliche Speicherung persönlicher Kommunikationsdaten ohne Verdacht",
       "location": "Schlusswort",
       "originalQuote": "Wir sind die Partei der Freiheit des Internets. Wir wollen ",
-      "classification": "Digitales & Überwachung"
+      "classification": "KOMMUNIKATIONSDATEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine militärischen Abenteuer (z. B. Irakkrieg)",
       "location": "Schlusswort",
       "originalQuote": "In unserer Regierungszeit haben wir eine Beteiligung an milit",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITÄRISCHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Nutzung von CCS-Technologie zur CO2-Endlagerung",
       "location": "Kapitel 2",
       "originalQuote": "Wir lehnen das von der großen Koalition vorgelegte Gesetz ",
-      "classification": "Umwelt & Klima"
+      "classification": "CCSTECHNOLOGIE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Verwendung von Agrokraftstoffen, für die Regenwald gerodet wird",
       "location": "Kapitel 7",
       "originalQuote": "Zur globalen Gerechtigkeit gehört, dass wir keinen Agrokr",
-      "classification": "Umwelt & Klima"
+      "classification": "AGROKRAFTSTOFFEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Ausbau der A 14 zwischen Magdeburg und Schwerin",
       "location": "Kapitel 10",
       "originalQuote": "anstatt sie durch Fehlinvestitionen wie das Bombodrom in de",
-      "classification": "Wohnen & Miete"
+      "classification": "MAGDEBURG"
     },
     {
       "category": "semantisches Verbot",
@@ -167,21 +167,21 @@
       "topic": "Keine Abschottung der EU-Außengrenzen gegenüber Flüchtlingen",
       "location": "Kapitel 8",
       "originalQuote": "Deshalb lehnen wir eine Abschottung der Außengrenzen der ",
-      "classification": "Migration & Asyl"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Residenzpflicht für Asylsuchende",
       "location": "Kapitel 8",
       "originalQuote": "Diese Residenzpflicht verstößt gegen das Recht auf Freizüg",
-      "classification": "Migration & Asyl"
+      "classification": "RESIDENZPFLICHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Abschiebehaft für Flüchtlinge ohne dringenden Grund",
       "location": "Kapitel 8",
       "originalQuote": "Menschen, die nichts weiter getan haben, als in Deutschlan",
-      "classification": "Migration & Asyl"
+      "classification": "ABSCHIEBEHAFT"
     },
     {
       "category": "semantisches Verbot",
@@ -195,7 +195,7 @@
       "topic": "Keine Tierversuche, wenn Alternativen existieren",
       "location": "Kapitel 7",
       "originalQuote": "Tierversuche darf es nur dort geben, wo es keine Alternati",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERVERSUCHE"
     },
     {
       "category": "semantisches Verbot",
@@ -209,35 +209,35 @@
       "topic": "Keine Deregulierung der Finanzmärkte im WTO-Rahmen",
       "location": "Kapitel 14",
       "originalQuote": "Gerade angesichts der Finanzkrise dürfen die Finanzmärkte",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "DEREGULIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Verwendung von Uranmunition",
       "location": "Kapitel 14",
       "originalQuote": "Uranwaffen wirken unterschiedslos und treffen vor allem di",
-      "classification": "Bildung & Forschung"
+      "classification": "URANMUNITION"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Verwendung von „Monstertrucks“ im Güterverkehr",
       "location": "Kapitel 2",
       "originalQuote": "»Monstertrucks« lehnen wir ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "MONSTERTRUCKS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Privatisierung der Wasserversorgung",
       "location": "Kapitel 7",
       "originalQuote": "Wir wollen keine Privatisierung der Wasserversorgung, sonde",
-      "classification": "Umwelt & Klima"
+      "classification": "WASSERVERSORGUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Genehmigung von Braunkohletagebauen",
       "location": "Kapitel 10",
       "originalQuote": "Neue Tagebaue zerstören Landschaften, vernichten Dörfer un",
-      "classification": "Umwelt & Klima"
+      "classification": "BRAUNKOHLETAGEBAUEN"
     },
     {
       "category": "semantisches Verbot",
@@ -251,77 +251,77 @@
       "topic": "Keine staatliche Filterung oder Sperrung von Internetinhalten",
       "location": "Kapitel 13",
       "originalQuote": "Die Filterung des Datenverkehrs sowie massenhafte und un",
-      "classification": "Digitales & Überwachung"
+      "classification": "INTERNETINHALTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Entlassung von Verbraucherdaten ohne Kontrolle",
       "location": "Kapitel 8",
       "originalQuote": "Der Staat greift in unsere Datenschutzrechte ein und vern",
-      "classification": "Digitales & Überwachung"
+      "classification": "VERBRAUCHERDATEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Aufweichung des Folterverbots auch im Antiterrorkampf",
       "location": "Kapitel 8",
       "originalQuote": "Auch der Antiterrorkampf legitimiert keinen Menschenrechts",
-      "classification": "Rüstung & Waffen"
+      "classification": "ANTITERRORKAMPF"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Verwendung von Biopatenten auf Pflanzen und Tiere",
       "location": "Kapitel 6",
       "originalQuote": "Biopatente führen zu Monopolansprüchen weniger Konzerne a",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "BIOPATENTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Ausfuhr von Rüstungsgütern in Krisenregionen",
       "location": "Kapitel 14",
       "originalQuote": "Wir wollen eine menschenrechtsorientierte, restriktive Ru",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSGÜTERN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Ausweitung militärischer Kapazitäten ohne zivile Begleitung",
       "location": "Kapitel 14",
       "originalQuote": "Den weiteren Ausbau militärischer Kapazitäten auf europä",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITÄRISCHER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Exportsubventionen in der Agrarpolitik",
       "location": "Kapitel 14",
       "originalQuote": "Wir setzen uns dafür ein, dass handelsverzerrende EU-Agr",
-      "classification": "Rüstung & Waffen"
+      "classification": "EXPORTSUBVENTIONEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine unverhältnismäßige Kameraüberwachung im öffentlichen Raum",
       "location": "Kapitel 8",
       "originalQuote": "Die immer umfangreicher Kameraüberwachung in öffentlichen",
-      "classification": "Digitales & Überwachung"
+      "classification": "UNVERHÄLTNISMÄSSIGE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Speicherung sensibler Gesundheitsdaten zentral ohne Risikoanalyse",
       "location": "Kapitel 8",
       "originalQuote": "Die Befürchtungen von BürgerrechtlerInnen und vielen Ärzt",
-      "classification": "Digitales & Überwachung"
+      "classification": "GESUNDHEITSDATEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine staatliche Datensammlung ohne Notwendigkeit und Transparenz",
       "location": "Kapitel 8",
       "originalQuote": "Immer wieder kommt es auch bei Behörden zu Datenskandalen",
-      "classification": "Digitales & Überwachung"
+      "classification": "DATENSAMMLUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine staatliche Erfassung von Bürgerdaten ohne klaren Zweck",
       "location": "Kapitel 8",
       "originalQuote": "In Reisepässen sind Fingerabdrücke bereits Pflicht, in Pers",
-      "classification": "Digitales & Überwachung"
+      "classification": "BÜRGERDATEN"
     },
     {
       "category": "semantisches Verbot",
@@ -349,49 +349,49 @@
       "topic": "Keine Ausbeutung von Praktikantinnen und Praktikanten",
       "location": "Kapitel 4",
       "originalQuote": "Wer ein Praktikum macht, darf nicht ausgenutzt werden, son",
-      "classification": "Europa & Außenpolitik"
+      "classification": "PRAKTIKANTINNEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Rückkehr zur getrennten Verwaltung von Arbeitslosenhilfe und Sozialhilfe",
       "location": "Kapitel 3",
       "originalQuote": "Durch schwarz-rot droht jetzt eine Rückkehr zur getrennte",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSLOSENHILFE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine staatliche Finanzierung von nicht nachhaltigem Tourismus (z. B. Schneekanonen)",
       "location": "Kapitel 7",
       "originalQuote": "Öffentliche Gelder für umweltzerstörende Investitionen – z",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "SCHNEEKANONEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Verwendung fossiler Brennstoffe ohne Besteuerung",
       "location": "Kapitel 1",
       "originalQuote": "Zur ökologischen Finanzreform gehört auch, dass zukünftig ",
-      "classification": "Umwelt & Klima"
+      "classification": "BRENNSTOFFE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Subventionen für Firmenlimousinen mit hohem Spritverbrauch",
       "location": "Kapitel 1",
       "originalQuote": "Dass die Steuerzahlerinnen und Steuerzahler Milliarden für",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "FIRMENLIMOUSINEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Steuerbefreiung für Flugbenzin",
       "location": "Kapitel 1",
       "originalQuote": "genauso wenig wie die Steuerbefreiung von Flugbenzin.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "STEUERBEFREIUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Verwendung von ungedeckten Leerverkäufen in Finanzmärkten",
       "location": "Kapitel 1",
       "originalQuote": "Die zuständige Aufsicht muss besonders riskante Finanzprod",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "LEERVERKÄUFEN"
     },
     {
       "category": "semantisches Verbot",
@@ -405,7 +405,7 @@
       "topic": "Keine Steueroasen innerhalb der EU",
       "location": "Kapitel 1",
       "originalQuote": "Die EU kann dabei international nur dann glaubwürdig sein,",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
@@ -419,7 +419,7 @@
       "topic": "Keine Abwrackprämie ohne Klimakriterien",
       "location": "Kapitel 2",
       "originalQuote": "Und in Berlin hat sie fünf Milliarden Euro Zuschuss für A",
-      "classification": "Umwelt & Klima"
+      "classification": "KLIMAKRITERIEN"
     }
   ]
 }

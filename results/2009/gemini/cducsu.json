@@ -6,21 +6,21 @@
       "topic": "Verhindern, dass 2009 nur das Jahr einer weltweiten Krise ist",
       "location": "A. Zusammenhalt schafft Zukunft",
       "originalQuote": "Das Jahr 2009 darf nicht nur das Jahr einer außergewöhnlichen weltweiten Krise sein, sondern e",
-      "classification": "Europa & Außenpolitik"
+      "classification": "WELTWEITEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der kontinuierlichen Übertragung immer neuer Aufgaben auf den Staat",
       "location": "A. Zusammenhalt schafft Zukunft (Staat und Wirtschaft)",
       "originalQuote": "Denn es wäre ein großer Fehler, wenn wir die Rolle des Staates falsch verstünden und ihm nun au",
-      "classification": "Europa & Außenpolitik"
+      "classification": "KONTINUIERLICHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung staatswirtschaftlicher Modelle",
       "location": "A. Zusammenhalt schafft Zukunft (Staat und Wirtschaft)",
       "originalQuote": "Staatswirtschaften schaffen keinen Wohlstand, sondern sie nehmen den Menschen die Freiheit.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STAATSWIRTSCHAFTLICHER"
     },
     {
       "category": "semantisches Verbot",
@@ -41,14 +41,14 @@
       "topic": "Ablehnung von Steuererhöhungen",
       "location": "B.I.1 Verantwortungsbewusste Steuerpolitik",
       "originalQuote": "Steuererhöhungen lehnen CDU und CSU ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERERHÖHUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung einer höheren staatlichen Belastung der Energiepreise",
       "location": "B.I.1 Verantwortungsbewusste Steuerpolitik",
       "originalQuote": "Eine höhere staatliche Belastung der Energiepreise wird es mit CDU und CSU nicht geben.",
-      "classification": "Umwelt & Klima"
+      "classification": "ENERGIEPREISE"
     },
     {
       "category": "semantisches Verbot",
@@ -62,28 +62,28 @@
       "topic": "Ablehnung wachstumsfeindlicher Steuerpolitik",
       "location": "B.I.1 Verantwortungsbewusste Steuerpolitik",
       "originalQuote": "Wachstumsfeindliche Steuerpolitik wird es mit CDU und CSU nicht geben.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WACHSTUMSFEINDLICHER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung weiterer Antidiskriminierungsvorgaben der EU",
       "location": "B.I.2 Mittelstand stärken",
       "originalQuote": "Weitere Antidiskriminierungsvorgaben der EU lehnen wir ab. Wir fordern weniger Bürokratie in Eur",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung eines generellen Tempolimits auf Autobahnen",
       "location": "III.6 Verkehr",
       "originalQuote": "Ein generelles Tempolimit auf Autobahnen lehnen wir ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "TEMPOLIMITS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung eines bundesweiten Einheitspreises in der Krankenhausfinanzierung",
       "location": "III.5 Gesundheit",
       "originalQuote": "Einen bundesweiten Einheitspreis lehnen wir ab. Das Recht der Länder, eigenständig zwischen der",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "KRANKENHAUSFINANZIERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -104,7 +104,7 @@
       "topic": "Ablehnung der vollständigen rechtlichen Gleichstellung von Lebensgemeinschaften mit der Ehe",
       "location": "II.2 Wahlfreiheit für Familien",
       "originalQuote": "Eine vollständige rechtliche Gleichstellung solcher Lebensgemeinschaften mit der Ehe lehnen CDU und CSU ab.",
-      "classification": "Demokratie & Recht"
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "explizites Verbot",
@@ -118,7 +118,7 @@
       "topic": "Verhindern der Aufweichung nationaler Asylstandards durch EU-Regelung",
       "location": "II.4 Vorfahrt für Integration",
       "originalQuote": "Die Bestrebungen der EU, das Asylrecht EU-weit weitestgehend einheitlich zu regeln, würden zu einer Aufwe",
-      "classification": "Migration & Asyl"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
@@ -132,7 +132,7 @@
       "topic": "Ablehnung von Patenten auf Tiere und Pflanzen",
       "location": "III.4 Landwirtschaft",
       "originalQuote": "Wir wenden uns gegen Patente auf Tiere und Pflanzen.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "PATENTEN"
     },
     {
       "category": "semantisches Verbot",
@@ -146,28 +146,28 @@
       "topic": "Verhindern von Liberalisierungstendenzen der EU bei Trinkwasserversorgung und Abwasserentsorgung",
       "location": "III.6 Umwelt",
       "originalQuote": "Deutschland muss hier Liberalisierungstendenzen der EU einen Riegel vorschieben. Wir stehen",
-      "classification": "Umwelt & Klima"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verhindern der Existenz von rechtsfreien Räumen",
       "location": "III.8 Innere Sicherheit",
       "originalQuote": "Es darf keine rechtsfreien, sondern nur angstfreie Räume geben.",
-      "classification": "Demokratie & Recht"
+      "classification": "RECHTSFREIEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Duldung von Zusammenarbeit mit Extremisten",
       "location": "III.8 Innere Sicherheit",
       "originalQuote": "Wir dulden keine Zusammenarbeit mit Extremisten. Vielmehr muss der Schutz unseres Grundgesetze",
-      "classification": "Soziales & Arbeit"
+      "classification": "ZUSAMMENARBEIT"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verhindern zusätzlicher Belastungen für die Wirtschaft in der Krise, die Arbeitsplätze gefährden",
       "location": "IV. Europa",
       "originalQuote": "Gerade in der aktuellen Krise darf es keine zusätzlichen Belastungen für die Wirtschaft geben, die",
-      "classification": "Soziales & Arbeit"
+      "classification": "Wirtschaft & Steuern"
     }
   ]
 }

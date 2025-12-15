@@ -13,42 +13,42 @@
       "topic": "Ausdehnung der öffentlichen Videoüberwachung",
       "location": "1.1.4",
       "originalQuote": "auch bekannt als Mindest- und Höchstspeicherfrist sowie eine Ausdehnung der öffentlichen Vi",
-      "classification": "Digitales & Überwachung"
+      "classification": "VIDEOÜBERWACHUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Automatisierte Abfrage von Melderegisterauskünften",
       "location": "1.1.3",
       "originalQuote": "Eine automatisierte Abfrage lehnen wir ab. Dies gilt neben Melderegisterauskünften auc",
-      "classification": "Verkehr & Mobilität"
+      "classification": "MELDEREGISTERAUSKÜNFTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Weitergabe von Meldedaten an Beitragsservice der öffentlich-rechtlichen Rundfunkanstalten",
       "location": "1.1.3",
       "originalQuote": "Die Weitergabe von Meldedaten an den Beitragsservice der öffentlich-rechtlichen Rundfunkan",
-      "classification": "Digitales & Überwachung"
+      "classification": "ÖFFENTLICHRECHTLICHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einschränkungen des Bargeldverkehrs",
       "location": "1.1.5",
       "originalQuote": "Wir PIRATEN setzen uns sowohl auf Bundesebene als auch auf europäischer Ebene gegen E",
-      "classification": "Verkehr & Mobilität"
+      "classification": "EINSCHRÄNKUNGEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Herstellung, Wartung, Betreuung und Erhaltung von Überwachungssoftware",
       "location": "1.1.6",
       "originalQuote": "Wir PIRATEN sprechen uns deutlich gegen die Herstellung, Wartung, Betreuung und Erhaltun",
-      "classification": "Digitales & Überwachung"
+      "classification": "ÜBERWACHUNGSSOFTWARE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "PKW-Maut",
       "location": "1.1.7",
       "originalQuote": "Eine PKW-Maut lehnen wir ebenfalls ab. Durch viele bislang vorgeschlagene Systeme zur Ma",
-      "classification": "Verkehr & Mobilität"
+      "classification": "PKWMAUT"
     },
     {
       "category": "semantisches Verbot",
@@ -76,7 +76,7 @@
       "topic": "Abschiebungen und Abschiebehaft",
       "location": "2.1.12",
       "originalQuote": "Wir setzen uns für ein generelles Ende von Abschiebungen und der Abschiebehaft ein, ins",
-      "classification": "Migration & Asyl"
+      "classification": "ABSCHIEBUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -118,7 +118,7 @@
       "topic": "Patentierung von Geschäftsmodellen",
       "location": "6.11.1.2",
       "originalQuote": "Das Patentrecht muss eine Patentierung von Geschäftsmodellen explizit ausschließen.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "GESCHÄFTSMODELLEN"
     },
     {
       "category": "semantisches Verbot",
@@ -139,28 +139,28 @@
       "topic": "Weiterer Ausbau der Offshore-Windkraft",
       "location": "8",
       "originalQuote": "- den Ausbaustopp der Offshore-Windkraft. Diese Technologie ist sowohl ökologisch als au",
-      "classification": "Wohnen & Miete"
+      "classification": "OFFSHOREWINDKRAFT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Privatisierung von Verkehrsinfrastrukturen",
       "location": "9.6.1",
       "originalQuote": "Wir sprechen uns gegen die Privatisierung von Verkehrsinfrastrukturen aus. Nur so können",
-      "classification": "Verkehr & Mobilität"
+      "classification": "VERKEHRSINFRASTRUKTUREN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Subventionen für Regionalflughäfen",
       "location": "9.6.3",
       "originalQuote": "Wir wollen, dass alle Regionalflughäfen ohne Subventionen durch die öffentliche Hand bet",
-      "classification": "Verkehr & Mobilität"
+      "classification": "REGIONALFLUGHÄFEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kopierschutzmaßnahmen im Urheberrecht",
       "location": "10.1.3",
       "originalQuote": "Im Interesse der Allgemeinheit an einem möglichst freien Zugang zu Bildung und Kultur wi",
-      "classification": "Demokratie & Recht"
+      "classification": "KOPIERSCHUTZMASSNAHMEN"
     },
     {
       "category": "semantisches Verbot",
@@ -181,14 +181,14 @@
       "topic": "Allgemeine Drogentests am Arbeitsplatz",
       "location": "13.13.11",
       "originalQuote": "Allgemeine und verdachtsunabhängige Drogentests am Arbeitsplatz lehnen wir PIRATEN ab. S",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSPLATZ"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einschränkungen für E-Zigaretten über den Jugendschutz hinaus",
       "location": "13.13.14",
       "originalQuote": "Der derzeit freie Handel und Gebrauch liquidverdampfender E-Zigaretten soll nicht über de",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "EINSCHRÄNKUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -216,7 +216,7 @@
       "topic": "Konfessioneller Religionsunterricht an staatlichen Schulen",
       "location": "18.2",
       "originalQuote": "Deshalb setzen wir uns dafür ein, den konfessionellen Religionsunterricht bundesweit, an",
-      "classification": "Bildung & Forschung"
+      "classification": "RELIGIONSUNTERRICHT"
     },
     {
       "category": "semantisches Verbot",
@@ -230,7 +230,7 @@
       "topic": "Verwendung von amtlich erfassten Namen als Zwang für Netzdienste",
       "location": "5.4.2",
       "originalQuote": "Einen Zwang zur Verwendung von amtlich erfassten Namen lehnen wir ab.",
-      "classification": "Digitales & Überwachung"
+      "classification": "NETZDIENSTE"
     },
     {
       "category": "explizites Verbot",
@@ -244,21 +244,21 @@
       "topic": "Einsatz von Überwachungsdrohnen",
       "location": "14.8",
       "originalQuote": "Abgesehen von eng definierten absoluten Ausnahmefällen lehnen wir PIRATEN den Einsatz vo",
-      "classification": "Rüstung & Waffen"
+      "classification": "ÜBERWACHUNGSDROHNEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Körperstrafen international",
       "location": "15.4.1",
       "originalQuote": "Wir PIRATEN setzen uns im Sinne der Menschenrechte international für die Abschaffung von ",
-      "classification": "Europa & Außenpolitik"
+      "classification": "KÖRPERSTRAFEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Todesstrafe international",
       "location": "15.4.2",
       "originalQuote": "Wir PIRATEN setzen uns im Sinne der Menschenrechte international für die Abschaffung der ",
-      "classification": "Europa & Außenpolitik"
+      "classification": "INTERNATIONAL"
     },
     {
       "category": "semantisches Verbot",

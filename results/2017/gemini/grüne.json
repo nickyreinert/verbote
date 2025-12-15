@@ -13,7 +13,7 @@
       "topic": "Industrielle Massentierhaltung und landwirtschaftliche Monokulturen",
       "location": "A. EINLEITUNG (Quelle 4836)",
       "originalQuote": "Wir machen Schluss mit industrieller Massentierhaltung und landwirtschaftlichen Monokulturen, wir wolle",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Tierschutz & Landwirtschaft"
     },
     {
       "category": "semantisches Verbot",
@@ -41,14 +41,14 @@
       "topic": "Folgekosten umweltschädlichen Handelns für die Allgemeinheit",
       "location": "B. UMWELT IM KOPF (Quelle 4907)",
       "originalQuote": "Wir wollen einen fairen Wettbewerb, der die Folgekosten umweltschädlichen Handelns nicht weiter der Allg",
-      "classification": "Umwelt & Klima"
+      "classification": "UMWELTSCHÄDLICHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Schädliche Subventionen für die Agrarindustrie",
       "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR (Quelle 4916)",
       "originalQuote": "Wir recyceln unsere Rohstoffe, beenden die schädlichen Subventionen für die Agrarindustrie, die zum Bil",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "AGRARINDUSTRIE"
     },
     {
       "category": "semantisches Verbot",
@@ -62,7 +62,7 @@
       "topic": "Verunreinigung von Trinkwasser, Atemluft und Essen durch Schadstoffe",
       "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR (Quelle 4930)",
       "originalQuote": "Es gelangt in unser Trinkwasser, in unsere Atemluft und in unser Essen. Es ist allerhöchste Zeit, das zu",
-      "classification": "Umwelt & Klima"
+      "classification": "VERUNREINIGUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -76,7 +76,7 @@
       "topic": "Beförderung neuer, unabsehbarer Gefahren (bei Öl-/Gasförderung)",
       "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 1. Kein Leben ohne Wasser (Quelle 4942)",
       "originalQuote": "Auch müssen die bereits nachgewiesenen Probleme mit Lagerstättenwasser, aber auch Methanemissionen bei d",
-      "classification": "Europa & Außenpolitik"
+      "classification": "ÖLGASFÖRDERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -104,7 +104,7 @@
       "topic": "Grundschleppnetze und Stellnetze in Naturschutzgebieten",
       "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 1. Kein Leben ohne Wasser (Quelle 4961)",
       "originalQuote": "Kurzfristig müssen Naturschutzgebiete frei von Grundschleppnetzen und Stellnetzen sein, die den Meeresbo",
-      "classification": "Umwelt & Klima"
+      "classification": "NATURSCHUTZGEBIETEN"
     },
     {
       "category": "semantisches Verbot",
@@ -132,14 +132,14 @@
       "topic": "Verdrängung von Mehrwegsystemen durch Plastikeinwegflaschen",
       "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 4. Ressourcen schonen – Vom Müllberg zum Kreislauf (Quelle 5008)",
       "originalQuote": "Wir GRÜNE wollen, dass unsere Ressourcen geschützt werden, so werden wir unter anderem dafür sorgen, dass",
-      "classification": "Umwelt & Klima"
+      "classification": "PLASTIKEINWEGFLASCHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Unnötiger Einsatz von Mikroplastik in Kosmetikprodukten",
       "location": "B. UMWELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR (Quelle 5018)",
       "originalQuote": "Wir machen uns für eine internationale Plastikkonvention zur Verringerung von Plastikmüll stark, fördern",
-      "classification": "Umwelt & Klima"
+      "classification": "KOSMETIKPRODUKTEN"
     },
     {
       "category": "semantisches Verbot",
@@ -153,7 +153,7 @@
       "topic": "Operationen an intergeschlechtlichen Säuglingen und Kindern",
       "location": "II. WIR SCHÜTZEN DIE FREIHEIT / 2. Gleichberechtigung in Vielfalt (Quelle 4408)",
       "originalQuote": "Operationen an intergeschlechtlichen Säuglingen und Kindern wollen wir grundsätzlich verbieten. BÜNDNIS 9",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "INTERGESCHLECHTLICHEN"
     },
     {
       "category": "explizites Verbot",
@@ -181,7 +181,7 @@
       "topic": "Kriminalisierung von Drogenkonsument*innen",
       "location": "II. WIR SCHÜTZEN DIE FREIHEIT / 4. Drogen- und Suchthilfe (Quelle 4449)",
       "originalQuote": "Die Kriminalisierung von Drogenkonsument*innen muss beendet werden. Wer abhängig ist, braucht Hilfe und ",
-      "classification": "Gesundheit & Drogen"
+      "classification": "DROGENKONSUMENTINNEN"
     }
   ]
 }

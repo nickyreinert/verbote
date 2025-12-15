@@ -6,7 +6,7 @@
       "topic": "Pauschale Einschränkungen des Individualverkehrs ablehnen",
       "location": "Mobilität",
       "originalQuote": "Pauschale Einschränkungen des Individualverkehrs sind keine Lösung.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "INDIVIDUALVERKEHRS"
     },
     {
       "category": "semantisches Verbot",
@@ -34,35 +34,35 @@
       "topic": "Ablehnung von Lenkungs- und Bagatellsteuern",
       "location": "Entlastung und faire Steuern",
       "originalQuote": "Wir Freie Demokraten wollen überflüssige Bagatell- und Lenkungssteuern wie die Schaumwein- und Zwischenerzeugnissteuer, die Biersteuer oder die Kaffeesteuer abschaffen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "BAGATELLSTEUERN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung einer Substanzbesteuerung",
       "location": "Entlastung und faire Steuern",
       "originalQuote": "Wir Freie Demokraten lehnen eine einmalige Vermögensabgabe ebenso ab wie die Wiederbelebung der Vermögensteuer.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "SUBSTANZBESTEUERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Wiedereinführung der Vermögensteuer",
       "location": "Entlastung und faire Steuern",
       "originalQuote": "Wir Freie Demokraten lehnen eine einmalige Vermögensabgabe ebenso ab wie die Wiederbelebung der Vermögensteuer.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WIEDEREINFÜHRUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Verschärfung der Erbschaftsteuer",
       "location": "Sicherung der Sozialen Marktwirtschaft und Stärkung der Wirtschaft",
       "originalQuote": "Damit die Unternehmen nicht durch Erbgänge oder eine Substanzbesteuerung gefährdet werden, lehnen wir eine Verschärfung der Erbschaftsteuer oder die Wiedereinführung der Vermögensteuer ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ERBSCHAFTSTEUER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Fahrverboten zur Luftreinhaltung",
       "location": "Luftqualität: Kluge Lösungen statt Fahrverbote",
       "originalQuote": "Fahrverbote lehnen wir ab, denn sie führen zu Umgehungsverkehr und damit zu einer größeren Klima- und Luftbelastung.",
-      "classification": "Umwelt & Klima"
+      "classification": "LUFTREINHALTUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -83,14 +83,14 @@
       "topic": "Ablehnung eines pauschalen Versandhandelsverbots für rezeptpflichtige Arzneimittel",
       "location": "Gesundheit",
       "originalQuote": "Ein pauschales Versandhandelsverbot für rezeptpflichtige Arzneimittel lehnen wir ab, denn alle Patientinnen und Patienten sollten eine Wahlfreiheit haben.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERSANDHANDELSVERBOTS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung staatlicher Kontrolle über kritische Infrastruktur durch Unternehmen unter Einfluss autoritärer Regime",
       "location": "Digitalisierung",
       "originalQuote": "Deshalb sollen Unternehmen, die umfangreichen Einflussmöglichkeiten autoritärer Regime unterliegen, beim Ausbau kritischer Infrastruktur wie dem 5G-Netz nicht beteiligt werden.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "Wirtschaft & Steuern"
     },
     {
       "category": "semantisches Verbot",
@@ -111,42 +111,42 @@
       "topic": "Ablehnung staatlicher Eingriffe in das Eigentumsrecht beim Kulturgutschutz",
       "location": "Kultur",
       "originalQuote": "Wir lehnen jeden unnötigen staatlichen Eingriff in das Eigentumsrecht ab.",
-      "classification": "Wohnen & Miete"
+      "classification": "KULTURGUTSCHUTZ"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Bevorzugung von Staatsanleihen in der Bankenaufsicht",
       "location": "Klare Regeln",
       "originalQuote": "Wir Freie Demokraten wollen die bevorzugte Behandlung von Staatsanleihen bei der europäischen Regulierung von Banken und Versicherungen schrittweise beenden und durch marktorientierte Ansätze ersetzen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STAATSANLEIHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung einer europäischen Einlagensicherung (EDIS)",
       "location": "Klare Regeln",
       "originalQuote": "Die Schaffung einer einheitlichen europäischen Einlagensicherung (EDIS) lehnen wir Freie Demokraten ab.",
-      "classification": "Soziales & Arbeit"
+      "classification": "EINLAGENSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung einer Schuldenunion auf EU-Ebene",
       "location": "Klare Regeln",
       "originalQuote": "Eine Schuldenunion lehnen wir ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung zusätzlicher EU-Steuern",
       "location": "Klare Regeln",
       "originalQuote": "Die immer wieder geforderte Einführung zusätzlicher EU-Steuern ist mit den europäischen Verträgen nicht vereinbar und wird von uns abgelehnt.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Uploadfiltern im Urheberrecht",
       "location": "Kultur",
       "originalQuote": "Den Einsatz von Uploadfiltern lehnen wir als immense Gefahr für Meinungs- und Kunstfreiheit im Netz jedoch weiterhin ab.",
-      "classification": "Digitales & Überwachung"
+      "classification": "UPLOADFILTERN"
     },
     {
       "category": "semantisches Verbot",
@@ -167,14 +167,14 @@
       "topic": "Ablehnung des Leistungsschutzrechts für Presseverleger",
       "location": "Kultur",
       "originalQuote": "Das Leistungsschutzrecht für Presseverlegerinnen und Presseverleger wollen wir wieder abschaffen.",
-      "classification": "Demokratie & Recht"
+      "classification": "LEISTUNGSSCHUTZRECHTS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung eines Mietendeckels",
       "location": "Wohnen",
       "originalQuote": "Wir Freie Demokraten wollen die Mietpreisbremse abschaffen und einen bundesweiten Mietendeckel verhindern.",
-      "classification": "Wohnen & Miete"
+      "classification": "MIETENDECKELS"
     },
     {
       "category": "semantisches Verbot",
@@ -202,21 +202,21 @@
       "topic": "Ablehnung des Einsatzes automatisierter Gesichtserkennung im öffentlichen Raum",
       "location": "Schutz der Privatsphäre",
       "originalQuote": "Wir Freie Demokraten fordern ein Recht auf Anonymität im öffentlichen Raum und lehnen den Einsatz der automatisierten Gesichtserkennung ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "GESICHTSERKENNUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung einer flächendeckenden Videoüberwachung",
       "location": "Schutz der Privatsphäre",
       "originalQuote": "Eine flächendeckende Videoüberwachung lehnen wir daher ab und sehen auch die Ausweitung privater Videoüberwachung, die dann für staatliche Zwecken nutzbar gemacht wird, kritisch.",
-      "classification": "Digitales & Überwachung"
+      "classification": "FLÄCHENDECKENDEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung staatlicher Dirigismen und Verbote in der Wirtschaftspolitik",
       "location": "Wie es ist, darf es nicht bleiben",
       "originalQuote": "Statt Wohlstand und Nachhaltigkeit, Wachstum und Klimapolitik, wirtschaftliche Stärke und ökologische Verantwortung zu verbinden, setzte sie auf Verbote und Dirigismus.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WIRTSCHAFTSPOLITIK"
     },
     {
       "category": "semantisches Verbot",
@@ -244,7 +244,7 @@
       "topic": "Verbot medizinisch nicht notwendiger genitalverändernder Operationen an intergeschlechtlichen Kindern",
       "location": "Modernes Recht für starke Familien",
       "originalQuote": "Medizinisch nicht notwendige genitalverändernde Operationen an intergeschlechtlichen Kindern sind wirksam zu verbieten, um deren Selbstbestimmung zu stärken.",
-      "classification": "Gesundheit & Drogen"
+      "classification": "INTERGESCHLECHTLICHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -265,7 +265,7 @@
       "topic": "Ablehnung staatlicher Alleingänge bei der CO2-Bepreisung",
       "location": "Faire Regeln bei der internationalen Besteuerung",
       "originalQuote": "Ein Alleingang der EU könnte dagegen auch in Deutschland zu Wettbewerbsverzerrungen und zum Verlust von Arbeitsplätzen führen.",
-      "classification": "Umwelt & Klima"
+      "classification": "CO2BEPREISUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -279,7 +279,7 @@
       "topic": "Ablehnung staatlicher Bevormundung bei Prävention und Gesundheitsförderung",
       "location": "Gesundheit",
       "originalQuote": "Wir setzen auf Überzeugung statt Bevormundung.",
-      "classification": "Gesundheit & Drogen"
+      "classification": "GESUNDHEITSFÖRDERUNG"
     },
     {
       "category": "semantisches Verbot",

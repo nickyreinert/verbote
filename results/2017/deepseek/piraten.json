@@ -6,7 +6,7 @@
       "topic": "Ablehnung der verdachtsunabhängigen Durchleuchtung der Bürger",
       "location": "1.1 Privatsphäre wahren",
       "originalQuote": "Wir lehnen die verdachtsunabhängige Durchleuchtung der Bürgerinnen und Bürger und die gläsernen Kundinnen",
-      "classification": "Europa & Außenpolitik"
+      "classification": "VERDACHTSUNABHÄNGIGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -27,14 +27,14 @@
       "topic": "Ablehnung von Überwachungssoftware",
       "location": "1.1.6 Gegen Überwachungssoftware",
       "originalQuote": "Wir PIRATEN sprechen uns deutlich gegen die Herstellung, Wartung, Betreuung und Erhaltung von Überwach",
-      "classification": "Digitales & Überwachung"
+      "classification": "ÜBERWACHUNGSSOFTWARE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine PKW-Maut",
       "location": "1.1.7 Keine PKW-Maut",
       "originalQuote": "Eine PKW-Maut lehnen wir ebenfalls ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "PKWMAUT"
     },
     {
       "category": "semantisches Verbot",
@@ -118,14 +118,14 @@
       "topic": "Sofortiger Ausstieg aus Atomenergie",
       "location": "8.17 Atomenergie",
       "originalQuote": "Wir PIRATEN fordern den sofortigen Ausstieg aus der Stromproduktion durch Kernspaltung.",
-      "classification": "Umwelt & Klima"
+      "classification": "ATOMENERGIE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Tierversuche ablehnen",
       "location": "7.5.3 Tierversuche",
       "originalQuote": "Tierversuche sollen, insbesondere wenn tierversuchsfreie alternative Verfahren vorhanden sind, für",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERVERSUCHE"
     },
     {
       "category": "semantisches Verbot",

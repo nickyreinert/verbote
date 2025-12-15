@@ -13,7 +13,7 @@
       "topic": "Neubau von Kernkraftwerken",
       "location": "B.I.3 Energie – sicher, sauber und bezahlbar",
       "originalQuote": "Einen Neubau von Kernkraftwerken lehnen wir ab.",
-      "classification": "Wohnen & Miete"
+      "classification": "KERNKRAFTWERKEN"
     },
     {
       "category": "semantisches Verbot",
@@ -27,14 +27,14 @@
       "topic": "Protektionismus im Welthandel",
       "location": "B.I.4 Faire Regeln für internationale Finanzmärkte und Weltwirtschaft",
       "originalQuote": "Wir bekennen uns zum Grundsatz des freien Welthandels und lehnen Protektionismus ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "PROTEKTIONISMUS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Vollständige rechtliche Gleichstellung nichtehelicher und gleichgeschlechtlicher Lebensgemeinschaften mit der Ehe",
       "location": "B.II.2 Wahlfreiheit für Familien",
       "originalQuote": "Eine vollständige rechtliche Gleichstellung solcher Lebensgemeinschaften mit der Ehe lehnen",
-      "classification": "Demokratie & Recht"
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "semantisches Verbot",
@@ -55,21 +55,21 @@
       "topic": "Staatliche Einheitsversicherung im Gesundheitswesen",
       "location": "B.I.7 Zukunftsfähige Politik für Gesundheit und Pflege",
       "originalQuote": "Eine staatliche Einheitsversicherung lehnen wir ab.",
-      "classification": "Soziales & Arbeit"
+      "classification": "EINHEITSVERSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "EU-weite Regelung des Asylrechts",
       "location": "B.II.4 Vorfahrt für Integration",
       "originalQuote": "Die Bestrebungen der EU, das Asylrecht EU-weit weitestgehend einheitlich zu regeln, würden zu",
-      "classification": "Migration & Asyl"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kommunales Wahlrecht für Ausländer",
       "location": "B.II.4 Vorfahrt für Integration",
       "originalQuote": "Ein generelles kommunales Wahlrecht für Ausländer lehnen wir ab, denn es eröffnet keine volle",
-      "classification": "Demokratie & Recht"
+      "classification": "KOMMUNALES"
     },
     {
       "category": "semantisches Verbot",
@@ -90,7 +90,7 @@
       "topic": "Patente auf Tiere und Pflanzen",
       "location": "B.III.3 Ländliche Räume und Landwirtschaft stärken",
       "originalQuote": "Wir wenden uns gegen Patente auf Tiere und Pflanzen.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "PFLANZEN"
     },
     {
       "category": "semantisches Verbot",
@@ -111,7 +111,7 @@
       "topic": "Aufweichung des deutschen Asylkompromisses durch EU-weite Regelungen",
       "location": "B.II.4 Vorfahrt für Integration",
       "originalQuote": "Die Bestrebungen der EU, das Asylrecht EU-weit weitestgehend einheitlich zu regeln, würden zu",
-      "classification": "Migration & Asyl"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "explizites Verbot",

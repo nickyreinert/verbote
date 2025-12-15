@@ -6,14 +6,14 @@
       "topic": "Bürokratieabbau bei neuen Regelungen (One in, two out)",
       "location": "I. Nie war es notwendiger: Machen wir uns fit für den Aufholwettbewerb!",
       "originalQuote": "Für jede neue Belastung durch geplante Regelungen sollen im doppelten Umfang Belastungen abgebaut werden",
-      "classification": "Wohnen & Miete"
+      "classification": "BÜROKRATIEABBAU"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Lehnt Verschärfung der Erbschaftsteuer ab",
       "location": "I. Nie war es notwendiger: Machen wir uns fit für den Aufholwettbewerb!",
       "originalQuote": "lehnen wir eine Verschärfung der Erbschaftsteuer oder die Wiedereinführung der Vermögensteuer ab",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ERBSCHAFTSTEUER"
     },
     {
       "category": "semantisches Verbot",
@@ -41,28 +41,28 @@
       "topic": "Lehnt neue Vermögensabgabe und Vermögensteuer ab",
       "location": "I. Nie war es notwendiger: Machen wir uns fit für den Aufholwettbewerb!",
       "originalQuote": "Wir Freie Demokraten lehnen eine einmalige Vermögensabgabe ebenso ab wie die Wiederbelebung der Vermögensteuer.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERMÖGENSABGABE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Lehnt pauschales Aussperren von Unternehmen/Parteien/Bundeswehr im Bildungsbereich ab",
       "location": "I. Nie war es notwendiger: Machen wir uns fit für den Aufholwettbewerb!",
       "originalQuote": "Zivilklauseln oder das pauschale Aussperren von Unternehmen, Parteien sowie der Bundeswehr lehnen wir im Bildungsbereich ab.",
-      "classification": "Rüstung & Waffen"
+      "classification": "Wirtschaft & Steuern"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Lehnt gesetzliche Zivilklauseln ab (Wissenschaftsfreiheit)",
       "location": "I. Nie war es notwendiger: Machen wir uns fit für den Aufholwettbewerb!",
       "originalQuote": "Gesetzliche Zivilklauseln lehnen wir ab.",
-      "classification": "Bildung & Forschung"
+      "classification": "WISSENSCHAFTSFREIHEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Lehnt unverhältnismäßige Mobilitätsverbote ab",
       "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
       "originalQuote": "Wir Freie Demokraten sind gegen unverhältnismäßige Verbote in der Mobilität.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "UNVERHÄLTNISMÄSSIGE"
     },
     {
       "category": "semantisches Verbot",
@@ -76,21 +76,21 @@
       "topic": "Lehnt pauschales Versandhandelsverbot für rezeptpflichtige Arzneimittel ab",
       "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
       "originalQuote": "Ein pauschales Versandhandelsverbot für rezeptpflichtige Arzneimittel lehnen wir ab",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERSANDHANDELSVERBOT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Lehnt Hackbacks (digitale Vergeltungsschläge) ab",
       "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
       "originalQuote": "Wir lehnen digitale Vergeltungsschläge (Hackbacks) ab",
-      "classification": "Digitales & Überwachung"
+      "classification": "VERGELTUNGSSCHLÄGE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Unternehmen unter autoritärem Regimeeinfluss beim 5G-Netzausbau nicht beteiligen",
       "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
       "originalQuote": "Unternehmen, die umfangreichen Einflussmöglichkeiten autoritärer Regime unterliegen, beim Ausbau kritischer Infrastruktur wie dem 5G-Netz nicht beteiligt werden.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "Wirtschaft & Steuern"
     },
     {
       "category": "semantisches Verbot",
@@ -118,14 +118,14 @@
       "topic": "Lehnt automatisierte Gesichtserkennung im öffentlichen Raum ab",
       "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
       "originalQuote": "Wir lehnen den Einsatz der automatisierten Gesichtserkennung ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "GESICHTSERKENNUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Lehnt flächendeckende Videoüberwachung ab",
       "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
       "originalQuote": "Eine flächendeckende Videoüberwachung lehnen wir daher ab",
-      "classification": "Digitales & Überwachung"
+      "classification": "VIDEOÜBERWACHUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -139,28 +139,28 @@
       "topic": "Lehnt staatliche Eingriffe in Eigentumsrechte bei Kulturgutschutz ab",
       "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
       "originalQuote": "Wir lehnen jeden unnötigen staatlichen Eingriff in das Eigentumsrecht ab.",
-      "classification": "Wohnen & Miete"
+      "classification": "EIGENTUMSRECHTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Lehnt Leistungsschutzrecht für Presseverleger ab",
       "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
       "originalQuote": "Das Leistungsschutzrecht für Presseverlegerinnen und Presseverleger wollen wir wieder abschaffen.",
-      "classification": "Demokratie & Recht"
+      "classification": "LEISTUNGSSCHUTZRECHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Lehnt Einsatz von Uploadfiltern ab",
       "location": "II. Nie war Modernisierung dringlicher: Modernisieren wir endlich unser Land!",
       "originalQuote": "Den Einsatz von Uploadfiltern lehnen wir als immense Gefahr für Meinungs- und Kunstfreiheit im Netz jedoch weiterhin ab.",
-      "classification": "Digitales & Überwachung"
+      "classification": "UPLOADFILTERN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Lehnt EU-Steuern ab",
       "location": "III. Nie waren die Chancen größer: Bewältigen wir die großen Herausforderungen unserer Zeit!",
       "originalQuote": "Die immer wieder geforderte Einführung zusätzlicher EU-Steuern ist mit den europäischen Verträgen nicht vereinbar und wird von uns abgelehnt.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Europa & Außenpolitik"
     }
   ]
 }

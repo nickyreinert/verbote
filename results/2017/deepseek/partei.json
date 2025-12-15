@@ -6,21 +6,21 @@
       "topic": "Einsatz von Chatbots im Wahlkampf",
       "location": "Punkt 7",
       "originalQuote": "Chatbots wie Ralf Stegner (SPD), Peter Tauber (CDU), Beatrix von Strolch (AfD), Andy Scheuer (CSU) und Chris Lindner (FDP) dürfen in Wahlkampfzeiten nicht eingesetzt werden.",
-      "classification": "Rüstung & Waffen"
+      "classification": "WAHLKAMPF"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Unterdrückung von Beschwerden über Ungerechtigkeit",
       "location": "Punkt 1",
       "originalQuote": "Beschwerden über angebliche Ungerechtigkeiten sind mit aller Gewalt zu unterdrücken.",
-      "classification": "Demokratie & Recht"
+      "classification": "UNGERECHTIGKEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einstellung von Tierversuchen",
       "location": "Punkt 6",
       "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERVERSUCHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -34,7 +34,7 @@
       "topic": "Obergrenze für die Aufnahme von Flüchtlingen",
       "location": "Punkt 13",
       "originalQuote": "Deutschland darf nicht mehr Flüchtlinge aufnehmen als das Mittelmeer.",
-      "classification": "Migration & Asyl"
+      "classification": "FLÜCHTLINGEN"
     }
   ]
 }

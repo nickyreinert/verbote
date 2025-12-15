@@ -27,21 +27,21 @@
       "topic": "Aberkennung von Bürgerrechten als „Privilegien“ in Krisenzeiten.",
       "location": "source: 3385",
       "originalQuote": "Wir Freie Demokraten setzen auf Freiheit, Rechtsstaat und Bürgerrechte, die auch in Krisenzeiten gelten und nicht als „Privilegien“ abgetan werden dürfen, die uns nach Belieben zugeteilt oder vorenthalten werden können.",
-      "classification": "Demokratie & Recht"
+      "classification": "BÜRGERRECHTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Fortführung des deutschen Sonderwegs der Gewerbesteuer.",
       "location": "source: 3424",
       "originalQuote": "Unser Ziel ist es, im Zuge der angestrebten Harmonisierung der Unternehmensbesteuerung in Europa den deutschen Sonderweg der Gewerbesteuer zu beenden.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "GEWERBESTEUER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verschärfung der Erbschaftsteuer oder Wiedereinführung der Vermögensteuer.",
       "location": "source: 3441",
       "originalQuote": "Damit die Unternehmen nicht durch Erbgänge oder eine Substanzbesteuerung gefährdet werden, lehnen wir eine Verschärfung der Erbschaftsteuer oder die Wiedereinführung der Vermögensteuer ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WIEDEREINFÜHRUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -62,7 +62,7 @@
       "topic": "Neue staatliche Beteiligungen ohne gleichzeitige Reduktion anderer.",
       "location": "source: 3452",
       "originalQuote": "Neue Beteiligungen sollten nur noch dann zulässig sein, wenn andere entsprechend reduziert werden.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "BETEILIGUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -76,7 +76,7 @@
       "topic": "Nationale Alleingänge, Willkürzölle und neue nicht-tarifäre Handelshemmnisse.",
       "location": "source: 3477",
       "originalQuote": "Nationale Alleingänge und Willkürzölle sowie neue nicht-tarifäre Handelshemmnisse lehnen wir ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "HANDELSHEMMNISSE"
     },
     {
       "category": "explizites Verbot",
@@ -90,28 +90,28 @@
       "topic": "Zahlung des höchsten Steuersatzes durch Durchschnittsverdiener:innen.",
       "location": "source: 3517",
       "originalQuote": "Für uns ist jedoch klar: Eine Durchschnittsverdienerin und ein Durchschnittsverdiener dürfen nicht fast schon den höchsten Steuersatz zahlen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "DURCHSCHNITTSVERDIENERINNEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Weitere Verschärfung der Erbschaftsteuer.",
       "location": "source: 3519",
       "originalQuote": "Wir lehnen auch eine weitere Verschärfung der Erbschaftsteuer ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ERBSCHAFTSTEUER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einmalige Vermögensabgabe und Wiederbelebung der Vermögensteuer.",
       "location": "source: 3528",
       "originalQuote": "Wir Freie Demokraten lehnen eine einmalige Vermögensabgabe ebenso ab wie die Wiederbelebung der Vermögensteuer.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERMÖGENSABGABE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Überschreitung von 50 Prozent Sozialausgaben am Bundeshaushalt.",
       "location": "source: 3557",
       "originalQuote": "Wir Freie Demokraten wollen die Höhe der Sozialausgaben grundsätzlich bei 50 Prozent des Bundeshaushalts deckeln.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ÜBERSCHREITUNG"
     }
   ]
 }

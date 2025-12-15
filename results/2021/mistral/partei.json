@@ -13,7 +13,7 @@
       "topic": "Tierversuche werden eingestellt",
       "location": "Punkt 18",
       "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da. Lipgloss, Arsch-Make-up, Biomarmelade und Medikamentencocktails werden ab sofort an Spitzensportlern getestet, die sind allerhand Substanzen gewöhnt. Oder in Bibis Beauty Palace. Bierversuche bleiben frei.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERVERSUCHE"
     },
     {
       "category": "explizites Verbot",
@@ -41,7 +41,7 @@
       "topic": "Beschwerden über Ungerechtigkeit werden unterdrückt",
       "location": "Punkt 17",
       "originalQuote": "Die PARTEI fordert die Durchsetzung allumfassender universeller Gesamtgerechtigkeit, zumindest aber doppelt so viel Gerechtigkeit wie die SPD. Beschwerden über angebliche Ungerechtigkeiten sind mit aller Gewalt zu unterdrücken. Um den gesellschaftlichen Stellenwert der Gerechtigkeit zu unterstreichen, steigt der Hamburger SV künftig jährlich ab, wohin auch immer.",
-      "classification": "Demokratie & Recht"
+      "classification": "UNGERECHTIGKEIT"
     },
     {
       "category": "semantisches Verbot",
@@ -62,35 +62,35 @@
       "topic": "Gendern wird Pflicht für Jahrgänge ab 2000",
       "location": "Punkt 16",
       "originalQuote": "Gendern wird Pflicht… …für alle Jahrgänge ab 2000. Für die übrigen gilt eine Übergangsfrist bis 2090. VertreteriX beider Gruppen wird etwas mehr Toleranz in der Diskussion empfohlen. (Nach der Wahl: „verordnet“. Smiley!)",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "JAHRGÄNGE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ärztliche Versorgung auf dem Land durch Tierärzte",
       "location": "Punkt 19",
       "originalQuote": "Angesichts einer genetischen Übereinstimmung zwischen Schweinen und Menschen auf dem Land von über 90 % liegt es nur nahe, die ärztliche Versorgung im Güllegürtel Deutschlands den Tierärzten zu übertragen.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "VERSORGUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Flüchtlingsobergrenze wird jährlich neu definiert",
       "location": "Punkt 21",
       "originalQuote": "Die Flüchtlingsobergrenze wird – ganz im Sinne der Unionsparteien – jährlich neu definiert: Deutschland darf nicht mehr Flüchtlinge aufnehmen als das Mittelmeer.",
-      "classification": "Migration & Asyl"
+      "classification": "FLÜCHTLINGSOBERGRENZE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "AKW-Betreiber müssen Atommüll zurücknehmen",
       "location": "Punkt 13",
       "originalQuote": "AKW werden ins Duale System aufgenommen. Betreiber werden verpflichtet, Brennstäbe und Verpackungen zurückzunehmen und für die Entsorgung des produzierten Mülls aufzukommen.",
-      "classification": "Umwelt & Klima"
+      "classification": "AKWBETREIBER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Selbstverpflichtung der Wirtschaft zur Klimazielerreichung",
       "location": "Punkt 14",
       "originalQuote": "Die Erderwärmung darf auf gar keinen Fall höher als 1,5° Celsius/Jahr ausfallen. Dafür wird Die PARTEI alle relevanten Wirtschaftszweige auffordern, eine Selbstverpflichtung im Rahmen der jeweiligen Möglichkeiten zu erwägen.",
-      "classification": "Umwelt & Klima"
+      "classification": "Wirtschaft & Steuern"
     },
     {
       "category": "semantisches Verbot",

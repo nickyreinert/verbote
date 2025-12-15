@@ -6,7 +6,7 @@
       "topic": "Verbot besonders schädlicher Umweltgifte wie Glyphosat",
       "location": "Kapitel 1: Lebensgrundlagen schützen / Artensterben stoppen",
       "originalQuote": "Deshalb werden wir ein Sofortprogramm Artenschutz auflegen, mit dem wir den Pestizideinsatz deutlich verringern und den Einsatz beso",
-      "classification": "Umwelt & Klima"
+      "classification": "Tierschutz & Landwirtschaft"
     },
     {
       "category": "semantisches Verbot",
@@ -27,14 +27,14 @@
       "topic": "Keine neuen Öl- und Gasbohrungen in der deutschen AWZ",
       "location": "Kapitel 1: Lebensgrundlagen schützen / Meere schützen, Plastikmüllflut stoppen",
       "originalQuote": "In der deutschen Ausschließlichen Wirtschaftszone wollen wir einen sofortigen Stopp neuer Öl- und Gasbohrungen umsetzen sowie ein",
-      "classification": "Europa & Außenpolitik"
+      "classification": "GASBOHRUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Neue Hafenterminals für Flüssigerdgas nicht mehr genehmigen",
       "location": "Kapitel 1: Lebensgrundlagen schützen / Unsere Energieinfrastruktur klimaneutral machen",
       "originalQuote": "Neue Hafenterminals zur Anlandung von Flüssigerdgas sollen nicht mehr genehmigt werden.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "HAFENTERMINALS"
     },
     {
       "category": "semantisches Verbot",
@@ -62,14 +62,14 @@
       "topic": "Verbot von Pestiziden in Schutzgebieten und Trinkwasserschutzgebieten",
       "location": "Kapitel 1: Lebensgrundlagen schützen / Wir stärken Bäuer*innen, Tiere und Natur / Pestizide reduzieren",
       "originalQuote": "Um wirksamen Artenschutz zu betreiben und unser Trinkwasser zu schützen, wollen wir die Ausbringung von Pestiziden in Naturschutz",
-      "classification": "Umwelt & Klima"
+      "classification": "TRINKWASSERSCHUTZGEBIETEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Exportverbot für in der EU nicht zugelassene oder verbotene Pestizide",
       "location": "Kapitel 1: Lebensgrundlagen schützen / Wir stärken Bäuer*innen, Tiere und Natur / Pestizide reduzieren",
       "originalQuote": "Wir werden außerdem den Export von Pestiziden beenden, die in Deutschland oder der EU aufgrund von Umwelt- und Gesundheitsrisiken",
-      "classification": "Rüstung & Waffen"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "explizites Verbot",
@@ -83,7 +83,7 @@
       "topic": "Wildtierhandel auf Online-Portalen und gewerblichen Börsen verbieten",
       "location": "Kapitel 1: Lebensgrundlagen schützen / Wir stärken Bäuer*innen, Tiere und Natur / Wildtierhandel an die Leine legen",
       "originalQuote": "Wildtierhandel auf Online-Portalen und gewerblichen Börsen sowie kommerzielle Importe von Wildfängen und die Einfuhr von Jagdtro",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WILDTIERHANDEL"
     },
     {
       "category": "semantisches Verbot",
@@ -104,21 +104,21 @@
       "topic": "Beendigung der Haltung von Wildtieren in Zirkussen",
       "location": "Kapitel 1: Lebensgrundlagen schützen / Wir stärken Bäuer*innen, Tiere und Natur / Tiere schützen und respektieren",
       "originalQuote": "Die Haltung von Wildtieren in Zirkussen werden wir beenden.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "BEENDIGUNG"
     },
     {
       "category": "explizites Verbot",
       "topic": "Atomkraftwerke sind nicht erlaubt (Atomausstieg)",
       "location": "Kapitel 1: Lebensgrundlagen schützen / Atomausstieg vollenden",
       "originalQuote": "Wir werden den Atomausstieg in Deutschland vollenden.",
-      "classification": "Umwelt & Klima"
+      "classification": "ATOMKRAFTWERKE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Keine neuen emissionsfreien Autos ab 2030",
       "location": "Kapitel 1: Lebensgrundlagen schützen / Den Autoverkehr klimaneutral gestalten",
       "originalQuote": "Ab 2030 dürfen deshalb nur noch emissionsfreie Autos neu zugelassen werden; den Weg dorthin bereiten europäische CO2-Flottengrenzw",
-      "classification": "Verkehr & Mobilität"
+      "classification": "EMISSIONSFREIEN"
     },
     {
       "category": "semantisches Verbot",
@@ -132,14 +132,14 @@
       "topic": "Ablehnung weiteren Ausbaus der Flughafeninfrastruktur",
       "location": "Kapitel 1: Lebensgrundlagen schützen / Flugverkehr zukunftsfähig ausrichten",
       "originalQuote": "Einen weiteren Ausbau der Flughafeninfrastruktur lehnen wir ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "FLUGHAFENINFRASTRUKTUR"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung des Ausbaus der Oder und Tideelbe",
       "location": "Kapitel 1: Lebensgrundlagen schützen / Flüsse und Moore schützen und renaturieren",
       "originalQuote": "Naturnahe Bäche und die letzten frei fließenden Flüsse wie die Elbe müssen erhalten bleiben, einen Ausbau der Oder lehnen wir ab",
-      "classification": "Wohnen & Miete"
+      "classification": "TIDEELBE"
     },
     {
       "category": "explizites Verbot",
@@ -160,7 +160,7 @@
       "topic": "Mikroplastik hat in Kosmetika nichts verloren",
       "location": "Kapitel 1: Lebensgrundlagen schützen / Giftfreie Produkte im Alltag",
       "originalQuote": "In Kosmetika und Pflegeprodukten hat Mikroplastik nichts verloren.",
-      "classification": "Umwelt & Klima"
+      "classification": "MIKROPLASTIK"
     }
   ]
 }

@@ -34,7 +34,7 @@
       "topic": "Billigflaggen für deutsche Reedereien",
       "location": "Seite 87",
       "originalQuote": "Billigflaggen für deutsche Reedereien wollen wir verbieten.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "BILLIGFLAGGEN"
     },
     {
       "category": "explizites Verbot",
@@ -48,14 +48,14 @@
       "topic": "Verbot des Klonens von Tieren",
       "location": "Seite 88",
       "originalQuote": "Das Verbot des Klonens von Tieren muss erhalten werden.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "KLONENS"
     },
     {
       "category": "explizites Verbot",
       "topic": "Nutztierhaltung mit quälerischen Produktionsweisen und hohem Antibiotikabedarf",
       "location": "Seite 88",
       "originalQuote": "Formen der Nutztierhaltung mit quälerischen Produktionsweisen und einem hohen Bedarf an Antibiotika wollen wir verbieten.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "PRODUKTIONSWEISEN"
     },
     {
       "category": "explizites Verbot",
@@ -83,7 +83,7 @@
       "topic": "Rupfung von lebenden Tieren für Daunen und Import von Produkten aus Zwangsfütterung",
       "location": "Seite 92",
       "originalQuote": "Daunen dürfen nicht durch Rupfung von lebenden Tieren gewonnen werden. Den Import von Produkten aus Zwangsfütterung (Stopfen) wollen wir verbieten.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "ZWANGSFÜTTERUNG"
     },
     {
       "category": "explizites Verbot",
@@ -97,7 +97,7 @@
       "topic": "Umweltschädliche Pestizide und Mikroplastik in Kosmetik etc.",
       "location": "Seite 92",
       "originalQuote": "besonders umweltschädliche Pestizide wie Glyphosat und Neonikotinoiden sowie von Mikroplastik in Kosmetik und Reinigungs- und Pflegeprodukten wollen wir sofort verbieten.",
-      "classification": "Umwelt & Klima"
+      "classification": "UMWELTSCHÄDLICHE"
     },
     {
       "category": "explizites Verbot",
@@ -111,7 +111,7 @@
       "topic": "Exporte von Kleinwaffen und Waffenfabriken",
       "location": "Seite 96",
       "originalQuote": "Als ersten Schritt wollen wir alle Exporte von Kleinwaffen und Waffenfabriken verbieten.",
-      "classification": "Rüstung & Waffen"
+      "classification": "WAFFENFABRIKEN"
     },
     {
       "category": "explizites Verbot",
@@ -125,28 +125,28 @@
       "topic": "Einfuhr von Produkten aus Kinderarbeit",
       "location": "Seite 97",
       "originalQuote": "Die Einfuhr von Produkten aus Kinderarbeit wollen wir verbieten.",
-      "classification": "Soziales & Arbeit"
+      "classification": "KINDERARBEIT"
     },
     {
       "category": "explizites Verbot",
       "topic": "Vorbereitung eines Angriffskrieges",
       "location": "Seite 99",
       "originalQuote": "dass der Paragraph 80 StGB wieder eingeführt wird, der die »Vorbereitung eines Angriffskrieges« verbietet.",
-      "classification": "Rüstung & Waffen"
+      "classification": "ANGRIFFSKRIEGES"
     },
     {
       "category": "explizites Verbot",
       "topic": "Unternehmens- und Lobbyistenspenden an Parteien und Parteiensponsoring",
       "location": "Seite 110",
       "originalQuote": "Unternehmens- und Lobbyistenspenden an Parteien sowie das Parteiensponsoring... wollen wir verbieten",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "PARTEIENSPONSORING"
     },
     {
       "category": "explizites Verbot",
       "topic": "Herstellung von Rüstungsprodukten in WfbM",
       "location": "Seite 117",
       "originalQuote": "die Herstellung von Rüstungsprodukten in WfbM wird verboten.",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSPRODUKTEN"
     },
     {
       "category": "explizites Verbot",
@@ -167,14 +167,14 @@
       "topic": "Werbung in Schulen und Kitas",
       "location": "Seite 121",
       "originalQuote": "ein Verbot von Werbung in Schulen und Kitas",
-      "classification": "Bildung & Forschung"
+      "classification": "WERBUNG"
     },
     {
       "category": "explizites Verbot",
       "topic": "Beleuchtete Werbung im öffentlichen Raum",
       "location": "Seite 121",
       "originalQuote": "sowie von beleuchteter Werbung im öffentlichen Raum.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "ÖFFENTLICHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -188,14 +188,14 @@
       "topic": "Stellenabbau bei DB-Cargo",
       "location": "Seite 84",
       "originalQuote": "Kein Stellenabbau bei DB-Cargo!",
-      "classification": "Wohnen & Miete"
+      "classification": "STELLENABBAU"
     },
     {
       "category": "semantisches Verbot",
       "topic": "PKW-Maut",
       "location": "Seite 85",
       "originalQuote": "Keine PKW-Maut, weder für Aus- noch für Inländer.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "PKWMAUT"
     },
     {
       "category": "semantisches Verbot",
@@ -209,7 +209,7 @@
       "topic": "Aufnahme neuer Mitglieder in die NATO",
       "location": "Seite 87",
       "originalQuote": "keine neuen Mitglieder in die NATO aufzunehmen.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "MITGLIEDER"
     },
     {
       "category": "semantisches Verbot",
@@ -223,14 +223,14 @@
       "topic": "Weitere Erhöhung des Rüstungsetats",
       "location": "Seite 106",
       "originalQuote": "Wir lehnen eine weitere Erhöhung des Rüstungsetats ab.",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSETATS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Militärische Komponente im Europäischen Auswärtigen Dienst",
       "location": "Seite 106",
       "originalQuote": "keine militärische Komponente im Europäischen Auswärtigen Dienst.",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITÄRISCHE"
     },
     {
       "category": "explizites Verbot",
@@ -244,7 +244,7 @@
       "topic": "Unbemannte und vollautonome Kampfsysteme",
       "location": "Seite 106",
       "originalQuote": "alle unbemannten und vollautonomen Kampfsysteme (bewaffnete Drohnen und Kampfroboter) im Rahmen einer internationalen Konvention ächten.",
-      "classification": "Rüstung & Waffen"
+      "classification": "VOLLAUTONOME"
     },
     {
       "category": "semantisches Verbot",
@@ -286,14 +286,14 @@
       "topic": "Ausweisungen und Abschiebungen als Doppelbestrafung",
       "location": "Seite 115",
       "originalQuote": "Wir sind gegen Ausweisungen und Abschiebungen als eine Form der Doppelbestrafung für hier lebende Migrantinnen und Migranten.",
-      "classification": "Migration & Asyl"
+      "classification": "DOPPELBESTRAFUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Abschiebungen",
       "location": "Seite 116",
       "originalQuote": "Abschiebungen lehnen wir ab.",
-      "classification": "Migration & Asyl"
+      "classification": "ABSCHIEBUNGEN"
     },
     {
       "category": "semantisches Verbot",

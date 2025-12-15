@@ -13,7 +13,7 @@
       "topic": "Schließung von Amazon aufgrund angeblichen Marktmisserfolgs",
       "location": "Punkt 7",
       "originalQuote": "Wegen nachhaltigen Marktmisserfolgs müssen wir Amazon leider schließen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "MARKTMISSERFOLGS"
     },
     {
       "category": "semantisches Verbot",
@@ -27,7 +27,7 @@
       "topic": "Einstellung von Tierversuchen",
       "location": "Punkt 18",
       "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERVERSUCHEN"
     }
   ]
 }

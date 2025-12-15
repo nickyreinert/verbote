@@ -13,7 +13,7 @@
       "topic": "Verbot der Benachteiligung von konventioneller Landwirtschaft und ökologischem Landbau.",
       "location": "Quelle 1814",
       "originalQuote": "Weder konventionelle Landwirtschaft noch ökologischer Landbau dürfen benachteiligt werden. Die Landwirtschaft",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Tierschutz & Landwirtschaft"
     },
     {
       "category": "semantisches Verbot",
@@ -27,14 +27,14 @@
       "topic": "Ablehnung, dass Deutschland ein anderes Land wird.",
       "location": "Quelle 2277",
       "originalQuote": "Wir erneuern unser Land, aber wir wollen kein anderes Land.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "DEUTSCHLAND"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung, ohne soziale Gerechtigkeit zu leben.",
       "location": "Quelle 2280",
       "originalQuote": "Soziale Gerechtigkeit muss bleiben. Wir wollen nicht ohne sie leben.",
-      "classification": "Soziales & Arbeit"
+      "classification": "GERECHTIGKEIT"
     },
     {
       "category": "semantisches Verbot",
@@ -48,7 +48,7 @@
       "topic": "Ablehnung eines kriegerischen Vorgehens ohne Überzeugung von Legitimation und Sinn.",
       "location": "Quelle 2320",
       "originalQuote": "Wir sagen Nein, wenn wir von der Legitimation und dem Sinn eines kriegerischen Vorgehens nicht überzeugt sind.",
-      "classification": "Rüstung & Waffen"
+      "classification": "KRIEGERISCHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -76,28 +76,28 @@
       "topic": "Ablehnung einer generellen Arbeitszeitverlängerung mit dem Ziel der Lohnkürzung.",
       "location": "Quelle 1563",
       "originalQuote": "Generelle Arbeitszeitverlängerung mit dem Ziel der faktischen Lohnkürzung wäre der falsche Weg.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSZEITVERLÄNGERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Kommunalisierung der Langzeitarbeitslosigkeit und ihrer Finanzierung.",
       "location": "Quelle 1598",
       "originalQuote": "Die SPD will keine Kommunalisierung der Langzeitarbeitslosigkeit und ihrer Finanzierung.",
-      "classification": "Soziales & Arbeit"
+      "classification": "LANGZEITARBEITSLOSIGKEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verhindern, dass junge Menschen ihr Arbeitsleben mit Arbeitslosigkeit beginnen.",
       "location": "Quelle 1600",
       "originalQuote": "* Wir wollen, dass keine Jugendliche und kein Jugendlicher sein Arbeitsleben mit Arbeitslosigkeit beginnen muss.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSLOSIGKEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Stoppen des Trends zur Verdrängung älterer Arbeitnehmer aus dem Arbeitsleben.",
       "location": "Quelle 1607",
       "originalQuote": "Den Trend der Verdrängung Älterer aus dem Arbeitsleben wollen wir stoppen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITNEHMER"
     },
     {
       "category": "semantisches Verbot",
@@ -111,7 +111,7 @@
       "topic": "Keine Studiengebühren für das Erststudium.",
       "location": "Quelle 1905",
       "originalQuote": "* Deshalb bleibt das Erststudium frei von Studiengebühren. * Der Zugang zur Hochschule muss auch künftig üb",
-      "classification": "Bildung & Forschung"
+      "classification": "STUDIENGEBÜHREN"
     },
     {
       "category": "semantisches Verbot",
@@ -139,14 +139,14 @@
       "topic": "Ablehnung von Gewalt, rechtsextremem Gedankengut, Intoleranz und Missachtung gegenüber Minderheiten.",
       "location": "Quelle 2029",
       "originalQuote": "* Für Gewalt, rechtsextremes Gedankengut sowie Intoleranz und Missachtung gegenüber Minderheiten ist in Deutschland kein Platz!",
-      "classification": "Demokratie & Recht"
+      "classification": "RECHTSEXTREMEM"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung einer Anhebung der Mehrwertsteuer.",
       "location": "Quelle 2127",
       "originalQuote": "* Eine Anhebung der Mehrwertsteuer würde angesichts der derzeit schwachen Binnennachfrage in die falsche Rich",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "MEHRWERTSTEUER"
     }
   ]
 }

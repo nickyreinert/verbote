@@ -6,14 +6,14 @@
       "topic": "Bestrebungen der EU zum Aufbau einer Fernverkehrsdatenspeicherung",
       "location": "FREIHEIT UND GRUNDRECHTE / Verdachtsunabhängige Datenspeicherung verhindern",
       "originalQuote": "Die Piratenpartei lehnt die Bestrebungen der EU zum Aufbau und Unterhaltung einer Fernver",
-      "classification": "Verkehr & Mobilität"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verdachtsunabhängige Sammlung und Speicherung von Reisedaten",
       "location": "FREIHEIT UND GRUNDRECHTE / Verdachtsunabhängige Datenspeicherung verhindern",
       "originalQuote": "Die verdachtsunabhängige Sammlung und Speicherung von Reisedaten, sowie die Umkehr der Unsc",
-      "classification": "Digitales & Überwachung"
+      "classification": "VERDACHTSUNABHÄNGIGE"
     },
     {
       "category": "explizites Verbot",
@@ -27,7 +27,7 @@
       "topic": "Aufbau zentraler Biometriedatenbanken",
       "location": "FREIHEIT UND GRUNDRECHTE / Verdachtsunabhängige Datenspeicherung verhindern",
       "originalQuote": "Der Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder die Versicherungswirt",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "BIOMETRIEDATENBANKEN"
     },
     {
       "category": "explizites Verbot",
@@ -62,7 +62,7 @@
       "topic": "Diskriminierende und inhumane Beweisverfahren im Asylverfahren",
       "location": "ASYL / Asylgründe erweitern und Hürden für Aufenthaltserlaubnis senken",
       "originalQuote": "Dabei ist auf diskriminierende und inhumane Beweisverfahren zu verzichten.",
-      "classification": "Migration & Asyl"
+      "classification": "DISKRIMINIERENDE"
     },
     {
       "category": "explizites Verbot",
@@ -104,14 +104,14 @@
       "topic": "Amputationen von Körperteilen bei Nutztieren",
       "location": "UMWELT UND VERBRAUCHERSCHUTZ / TIERSCHUTZ",
       "originalQuote": "Die Haltungsform von Nutztieren muss - sofern Arbeits- und Tierschutzrichtlinien dem nicht ent",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "AMPUTATIONEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Tierversuche im nichtmedizinischen Bereich",
       "location": "UMWELT UND VERBRAUCHERSCHUTZ / TIERSCHUTZ",
       "originalQuote": "Im nichtmedizinischen Bereich, wie zum Beispiel für Kosmetik- und Körperpflegeprodukte, lehne",
-      "classification": "Gesundheit & Drogen"
+      "classification": "NICHTMEDIZINISCHEN"
     },
     {
       "category": "explizites Verbot",
@@ -139,7 +139,7 @@
       "topic": "Werbung für alkoholische Getränke",
       "location": "DROGEN- UND SUCHTPOLITIK / Alkoholwerbung unterbinden",
       "originalQuote": "Die Piratenpartei wendet sich gegen Werbung für alkoholische Getränke, alkoholhaltige Getränke",
-      "classification": "Gesundheit & Drogen"
+      "classification": "ALKOHOLISCHE"
     },
     {
       "category": "explizites Verbot",
@@ -181,14 +181,14 @@
       "topic": "Automatisierte Abfrage von Meldedaten an Dritte",
       "location": "FREIHEIT UND GRUNDRECHTE / Verantwortungsvollen Umgang mit Meldedaten sicherstellen",
       "originalQuote": "Eine automatisierte Abfrage lehnen wir ab. Dies gilt neben Melderegisterauskünften auch für di",
-      "classification": "Verkehr & Mobilität"
+      "classification": "AUTOMATISIERTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Weitergabe von Meldedaten an Beitragsservice",
       "location": "FREIHEIT UND GRUNDRECHTE / Verantwortungsvollen Umgang mit Meldedaten sicherstellen",
       "originalQuote": "Die Weitergabe von Meldedaten an den Beitragsservice der öffentlich-rechtlichen Rundfunkanstalte",
-      "classification": "Digitales & Überwachung"
+      "classification": "BEITRAGSSERVICE"
     },
     {
       "category": "semantisches Verbot",
@@ -209,7 +209,7 @@
       "topic": "Überwachungssoftware ohne Transparenz und Quellcode-Offenlegung",
       "location": "FREIHEIT UND GRUNDRECHTE / Gegen Überwachungssoftware",
       "originalQuote": "Um aktiv gegen Überwachungssoftware vorzugehen, fordert die Piratenpartei eine gesetzliche Pfl",
-      "classification": "Digitales & Überwachung"
+      "classification": "ÜBERWACHUNGSSOFTWARE"
     },
     {
       "category": "semantisches Verbot",
@@ -223,7 +223,7 @@
       "topic": "Verdachtsunabhängige Durchleuchtung der Bürger",
       "location": "FREIHEIT UND GRUNDRECHTE / Privatsphäre wahren",
       "originalQuote": "Die Piratenpartei Deutschland lehnt die verdachtsunabhängige Durchleuchtung der Bürger und den",
-      "classification": "Europa & Außenpolitik"
+      "classification": "VERDACHTSUNABHÄNGIGE"
     },
     {
       "category": "semantisches Verbot",
@@ -237,7 +237,7 @@
       "topic": "Diskriminierung von Sexarbeitern und Kunden",
       "location": "STÄRKUNG DER RECHTE PROSTITUIERTER",
       "originalQuote": "Eine Diskriminierung und Kriminalisierung von Sexarbeitern und ihren Kunden lehnt die Piratenp",
-      "classification": "Soziales & Arbeit"
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "semantisches Verbot",
@@ -251,7 +251,7 @@
       "topic": "Datei „Gewalttäter Sport“ ohne rechtsstaatliche Prinzipien",
       "location": "PIRATEN FÜR FANRECHTE / Gewalttäter Sport",
       "originalQuote": "Die Piratenpartei fordert daher die Abschaffung der Datei „Gewalttäter Sport“, mindestens aber ",
-      "classification": "Demokratie & Recht"
+      "classification": "RECHTSSTAATLICHE"
     },
     {
       "category": "semantisches Verbot",
@@ -265,7 +265,7 @@
       "topic": "Stadionverbote ohne rechtsstaatliche Mindeststandards",
       "location": "PIRATEN FÜR FANRECHTE / Stadionverbote",
       "originalQuote": "Die Piraten stehen für ein Recht auf Teilhabe am kulturellen Leben ein und fordern daher die Ve",
-      "classification": "Demokratie & Recht"
+      "classification": "RECHTSSTAATLICHE"
     },
     {
       "category": "semantisches Verbot",
@@ -293,21 +293,21 @@
       "topic": "Isolation von Asylsuchenden in Lagern",
       "location": "ASYL / Isolation beenden – menschenwürdige und dezentrale Unterkünfte schaffen!",
       "originalQuote": "Erschwert wird diese Situation dadurch, dass kein Anspruch auf den Zugang zu neuen Medien, wie ",
-      "classification": "Migration & Asyl"
+      "classification": "ASYLSUCHENDEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Diskriminierende Sondergesetzgebung für Asylsuchende",
       "location": "ASYL / Echte Existenzsicherung statt diskriminierender Sondergesetze",
       "originalQuote": "Wir setzen uns dafür ein, dass Asylsuchende Anspruch auf Sozialleistungen haben, ohne dabei di",
-      "classification": "Migration & Asyl"
+      "classification": "SONDERGESETZGEBUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Abschiebungen und Abschiebehaft",
       "location": "ASYL / Für ein Ende von Abschiebungen und Abschiebehaft",
       "originalQuote": "Wir setzen uns für ein generelles Ende von Abschiebungen und der Abschiebehaft ein. Abschiebung",
-      "classification": "Migration & Asyl"
+      "classification": "ABSCHIEBUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -349,21 +349,21 @@
       "topic": "Privatisierung von Verkehrsinfrastrukturen",
       "location": "BAUEN UND VERKEHR / Verkehr und Infrastruktur",
       "originalQuote": "Wir sprechen uns gegen die Privatisierung von Verkehrsinfrastrukturen aus. Nur so können gleich",
-      "classification": "Verkehr & Mobilität"
+      "classification": "VERKEHRSINFRASTRUKTUREN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Bergrecht",
       "location": "UMWELT UND VERBRAUCHERSCHUTZ / EINFÜHRUNG EINES UMWELTGESETZBUCHES UND ABSCHAFFUNG DES BERGRECHTS",
       "originalQuote": "Die Piratenpartei fordert die Abschaffung des Bergrechts. Das heute geltende Bergrecht steht in",
-      "classification": "Demokratie & Recht"
+      "classification": "BERGRECHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Anschlusszwang an kommunales Trinkwassernetz",
       "location": "UMWELT UND VERBRAUCHERSCHUTZ / WASSERWIRTSCHAFT / Trinkwasser",
       "originalQuote": "Sofern eine private Hauswasserversorgung möglich ist, lehnen wir einen Anschlusszwang an das kom",
-      "classification": "Umwelt & Klima"
+      "classification": "TRINKWASSERNETZ"
     },
     {
       "category": "semantisches Verbot",
@@ -384,14 +384,14 @@
       "topic": "Ein-Euro-Jobs",
       "location": "ARBEIT UND SOZIALES / Sofortige Aussetzung von Arbeitsgelegenheiten (§ 16d SGB II) und Bürgerarbeit",
       "originalQuote": "Die Piratenpartei fordert, die sogenannten „Ein-Euro-Jobs“ (Vermittlung in Arbeitsgelegenheiten",
-      "classification": "Europa & Außenpolitik"
+      "classification": "EINEUROJOBS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Bürgerarbeit",
       "location": "ARBEIT UND SOZIALES / Sofortige Aussetzung von Arbeitsgelegenheiten (§ 16d SGB II) und Bürgerarbeit",
       "originalQuote": "Ebenso lehnt die Piratenpartei das vom Bundesministerium für Arbeit und Soziales unter Beteiligu",
-      "classification": "Soziales & Arbeit"
+      "classification": "BÜRGERARBEIT"
     },
     {
       "category": "semantisches Verbot",
@@ -412,28 +412,28 @@
       "topic": "Zeitarbeit länger als sechs Monate",
       "location": "ARBEIT UND SOZIALES / Begrenzung der Leiharbeit",
       "originalQuote": "Leiharbeit sollte aus diesem Grund - wie dies in der Vergangenheit auch schon einmal der Fall wa",
-      "classification": "Soziales & Arbeit"
+      "classification": "ZEITARBEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Mehr als 10 % Leiharbeiter im Unternehmen",
       "location": "ARBEIT UND SOZIALES / Begrenzung der Leiharbeit",
       "originalQuote": "Zusätzlich werden wir eine Höchstquote von Leiharbeitern je Unternehmen bezogen auf die jeweilige",
-      "classification": "Soziales & Arbeit"
+      "classification": "Wirtschaft & Steuern"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Diskriminierung bei Arbeitsplatzwahl wegen Herkunft",
       "location": "MIGRATION UND INKLUSION / Diskriminierung auf allen Ebenen begegnen",
       "originalQuote": "Noch immer werden viele Menschen aufgrund ihrer Hautfarbe oder anderer äußerer Merkmale im alltäg",
-      "classification": "Soziales & Arbeit"
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Überversorgung im Gesundheitswesen",
       "location": "GESUNDHEIT / ÜBERVERSORGUNG ABBAUEN",
       "originalQuote": "Abgesehen von regionalen Besonderheiten und einem Stadt/Land-Gefälle gibt es in Deutschland tende",
-      "classification": "Gesundheit & Drogen"
+      "classification": "GESUNDHEITSWESEN"
     },
     {
       "category": "semantisches Verbot",
@@ -454,21 +454,21 @@
       "topic": "Allgemeine Drogentests am Arbeitsplatz",
       "location": "DROGEN- UND SUCHTPOLITIK / Informationelle Selbstbestimmung stärken",
       "originalQuote": "Allgemeine und verdachtsunabhängige Drogentests am Arbeitsplatz lehnen die Piraten ab. Sie sind",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSPLATZ"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Pauschaler Führerscheinentzug bei Drogenkonsum",
       "location": "DROGEN- UND SUCHTPOLITIK / Keine Willkür beim Führerscheinentzug",
       "originalQuote": "Aber die automatische und pauschale Sanktionierung des Konsums von Drogen und Medikamenten durch",
-      "classification": "Gesundheit & Drogen"
+      "classification": "FÜHRERSCHEINENTZUG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einschränkung von e-Zigaretten über Jugendschutz hinaus",
       "location": "DROGEN- UND SUCHTPOLITIK / Keine Einschränkungen für e-Zigaretten",
       "originalQuote": "Der derzeit freie Handel und Gebrauch liquidverdampfender e-Zigaretten soll nicht über den Jugen",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "EINSCHRÄNKUNG"
     },
     {
       "category": "semantisches Verbot",

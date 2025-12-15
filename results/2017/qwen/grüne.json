@@ -20,7 +20,7 @@
       "topic": "Amputationen bei Nutztieren",
       "location": "B. UMELT IM KOPF / II. WIR SORGEN FÜR GESUNDE LEBENSMITTEL UND BEENDEN TIERLEID / 1. Raus aus der industriellen Massentierhaltung",
       "originalQuote": "Wir wollen, dass die Tiere ein besseres Leben haben: mehr Platz in den Ställen, Zugang zu frisc",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "AMPUTATIONEN"
     },
     {
       "category": "explizites Verbot",
@@ -34,7 +34,7 @@
       "topic": "Qualzucht bei Heimtieren",
       "location": "B. UMELT IM KOPF / II. WIR SORGEN FÜR GESUNDE LEBENSMITTEL UND BEENDEN TIERLEID / 5. Tierschutz stärken",
       "originalQuote": "Qualzucht wollen wir auch bei Heimtieren beenden.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "HEIMTIEREN"
     },
     {
       "category": "explizites Verbot",
@@ -62,7 +62,7 @@
       "topic": "Tierversuche",
       "location": "B. UMELT IM KOPF / II. WIR SORGEN FÜR GESUNDE LEBENSMITTEL UND BEENDEN TIERLEID / 5. Tierschutz stärken",
       "originalQuote": "Wir GRÜNE wollen Tierversuche konsequent reduzieren und schnellstmöglich überflüssig machen",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERVERSUCHE"
     },
     {
       "category": "explizites Verbot",
@@ -76,21 +76,21 @@
       "topic": "Tierhaltung ohne Verordnung",
       "location": "B. UMELT IM KOPF / II. WIR SORGEN FÜR GESUNDE LEBENSMITTEL UND BEENDEN TIERLEID / 1. Raus aus der industriellen Massentierhaltung",
       "originalQuote": "Zur Haltung unserer Nutztiere existieren häufig keine oder unzureichende Gesetze. Deshalb i",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERHALTUNG"
     },
     {
       "category": "explizites Verbot",
       "topic": "Beschimpfung religiöser Bekenntnisse im Strafrecht",
       "location": "D. FREIHEIT IM HERZEN / I. WIR STREITEN FÜR AKZEPTANZ UND RESPEKT, FÜR VIELFALT UND SELBSTBESTIMMUNG / 1. Ein klarer Rahmen für das friedliche Zusammenleben von Menschen mit unterschiedlichen Weltanschauungen und Religionen",
       "originalQuote": "Deswegen wollen wir §166 Strafgesetzbuch (Beschimpfung von Bekenntnissen, Religionsgesellsch",
-      "classification": "Gesundheit & Drogen"
+      "classification": "BESCHIMPFUNG"
     },
     {
       "category": "explizites Verbot",
       "topic": "Operationen zur Geschlechtsanpassung an intergeschlechtlichen Säuglingen und Kindern",
       "location": "D. FREIHEIT IM HERZEN / I. WIR STREITEN FÜR AKZEPTANZ UND RESPEKT, FÜR VIELFALT UND SELBSTBESTIMMUNG / 2. Endlich gleiche Rechte für Lesben, Schwule, Bisexuelle, trans*, inter* und queere Menschen (LSBTIQ*)",
       "originalQuote": "Operationen zur sogenannten „Geschlechtsanpassung und -zuweisung“ an intergeschlechtlichen Säu",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "INTERGESCHLECHTLICHEN"
     },
     {
       "category": "explizites Verbot",
@@ -104,28 +104,28 @@
       "topic": "Strafverfolgung von Drogenkonsument*innen",
       "location": "D. FREIHEIT IM HERZEN / I. WIR STREITEN FÜR AKZEPTANZ UND RESPEKT, FÜR VIELFALT UND SELBSTBESTIMMUNG / 4. Für eine Drogenpolitik, die auf Prävention, Jugendschutz und Selbstbestimmung setzt",
       "originalQuote": "Die Kriminalisierung von Drogenkonsument*innen muss beendet werden.",
-      "classification": "Gesundheit & Drogen"
+      "classification": "DROGENKONSUMENTINNEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Ehegattensplitting für neue Ehen",
       "location": "D. FREIHEIT IM HERZEN / II. WIR STEHEN EIN FÜR SELBSTBESTIMMUNG UND GLEICHBERECHTIGUNG / 1. Für faire und gerechte Löhne",
       "originalQuote": "Aus diesen Gründen werden wir zur individuellen Besteuerung übergehen und das Ehegattensplitting",
-      "classification": "Europa & Außenpolitik"
+      "classification": "EHEGATTENSPLITTING"
     },
     {
       "category": "explizites Verbot",
       "topic": "Abschiebungen in Krisengebiete wie Afghanistan",
       "location": "C. WELT IM BLICK / IV. WIR SCHÜTZEN GEFLÜCHTETE UND BEKÄMPFEN FLUCHTURSACHEN / 4. Verantwortungsvolle Flüchtlingspolitik für Deutschland",
       "originalQuote": "Mit uns in der Bundesregierung wird es keine Abschiebungen in Krisenregionen geben, die so unsi",
-      "classification": "Migration & Asyl"
+      "classification": "ABSCHIEBUNGEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Sammelabschiebungen",
       "location": "C. WELT IM BLICK / IV. WIR SCHÜTZEN GEFLÜCHTETE UND BEKÄMPFEN FLUCHTURSACHEN / 1. Unser Plan für eine aktive Flüchtlingspolitik",
       "originalQuote": "Sammelabschiebungen sind für uns inakzeptabel.",
-      "classification": "Migration & Asyl"
+      "classification": "SAMMELABSCHIEBUNGEN"
     },
     {
       "category": "explizites Verbot",
@@ -139,14 +139,14 @@
       "topic": "Flächendeckende Videoüberwachung",
       "location": "D. FREIHEIT IM HERZEN / III. WIR SICHERN FREIHEIT / 1. Sicherheit in einem starken, weil freiheitlichen Rechtsstaat",
       "originalQuote": "Es ist viel wirksamer, gezielt mit verhältnismäßigen Mitteln einige hundert Personen zu überwache",
-      "classification": "Digitales & Überwachung"
+      "classification": "VIDEOÜBERWACHUNG"
     },
     {
       "category": "explizites Verbot",
       "topic": "Automatisierte Gesichtserkennung flächendeckend",
       "location": "D. FREIHEIT IM HERZEN / III. WIR SICHERN FREIHEIT / 1. Sicherheit in einem starken, weil freiheitlichen Rechtsstaat",
       "originalQuote": "Es ist viel wirksamer, gezielt mit verhältnismäßigen Mitteln einige hundert Personen zu überwache",
-      "classification": "Verkehr & Mobilität"
+      "classification": "GESICHTSERKENNUNG"
     },
     {
       "category": "explizites Verbot",
@@ -181,28 +181,28 @@
       "topic": "Keine neuen Braunkohletagebaue",
       "location": "B. UMELT IM KOPF / III. WIR RETTEN DAS KLIMA / 2. Kohleausstieg jetzt einleiten!",
       "originalQuote": "Den Aufschluss neuer Braunkohletagebaue und ihre Erweiterung sowie den Bau neuer Kohlekraftwer",
-      "classification": "Umwelt & Klima"
+      "classification": "BRAUNKOHLETAGEBAUE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine neuen Umsiedlungen wegen Braunkohle",
       "location": "B. UMELT IM KOPF / III. WIR RETTEN DAS KLIMA / 2. Kohleausstieg jetzt einleiten!",
       "originalQuote": "Den Aufschluss neuer Braunkohletagebaue und ihre Erweiterung sowie den Bau neuer Kohlekraftwer",
-      "classification": "Umwelt & Klima"
+      "classification": "UMSIEDLUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Bau neuer Kohlekraftwerke",
       "location": "B. UMELT IM KOPF / III. WIR RETTEN DAS KLIMA / 2. Kohleausstieg jetzt einleiten!",
       "originalQuote": "Den Aufschluss neuer Braunkohletagebaue und ihre Erweiterung sowie den Bau neuer Kohlekraftwer",
-      "classification": "Umwelt & Klima"
+      "classification": "Wohnen & Miete"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Hermes-Bürgschaften für Kohletechnikexporte",
       "location": "B. UMELT IM KOPF / III. WIR RETTEN DAS KLIMA / 2. Kohleausstieg jetzt einleiten!",
       "originalQuote": "Um das Klima international zu schützen, werden wir zudem die Hermes-Bürgschaften für den Export",
-      "classification": "Rüstung & Waffen"
+      "classification": "KOHLETECHNIKEXPORTE"
     },
     {
       "category": "semantisches Verbot",
@@ -216,21 +216,21 @@
       "topic": "Kein Einsatz von Mikroplastik in Kosmetika",
       "location": "B. UMELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 1. Kein Leben ohne Wasser",
       "originalQuote": "So hat dies etwa in Kosmetika nichts zu suchen; zugleich braucht es in Klärwerken Filterstufen",
-      "classification": "Umwelt & Klima"
+      "classification": "MIKROPLASTIK"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Einsatz von Grundschleppnetzen in Naturschutzgebieten",
       "location": "B. UMELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 1. Kein Leben ohne Wasser",
       "originalQuote": "Kurzfristig müssen Naturschutzgebiete frei von Grundschleppnetzen und Stellnetzen sein, die den",
-      "classification": "Umwelt & Klima"
+      "classification": "NATURSCHUTZGEBIETEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Einsatz von Stellnetzen in Naturschutzgebieten",
       "location": "B. UMELT IM KOPF / I. WIR ERHALTEN UNSERE NATUR / 1. Kein Leben ohne Wasser",
       "originalQuote": "Kurzfristig müssen Naturschutzgebiete frei von Grundschleppnetzen und Stellnetzen sein, die den",
-      "classification": "Umwelt & Klima"
+      "classification": "NATURSCHUTZGEBIETEN"
     },
     {
       "category": "semantisches Verbot",
@@ -258,7 +258,7 @@
       "topic": "Keine Nutzung von Schweröl in Fracht- und Kreuzschiffen",
       "location": "B. UMELT IM KOPF / VI. WIR SORGEN FÜR SAUBERE, BEZAHLBARE UND BEQUEME MOBILITÄT / 1. Erhalt vor Neubau, Schiene vor Straße, mehr Geld für Radwege und neue Mobilitätskonzepte",
       "originalQuote": "Der Einsatz von billigem Schweröl für Fracht- und Kreuzschiffe muss drastisch eingedämmt wer",
-      "classification": "Europa & Außenpolitik"
+      "classification": "KREUZSCHIFFEN"
     },
     {
       "category": "semantisches Verbot",
@@ -272,7 +272,7 @@
       "topic": "Keine Regionalflughäfen durch Subventionen",
       "location": "B. UMELT IM KOPF / VI. WIR SORGEN FÜR SAUBERE, BEZAHLBARE UND BEQUEME MOBILITÄT / 1. Erhalt vor Neubau, Schiene vor Straße, mehr Geld für Radwege und neue Mobilitätskonzepte",
       "originalQuote": "Den Wildwuchs von Regionalflughäfen, finanziert durch Subventionen, wollen wir beenden.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "REGIONALFLUGHÄFEN"
     },
     {
       "category": "semantisches Verbot",
@@ -286,21 +286,21 @@
       "topic": "Keine Zulassung von Autos mit Verbrennungsmotor ab 2030",
       "location": "B. UMELT IM KOPF / VI. WIR SORGEN FÜR SAUBERE, BEZAHLBARE UND BEQUEME MOBILITÄT / 3. Das Auto der Zukunft fährt ohne Abgase",
       "originalQuote": "Aus industrie- und klimaschutzpolitischen Gründen muss die nächste Bundesregierung ein klares Z",
-      "classification": "Verkehr & Mobilität"
+      "classification": "VERBRENNUNGSMOTOR"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Rüstungsexporte in Krisenregionen",
       "location": "C. WELT IM BLICK / II. WIR STEHEN EIN FÜR FRIEDEN, GLOBALE GERECHTIGKEIT UND MENSCHENRECHTE / 2. Rüstungsexporte in Krisenregionen stoppen, Abrüstung und Rüstungskontrolle voranbringen",
       "originalQuote": "Wir werden mit einem Rüstungsexportgesetz gesetzlich verbindlich und restriktiv neu regeln, das",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Rüstungsexporte an Länder mit Menschenrechtsverletzungen",
       "location": "C. WELT IM BLICK / II. WIR STEHEN EIN FÜR FRIEDEN, GLOBALE GERECHTIGKEIT UND MENSCHENRECHTE / 2. Rüstungsexporte in Krisenregionen stoppen, Abrüstung und Rüstungskontrolle voranbringen",
       "originalQuote": "Rüstungsverkäufe in Konfliktgebiete und Länder, in denen schwere Menschenrechtsverletzungen st",
-      "classification": "Rüstung & Waffen"
+      "classification": "MENSCHENRECHTSVERLETZUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -314,7 +314,7 @@
       "topic": "Keine militärischen Einsätze ohne VN-Mandat",
       "location": "C. WELT IM BLICK / II. WIR STEHEN EIN FÜR FRIEDEN, GLOBALE GERECHTIGKEIT UND MENSCHENRECHTE / 3. Stärke des Rechts statt Recht des Stärkeren",
       "originalQuote": "Wir werden Einsätzen der Bundeswehr nur mit einem Mandat der Vereinten Nationen zustimmen.",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITÄRISCHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -328,7 +328,7 @@
       "topic": "Keine Obergrenze beim Asylrecht",
       "location": "C. WELT IM BLICK / IV. WIR SCHÜTZEN GEFLÜCHTETE UND BEKÄMPFEN FLUCHTURSACHEN / 4. Verantwortungsvolle Flüchtlingspolitik für Deutschland",
       "originalQuote": "Mit uns wird es deshalb keine Obergrenze geben.",
-      "classification": "Migration & Asyl"
+      "classification": "OBERGRENZE"
     },
     {
       "category": "semantisches Verbot",
@@ -342,14 +342,14 @@
       "topic": "Keine Aushöhlung des Asylrechts durch EU-Türkei-Deal",
       "location": "C. WELT IM BLICK / IV. WIR SCHÜTZEN GEFLÜCHTETE UND BEKÄMPFEN FLUCHTURSACHEN / 3. Für eine menschenrechtliche und solidarische europäische Flüchtlingspolitik",
       "originalQuote": "Diesen Türkei-Deal wollen wir beenden.",
-      "classification": "Migration & Asyl"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Auslagerung europäischer Außengrenzen nach Afrika/Nahost",
       "location": "C. WELT IM BLICK / IV. WIR SCHÜTZEN GEFLÜCHTETE UND BEKÄMPFEN FLUCHTURSACHEN / 3. Für eine menschenrechtliche und solidarische europäische Flüchtlingspolitik",
       "originalQuote": "Die De-facto-Auslagerung der europäischen Außengrenzen durch Migrationspartnerschaften mit Staa",
-      "classification": "Migration & Asyl"
+      "classification": "EUROPÄISCHER"
     },
     {
       "category": "semantisches Verbot",
@@ -363,21 +363,21 @@
       "topic": "Kein Leistungsschutzrecht für Presseverleger",
       "location": "D. FREIHEIT IM HERZEN / IV. WIR STÄRKEN DIE DEMOKRATIE UND VERTEIDIGEN DEN FREIHEITLICHEN RECHTSSTAAT / 3. Freie Medien stärken",
       "originalQuote": "Dafür gibt es klügere Lösungen als das kontraproduktive Leistungsschutzrecht für Presseverleger*i",
-      "classification": "Demokratie & Recht"
+      "classification": "LEISTUNGSSCHUTZRECHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine staatliche oder kommerzielle Einflussnahme auf öffentlich-rechtlichen Rundfunk",
       "location": "D. FREIHEIT IM HERZEN / IV. WIR STÄRKEN DIE DEMOKRATIE UND VERTEIDIGEN DEN FREIHEITLICHEN RECHTSSTAAT / 3. Freie Medien stärken",
       "originalQuote": "Deshalb muss er ohne staatliche oder kommerzielle Einflussnahme arbeiten können.",
-      "classification": "Demokratie & Recht"
+      "classification": "ÖFFENTLICHRECHTLICHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Werbung im öffentlich-rechtlichen Rundfunk (langfristig)",
       "location": "D. FREIHEIT IM HERZEN / IV. WIR STÄRKEN DIE DEMOKRATIE UND VERTEIDIGEN DEN FREIHEITLICHEN RECHTSSTAAT / 3. Freie Medien stärken",
       "originalQuote": "Daher setzen wir GRÜNE uns dafür ein, dass er in Zukunft möglichst ohne Werbung auskommt.",
-      "classification": "Demokratie & Recht"
+      "classification": "ÖFFENTLICHRECHTLICHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -391,14 +391,14 @@
       "topic": "Kein Einsatz digitaler Offensivkapazitäten ohne parlamentarische Kontrolle",
       "location": "D. FREIHEIT IM HERZEN / VI. WIR MACHEN DAS INTERNET FREI UND SICHER / 3. Vertrauen im Netz sichern",
       "originalQuote": "Offensive Operationen in andere Systeme lehnen wir jedoch klar ab. Jeglicher Einsatz digitaler E",
-      "classification": "Digitales & Überwachung"
+      "classification": "OFFENSIVKAPAZITÄTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Aufrechterhaltung sicherer Drittstaaten-Regelung",
       "location": "C. WELT IM BLICK / IV. WIR SCHÜTZEN GEFLÜCHTETE UND BEKÄMPFEN FLUCHTURSACHEN / 4. Verantwortungsvolle Flüchtlingspolitik für Deutschland",
       "originalQuote": "Wir wenden uns auch gegen die Ausweitung und Anwendung des Konzepts des sicheren Drittstaats.",
-      "classification": "Demokratie & Recht"
+      "classification": "DRITTSTAATENREGELUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -419,14 +419,14 @@
       "topic": "Keine Sanktionen in der Grundsicherung",
       "location": "E. GERECHTIGKEIT IM SINN / IV. WIR MACHEN DEN SOZIALSTAAT SICHER UND ZUKUNFTSFEST / 4. Schutz vor Armut, Unterstützung bei Arbeitslosigkeit",
       "originalQuote": "Daher wollen wir die Sanktionen abschaffen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "GRUNDSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Rüstungsausgaben auf zwei Prozent der Wirtschaftsleistung",
       "location": "C. WELT IM BLICK / I. WIR KÄMPFEN UM EUROPAS ZUSAMMENHALT / 4. Die EU als handlungsfähige Akteurin in der Außen-, Entwicklungs- und Sicherheitspolitik",
       "originalQuote": "Eine Erhöhung der Militärausgaben ist nicht sinnvoll und wir lehnen auch entsprechende Forder",
-      "classification": "Rüstung & Waffen"
+      "classification": "WIRTSCHAFTSLEISTUNG"
     }
   ]
 }

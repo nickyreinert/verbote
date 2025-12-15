@@ -6,35 +6,35 @@
       "topic": "Lohndumping",
       "location": "Vorwort, Quelle: 3497",
       "originalQuote": "Nur so kann Lohndumping verhindert werden, nur so sind Löhne und Renten armutsfest.",
-      "classification": "Soziales & Arbeit"
+      "classification": "LOHNDUMPING"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Sanktionen und sogenannte „Ein-Euro-Jobs“",
       "location": "Vorwort, Quelle: 3498",
       "originalQuote": "– Die Hartz-IV-Regelsätze müssen auf 500 Euro erhöht, Sanktionen und sogenannte »Ein-Euro-Jobs« abgeschafft werden.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "EINEUROJOBS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Mindestsicherung unter 1.050 Euro",
       "location": "Vorwort, Quelle: 3499",
       "originalQuote": "Wir wollen ein Konzept einbringen, in dem in Zukunft keine Mindestsicherung mehr unter 1.050 Euro liegt.",
-      "classification": "Soziales & Arbeit"
+      "classification": "MINDESTSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Rüstungsexporte (Ende)",
       "location": "Vorwort, Quelle: 3507",
       "originalQuote": "Deshalb wollen wir die Bundeswehr aus ihren Auslandseinsätzen zurückholen und fordern ein Ende der Rüstungsexporte.",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Bundeswehr-Auslandseinsätze (Zurückholung)",
       "location": "Vorwort, Quelle: 3507",
       "originalQuote": "Deshalb wollen wir die Bundeswehr aus ihren Auslandseinsätzen zurückholen und fordern ein Ende der Rüstungsexporte.",
-      "classification": "Rüstung & Waffen"
+      "classification": "BUNDESWEHRAUSLANDSEINSÄTZE"
     },
     {
       "category": "explizites Verbot",
@@ -48,7 +48,7 @@
       "topic": "Das Hartz-IV-System",
       "location": "Einführung, Quelle: 3521",
       "originalQuote": "Wir wollen Armut bekämpfen: Das Hartz-IV- System muss weg. Stattdessen soll mittelfristig eine bedarfsdeckende, sanktion",
-      "classification": "Soziales & Arbeit"
+      "classification": "HARTZIVSYSTEM"
     },
     {
       "category": "semantisches Verbot",
@@ -76,7 +76,7 @@
       "topic": "Marktkonforme Demokratie (Ablehnung)",
       "location": "Einführung, Quelle: 3538",
       "originalQuote": "Bundeskanzlerin Angela Merkel will eine »marktkonforme Demokratie«. Dafür stehen wir nicht zur Verfügung. Im Gegenteil:",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Demokratie & Recht"
     },
     {
       "category": "semantisches Verbot",
@@ -90,14 +90,14 @@
       "topic": "Waffenexporte und Produktion von Rüstungsgütern",
       "location": "Einführung, Quelle: 3548",
       "originalQuote": "Die Verantwortung von Deutschland geht noch weiter: Waffenexporte und die Produktion von Rüstungsgütern in der Bundesrepublik müssen verboten werden.",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSGÜTERN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Waffenexporte (Ablehnung)",
       "location": "Einführung, Quelle: 3549",
       "originalQuote": "Waffenexporte, auch im Rahmen der Europäischen Union und innerhalb des Militärbündnisses NATO, lehnt DIE LINKE ab.",
-      "classification": "Rüstung & Waffen"
+      "classification": "WAFFENEXPORTE"
     },
     {
       "category": "semantisches Verbot",
@@ -111,28 +111,28 @@
       "topic": "Wegschauen bei Kinderarmut",
       "location": "Einführung, Quelle: 3561",
       "originalQuote": "Niemand darf wegschauen, wenn in einem reichen Land Kinder morgens mit leerem Magen zur Schule gehen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "KINDERARMUT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Beschimpfung Ärmster und kriminelle Behandlung von Flüchtlingen",
       "location": "Einführung, Quelle: 3570",
       "originalQuote": "Wir wehren uns dagegen, dass die Ärmsten noch beschimpft werden und dass Flüchtlinge wie Kriminelle behandelt werden.",
-      "classification": "Migration & Asyl"
+      "classification": "BESCHIMPFUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Sanktionen im Hartz-IV-System (Beseitigung)",
       "location": "Einführung/Zusammenfassung, Quelle: 3620",
       "originalQuote": "Im ersten Schritt müssen die Sanktionen beseitigt und die Hartz-IV-Sätze auf 500 Euro erhöht werden.",
-      "classification": "Soziales & Arbeit"
+      "classification": "HARTZIVSYSTEM"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verdrängung von Mieterinnen und Mietern",
       "location": "Einführung/Zusammenfassung, Quelle: 3622",
       "originalQuote": "Wir wollen die Verdrängung von Mieterinnen und Mietern stoppen und die Mieten deckeln. Wir brauchen mehr Wohnungen mit Sozialbindung.",
-      "classification": "Wohnen & Miete"
+      "classification": "VERDRÄNGUNG"
     },
     {
       "category": "explizites Verbot",
@@ -146,35 +146,35 @@
       "topic": "Einfluss der Wirtschaftslobby auf die Politik",
       "location": "Einführung/Zusammenfassung, Quelle: 3631",
       "originalQuote": "Den Einfluss der Wirtschaftslobby auf die Politik wollen wir beenden. Demokratie bedeutet, dass gemeinsam und öffentlich übe",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WIRTSCHAFTSLOBBY"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Schuldenbremse aus dem Grundgesetz und den Landesverfassungen (Abschaffung)",
       "location": "Einführung/Zusammenfassung, Quelle: 3636",
       "originalQuote": "Wir setzen uns gegen die Zerstörung des Sozialstaates mit der »Schuldenbremse« und daher für ihre Abschaffung aus dem Grundgesetz und allen Landesverfassungen ein.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Demokratie & Recht"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Zuzahlungen und Zusatzbeiträge in der Gesundheitsversicherung (Abschaffung)",
       "location": "Einführung/Zusammenfassung, Quelle: 3640",
       "originalQuote": "Alle Zuzahlungen und Zusatzbeiträge werden abgeschafft, und die paritätische Finanzierung wird wieder hergestellt.",
-      "classification": "Soziales & Arbeit"
+      "classification": "GESUNDHEITSVERSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Waffenexporte (Stopp)",
       "location": "Einführung/Zusammenfassung, Quelle: 3643",
       "originalQuote": "Wir stehen für einen sofortigen, bedingungslosen Abzug der Bundeswehr aus den Auslandseinsätzen und den Stopp von Waffenexporten.",
-      "classification": "Rüstung & Waffen"
+      "classification": "WAFFENEXPORTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Menschen arbeiten sich arm",
       "location": "I. Solidarität neu erfinden: Gute Arbeit und soziale Gerechtigkeit, Quelle: 3665",
       "originalQuote": "die ungleichen Einkommen regulieren und verhindern, dass die Menschen sich arm arbeiten;",
-      "classification": "Soziales & Arbeit"
+      "classification": "MENSCHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -209,14 +209,14 @@
       "topic": "Befristungen zur Synchronisation mit Zeiten der Verleihung",
       "location": "I. Solidarität neu erfinden: Gute Arbeit und soziale Gerechtigkeit, Quelle: 3699",
       "originalQuote": "Sie müssen vom Verleiher im Grundsatz fest beschäftigt werden; Befristungen mit dem Ziel der Synchronisation mit Zeiten der Verleihung sind unzulässig.",
-      "classification": "Soziales & Arbeit"
+      "classification": "SYNCHRONISATION"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Lohndumping über Werkverträge",
       "location": "I. Solidarität neu erfinden: Gute Arbeit und soziale Gerechtigkeit, Quelle: 3701",
       "originalQuote": "Kein Lohndumping über Werkverträge! Der Missbrauch von Werkverträgen – ob als Scheinselbstständigkeit oder über Auslagerung – muss wirksam unterbunden werden.",
-      "classification": "Soziales & Arbeit"
+      "classification": "WERKVERTRÄGE"
     },
     {
       "category": "semantisches Verbot",
@@ -237,7 +237,7 @@
       "topic": "Missbrauch von Praktikantinnen und Praktikanten als billige Arbeitskräfte",
       "location": "I. Solidarität neu erfinden: Gute Arbeit und soziale Gerechtigkeit, Quelle: 3706",
       "originalQuote": "Den Missbrauch von Praktikantinnen und Praktikanten als billige Arbeitskräfte wollen wir beenden.",
-      "classification": "Soziales & Arbeit"
+      "classification": "PRAKTIKANTINNEN"
     }
   ]
 }

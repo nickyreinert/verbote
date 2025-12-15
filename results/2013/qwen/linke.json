@@ -20,7 +20,7 @@
       "topic": "Verbot der steuerlichen Abzugsfähigkeit von Jahresgehältern über 500.000 Euro",
       "location": "Kapitel I, Abschnitt „Gute Arbeit statt niedriger Löhne und unsicherer Jobs“",
       "originalQuote": "Wir fordern zudem ein Ende der steuerlichen Abzugsfähigkeit von Jahresgehältern über e",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ABZUGSFÄHIGKEIT"
     },
     {
       "category": "explizites Verbot",
@@ -41,28 +41,28 @@
       "topic": "Verbot aller Rüstungsexporte",
       "location": "Kapitel III, Abschnitt „Friedlich und gerecht in der Welt. Nein zum Krieg“",
       "originalQuote": "DIE LINKE fordert ein Verbot aller Rüstungsproduktion und Rüstungsexporte – ohne Ausnah",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot des Exports von Kleinwaffen und Waffenfabriken",
       "location": "Kapitel III, Abschnitt „Friedlich und gerecht in der Welt. Nein zum Krieg“",
       "originalQuote": "Als ersten Schritt fordern wir das sofortige Verbot aller Exporte von Kleinwaffen und Waff",
-      "classification": "Rüstung & Waffen"
+      "classification": "WAFFENFABRIKEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Haltung und Dressur wildlebender Tiere in Zirkussen, Delfinarien und Haushalten",
       "location": "Kapitel IV, Abschnitt „Schutz von Boden, Wasser, Luft und biologischer Vielfalt“",
       "originalQuote": "Der konsequente Schutz wildlebender Tiere gebietet, deren Haltung und Dressur in Zirkus",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WILDLEBENDER"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Tierversuchen zur Erprobung von Kosmetika",
       "location": "Kapitel IV, Abschnitt „Schutz von Boden, Wasser, Luft und biologischer Vielfalt“",
       "originalQuote": "Wir setzen uns für die vollständige Ablösung von Tierversuchen zur Erprobung von Arzneim",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERVERSUCHEN"
     },
     {
       "category": "explizites Verbot",
@@ -76,14 +76,14 @@
       "topic": "Verbot der Einführung von Gigalinern (Monster-Lkws)",
       "location": "Kapitel IV, Abschnitt „Mobilität für alle – mit weniger Verkehr“",
       "originalQuote": "Die Einführung von Monster-Lkws, sogenannten Gigalinern, wollen wir untersagen.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "MONSTERLKWS"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Nutzung von CCS (CO2-Verpressung)",
       "location": "Kapitel IV, Abschnitt „Die Macht der Monopole brechen: Energieversorgung in die Hände der Bevölkerung“",
       "originalQuote": "Wir setzen uns dafür ein, dass sowohl die unterirdische Verpressung von CO2 (CCS) als au",
-      "classification": "Umwelt & Klima"
+      "classification": "CO2VERPRESSUNG"
     },
     {
       "category": "explizites Verbot",
@@ -97,7 +97,7 @@
       "topic": "Verbot der Haltung von Tieren in quälerischen Haltungsformen",
       "location": "Kapitel IV, Abschnitt „Die ländlichen Räume zukunftsfähig machen“",
       "originalQuote": "DIE LINKE fordert eine bodengebundene und tiergerechte Nutztierhaltung. Haltungsformen",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "HALTUNGSFORMEN"
     },
     {
       "category": "explizites Verbot",
@@ -118,7 +118,7 @@
       "topic": "Verbot der modernisierten Atombombenstationierung in Deutschland",
       "location": "Kapitel III, Abschnitt „Friedlich und gerecht in der Welt. Nein zum Krieg“",
       "originalQuote": "Es dürfen keine modernisierten Atombomben in Deutschland stationiert werden und keine Mitt",
-      "classification": "Umwelt & Klima"
+      "classification": "ATOMBOMBENSTATIONIERUNG"
     },
     {
       "category": "explizites Verbot",
@@ -132,14 +132,14 @@
       "topic": "Verbot der Mitgliedschaft deutscher Unternehmen an internationalen Rüstungsunternehmen",
       "location": "Kapitel III, Abschnitt „Friedlich und gerecht in der Welt. Nein zum Krieg“",
       "originalQuote": "DIE LINKE fordert ein Beteiligungsverbot deutscher Unternehmen an internationalen oder a",
-      "classification": "Rüstung & Waffen"
+      "classification": "Wirtschaft & Steuern"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Lohndumping über Werkverträge",
       "location": "Kapitel I, Abschnitt „Gute Arbeit statt niedriger Löhne und unsicherer Jobs“",
       "originalQuote": "Kein Lohndumping über Werkverträge! Der Missbrauch von Werkverträgen – ob als Scheinselb",
-      "classification": "Soziales & Arbeit"
+      "classification": "WERKVERTRÄGE"
     },
     {
       "category": "semantisches Verbot",
@@ -160,21 +160,21 @@
       "topic": "Keine weitere Umwandlung von Miet- in Eigentumswohnungen",
       "location": "Kapitel I, Abschnitt „Für bezahlbare Mieten und sozialen Wohnungsbau“",
       "originalQuote": "Die massenhafte Umwandlung von Miet- in Eigentumswohnungen und die Zweckentfremdung von",
-      "classification": "Wohnen & Miete"
+      "classification": "EIGENTUMSWOHNUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Bundeswehrwerbung in Schulen oder Universitäten",
       "location": "Kapitel I, Abschnitt „Bildung ist keine Ware“",
       "originalQuote": "Bildung ohne Bundeswehr! Die Bundeswehr soll nicht mehr in Schulen oder Universitäten wer",
-      "classification": "Rüstung & Waffen"
+      "classification": "BUNDESWEHRWERBUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine militärische Forschung an Universitäten",
       "location": "Kapitel I, Abschnitt „Bildung ist keine Ware“",
       "originalQuote": "An allen Universitäten soll mit einer Zivilklausel militärische Forschung ausgeschlossen ",
-      "classification": "Rüstung & Waffen"
+      "classification": "Bildung & Forschung"
     },
     {
       "category": "semantisches Verbot",
@@ -188,42 +188,42 @@
       "topic": "Keine Beteiligung deutscher Soldaten an EU-Battlegroups",
       "location": "Kapitel III, Abschnitt „Konflikte friedlich lösen – Auslandseinsätze beenden“",
       "originalQuote": "wir lehnen eine Beteiligung deutscher Soldaten an Einsätzen im Rahmen der Gemeinsamen A",
-      "classification": "Digitales & Überwachung"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Finanzierung von Entwicklungszusammenarbeit durch militärische Instrumente",
       "location": "Kapitel III, Abschnitt „Konflikte friedlich lösen – Auslandseinsätze beenden“",
       "originalQuote": "DIE LINKE lehnt eine Verknüpfung von zivilen und militärischen Maßnahmen ab. Mit »zivil-m",
-      "classification": "Rüstung & Waffen"
+      "classification": "ENTWICKLUNGSZUSAMMENARBEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Rüstungsexporte mit staatlicher Unterstützung",
       "location": "Kapitel III, Abschnitt „Friedlich und gerecht in der Welt. Nein zum Krieg“",
       "originalQuote": "Rüstungsexporte dürfen nicht mehr mit Steuergeldern unterstützt werden, weder durch die",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Ausbau eines konkurrierenden Busfernnetzes",
       "location": "Kapitel IV, Abschnitt „Mobilität für alle – mit weniger Verkehr“",
       "originalQuote": "Den Ausbau eines konkurrierenden Busfernnetzes lehnen wir ab.",
-      "classification": "Digitales & Überwachung"
+      "classification": "KONKURRIERENDEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Verlängerung der Residenzpflicht für Asylsuchende",
       "location": "Kapitel V, Abschnitt „Asylrecht ausbauen, europäischen Flüchtlingsschutz solidarisch gestalten“",
       "originalQuote": "Schluss mit den Schikanen gegen Flüchtlinge! Das Asylbewerberleistungsgesetz, die Reside",
-      "classification": "Migration & Asyl"
+      "classification": "RESIDENZPFLICHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Unterbringung von Asylsuchenden in Sammellagern",
       "location": "Kapitel V, Abschnitt „Asylrecht ausbauen, europäischen Flüchtlingsschutz solidarisch gestalten“",
       "originalQuote": "Schluss mit den Schikanen gegen Flüchtlinge! Das Asylbewerberleistungsgesetz, die Reside",
-      "classification": "Migration & Asyl"
+      "classification": "UNTERBRINGUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -237,14 +237,14 @@
       "topic": "Keine Automaten in gastronomischen Einrichtungen",
       "location": "Kapitel V, Abschnitt „Für eine moderne Drogenpolitik“",
       "originalQuote": "In gastronomischen Einrichtungen plädieren wir für ein Automatenverbot.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "GASTRONOMISCHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine staatliche Finanzierung von Zweitwohnungsbau in touristischen Regionen",
       "location": "Kapitel IV, Abschnitt „Tourismus: ökologisch verträglich und sozial gerecht“",
       "originalQuote": "Der Bau von Zweitwohnungen in diesen Regionen muss begrenzt werden.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ZWEITWOHNUNGSBAU"
     },
     {
       "category": "semantisches Verbot",
@@ -265,14 +265,14 @@
       "topic": "Keine Beteiligung an völkerrechtswidrigen Kriegen",
       "location": "Kapitel III, Abschnitt „Nein zum Krieg“",
       "originalQuote": "Deutschland und die EU sollen sich weder an Völkerrechtsbruch und Kriegen beteiligen noc",
-      "classification": "Rüstung & Waffen"
+      "classification": "VÖLKERRECHTSWIDRIGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Beteiligung an militärischen Ausbildungsmissionen",
       "location": "Kapitel III, Abschnitt „Konflikte friedlich lösen – Auslandseinsätze beenden“",
       "originalQuote": "Wir lehnen es ab, dass deutsche Soldatinnen und Soldaten andere Armeen ausbilden, die dann",
-      "classification": "Rüstung & Waffen"
+      "classification": "AUSBILDUNGSMISSIONEN"
     }
   ]
 }

@@ -6,14 +6,14 @@
       "topic": "Verdachtsunabhängige Durchleuchtung der Bürgerinnen und Bürger",
       "location": "Abschnitt: Freiheit und Grundrechte",
       "originalQuote": "Wir lehnen die verdachtsunabhängige Durchleuchtung der Bürgerinnen und Bürger und die gl",
-      "classification": "Europa & Außenpolitik"
+      "classification": "VERDACHTSUNABHÄNGIGE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Automatisierte Abfrage von Meldedaten",
       "location": "Abschnitt: Verantwortungsvollen Umgang mit Meldedaten sicherstellen, Datenhandel eindämmen",
       "originalQuote": "Eine automatisierte Abfrage lehnen wir ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "AUTOMATISIERTE"
     },
     {
       "category": "semantisches Verbot",
@@ -27,7 +27,7 @@
       "topic": "Ausdehnung der öffentlichen Videoüberwachung",
       "location": "Abschnitt: Schluss mit Vorratsdatenspeicherung und Videoüberwachung",
       "originalQuote": "Wir PIRATEN lehnen eine verdachtsunabhängige Vorratsdatenspeicherung von Telekommunikati",
-      "classification": "Digitales & Überwachung"
+      "classification": "VIDEOÜBERWACHUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -41,21 +41,21 @@
       "topic": "Einschränkungen beim Bargeldverkehr",
       "location": "Abschnitt: Keine Einschränkungen beim Bargeldverkehr",
       "originalQuote": "Wir PIRATEN setzen uns sowohl auf Bundesebene als auch auf europäischer Ebene gegen Einsc",
-      "classification": "Verkehr & Mobilität"
+      "classification": "EINSCHRÄNKUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Herstellung, Wartung, Betreuung und Erhaltung von Überwachungssoftware",
       "location": "Abschnitt: Gegen Überwachungssoftware: Transparenz und Quellcode-Offenlegung",
       "originalQuote": "Wir PIRATEN sprechen uns deutlich gegen die Herstellung, Wartung, Betreuung und Erhaltung",
-      "classification": "Digitales & Überwachung"
+      "classification": "ÜBERWACHUNGSSOFTWARE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "PKW-Maut",
       "location": "Abschnitt: Keine PKW-Maut",
       "originalQuote": "Eine PKW-Maut lehnen wir ebenfalls ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "PKWMAUT"
     },
     {
       "category": "semantisches Verbot",
@@ -97,7 +97,7 @@
       "topic": "Abriegelung an den EU-Außengrenzen",
       "location": "Abschnitt: Offenere Grenzen statt der Festung Europa",
       "originalQuote": "Statt die Abriegelung Europas weiter voranzutreiben, muss die EU Maßnahmen zur sicheren G",
-      "classification": "Migration & Asyl"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
@@ -132,7 +132,7 @@
       "topic": "Abschiebungen und Abschiebehaft",
       "location": "Abschnitt: Für ein Ende von Abschiebungen und Abschiebehaft",
       "originalQuote": "Wir setzen uns für ein generelles Ende von Abschiebungen und der Abschiebehaft ein, insb",
-      "classification": "Migration & Asyl"
+      "classification": "ABSCHIEBUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -167,7 +167,7 @@
       "topic": "Abwehr von Flüchtenden an EU-Außengrenzen",
       "location": "Abschnitt: Keine Abwehr von Flüchtenden",
       "originalQuote": "Wir fordern daher deren Abschaffung und den Rückzug Deutschlands aus dem Projekt.",
-      "classification": "Migration & Asyl"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
@@ -195,7 +195,7 @@
       "topic": "Finanzierung digitaler Gesundheits-Apps ohne ärztliche Einbindung",
       "location": "Abschnitt: Gesundheit, Pflege, Medizin",
       "originalQuote": "Die Finanzierung oder Kostenübernahme digitaler Gesundheitsanwendungen wie etwa Fitnes",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "GESUNDHEITSAPPS"
     },
     {
       "category": "semantisches Verbot",
@@ -209,7 +209,7 @@
       "topic": "Patentierung von Geschäftsmodellen",
       "location": "Abschnitt: Patente und Markenrecht",
       "originalQuote": "Das Patentrecht muss eine Patentierung von Geschäftsmodellen explizit ausschließen.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "GESCHÄFTSMODELLEN"
     },
     {
       "category": "semantisches Verbot",
@@ -223,7 +223,7 @@
       "topic": "Fracking zur Gewinnung fossiler Energieträger",
       "location": "Abschnitt: Kein Fracking",
       "originalQuote": "Notwendig ist ein sofortiges ausnahmsloses EU-weites Verbot (und weltweite Ächtung) sämt",
-      "classification": "Umwelt & Klima"
+      "classification": "ENERGIETRÄGER"
     },
     {
       "category": "explizites Verbot",
@@ -237,14 +237,14 @@
       "topic": "Privatisierung von Verkehrsinfrastrukturen",
       "location": "Abschnitt: Bauen und Verkehr",
       "originalQuote": "Wir sprechen uns gegen die Privatisierung von Verkehrsinfrastrukturen aus.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "VERKEHRSINFRASTRUKTUREN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Subventionen für Regionalflughäfen",
       "location": "Abschnitt: Bauen und Verkehr",
       "originalQuote": "Wir wollen, dass alle Regionalflughäfen ohne Subventionen durch die öffentliche Hand betri",
-      "classification": "Verkehr & Mobilität"
+      "classification": "REGIONALFLUGHÄFEN"
     },
     {
       "category": "semantisches Verbot",
@@ -293,7 +293,7 @@
       "topic": "Nächtliches Alkoholverkaufsverbot",
       "location": "Abschnitt: Strafrechtsreform",
       "originalQuote": "Ein nächtliches Verkaufsverbot für Alkohol lehnen wir ab.",
-      "classification": "Gesundheit & Drogen"
+      "classification": "ALKOHOLVERKAUFSVERBOT"
     },
     {
       "category": "semantisches Verbot",

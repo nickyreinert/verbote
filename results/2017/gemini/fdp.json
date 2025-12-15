@@ -20,42 +20,42 @@
       "topic": "Verletzung der Grundrechte der Bürger durch den Rechtsstaat",
       "location": "[3375]",
       "originalQuote": "Der Rechtsstaat balanciert Freiheit und Sicherheit so aus, dass er konkreten Gefahren entschieden entgegentritt, ohne aber die Grundrechte der Bürgerinnen und Bürger zu verletzen.",
-      "classification": "Demokratie & Recht"
+      "classification": "GRUNDRECHTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verhinderung von Diskriminierung im Schul- und Bildungssystem",
       "location": "[3397]",
       "originalQuote": "Wir Freie Demokraten bekennen uns daher zu einem Schul- und Bildungssystem, das gleiche Zugangschancen eröffnet, Diskriminierung verhindert und Neutralität wahrt.",
-      "classification": "Bildung & Forschung"
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Angleichung der Bildungsstandards nach unten",
       "location": "[3403]",
       "originalQuote": "Dabei darf es aber keine Angleichung nach unten geben. Damit wir mit den führenden Nationen mithalten können, brauchen wir mehr Mobilität und mehr Vergleichbarkeit zwischen den 16 Ländern.",
-      "classification": "Bildung & Forschung"
+      "classification": "BILDUNGSSTANDARDS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Abschaffung der staatlichen Berechnung der Ausbildungskapazität und Festsetzung von Zulassungszahlen",
       "location": "[3430]",
       "originalQuote": "Bildungsgutscheine machen die staatliche Berechnung der Ausbildungskapazität sowie die staatliche Festsetzung von Zulassungszahlen überflüssig.",
-      "classification": "Bildung & Forschung"
+      "classification": "AUSBILDUNGSKAPAZITÄT"
     },
     {
       "category": "explizites Verbot",
       "topic": "Lehrkräfte dürfen keine digitalen Amateure sein",
       "location": "[2579]",
       "originalQuote": "Dabei dürfen Lehrkräfte keine digitalen Amateure sein, sondern müssen den Kindern Lust an Fortschritt und Technik vermitteln können.",
-      "classification": "Digitales & Überwachung"
+      "classification": "LEHRKRÄFTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Schließung von Förderschulen",
       "location": "[3503]",
       "originalQuote": "Die Schließung von Förderschulen, in denen Kinder passend zu ihrem Bedarf gefördert werden konnten, ist ein Fehler, da dies meist nicht dem Kindeswohl dient und oft auch gegen den Elternwillen vorgenommen wird.",
-      "classification": "Bildung & Forschung"
+      "classification": "FÖRDERSCHULEN"
     },
     {
       "category": "explizites Verbot",
@@ -69,7 +69,7 @@
       "topic": "Die Finanzierung der Ausbildung darf nicht am Einkommen oder den Vorstellungen der Eltern scheitern",
       "location": "[3515]",
       "originalQuote": "Deshalb darf die Finanzierung auch für niemanden an den Vorstellungen der Eltern oder deren Einkommen scheitern.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Bildung & Forschung"
     },
     {
       "category": "explizites Verbot",
@@ -104,21 +104,21 @@
       "topic": "Innovative Entwicklungen im Verkehrswesen dürfen nicht durch Monopolregelungen behindert werden",
       "location": "[2728]",
       "originalQuote": "Ob auf der Straße, Schiene, über Wasser oder in der Luft – überall bieten sich durch intelligente Verkehrssysteme und Mobilität 4.0 mit vollautomatisiertem und autonomem Fahren große Chancen: Innovative neue Entwicklungen im Verkehrswesen dürfen durch bestehende Monopolregelungen nicht behindert werden.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "MONOPOLREGELUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Überprüfung (Stopp/Aussetzung) des Ziels, 5% der Waldfläche aus der forstwirtschaftlichen Nutzung zu nehmen",
       "location": "[2873]",
       "originalQuote": "Mit Blick auf eine verlässliche Versorgung mit dem Rohstoff Holz, gehört das Ziel der nationalen Strategie zur biologischen Vielfalt, fünf Prozent der deutschen Waldfläche aus der forstwirtschaftlichen Nutzung zu nehmen und sich selbst zu überlassen, auf den Prüfstand.",
-      "classification": "Umwelt & Klima"
+      "classification": "FORSTWIRTSCHAFTLICHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verhinderung der vollständigen Anrechnung von Einnahmen aus freiwilliger Altersvorsorge auf die Grundsicherung",
       "location": "[2897]",
       "originalQuote": "Es kann nicht sein, dass Einnahmen aus der freiwilligen Vorsorge vollständig auf die Grundsicherung angerechnet – also voll abgezogen werden.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ALTERSVORSORGE"
     },
     {
       "category": "explizites Verbot",
@@ -139,7 +139,7 @@
       "topic": "Ablehnung einer gesetzlichen Frauenquote in Führungspositionen",
       "location": "[3001]",
       "originalQuote": "Eine gesetzliche Quote lehnen wir jedoch ab: So werden Frauen zu Platzhaltern degradiert und nicht entsprechend ihrer Leistungen gewürdigt.",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "FÜHRUNGSPOSITIONEN"
     },
     {
       "category": "semantisches Verbot",
@@ -174,7 +174,7 @@
       "topic": "Die Werte des Grundgesetzes sind nicht verhandelbar",
       "location": "[3114]",
       "originalQuote": "Bei innerer Liberalität und Toleranz kann es für niemanden Rabatt geben. Die Werte unseres Grundgesetzes sind nicht verhandelbar.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "GRUNDGESETZES"
     },
     {
       "category": "semantisches Verbot",
@@ -202,7 +202,7 @@
       "topic": "Ablehnung der Mitwirkung am »politischen Sozialschwindel« (bezogen auf Sozialwohnungsbauförderung)",
       "location": "Ende des Dokuments",
       "originalQuote": "Das ist offensichtlich politischer Sozialschwindel, den wir Freien Demokraten nicht mitmachen wollen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "SOZIALWOHNUNGSBAUFÖRDERUNG"
     }
   ]
 }

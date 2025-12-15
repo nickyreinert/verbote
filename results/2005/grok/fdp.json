@@ -1,0 +1,82 @@
+{
+  "sourceFile": "FDP - 2005 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Erhöhung der Mehrwertsteuer",
+      "location": "Kapitel 2",
+      "originalQuote": "Die FDP spricht sich gegen eine Erhöhung der Mehrwertsteuer zur Reform der direkten Steuern oder an",
+      "classification": "MEHRWERTSTEUER"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Mindestlöhne",
+      "location": "Kapitel 2",
+      "originalQuote": "Mindestlöhne, egal in welcher Form sie festgelegt werden, lehnen wir ab. Sie lösen die Arbeitsmarktpr",
+      "classification": "MINDESTLÖHNE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "unverhältnismäßige Einschränkungen von Freiheitsrechten bei WM 2006",
+      "location": "Kapitel 4",
+      "originalQuote": "Hingegen lehnen wir unverhältnismäßige Einschränkungen von Freiheitsrechten der Besucher ab.",
+      "classification": "UNVERHÄLTNISMÄSSIGE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Medienbeteiligungen von Parteien",
+      "location": "Kapitel 4",
+      "originalQuote": "Im Interesse einer klaren Gewaltenteilung und der Kontrollfunktion unabhängiger Medien, der sogenann",
+      "classification": "MEDIENBETEILIGUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "paritätische Mitbestimmung in Großunternehmen",
+      "location": "Kapitel 2",
+      "originalQuote": "Die paritätische Mitbestimmung in Großunternehmen erweist sich immer mehr als Nachteil für den Stand",
+      "classification": "GROSSUNTERNEHMEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gewerkschaftsprivileg im Mitbestimmungsgesetz",
+      "location": "Kapitel 2",
+      "originalQuote": "Deshalb muß das Gewerkschaftsprivileg im Mitbestimmungsgesetz fallen.",
+      "classification": "GEWERKSCHAFTSPRIVILEG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Kontenabfrage ohne begründeten Verdacht",
+      "location": "Kapitel 2",
+      "originalQuote": "Die Kontenabfrage ohne begründeten Verdacht wird untersagt.",
+      "classification": "KONTENABFRAGE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aufhebung des EU-Waffenembargos gegen China",
+      "location": "Kapitel 5",
+      "originalQuote": "Die FDP lehnt eine Aufhebung des EU-Waffenembargos gegen China ab, solange sich die Menschenrechtsit",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Erhöhung des Rentenbeitragssatzes auf 22%",
+      "location": "Kapitel 2",
+      "originalQuote": "Die FDP will den Beitragssatz zur Rentenversicherung langfristig bei 19 % halten und lehnt den Plan v",
+      "classification": "RENTENBEITRAGSSATZES"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Halbherzige Reparaturen der Sozialsysteme",
+      "location": "Kapitel 2",
+      "originalQuote": "Halbherzige Reparaturen, die den Beitragsanstieg nur verzögern, langfristig aber nicht verhindern, l",
+      "classification": "SOZIALSYSTEME"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zwangsverheiratungen",
+      "location": "Kapitel 4",
+      "originalQuote": "Zwangsverheiratungen sind inakzeptabel. Zwangsheirat ist eine Menschenrechtsverletzung und muß als so",
+      "classification": "ZWANGSVERHEIRATUNGEN"
+    }
+  ]
+}

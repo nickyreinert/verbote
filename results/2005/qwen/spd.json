@@ -6,7 +6,7 @@
       "topic": "Ablehnung der Kopfpauschale im Gesundheitswesen",
       "location": "Abschnitt: Die Sackgasse(n) > Die Entsolidarisierung von Staat und Gesellschaft",
       "originalQuote": "CDU/CSU und FDP wollen das Solidarprinzip in der Gesundheitsversorgung durch eine f",
-      "classification": "Gesundheit & Drogen"
+      "classification": "GESUNDHEITSWESEN"
     },
     {
       "category": "semantisches Verbot",
@@ -20,14 +20,14 @@
       "topic": "Ablehnung gesetzlicher Eingriffe in die Tarifautonomie",
       "location": "Abschnitt: 6. Wir garantieren Arbeitnehmerrechte",
       "originalQuote": "Gesetzliche Eingriffe in die grundgesetzlich garantierte Tarifautonomie lehnen wi",
-      "classification": "Verkehr & Mobilität"
+      "classification": "TARIFAUTONOMIE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung einer Rentenkürzung",
       "location": "Abschnitt: 19. Wir wollen Anerkennung und Sicherheit im Alter",
       "originalQuote": "Die Vorschläge aus CDU/CSU, die gezahlten Renten zu kürzen, lehnen wir ab.",
-      "classification": "Soziales & Arbeit"
+      "classification": "RENTENKÜRZUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -41,7 +41,7 @@
       "topic": "Ablehnung einer Mehrwertsteuererhöhung",
       "location": "Abschnitt: 22. Solide Finanzen",
       "originalQuote": "Eine Anhebung der Mehrwertsteuer würde angesichts der derzeit schwachen Binnen",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "MEHRWERTSTEUERERHÖHUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -62,7 +62,7 @@
       "topic": "Keine Kommunalisierung der Langzeitarbeitslosigkeit",
       "location": "Abschnitt: 2. Wir wollen mehr Arbeit schaffen und weniger Arbeitslosigkeit haben in Deutschland",
       "originalQuote": "Die SPD will keine Kommunalisierung der Langzeitarbeitslosigkeit und ihrer Finan",
-      "classification": "Soziales & Arbeit"
+      "classification": "LANGZEITARBEITSLOSIGKEIT"
     },
     {
       "category": "semantisches Verbot",

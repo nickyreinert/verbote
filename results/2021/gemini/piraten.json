@@ -6,28 +6,28 @@
       "topic": "Ablehnung der verdachtsunabhängigen Durchleuchtung der Bürger und gläserner Kunden.",
       "location": "Freiheit und Grundrechte / Privatsphäre wahren (Quelle: 3622)",
       "originalQuote": "Wir lehnen die verdachtsunabhängige Durchleuchtung der Bürgerinnen und Bürger und die gläsernen Kundi",
-      "classification": "Europa & Außenpolitik"
+      "classification": "VERDACHTSUNABHÄNGIGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung einer automatisierten Abfrage von Meldedaten.",
       "location": "Verantwortungsvollen Umgang mit Meldedaten sicherstellen (Quelle: 3648)",
       "originalQuote": "B. Unternehmen, Adresshändler, Verbände oder Parteien. Eine automatisierte Abfrage lehnen wir ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "AUTOMATISIERTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Abschaffung des Listenprivilegs (Ausnahmeregelung im Datenschutzrecht für Adresshandel).",
       "location": "Verantwortungsvollen Umgang mit Meldedaten sicherstellen (Quelle: 3650)",
       "originalQuote": "Meinungsforschung darf nur mit Einwilligung der Betroffenen möglich sein. Daher fordern wir die ersatzlose A",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "AUSNAHMEREGELUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Beendigung der Weitergabe von Meldedaten an den Beitragsservice und Streichung der Durchleuchtungsklausel im RÄStV.",
       "location": "Verantwortungsvollen Umgang mit Meldedaten sicherstellen (Quelle: 3652)",
       "originalQuote": "Die Weitergabe von Meldedaten an den Beitragsservice der öffentlich-rechtlichen Rundfunkanstalten muss beendet",
-      "classification": "Digitales & Überwachung"
+      "classification": "DURCHLEUCHTUNGSKLAUSEL"
     },
     {
       "category": "semantisches Verbot",
@@ -48,42 +48,42 @@
       "topic": "Verbot des Aufbaus zentraler Biometriedatenbanken für polizeiliche oder Versicherungswirtschaftszwecke.",
       "location": "Schluss mit Vorratsdatenspeicherung und Videoüberwachung (Quelle: 3657)",
       "originalQuote": "Der Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder die Versicherungswirtschaft muss unt",
-      "classification": "Soziales & Arbeit"
+      "classification": "VERSICHERUNGSWIRTSCHAFTSZWECKE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verhindern von Einschränkungen des Bargeldverkehrs.",
       "location": "Keine Einschränkungen beim Bargeldverkehr (Quelle: 3659)",
       "originalQuote": "Wir PIRATEN setzen uns sowohl auf Bundesebene als auch auf europäischer Ebene gegen Einschränkungen des Bar",
-      "classification": "Verkehr & Mobilität"
+      "classification": "EINSCHRÄNKUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Herstellung, Wartung, Betreuung und Erhaltung von Überwachungssoftware.",
       "location": "Gegen Überwachungssoftware: Transparenz und Quellcode-Offenlegung (Quelle: 3662)",
       "originalQuote": "Wir PIRATEN sprechen uns deutlich gegen die Herstellung, Wartung, Betreuung und Erhaltung von Überwachungsso",
-      "classification": "Digitales & Überwachung"
+      "classification": "ÜBERWACHUNGSSOFTWARE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verurteilung des kommerziellen Handels mit Überwachungssoftware und Dienstleistungen dafür.",
       "location": "Gegen Überwachungssoftware: Transparenz und Quellcode-Offenlegung (Quelle: 3663)",
       "originalQuote": "Sie verurteilt den kommerziellen Handel mit Überwachungssoftware, einschließlich Dienstleistungen für Überw",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ÜBERWACHUNGSSOFTWARE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung einer PKW-Maut.",
       "location": "Keine PKW-Maut (Quelle: 3670)",
       "originalQuote": "Eine PKW-Maut lehnen wir ebenfalls ab. Durch viele bislang vorgeschlagene Systeme zur Mauterfassung droht eine",
-      "classification": "Verkehr & Mobilität"
+      "classification": "PKWMAUT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verdeckte Eingriffe in informationstechnische Systeme (Staatstrojaner) sind mit Grundrechten nicht vereinbar.",
       "location": "Überwachung / Keine Bundes- oder Staatstrojaner (Quelle: 3678)",
       "originalQuote": "Für uns PIRATEN sind verdeckte Eingriffe in informationstechnische Systeme durch den Staat nicht mit Grundrecht",
-      "classification": "Demokratie & Recht"
+      "classification": "INFORMATIONSTECHNISCHE"
     },
     {
       "category": "semantisches Verbot",
@@ -139,7 +139,7 @@
       "topic": "Ausnahmsloser Verzicht auf Instrumente zur Abschreckung, Isolation, Rassismus und Diskriminierung in der Asylpolitik.",
       "location": "Asyl und Migration / Grundsätze (Quelle: 3710)",
       "originalQuote": "Wir setzen uns deshalb für eine solidarische und menschenwürdige Asylpolitik ein, die am Wohl und Schutz der a",
-      "classification": "Migration & Asyl"
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "semantisches Verbot",
@@ -153,7 +153,7 @@
       "topic": "Grundsätzliche Ablehnung militärischen Eingreifens.",
       "location": "Ursachenbekämpfung, Konfliktprävention (Quelle: 3717)",
       "originalQuote": "Militärisches Eingreifen lehnen wir grundsätzlich ab. ",
-      "classification": "Rüstung & Waffen"
+      "classification": "GRUNDSÄTZLICHE"
     },
     {
       "category": "semantisches Verbot",
@@ -181,7 +181,7 @@
       "topic": "Verzicht auf diskriminierende und inhumane Beweisverfahren bei der Asylprüfung.",
       "location": "Wiederherstellung des Rechts auf Asyl (Quelle: 3731)",
       "originalQuote": "Dabei ist auf diskriminierende und inhumane Beweisverfahren zu verzichten. Denn der Begriff der Sicheren Herk",
-      "classification": "Migration & Asyl"
+      "classification": "DISKRIMINIERENDE"
     },
     {
       "category": "semantisches Verbot",
@@ -223,7 +223,7 @@
       "topic": "Ablehnung jeglicher Beteiligung am Aufbau, Bereitstellung und Betrieb der drohnengestützten Infrastruktur.",
       "location": "Keine Drohnen gegen Flüchtende (Quelle: 3761)",
       "originalQuote": "Damit lehnen wir jegliche Beteiligung am Aufbau, Bereitstellung und Betrieb einer entsprechenden Infrastruktur",
-      "classification": "Rüstung & Waffen"
+      "classification": "DROHNENGESTÜTZTEN"
     },
     {
       "category": "semantisches Verbot",
@@ -237,7 +237,7 @@
       "topic": "Verbot des Qualitätsverlusts der Beurteilungen und Entscheidungen im Asylverfahren.",
       "location": "Faires Asylverfahren schaffen (Quelle: 3777)",
       "originalQuote": "Hierbei darf es zu keinem Qualitätsverlust der Beurteilungen und Entscheidungen kommen, wie es im sogenannte",
-      "classification": "Migration & Asyl"
+      "classification": "QUALITÄTSVERLUSTS"
     },
     {
       "category": "semantisches Verbot",
@@ -251,14 +251,14 @@
       "topic": "Generelles Ende von Abschiebungen und der Abschiebehaft (zeitlich befristet).",
       "location": "Für ein Ende von Abschiebungen und Abschiebehaft (Quelle: 3792)",
       "originalQuote": "Wir setzen uns für ein generelles Ende von Abschiebungen und der Abschiebehaft ein, insbesondere zwischen dem 1",
-      "classification": "Migration & Asyl"
+      "classification": "ABSCHIEBUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Generelle Ablehnung von Abschiebungen in Krisenregionen und Gebiete mit Gefahr für Gesundheit oder Leben.",
       "location": "Für ein Ende von Abschiebungen und Abschiebehaft (Quelle: 3794)",
       "originalQuote": "Abschiebungen in Krisenregionen und in Gebiete, in denen die Verhältnisse eine Gefahr für Gesundheit oder Lebe",
-      "classification": "Migration & Asyl"
+      "classification": "Gesundheit & Drogen"
     },
     {
       "category": "semantisches Verbot",
@@ -272,7 +272,7 @@
       "topic": "Ablehnung einer zusätzlichen steuerlichen Belastung der Bevölkerung zur Finanzierung der Versorgung Geflüchteter.",
       "location": "Finanzierung zur Versorgung der aufgenommenen Geflüchteten (Quelle: 3802)",
       "originalQuote": "Wir PIRATEN lehnen eine zusätzliche steuerliche Belastung der Bevölkerung zur Finanzierung des erhöhten Aufkom",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ZUSÄTZLICHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -307,21 +307,21 @@
       "topic": "Zuordnung und Betreuung Arbeitsloser im Vermittlungsbereich soll nicht mehr nach bürokratischen Kriterien erfolgen.",
       "location": "Jobcenter (Quelle: 3323)",
       "originalQuote": "Die Zuordnung und Betreuung der Arbeitslosen im Vermittlungsbereich sollte nicht mehr nach dem Anfangsbuchsta",
-      "classification": "Soziales & Arbeit"
+      "classification": "VERMITTLUNGSBEREICH"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Bestrafung von Anbau und Herstellung von psychotropen Substanzen für den Eigenbedarf.",
       "location": "Entkriminalisierung der Konsumenten (Quelle: 3404)",
       "originalQuote": "Anbau und Herstellung für den Eigenbedarf dürfen nicht bestraft werden.",
-      "classification": "Wohnen & Miete"
+      "classification": "PSYCHOTROPEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Aufnahme von E-Zigaretten ins Nichtraucherschutzgesetz oder einer Besteuerung nach dem Tabaksteuergesetz.",
       "location": "Gesundheit / Drogenpolitik (Quelle: 3438)",
       "originalQuote": "E-Zigaretten ins Nichtraucherschutzgesetz aufzunehmen, oder eine Besteuerung nach dem Tabaksteuergesetz lehne",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "NICHTRAUCHERSCHUTZGESETZ"
     },
     {
       "category": "explizites Verbot",
@@ -335,7 +335,7 @@
       "topic": "Abschaffung von Theologischen Fakultäten in staatlichen Hochschulen/Universitäten.",
       "location": "Bildung (Quelle: 3585)",
       "originalQuote": "Theologische Fakultäten in staatlichen Hochschulen und Universitäten sind abzuschaffen. Staatliche Zuschüsse ",
-      "classification": "Bildung & Forschung"
+      "classification": "HOCHSCHULENUNIVERSITÄTEN"
     }
   ]
 }

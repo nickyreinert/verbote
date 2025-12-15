@@ -5,223 +5,260 @@
       "category": "semantisches Verbot",
       "topic": "Verbot von Verbrennungsmotoren",
       "location": "Kapitel Mobilität",
-      "originalQuote": "Ein pauschales Verbot von Verbrennungsmotoren lehnen wir ab. Innovationen und eine bessere Infrastru"
+      "originalQuote": "Ein pauschales Verbot von Verbrennungsmotoren lehnen wir ab. Innovationen und eine bessere Infrastru",
+      "classification": "VERBRENNUNGSMOTOREN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Tempolimits",
       "location": "Kapitel Mobilität",
-      "originalQuote": "Wir Freie Demokraten sind gegen unverhältnismäßige Verbote in der Mobilität. Wir setzen auf Innova"
+      "originalQuote": "Wir Freie Demokraten sind gegen unverhältnismäßige Verbote in der Mobilität. Wir setzen auf Innova",
+      "classification": "TEMPOLIMITS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Dieselfahrverbote",
       "location": "Kapitel Mobilität",
-      "originalQuote": "Tempolimits, Diesel- oder Motorradfahrverbote sind weder progressiv noch nachhaltig. Durch die von"
+      "originalQuote": "Tempolimits, Diesel- oder Motorradfahrverbote sind weder progressiv noch nachhaltig. Durch die von",
+      "classification": "DIESELFAHRVERBOTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Motorradfahrverbote",
       "location": "Kapitel Mobilität",
-      "originalQuote": "Tempolimits, Diesel- oder Motorradfahrverbote sind weder progressiv noch nachhaltig. Durch die von"
+      "originalQuote": "Tempolimits, Diesel- oder Motorradfahrverbote sind weder progressiv noch nachhaltig. Durch die von",
+      "classification": "MOTORRADFAHRVERBOTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Fahrverbote",
       "location": "Kapitel Luftqualität",
-      "originalQuote": "Fahrverbote lehnen wir ab, denn sie führen zu Umgehungsverkehr und damit zu einer größeren Klima-"
+      "originalQuote": "Fahrverbote lehnen wir ab, denn sie führen zu Umgehungsverkehr und damit zu einer größeren Klima-",
+      "classification": "FAHRVERBOTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Anlasslose Vorratsdatenspeicherung",
       "location": "Kapitel Schutz der Privatsphäre",
-      "originalQuote": "Wir Freie Demokraten lehnen die anlasslose Speicherung personenbezogener Daten ab. Dies gilt insbes"
+      "originalQuote": "Wir Freie Demokraten lehnen die anlasslose Speicherung personenbezogener Daten ab. Dies gilt insbes",
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Online-Durchsuchung und Quellen-TKÜ",
       "location": "Kapitel Schutz der Privatsphäre",
-      "originalQuote": "Wir Freie Demokraten lehnen die potentiell lückenlose digitale Überwachung der Menschen durch den E"
+      "originalQuote": "Wir Freie Demokraten lehnen die potentiell lückenlose digitale Überwachung der Menschen durch den E",
+      "classification": "ONLINEDURCHSUCHUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Hackbacks",
       "location": "Kapitel Cybersicherheit",
-      "originalQuote": "Wir lehnen digitale Vergeltungsschläge (Hackbacks) ab, da sie die Gefahr eines digitalen Wettrüste"
+      "originalQuote": "Wir lehnen digitale Vergeltungsschläge (Hackbacks) ab, da sie die Gefahr eines digitalen Wettrüste",
+      "classification": "HACKBACKS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Automatisierte Gesichtserkennung",
       "location": "Kapitel Schutz der Privatsphäre",
-      "originalQuote": "Wir Freie Demokraten fordern ein Recht auf Anonymität im öffentlichen Raum und lehnen den Einsatz"
+      "originalQuote": "Wir Freie Demokraten fordern ein Recht auf Anonymität im öffentlichen Raum und lehnen den Einsatz",
+      "classification": "GESICHTSERKENNUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Flächendeckende Videoüberwachung",
       "location": "Kapitel Schutz der Privatsphäre",
-      "originalQuote": "Eine flächendeckende Videoüberwachung lehnen wir daher ab und sehen auch die Ausweitung privater Vi"
+      "originalQuote": "Eine flächendeckende Videoüberwachung lehnen wir daher ab und sehen auch die Ausweitung privater Vi",
+      "classification": "VIDEOÜBERWACHUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Zwangsdienst/Dienstpflicht",
       "location": "Kapitel Ehrenamt",
-      "originalQuote": "Während wir das freiwillige Engagement junger Menschen begrüßen und stärker fördern wollen, lehnen"
+      "originalQuote": "Während wir das freiwillige Engagement junger Menschen begrüßen und stärker fördern wollen, lehnen",
+      "classification": "ZWANGSDIENSTDIENSTPFLICHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Gesetzliche Zivilklauseln",
       "location": "Kapitel Bildung",
-      "originalQuote": "Zivilklauseln oder das pauschale Aussperren von Unternehmen, Parteien sowie der Bundeswehr lehnen"
+      "originalQuote": "Zivilklauseln oder das pauschale Aussperren von Unternehmen, Parteien sowie der Bundeswehr lehnen",
+      "classification": "ZIVILKLAUSELN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verschärfung der Erbschaftsteuer",
       "location": "Kapitel Steuern",
-      "originalQuote": "Damit die Unternehmen nicht durch Erbgänge oder eine Substanzbesteuerung gefährdet werden, lehnen w"
+      "originalQuote": "Damit die Unternehmen nicht durch Erbgänge oder eine Substanzbesteuerung gefährdet werden, lehnen w",
+      "classification": "ERBSCHAFTSTEUER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Wiedereinführung der Vermögensteuer",
       "location": "Kapitel Steuern",
-      "originalQuote": "Wir Freie Demokraten lehnen eine einmalige Vermögensabgabe ebenso ab wie die Wiederbelebung der Ve"
+      "originalQuote": "Wir Freie Demokraten lehnen eine einmalige Vermögensabgabe ebenso ab wie die Wiederbelebung der Ve",
+      "classification": "WIEDEREINFÜHRUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einmalige Vermögensabgabe",
       "location": "Kapitel Steuern",
-      "originalQuote": "Wir Freie Demokraten lehnen eine einmalige Vermögensabgabe ebenso ab wie die Wiederbelebung der Ve"
+      "originalQuote": "Wir Freie Demokraten lehnen eine einmalige Vermögensabgabe ebenso ab wie die Wiederbelebung der Ve",
+      "classification": "VERMÖGENSABGABE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Weitere Verschärfung der Erbschaftsteuer",
       "location": "Kapitel Steuern",
-      "originalQuote": "Wir lehnen auch eine weitere Verschärfung der Erbschaftsteuer ab."
+      "originalQuote": "Wir lehnen auch eine weitere Verschärfung der Erbschaftsteuer ab.",
+      "classification": "ERBSCHAFTSTEUER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Neue EU-Steuern",
       "location": "Kapitel Europa",
-      "originalQuote": "Die immer wieder geforderte Einführung zusätzlicher EU-Steuern ist mit den europäischen Verträgen n"
+      "originalQuote": "Die immer wieder geforderte Einführung zusätzlicher EU-Steuern ist mit den europäischen Verträgen n",
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Schuldenunion",
       "location": "Kapitel Europa",
-      "originalQuote": "Wir Freie Demokraten wollen schnell zu einem schuldenfreien EU-Haushalt zurückkehren. Eine Schulde"
+      "originalQuote": "Wir Freie Demokraten wollen schnell zu einem schuldenfreien EU-Haushalt zurückkehren. Eine Schulde",
+      "classification": "SCHULDENUNION"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einheitliche europäische Einlagensicherung (EDIS)",
       "location": "Kapitel Europa/Finanzen",
-      "originalQuote": "Die Schaffung einer einheitlichen europäischen Einlagensicherung (EDIS) lehnen wir Freie Demokraten"
+      "originalQuote": "Die Schaffung einer einheitlichen europäischen Einlagensicherung (EDIS) lehnen wir Freie Demokraten",
+      "classification": "EINLAGENSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Netzwerkdurchsetzungsgesetz (NetzDG)",
       "location": "Kapitel Presse- und Meinungsfreiheit",
-      "originalQuote": "Wir Freie Demokraten wollen das Netzwerkdurchsetzungsgesetz (NetzDG) abschaffen und durch einen Re"
+      "originalQuote": "Wir Freie Demokraten wollen das Netzwerkdurchsetzungsgesetz (NetzDG) abschaffen und durch einen Re",
+      "classification": "NETZWERKDURCHSETZUNGSGESETZ"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Uploadfilter",
       "location": "Kapitel Kultur",
-      "originalQuote": "Den Einsatz von Uploadfiltern lehnen wir als immense Gefahr für Meinungs- und Kunstfreiheit im Net"
+      "originalQuote": "Den Einsatz von Uploadfiltern lehnen wir als immense Gefahr für Meinungs- und Kunstfreiheit im Net",
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Nationale Alleingänge in der Handelspolitik",
       "location": "Kapitel Außenwirtschaft",
-      "originalQuote": "Nationale Alleingänge und Willkürzölle sowie neue nicht-tarifäre Handelshemmnisse lehnen wir ab. W"
+      "originalQuote": "Nationale Alleingänge und Willkürzölle sowie neue nicht-tarifäre Handelshemmnisse lehnen wir ab. W",
+      "classification": "HANDELSPOLITIK"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Willkürzölle",
       "location": "Kapitel Außenwirtschaft",
-      "originalQuote": "Nationale Alleingänge und Willkürzölle sowie neue nicht-tarifäre Handelshemmnisse lehnen wir ab. W"
+      "originalQuote": "Nationale Alleingänge und Willkürzölle sowie neue nicht-tarifäre Handelshemmnisse lehnen wir ab. W",
+      "classification": "WILLKÜRZÖLLE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Neue nicht-tarifäre Handelshemmnisse",
       "location": "Kapitel Außenwirtschaft",
-      "originalQuote": "Nationale Alleingänge und Willkürzölle sowie neue nicht-tarifäre Handelshemmnisse lehnen wir ab. W"
+      "originalQuote": "Nationale Alleingänge und Willkürzölle sowie neue nicht-tarifäre Handelshemmnisse lehnen wir ab. W",
+      "classification": "HANDELSHEMMNISSE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Förderung von nationalen Champions",
       "location": "Kapitel Wirtschaft",
-      "originalQuote": "Wir wenden uns daher entschieden gegen die politische Förderung von „nationalen Champions". Derlei"
+      "originalQuote": "Wir wenden uns daher entschieden gegen die politische Förderung von `nationalen Champions`. Derlei",
+      "classification": "NATIONALEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Versandhandelsverbot für rezeptpflichtige Arzneimittel",
       "location": "Kapitel Gesundheit",
-      "originalQuote": "Ein pauschales Versandhandelsverbot für rezeptpflichtige Arzneimittel lehnen wir ab, denn alle Pat"
+      "originalQuote": "Ein pauschales Versandhandelsverbot für rezeptpflichtige Arzneimittel lehnen wir ab, denn alle Pat",
+      "classification": "VERSANDHANDELSVERBOT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Catch and Release-Verbote beim Angeln",
       "location": "Kapitel Angeln und Fischerei",
-      "originalQuote": "Pauschale „Catch and Release"-Verbote lehnen wir aus Arten- und Bestandsschutzgründen ab. Die Ang"
+      "originalQuote": "Pauschale `Catch and Release`-Verbote lehnen wir aus Arten- und Bestandsschutzgründen ab. Die Ang",
+      "classification": "RELEASEVERBOTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Pauschale Nachtangelverbote",
       "location": "Kapitel Angeln und Fischerei",
-      "originalQuote": "Deswegen lehnen wir auch pauschale Verbote und Beschränkungen der Angelei ab, insbesondere pauscha"
+      "originalQuote": "Deswegen lehnen wir auch pauschale Verbote und Beschränkungen der Angelei ab, insbesondere pauscha",
+      "classification": "NACHTANGELVERBOTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Nullnutzungsgebote von Gewässern",
       "location": "Kapitel Angeln und Fischerei",
-      "originalQuote": "Deswegen lehnen wir auch pauschale Verbote und Beschränkungen der Angelei ab, insbesondere pauscha"
+      "originalQuote": "Deswegen lehnen wir auch pauschale Verbote und Beschränkungen der Angelei ab, insbesondere pauscha",
+      "classification": "NULLNUTZUNGSGEBOTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Mietpreisbremse",
       "location": "Kapitel Wohnen",
-      "originalQuote": "Wir Freie Demokraten wollen die Mietpreisbremse abschaffen und einen bundesweiten Mietendeckel ver"
+      "originalQuote": "Wir Freie Demokraten wollen die Mietpreisbremse abschaffen und einen bundesweiten Mietendeckel ver",
+      "classification": "MIETPREISBREMSE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Bundesweiter Mietendeckel",
       "location": "Kapitel Wohnen",
-      "originalQuote": "Wir Freie Demokraten wollen die Mietpreisbremse abschaffen und einen bundesweiten Mietendeckel ver"
+      "originalQuote": "Wir Freie Demokraten wollen die Mietpreisbremse abschaffen und einen bundesweiten Mietendeckel ver",
+      "classification": "BUNDESWEITER"
     },
     {
       "category": "explizites Verbot",
       "topic": "Medizinisch nicht notwendige Operationen an intergeschlechtlichen Kindern",
       "location": "Kapitel Familie",
-      "originalQuote": "Medizinisch nicht notwendige genitalverändernde Operationen an intergeschlechtlichen Kindern sind w"
+      "originalQuote": "Medizinisch nicht notwendige genitalverändernde Operationen an intergeschlechtlichen Kindern sind w",
+      "classification": "INTERGESCHLECHTLICHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ausweitung von Nachtflugverboten",
       "location": "Kapitel Mobilität/Luftverkehr",
-      "originalQuote": "Wir Freie Demokraten wollen die Luftverkehrssteuer abschaffen, die Luftsicherheitsgebühren neu ord"
+      "originalQuote": "Wir Freie Demokraten wollen die Luftverkehrssteuer abschaffen, die Luftsicherheitsgebühren neu ord",
+      "classification": "NACHTFLUGVERBOTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Gesetzlich vorgegebene Ausbaupfade für einzelne Technologien",
       "location": "Kapitel Energie",
-      "originalQuote": "Gesetzlich vorgegebene Ausbaupfade für einzelne Technologien und staatlich garantierte Abnehmepreis"
+      "originalQuote": "Gesetzlich vorgegebene Ausbaupfade für einzelne Technologien und staatlich garantierte Abnehmepreis",
+      "classification": "TECHNOLOGIEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Staatlich garantierte Abnahmepreise in der Energiewirtschaft",
       "location": "Kapitel Energie",
-      "originalQuote": "Gesetzlich vorgegebene Ausbaupfade für einzelne Technologien und staatlich garantierte Abnehmepreis"
+      "originalQuote": "Gesetzlich vorgegebene Ausbaupfade für einzelne Technologien und staatlich garantierte Abnehmepreis",
+      "classification": "ENERGIEWIRTSCHAFT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Nationale Alleingänge beim Pflanzenschutz",
       "location": "Kapitel Landwirtschaft",
-      "originalQuote": "Wir wollen die europaweite Verfügbarkeit wirksamer und moderner Pflanzenschutzmittel sicherstellen"
+      "originalQuote": "Wir wollen die europaweite Verfügbarkeit wirksamer und moderner Pflanzenschutzmittel sicherstellen",
+      "classification": "PFLANZENSCHUTZ"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Bevormundende Verbraucherpolitik",
       "location": "Kapitel Verbraucherschutz",
-      "originalQuote": "Wir vertrauen auf die Selbstbestimmung der Verbraucher. Deshalb lehnen wir eine bevormundende Verb"
+      "originalQuote": "Wir vertrauen auf die Selbstbestimmung der Verbraucher. Deshalb lehnen wir eine bevormundende Verb",
+      "classification": "VERBRAUCHERPOLITIK"
     }
   ]
 }

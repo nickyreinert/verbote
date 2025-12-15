@@ -20,7 +20,7 @@
       "topic": "Steuerverschwendung",
       "location": "Seite 10, Kapitel 1.14",
       "originalQuote": "Einführung eines Straftatbestands der Steuerverschwendung",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERVERSCHWENDUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -48,28 +48,28 @@
       "topic": "Massenimmigration",
       "location": "Seite 28, Kapitel 5.2",
       "originalQuote": "ungeregelte Massenimmigration in unser Land und seine Sozialsysteme durch überwiegend beruflich unqualifizierte Asylbewerber sofort zu beenden.",
-      "classification": "Migration & Asyl"
+      "classification": "MASSENIMMIGRATION"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Familiennachzug für Flüchtlinge",
       "location": "Seite 28, Kapitel 5.7",
       "originalQuote": "Wir lehnen jeglichen Familiennachzug für Flüchtlinge ab,",
-      "classification": "Migration & Asyl"
+      "classification": "FAMILIENNACHZUG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Missbrauch des Asylgrundrechts",
       "location": "Seite 29, Kapitel 5.5",
       "originalQuote": "Der massenhafte Missbrauch des Asylgrundrechts muss durch eine Grundgesetzänderung beendet werden.",
-      "classification": "Migration & Asyl"
+      "classification": "ASYLGRUNDRECHTS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Gemeinsames europäisches Asylsystem",
       "location": "Seite 29, Kapitel 5.5",
       "originalQuote": "Das „Gemeinsame europäische Asylsystem“ (GEAS) lehnen wir ab.",
-      "classification": "Migration & Asyl"
+      "classification": "EUROPÄISCHES"
     },
     {
       "category": "semantisches Verbot",
@@ -90,7 +90,7 @@
       "topic": "Moscheen für Verfassungsfeindliche Vereine",
       "location": "Seite 33, Kapitel 6",
       "originalQuote": "Verfassungsfeindlichen Vereinen, die nach Art. 9 Abs. 2 Grundgesetz zu verbieten sind, ist der Bau und Betrieb von Moscheen wegen der konkreten Gefahr zu untersagen",
-      "classification": "Demokratie & Recht"
+      "classification": "VERFASSUNGSFEINDLICHE"
     },
     {
       "category": "semantisches Verbot",
@@ -132,7 +132,7 @@
       "topic": "Tötung Ungeborener als Menschenrecht",
       "location": "Seite 38, Kapitel 7.5",
       "originalQuote": "Wir lehnen alle Bestrebungen ab, die Tötung Ungebore-nner zu einem Menschenrecht zu erklären.",
-      "classification": "Demokratie & Recht"
+      "classification": "MENSCHENRECHT"
     },
     {
       "category": "semantisches Verbot",
@@ -146,7 +146,7 @@
       "topic": "Ausdehnung des Familienbegriffs",
       "location": "Seite 39, Kapitel 7.7",
       "originalQuote": "Wir lehnen alle Versuche ab, den Sinn des Wortes „Familie“ in Art. 6 Abs. 1 Grundgesetz auf andere Gemeinschaften auszudehnen",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "FAMILIENBEGRIFFS"
     },
     {
       "category": "semantisches Verbot",
@@ -160,21 +160,21 @@
       "topic": "Finanzierung Gender-Forschung",
       "location": "Seite 39, Kapitel 7.7.2",
       "originalQuote": "Bund und Länder dürfen keine Mittel für die „Gender-For-schung“ mehr bereitstellen",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Bildung & Forschung"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Nivellierende Einheitsschule",
       "location": "Seite 41, Kapitel 8.1",
       "originalQuote": "der schleichenden Abschaffung verschiedener Schulfor-men und der Entwicklung hin zur nivellierenden Einheits-schule muss Einhalt geboten werden.",
-      "classification": "Bildung & Forschung"
+      "classification": "EINHEITSSCHULE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Umsetzung EU-Feuerwaffenrichtlinie",
       "location": "Seite 41, Kapitel 4.7",
       "originalQuote": "Die Umsetzung der EU-Feuerwaffen-richtlinie lehnen wir ab.",
-      "classification": "Rüstung & Waffen"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
@@ -188,7 +188,7 @@
       "topic": "Modularisierung des Studiums",
       "location": "Seite 42, Kapitel 8.5",
       "originalQuote": "Die Modularisierung des Studiums und die Akkreditierungsagenturen sollen abgeschafft werden.",
-      "classification": "Bildung & Forschung"
+      "classification": "MODULARISIERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -202,14 +202,14 @@
       "topic": "Sonderrechte für Muslime",
       "location": "Seite 43, Kapitel 8.9",
       "originalQuote": "Keine Sonderrechte für Muslime an unseren Schulen",
-      "classification": "Demokratie & Recht"
+      "classification": "SONDERRECHTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Koranunterricht durch verfassungsfeindliche Vereine",
       "location": "Seite 43, Kapitel 8.10",
       "originalQuote": "Kein Koranunterricht durch verfassungsfeindliche Moscheevereine",
-      "classification": "Demokratie & Recht"
+      "classification": "VERFASSUNGSFEINDLICHE"
     },
     {
       "category": "semantisches Verbot",
@@ -251,28 +251,28 @@
       "topic": "Finanzierung Kirchenrepräsentanten",
       "location": "Seite 48, Kapitel 10.1",
       "originalQuote": "die Bezahlung von Kirchenrepräsentanten wie Bischöfen etc. aus allgemeinen Steuermitteln ist abzuschaffen",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "KIRCHENREPRÄSENTANTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Staatsverschuldung für Sozialsysteme",
       "location": "Seite 48, Kapitel 10",
       "originalQuote": "Eine durch Staatsverschuldung finanzierte Stützung der Renten- und Sozialsysteme kommt für die AfD nicht in Be-tracht.",
-      "classification": "Soziales & Arbeit"
+      "classification": "STAATSVERSCHULDUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Nebenhaushalte",
       "location": "Seite 49, Kapitel 10.2",
       "originalQuote": "Nebenhaushalte und Übertragung von gesamtgesellschaftlichen Lasten zur Schönung des Bundeshaushalts beispielsweise an die Sozialkassen abzulehnen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "NEBENHAUSHALTE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verlängerung Zeitarbeitsverträge",
       "location": "Seite 50, Kapitel 10.3",
       "originalQuote": "Zeitarbeitsverträge dürfen nur einmal verlängert werden.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ZEITARBEITSVERTRÄGE"
     },
     {
       "category": "semantisches Verbot",
@@ -286,21 +286,21 @@
       "topic": "Klimaschutzplan 2050",
       "location": "Seite 63, Kapitel 13.1",
       "originalQuote": "den Klimaschutzplan 2050 der Bundesregierung aufheben.",
-      "classification": "Umwelt & Klima"
+      "classification": "KLIMASCHUTZPLAN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Pariser Klimaabkommen",
       "location": "Seite 63, Kapitel 13.1",
       "originalQuote": "Das Pariser Klimaabkommen vom 12.12.2015 ist zu kün-digen.",
-      "classification": "Umwelt & Klima"
+      "classification": "KLIMAABKOMMEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Klimaschutz-Organisationen",
       "location": "Seite 63, Kapitel 13.1",
       "originalQuote": "Deutschland soll aus allen staatlichen und privaten „Klimaschutz“-Organisationen austreten",
-      "classification": "Umwelt & Klima"
+      "classification": "KLIMASCHUTZORGANISATIONEN"
     },
     {
       "category": "semantisches Verbot",
@@ -321,7 +321,7 @@
       "topic": "Vorrangflächen Windenergie",
       "location": "Seite 64, Kapitel 13.2",
       "originalQuote": "sollen keine Vorrangflächen für Windenergieanlagen ohne Zustimmung der betroffenen Bürger ausge-wiesen werden",
-      "classification": "Umwelt & Klima"
+      "classification": "VORRANGFLÄCHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -342,7 +342,7 @@
       "topic": "Ideologisch geleitete Verkehrspolitik",
       "location": "Seite 67, Kapitel 14.1",
       "originalQuote": "Eine ideologisch geleitete Verkehrspolitik, die bestimmte Verkehrsmittel bevorzugt oder diskriminiert, z.B. Diesel-fahrzeuge, lehnt die AfD ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "VERKEHRSPOLITIK"
     },
     {
       "category": "semantisches Verbot",
@@ -356,14 +356,14 @@
       "topic": "Umweltzonen",
       "location": "Seite 67, Kapitel 14.1",
       "originalQuote": "Umweltzonen haben nachweislich nicht zur Reduzierung der Feinstaube-mission beigetragen. Sie sind daher abzuschaffen.",
-      "classification": "Umwelt & Klima"
+      "classification": "UMWELTZONEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "PKW-Maut",
       "location": "Seite 67, Kapitel 14.1",
       "originalQuote": "keine PKW-Maut",
-      "classification": "Verkehr & Mobilität"
+      "classification": "PKWMAUT"
     },
     {
       "category": "semantisches Verbot",
@@ -384,7 +384,7 @@
       "topic": "Weiterer Ausbau Windenergie",
       "location": "Seite 70, Kapitel 15.2",
       "originalQuote": "Wir lehnen den weiteren Ausbau der Windenergie ab",
-      "classification": "Umwelt & Klima"
+      "classification": "WINDENERGIE"
     },
     {
       "category": "semantisches Verbot",
@@ -405,14 +405,14 @@
       "topic": "Handelsbeschränkungen alte Kultursorten",
       "location": "Seite 72, Kapitel 15.6.2",
       "originalQuote": "Die AfD fordert die Aufhebung aller Handelsbeschränkungen für alte Nutzpflanzensorten.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "HANDELSBESCHRÄNKUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Gentechnik in Landwirtschaft",
       "location": "Seite 72, Kapitel 15.6.4",
       "originalQuote": "Die AfD setzt sich für gentechnikfrei erzeugte Lebensmittel aus der deutschen Landwirtschaft ein.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Tierschutz & Landwirtschaft"
     }
   ]
 }

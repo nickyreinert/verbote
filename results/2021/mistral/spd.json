@@ -1,0 +1,40 @@
+{
+  "sourceFile": "SPD - 2021 - Langprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Maßnahmen zur Überwindung des Personalmangels dürfen nicht dazu führen, dass ...",
+      "location": "Dokument",
+      "originalQuote": "Maßnahmen zur Überwindung des Personalmangels dürfen nicht dazu führen, dass die Stellen in der Pfle",
+      "classification": "PERSONALMANGELS"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Gleichwertige Lebensverhältnisse zu sichern heißt auch: Soziale Dienstleistungen dürfen nicht abhäng ...",
+      "location": "Dokument",
+      "originalQuote": "Gleichwertige Lebensverhältnisse zu sichern heißt auch: Soziale Dienstleistungen dürfen nicht abhäng",
+      "classification": "LEBENSVERHÄLTNISSE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wir lehnen eine Privatisierung von Währungen ab ...",
+      "location": "Dokument",
+      "originalQuote": "Wir lehnen eine Privatisierung von Währungen ab.",
+      "classification": "PRIVATISIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wir lehnen eine weitere Anhebung des gesetzlichen Renteneintrittsalters ab ...",
+      "location": "Dokument",
+      "originalQuote": "Wir lehnen eine weitere Anhebung des gesetzlichen Renteneintrittsalters ab, weil sie für viele, die ",
+      "classification": "RENTENEINTRITTSALTERS"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verfassungsfeindliche Organisationen werden wir verbieten ...",
+      "location": "Dokument",
+      "originalQuote": "Verfassungsfeindliche Organisationen werden wir verbieten.",
+      "classification": "VERFASSUNGSFEINDLICHE"
+    }
+  ]
+}

@@ -13,7 +13,7 @@
       "topic": "Kosten der Rettungspolitik nicht durch Steuerzahler tragen",
       "location": "Währungspolitik",
       "originalQuote": "Wir fordern, dass die Kosten der sogenannten Rettungspolitik nicht vom Steuerzahler getragen werden",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "RETTUNGSPOLITIK"
     },
     {
       "category": "explizites Verbot",
@@ -27,7 +27,7 @@
       "topic": "Ablehnung einer Transferunion oder zentralisierten Europastaats",
       "location": "Europapolitik",
       "originalQuote": "Eine Transferunion oder gar einen zentralisierten Europastaat lehnen wir entschieden ab",
-      "classification": "Bildung & Forschung"
+      "classification": "ZENTRALISIERTEN"
     },
     {
       "category": "explizites Verbot",
@@ -41,7 +41,7 @@
       "topic": "Parteien sollen das politische System nicht beherrschen",
       "location": "Rechtsstaatlichkeit und Demokratie",
       "originalQuote": "Parteien sollen am politischen System mitwirken, es aber nicht beherrschen",
-      "classification": "Demokratie & Recht"
+      "classification": "BEHERRSCHEN"
     },
     {
       "category": "explizites Verbot",
@@ -55,7 +55,7 @@
       "topic": "Ungeordnete Zuwanderung in Sozialsysteme muss unterbunden werden",
       "location": "Integrationspolitik",
       "originalQuote": "Eine ungeordnete Zuwanderung in unsere Sozialsysteme muss unbedingt unterbunden werden",
-      "classification": "Soziales & Arbeit"
+      "classification": "SOZIALSYSTEME"
     }
   ]
 }

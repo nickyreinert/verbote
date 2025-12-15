@@ -6,14 +6,14 @@
       "topic": "Verhindern der Klimakatastrophe",
       "location": "S. 4791",
       "originalQuote": "Wenn wir zu Beginn dieses Jahrzehnts konsequent handeln und die sozial-ökologische Transformation einläuten, können wir die Klimakatastrophe noch verhindern und zu einer klimagerechten Welt beitragen.",
-      "classification": "Umwelt & Klima"
+      "classification": "KLIMAKATASTROPHE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Vermeidung des Überschreitens von Kipppunkten im Klimasystem",
       "location": "S. 4804",
       "originalQuote": "Denn sie bewahrt uns davor, Kipppunkte zu überschreiten, und ermöglicht ein klimagerechtes, ein besseres Leben.",
-      "classification": "Umwelt & Klima"
+      "classification": "ÜBERSCHREITENS"
     },
     {
       "category": "semantisches Verbot",
@@ -27,7 +27,7 @@
       "topic": "Festhalten an fossilen Verbrennungsmotoren",
       "location": "S. 4807",
       "originalQuote": "Statt an fossilen Verbrennungsmotoren festzuhalten, schaffen wir eine neue Mobilität mit der Bahn, dem Rad, zu Fuß oder mit emissionsfreien Autos.",
-      "classification": "Umwelt & Klima"
+      "classification": "VERBRENNUNGSMOTOREN"
     },
     {
       "category": "semantisches Verbot",
@@ -48,91 +48,91 @@
       "topic": "Zerstörerisches Handeln (soll überwunden werden)",
       "location": "S. 4824",
       "originalQuote": "Und was zerstörerisch wirkt, muss dafür auch die Kosten tragen und so schnell wie möglich überwunden werden.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ZERSTÖRERISCHES"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Fortführung der Nutzung fossiler Brennstoffe im Verkehr, in der Industrie und beim Heizen",
       "location": "S. 4831",
       "originalQuote": "Nicht nur der Strom, auch das Benzin in unseren Autos, das Kerosin im Flugzeugtank, das Schweröl im Schiff, das Öl für die Heizung und das Gas im Industriebetrieb müssen auf erneuerbare Energien umgestellt werden.",
-      "classification": "Umwelt & Klima"
+      "classification": "Verkehr & Mobilität"
     },
     {
       "category": "explizites Verbot",
       "topic": "Begrenzung des Ausbaupfads der Erneuerbaren durch politische Rahmenbedingungen",
       "location": "S. 4833",
       "originalQuote": "Der Ausbaupfad wird durch die Kraft und Kapazität von Industrie und Handwerker*innen beschränkt, darf aber nicht von den politischen Rahmenbedingungen begrenzt werden.",
-      "classification": "Wohnen & Miete"
+      "classification": "RAHMENBEDINGUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Doppelte Belastungen und Bremsklötze für die Energiewende",
       "location": "S. 4840",
       "originalQuote": "Doppelte Belastungen und andere Bremsklötze schaffen wir ab. Kritische Infrastrukturen sichern wir mit notstromfähigen Solaranlagen.",
-      "classification": "Umwelt & Klima"
+      "classification": "ENERGIEWENDE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Rebound-Effekte im Bereich der Grünen Digitalisierung",
       "location": "S. 4855",
       "originalQuote": "Rebound-Effekte gilt es generell zu vermeiden, Suffizienz zu unterstützen. Wir fördern Alternativen zu kritischen Rohstoffen wie seltene Erden und deren menschenrechtskonforme Gewinnung.",
-      "classification": "Digitales & Überwachung"
+      "classification": "DIGITALISIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Soziale Unwuchten durch alleinige CO2-Bepreisung",
       "location": "S. 4893",
       "originalQuote": "Wollte man die Klimaziele allein über die Bepreisung von CO2 erreichen, würde das unweigerlich zu erheblichen sozialen Unwuchten führen.",
-      "classification": "Umwelt & Klima"
+      "classification": "CO2BEPREISUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Anrechnung des Energiegeldes auf die Grundsicherung (wie Arbeitslosengeld II oder Sozialhilfe)",
       "location": "S. 4906",
       "originalQuote": "Bezieher*innen von Transferleistungen wie Arbeitslosengeld II oder Sozialhilfe profitieren ebenfalls, da das Energiegeld nicht auf die Grundsicherung angerechnet werden soll.",
-      "classification": "Umwelt & Klima"
+      "classification": "ARBEITSLOSENGELD"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Betrieb von Kohlekraftwerken bis 2038",
       "location": "S. 4913",
       "originalQuote": "Das ist mit den Klimazielen von Paris und dem 1,5- Grad-Pfad nicht vereinbar.",
-      "classification": "Umwelt & Klima"
+      "classification": "KOHLEKRAFTWERKEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Erneutes Verschenken von Steuergeldern an Kohlekonzerne",
       "location": "S. 4916",
       "originalQuote": "Um nicht erneut den Kohlekonzernen Milliarden an Steuergeldern zu schenken, werden wir die massiven Klimaschäden der Kohleverstromung einpreisen.",
-      "classification": "Umwelt & Klima"
+      "classification": "STEUERGELDERN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Zwang zum Verlassen des Zuhauses für einen Tagebau",
       "location": "S. 4921",
       "originalQuote": "Niemand soll mehr für einen Tagebau sein Zuhause verlassen müssen.",
-      "classification": "Wohnen & Miete"
+      "classification": "VERLASSEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ausbau von Photovoltaik auf wertvollem Ackerland",
       "location": "S. 4934",
       "originalQuote": "Der Ausbau soll vorzugsweise auf versiegelten Flächen, etwa über Parkplätzen, neben Autobahnen und Schienen und auf Konversions- oder Bergbaufolgeflächen, erfolgen und nicht auf wertvollem Ackerland.",
-      "classification": "Wohnen & Miete"
+      "classification": "PHOTOVOLTAIK"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Neue Flächenkonkurrenzen beim Ausbau der Photovoltaik",
       "location": "S. 4935",
       "originalQuote": "Neue Flächenkonkurrenzen wollen wir vermeiden und stellen den Mehrfachnutzen für Energieerzeugung, Biodiversität und Landwirtschaft in den Vordergrund. Agri-Photovoltaikanlagen, d. h.",
-      "classification": "Wohnen & Miete"
+      "classification": "FLÄCHENKONKURRENZEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verhinderungsplanungen für den Windenergieausbau",
       "location": "S. 4944",
       "originalQuote": "Alle Bundesländer haben hierfür ihre entsprechenden Beiträge zu leisten. Verhinderungsplanungen lehnen wir ab.",
-      "classification": "Umwelt & Klima"
+      "classification": "VERHINDERUNGSPLANUNGEN"
     },
     {
       "category": "explizites Verbot",
@@ -153,21 +153,21 @@
       "topic": "Umlagefähigkeit der Grundsteuer auf Mieter*innen",
       "location": "S. 4009",
       "originalQuote": "Die Umlagefähigkeit der Grundsteuer auf Mieter*innen schaffen wir ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "UMLAGEFÄHIGKEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Uneingeschränkte Nutzung von Flugreisen bei Dienstreisen des Bundes",
       "location": "S. 4186",
       "originalQuote": "Bei Dienstreisen sind Flugreisen auf ein Minimum zu begrenzen. Zudem sorgen wir dafür, dass der Bund seine Beschaffung und seine Förderkriterien an der Einhaltung von ökologischen, Menschenrechts- und sozialen Standards orientiert.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "UNEINGESCHRÄNKTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Uneingeschränkte Verfügbarkeit von tödlichen Schusswaffen",
       "location": "S. 4331",
       "originalQuote": "Jeder Mensch, der durch eine Waffe stirbt, ist einer zu viel.\nDeshalb wollen wir die Verfügbarkeit von tödlichen Schusswaffen –",
-      "classification": "Rüstung & Waffen"
+      "classification": "UNEINGESCHRÄNKTE"
     },
     {
       "category": "semantisches Verbot",
@@ -188,14 +188,14 @@
       "topic": "Uneingeschränkte europäische Rüstungsexporte",
       "location": "S. 4617",
       "originalQuote": "Für die Reduktion von europäischen Rüstungsexporten wollen wir eine gemeinsame restriktive Rüstungsexportkontrolle der EU mit einklagbaren strengen Regeln und Sanktionsmöglichkeiten.",
-      "classification": "Rüstung & Waffen"
+      "classification": "UNEINGESCHRÄNKTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Missbrauch des Vetorechts im Sicherheitsrat zur Deckung schwerster Verbrechen",
       "location": "S. 4683",
       "originalQuote": "Wenn das Vetorecht im Sicherheitsrat missbraucht wird, um schwerste Verbrechen gegen die Menschlichkeit zu decken, steht die Weltgemeinschaft vor einem Dilemma, weil Nichthandeln genauso Menschenrechte und Völkerrecht schädigt wie Handeln.",
-      "classification": "Demokratie & Recht"
+      "classification": "SICHERHEITSRAT"
     },
     {
       "category": "semantisches Verbot",

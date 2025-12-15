@@ -1,1 +1,117 @@
-{"sourceFile":"CDU-CSU - 2013 - Wahlprogramm.txt","topics":[{"category":"semantisches Verbot","topic":"Ablehnung von Eurobonds und Schuldenunion","location":"Einleitung","originalQuote":"Rot-Grün dagegen setzt auf eine Vergemeinschaftung der Schulden und Eurobonds. Dies wäre der Weg i"},{"category":"semantisches Verbot","topic":"Ablehnung rot-grüner Umverteilungspolitik","location":"Einleitung","originalQuote":"Dazu setzen wir auf Tatkraft, Ideenreichtum und technischen Fortschritt– und nicht auf rot-grüne Um"},{"category":"semantisches Verbot","topic":"Ablehnung von Steuererhöhungen","location":"Einleitung","originalQuote":"Deshalb entlasten wir die Menschen. SPD und Grüne dagegen wollen die Menschen belasten. Von ihren S"},{"category":"semantisches Verbot","topic":"Ablehnung rot-grüner Bevormundungspolitik","location":"Einleitung","originalQuote":"Rot-grüne Bevormundungspolitik lehnen wir ab."},{"category":"semantisches Verbot","topic":"Ablehnung von Eurobonds und Schuldenunion","location":"Zehn Projekte","originalQuote":"Rot-Grün dagegen setzt auf eine Vergemeinschaftung der Schulden und Eurobonds. Dies wäre der Weg i"},{"category":"semantisches Verbot","topic":"Ablehnung politischer Lohnfestsetzung","location":"Zehn Projekte","originalQuote":"Eine Lohnfestsetzung durch die Politik lehnen wir ab."},{"category":"semantisches Verbot","topic":"Ablehnung von Steuererhöhungen","location":"Zehn Projekte","originalQuote":"Deshalb lehnen wir Steuererhöhungen ab. Die Vorschläge von SPD und Grünen bedrohen die Wettbewerbsf"},{"category":"semantisches Verbot","topic":"Keine Schuldenunion und Transferunion","location":"1. Deutschlands Zukunft in Europa","originalQuote":"Keine Schuldenunion, keine Transferunion"},{"category":"semantisches Verbot","topic":"Ablehnung von Eurobonds","location":"1. Deutschlands Zukunft in Europa","originalQuote":"Rot-Grün setzt auf eine Vergemeinschaftung der Schulden durch die Einführung von Eurobonds. Dies wä"},{"category":"semantisches Verbot","topic":"Ablehnung europaweiter Einlagensicherung","location":"1. Deutschlands Zukunft in Europa","originalQuote":"Eine europaweite Einlagensicherung lehnen wir ab, denn damit würde das Haftungsrisiko vergemeinscha"},{"category":"semantisches Verbot","topic":"Ablehnung von Steuererhöhungen und Umverteilung","location":"2. Deutschlands Wohlstand sichern","originalQuote":"Linke Umverteilungs- und Bevormundungspolitik lehnen wir ab. Steuererhöhungen und die Vergemeinscha"},{"category":"semantisches Verbot","topic":"Ablehnung von Steuererhöhungen","location":"2. Deutschlands Wohlstand sichern","originalQuote":"Steuererhöhungen lehnen wir deshalb konsequent ab."},{"category":"semantisches Verbot","topic":"Ablehnung rot-grüner Steuerpläne","location":"2. Deutschlands Wohlstand sichern","originalQuote":"Die Steuerpläne von SPD und Grünen sind ein Angriff auf die Substanz der Unternehmen."},{"category":"semantisches Verbot","topic":"Ablehnung unnötiger Bürokratie","location":"2. Deutschlands Wohlstand sichern","originalQuote":"Überzogene Bürokratie aber ist eine Wachstumsbremse."},{"category":"semantisches Verbot","topic":"Ablehnung unnötiger EU-Regelungen","location":"2. Deutschlands Wohlstand sichern","originalQuote":"Die Europäische Union soll sich gerade bei Fragen der Bürokratie selbst begrenzen und unnötige Reg"},{"category":"semantisches Verbot","topic":"Ablehnung von Vollmitgliedschaft der Türkei in der EU","location":"6. Deutschland: Einstehen für Freiheit und Sicherheit","originalQuote":"Eine Vollmitgliedschaft der Türkei lehnen wir aber ab, weil sie die Voraussetzungen für einen EU-"}]}
+{
+  "sourceFile": "CDU-CSU - 2013 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Eurobonds und Schuldenunion",
+      "location": "Einleitung",
+      "originalQuote": "Rot-Grün dagegen setzt auf eine Vergemeinschaftung der Schulden und Eurobonds. Dies wäre der Weg i",
+      "classification": "SCHULDENUNION"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung rot-grüner Umverteilungspolitik",
+      "location": "Einleitung",
+      "originalQuote": "Dazu setzen wir auf Tatkraft, Ideenreichtum und technischen Fortschritt– und nicht auf rot-grüne Um",
+      "classification": "UMVERTEILUNGSPOLITIK"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Steuererhöhungen",
+      "location": "Einleitung",
+      "originalQuote": "Deshalb entlasten wir die Menschen. SPD und Grüne dagegen wollen die Menschen belasten. Von ihren S",
+      "classification": "STEUERERHÖHUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung rot-grüner Bevormundungspolitik",
+      "location": "Einleitung",
+      "originalQuote": "Rot-grüne Bevormundungspolitik lehnen wir ab.",
+      "classification": "BEVORMUNDUNGSPOLITIK"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Eurobonds und Schuldenunion",
+      "location": "Zehn Projekte",
+      "originalQuote": "Rot-Grün dagegen setzt auf eine Vergemeinschaftung der Schulden und Eurobonds. Dies wäre der Weg i",
+      "classification": "SCHULDENUNION"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung politischer Lohnfestsetzung",
+      "location": "Zehn Projekte",
+      "originalQuote": "Eine Lohnfestsetzung durch die Politik lehnen wir ab.",
+      "classification": "LOHNFESTSETZUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Steuererhöhungen",
+      "location": "Zehn Projekte",
+      "originalQuote": "Deshalb lehnen wir Steuererhöhungen ab. Die Vorschläge von SPD und Grünen bedrohen die Wettbewerbsf",
+      "classification": "STEUERERHÖHUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Schuldenunion und Transferunion",
+      "location": "1. Deutschlands Zukunft in Europa",
+      "originalQuote": "Keine Schuldenunion, keine Transferunion",
+      "classification": "SCHULDENUNION"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Eurobonds",
+      "location": "1. Deutschlands Zukunft in Europa",
+      "originalQuote": "Rot-Grün setzt auf eine Vergemeinschaftung der Schulden durch die Einführung von Eurobonds. Dies wä",
+      "classification": "EUROBONDS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung europaweiter Einlagensicherung",
+      "location": "1. Deutschlands Zukunft in Europa",
+      "originalQuote": "Eine europaweite Einlagensicherung lehnen wir ab, denn damit würde das Haftungsrisiko vergemeinscha",
+      "classification": "EINLAGENSICHERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Steuererhöhungen und Umverteilung",
+      "location": "2. Deutschlands Wohlstand sichern",
+      "originalQuote": "Linke Umverteilungs- und Bevormundungspolitik lehnen wir ab. Steuererhöhungen und die Vergemeinscha",
+      "classification": "STEUERERHÖHUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Steuererhöhungen",
+      "location": "2. Deutschlands Wohlstand sichern",
+      "originalQuote": "Steuererhöhungen lehnen wir deshalb konsequent ab.",
+      "classification": "STEUERERHÖHUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung rot-grüner Steuerpläne",
+      "location": "2. Deutschlands Wohlstand sichern",
+      "originalQuote": "Die Steuerpläne von SPD und Grünen sind ein Angriff auf die Substanz der Unternehmen.",
+      "classification": "STEUERPLÄNE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung unnötiger Bürokratie",
+      "location": "2. Deutschlands Wohlstand sichern",
+      "originalQuote": "Überzogene Bürokratie aber ist eine Wachstumsbremse.",
+      "classification": "BÜROKRATIE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung unnötiger EU-Regelungen",
+      "location": "2. Deutschlands Wohlstand sichern",
+      "originalQuote": "Die Europäische Union soll sich gerade bei Fragen der Bürokratie selbst begrenzen und unnötige Reg",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung von Vollmitgliedschaft der Türkei in der EU",
+      "location": "6. Deutschland: Einstehen für Freiheit und Sicherheit",
+      "originalQuote": "Eine Vollmitgliedschaft der Türkei lehnen wir aber ab, weil sie die Voraussetzungen für einen EU-",
+      "classification": "Europa & Außenpolitik"
+    }
+  ]
+}

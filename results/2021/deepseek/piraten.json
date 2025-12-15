@@ -6,35 +6,35 @@
       "topic": "Verdachtsunabhängige Durchleuchtung der Bürger und gläserne Kunden",
       "location": "Freiheit und Grundrechte",
       "originalQuote": "Wir lehnen die verdachtsunabhängige Durchleuchtung der Bürgerinnen und Bürger und die gläsernen Kundinnen und Kunden ab.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "VERDACHTSUNABHÄNGIGE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Weitergabe von Meldedaten ohne aktive Einwilligung (Opt-in)",
       "location": "Freiheit und Grundrechte - Verantwortungsvollen Umgang mit Meldedaten sicherstellen",
       "originalQuote": "Meldedaten nicht ohne aktive Einwilligung der Bürgerinnen und Bürger an der Erhebungsquelle (Opt-in) an Dritte weitergegeben werden",
-      "classification": "Digitales & Überwachung"
+      "classification": "EINWILLIGUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Automatsierte Abfrage von Meldedaten",
       "location": "Freiheit und Grundrechte - Verantwortungsvollen Umgang mit Meldedaten sicherstellen",
       "originalQuote": "Eine automatisierte Abfrage lehnen wir ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "AUTOMATSIERTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Listenprivileg im Datenschutzrecht für Adresshandel",
       "location": "Freiheit und Grundrechte - Verantwortungsvollen Umgang mit Meldedaten sicherstellen",
       "originalQuote": "Daher fordern wir die ersatzlose Abschaffung des sogenannten Listenprivilegs",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "DATENSCHUTZRECHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Weitergabe von Meldedaten an Beitragsservice der öffentlich-rechtlichen Rundfunkanstalten",
       "location": "Freiheit und Grundrechte - Verantwortungsvollen Umgang mit Meldedaten sicherstellen",
       "originalQuote": "Die Weitergabe von Meldedaten an den Beitragsservice der öffentlich-rechtlichen Rundfunkanstalten muss beendet",
-      "classification": "Digitales & Überwachung"
+      "classification": "ÖFFENTLICHRECHTLICHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -48,7 +48,7 @@
       "topic": "Ausdehnung der öffentlichen Videoüberwachung",
       "location": "Freiheit und Grundrechte - Schluss mit Vorratsdatenspeicherung und Videoüberwachung",
       "originalQuote": "sowie eine Ausdehnung der öffentlichen Videoüberwachung ab.",
-      "classification": "Digitales & Überwachung"
+      "classification": "VIDEOÜBERWACHUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -62,14 +62,14 @@
       "topic": "Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder Versicherungswirtschaft",
       "location": "Freiheit und Grundrechte - Schluss mit Vorratsdatenspeicherung und Videoüberwachung",
       "originalQuote": "Der Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder die Versicherungswirtschaft muss unterbleiben.",
-      "classification": "Soziales & Arbeit"
+      "classification": "VERSICHERUNGSWIRTSCHAFT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einschränkungen des Bargeldverkehrs",
       "location": "Freiheit und Grundrechte - Keine Einschränkungen beim Bargeldverkehr",
       "originalQuote": "Wir PIRATEN setzen uns sowohl auf Bundesebene als auch auf europäischer Ebene gegen Einschränkungen des Bargeldverkehrs ein.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "EINSCHRÄNKUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -83,7 +83,7 @@
       "topic": "PKW-Maut",
       "location": "Freiheit und Grundrechte - Keine PKW-Maut",
       "originalQuote": "Eine PKW-Maut lehnen wir ebenfalls ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "PKWMAUT"
     },
     {
       "category": "semantisches Verbot",
@@ -132,7 +132,7 @@
       "topic": "Abschiebungen und Abschiebehaft",
       "location": "Asyl und Migration - Für ein Ende von Abschiebungen und Abschiebehaft",
       "originalQuote": "Wir setzen uns für ein generelles Ende von Abschiebungen und der Abschiebehaft ein",
-      "classification": "Migration & Asyl"
+      "classification": "ABSCHIEBUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -146,7 +146,7 @@
       "topic": "Zusätzliche steuerliche Belastung der Bevölkerung zur Finanzierung der Flüchtlingsversorgung",
       "location": "Asyl und Migration - Finanzierung zur Versorgung der aufgenommenen Geflüchteten",
       "originalQuote": "Wir PIRATEN lehnen eine zusätzliche steuerliche Belastung der Bevölkerung zur Finanzierung des erhöhten Aufkommens geflüchteter Menschen ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "FLÜCHTLINGSVERSORGUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -202,7 +202,7 @@
       "topic": "Abschaffung des Netzwerkdurchsetzungsgesetzes (NetzDG)",
       "location": "Datenschutz und IT-Sicherheit",
       "originalQuote": "Das Netzwerkdurchsetzungsgesetz (NetzDG) ist ersatzlos abzuschaffen",
-      "classification": "Digitales & Überwachung"
+      "classification": "NETZWERKDURCHSETZUNGSGESETZES"
     },
     {
       "category": "semantisches Verbot",
@@ -216,7 +216,7 @@
       "topic": "Gesetze, die zum Einsatz von Uploadfiltern führen",
       "location": "Datenschutz und IT-Sicherheit",
       "originalQuote": "Gesetze, die zur Folge haben, dass Unternehmen diese einsetzen müssen, sind abzuschaffen.",
-      "classification": "Digitales & Überwachung"
+      "classification": "UPLOADFILTERN"
     },
     {
       "category": "semantisches Verbot",
@@ -237,21 +237,21 @@
       "topic": "Einsatz und Bereitstellung offensiver Wirkmittel im Cyberraum",
       "location": "Datenschutz und IT-Sicherheit - Strikt defensive Cybersicherheitsstrategie",
       "originalQuote": "Wir verurteilen den Einsatz und die Bereitstellung offensiver Wirkmittel im Cyberraum.",
-      "classification": "Digitales & Überwachung"
+      "classification": "BEREITSTELLUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Geplante Gesetzesänderungen zum Einsatz offensiver Wirkmittel im Cyberraum durch BMI",
       "location": "Datenschutz und IT-Sicherheit - Strikt defensive Cybersicherheitsstrategie",
       "originalQuote": "Die geplanten Gesetzesänderungen zum Einsatz offensiver Wirkmittel im Cyberraum, an denen das BMI arbeitet, dürfen nicht durchgeführt werden.",
-      "classification": "Digitales & Überwachung"
+      "classification": "GESETZESÄNDERUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Vollständige Kontrolle kritischer Infrastruktur durch Privatwirtschaft",
       "location": "Datenschutz und IT-Sicherheit - Aufsicht über kritische Infrastrukturen",
       "originalQuote": "Kritische Infrastruktur sollte idealerweise nicht unter vollständiger Kontrolle der Privatwirtschaft sein.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "PRIVATWIRTSCHAFT"
     },
     {
       "category": "semantisches Verbot",
@@ -265,14 +265,14 @@
       "topic": "Finanzierung/Kostenübernahme von Gesundheits-Apps durch Krankenkassen ohne ärztliche Einbindung",
       "location": "Gesundheit, Pflege, Medizin",
       "originalQuote": "Die Finanzierung oder Kostenübernahme digitaler Gesundheitsanwendungen wie etwa Fitness-und/oder Gesundheits-Apps, die von den Krankenkassen ohne ärztliche Einbindung direkt an ihre Versicherten vermittelt werden, lehnen wir grundsätzlich ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "FINANZIERUNGKOSTENÜBERNAHME"
     },
     {
       "category": "explizites Verbot",
       "topic": "Abschaffung des Bergrechts",
       "location": "Umwelt, Landwirtschaft, Tier- und Verbraucherschutz - Umwelt",
       "originalQuote": "Wir fordern die Abschaffung des Bergrechts.",
-      "classification": "Demokratie & Recht"
+      "classification": "BERGRECHTS"
     },
     {
       "category": "semantisches Verbot",
@@ -300,21 +300,21 @@
       "topic": "Bildungsgebühren für steuerfinanzierte Bildungseinrichtungen",
       "location": "Bildung und Forschung - Finanzierung der Bildung",
       "originalQuote": "Wir lehnen Bildungsgebühren jeglicher Art für steuerfinanzierte Bildungseinrichtungen kategorisch ab",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "BILDUNGSEINRICHTUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kurzfristige Projektförderung in der Hochschulfinanzierung",
       "location": "Bildung und Forschung - Hochschule",
       "originalQuote": "Aus diesem Grund lehnen wir PIRATEN kurzfristige Projektförderung ab",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "HOCHSCHULFINANZIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Patentierung von Geschäftsmodellen",
       "location": "Patente und Markenrecht - Patentierbare Erfindungen",
       "originalQuote": "Das Patentrecht muss eine Patentierung von Geschäftsmodellen explizit ausschließen.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "GESCHÄFTSMODELLEN"
     },
     {
       "category": "semantisches Verbot",
@@ -349,21 +349,21 @@
       "topic": "Aufforderung zu Bewerbungen bei Zeitarbeitsfirmen in Eingliederungsvereinbarungen",
       "location": "Arbeit und Soziales - Arbeitnehmerüberlassung im SGB",
       "originalQuote": "fordern wir PIRATEN, dass in Eingliederungsvereinbarungen (§ 15 SGB II) keine Aufforderung mehr festgeschrieben wird, dass Bewerbungen bei Zeitarbeitsunternehmen/Personaldienstleistern vorzunehmen sind.",
-      "classification": "Soziales & Arbeit"
+      "classification": "EINGLIEDERUNGSVEREINBARUNGEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Aussetzung von Ein-Euro-Jobs (AGH-MAE)",
       "location": "Arbeit und Soziales - Sofortige Aussetzung von Arbeitsgelegenheiten (§ 16d SGB II)",
       "originalQuote": "Wir PIRATEN fordern, die sogenannten 'Ein-Euro-Jobs' [...] mit sofortiger Wirkung auszusetzen",
-      "classification": "Europa & Außenpolitik"
+      "classification": "EINEUROJOBS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Extremismusklausel",
       "location": "Familie und Gesellschaft - Projektförderung",
       "originalQuote": "Die Extremismusklausel stellt einen staatlichen Generalverdacht gegen zivilgesellschaftliches Engagement dar und gehört umgehend abgeschafft.",
-      "classification": "Demokratie & Recht"
+      "classification": "EXTREMISMUSKLAUSEL"
     },
     {
       "category": "explizites Verbot",

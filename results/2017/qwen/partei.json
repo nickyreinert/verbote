@@ -6,21 +6,21 @@
       "topic": "Beschwerden über Ungerechtigkeiten sollen unterdrückt werden",
       "location": "Punkt 1",
       "originalQuote": "Beschwerden über angebliche Ungerechtigkeiten sind mit aller Gewalt zu unterdrücken.",
-      "classification": "Demokratie & Recht"
+      "classification": "UNGERECHTIGKEITEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Chatbots dürfen im Wahlkampf nicht eingesetzt werden",
       "location": "Punkt 7",
       "originalQuote": "Chatbots wie Ralf Stegner (SPD), Peter Tauber (CDU), Beatrix von Strolch (AfD), Andy Scheuer (CSU",
-      "classification": "Rüstung & Waffen"
+      "classification": "EINGESETZT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Tierversuche werden eingestellt",
       "location": "Punkt 6",
       "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERVERSUCHE"
     },
     {
       "category": "semantisches Verbot",

@@ -5,115 +5,134 @@
       "category": "explizites Verbot",
       "topic": "Atomexporte untersagen",
       "location": "Kapitel Energie / Atomausstieg",
-      "originalQuote": "Atomexporte müssen verboten werden. Die Konzerne müssen die Langzeitkosten der Atomwirtschaft tragen."
+      "originalQuote": "Atomexporte müssen verboten werden. Die Konzerne müssen die Langzeitkosten der Atomwirtschaft tragen.",
+      "classification": "ATOMEXPORTE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Im- und Export von Uranbrennstoffen untersagen",
       "location": "Kapitel Energie / Atomausstieg",
-      "originalQuote": "Den Im- und Export von Uranbrennstoffen wollen wir verbieten. Die Fertigung von Uranbrennstoff in den"
+      "originalQuote": "Den Im- und Export von Uranbrennstoffen wollen wir verbieten. Die Fertigung von Uranbrennstoff in den",
+      "classification": "Rüstung & Waffen"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Förderung von Atomkraftwerken im Ausland",
       "location": "Kapitel Energie / Atomausstieg",
-      "originalQuote": "die staatliche deutsche Förderbank KfW (Kreditanstalt für Wiederaufbau) darf keine Atomkraftwerke im Ausland fördern."
+      "originalQuote": "die staatliche deutsche Förderbank KfW (Kreditanstalt für Wiederaufbau) darf keine Atomkraftwerke im Ausland fördern.",
+      "classification": "ATOMKRAFTWERKEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Fracking ohne Ausnahmen untersagen",
       "location": "Kapitel Energie / Fossile Energien",
-      "originalQuote": "Wir wollen Fracking ohne Ausnahmen verbieten."
+      "originalQuote": "Wir wollen Fracking ohne Ausnahmen verbieten.",
+      "classification": "UNTERSAGEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Unterirdische CO2-Verpressung untersagen",
       "location": "Kapitel Energie / CCS",
-      "originalQuote": "Wir setzen uns dafür ein, dass auch die unterirdische Verpressung von CO2 (Carbon Capture and Storage, CCS) verboten wird."
+      "originalQuote": "Wir setzen uns dafür ein, dass auch die unterirdische Verpressung von CO2 (Carbon Capture and Storage, CCS) verboten wird.",
+      "classification": "CO2VERPRESSUNG"
     },
     {
       "category": "explizites Verbot",
       "topic": "Vorratsdatenspeicherung untersagen",
       "location": "Kapitel Digitalisierung und Bürgerrechte",
-      "originalQuote": "Die Vorratsdatenspeicherung von IP-Verbindungen, Mobilfunkverbindungen und -standorten muss verboten werden."
+      "originalQuote": "Die Vorratsdatenspeicherung von IP-Verbindungen, Mobilfunkverbindungen und -standorten muss verboten werden.",
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "explizites Verbot",
       "topic": "Einsatz von Spyware untersagen",
       "location": "Kapitel Digitalisierung und Bürgerrechte",
-      "originalQuote": "Spyware aller Art muss verboten werden."
+      "originalQuote": "Spyware aller Art muss verboten werden.",
+      "classification": "UNTERSAGEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Export von Überwachungstechnologie untersagen",
       "location": "Kapitel Digitalisierung und Sicherheit",
-      "originalQuote": "Den Export von Überwachungstechnologie und den Einsatz autonomer Waffensysteme und bewaffneter Drohnen wollen wir verbieten."
+      "originalQuote": "Den Export von Überwachungstechnologie und den Einsatz autonomer Waffensysteme und bewaffneter Drohnen wollen wir verbieten.",
+      "classification": "Rüstung & Waffen"
     },
     {
       "category": "explizites Verbot",
       "topic": "Zweckentfremdung von Wohnraum untersagen",
       "location": "Kapitel Wohnen",
-      "originalQuote": "Zweckentfremdung von Wohn- und Gewerberaum muss verboten werden, leerstehenden Wohn- und Gewerberaum wollen wir"
+      "originalQuote": "Zweckentfremdung von Wohn- und Gewerberaum muss verboten werden, leerstehenden Wohn- und Gewerberaum wollen wir",
+      "classification": "Wohnen & Miete"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Wohnraum darf kein Spekulationsobjekt sein",
       "location": "Kapitel Wohnen / Spekulation",
-      "originalQuote": "Wohnraum darf kein Spekulationsobjekt an der Börse mehr sein, Immobilien- und Hedgefonds wollen wir die Zulassung entziehen."
+      "originalQuote": "Wohnraum darf kein Spekulationsobjekt an der Börse mehr sein, Immobilien- und Hedgefonds wollen wir die Zulassung entziehen.",
+      "classification": "Wohnen & Miete"
     },
     {
       "category": "explizites Verbot",
       "topic": "Gentechnisch veränderte Pflanzen untersagen",
       "location": "Kapitel Landwirtschaft",
-      "originalQuote": "Wir wollen den Anbau und den Handel mit gentechnisch veränderten Pflanzen auch aus neuen Gentechnikverfahren verbieten."
+      "originalQuote": "Wir wollen den Anbau und den Handel mit gentechnisch veränderten Pflanzen auch aus neuen Gentechnikverfahren verbieten.",
+      "classification": "GENTECHNISCH"
     },
     {
       "category": "explizites Verbot",
       "topic": "Glyphosat und Neonikotinoide untersagen",
       "location": "Kapitel Landwirtschaft",
-      "originalQuote": "Glyphosat und Neonikotinoide müssen verboten werden."
+      "originalQuote": "Glyphosat und Neonikotinoide müssen verboten werden.",
+      "classification": "Tierschutz & Landwirtschaft"
     },
     {
       "category": "explizites Verbot",
       "topic": "Rüstungsexporte untersagen",
       "location": "Kapitel Außen- und Sicherheitspolitik",
-      "originalQuote": "Wir unterstützen ein Rüstungsexportkontrollgesetz für ein gesetzliches Verbot aller Rüstungsexporte."
+      "originalQuote": "Wir unterstützen ein Rüstungsexportkontrollgesetz für ein gesetzliches Verbot aller Rüstungsexporte.",
+      "classification": "RÜSTUNGSEXPORTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Bundeswehr darf keine Minderjährigen aufnehmen",
       "location": "Kapitel Bundeswehr",
-      "originalQuote": "Die Bundeswehr darf keine Minderjährigen aufnehmen – auch nicht im Rahmen des sogenannten freiwilligen Heimatschutzes."
+      "originalQuote": "Die Bundeswehr darf keine Minderjährigen aufnehmen – auch nicht im Rahmen des sogenannten freiwilligen Heimatschutzes.",
+      "classification": "Rüstung & Waffen"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Bundeswehr nicht im Inneren einsetzen",
       "location": "Kapitel Sicherheit",
-      "originalQuote": "Den Einsatz der Bundeswehr im Inneren lehnen wir ab."
+      "originalQuote": "Den Einsatz der Bundeswehr im Inneren lehnen wir ab.",
+      "classification": "Rüstung & Waffen"
     },
     {
       "category": "explizites Verbot",
       "topic": "Werbung in Schulen und Kitas untersagen",
       "location": "Kapitel Verbraucherschutz",
-      "originalQuote": "Sofort fordern wir ein Verbot von Werbung in Schulen und Kitas."
+      "originalQuote": "Sofort fordern wir ein Verbot von Werbung in Schulen und Kitas.",
+      "classification": "UNTERSAGEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Handel mit Pelz untersagen",
       "location": "Kapitel Tierschutz",
-      "originalQuote": "Der Handel mit Pelz muss verboten werden."
+      "originalQuote": "Der Handel mit Pelz muss verboten werden.",
+      "classification": "Wirtschaft & Steuern"
     },
     {
       "category": "explizites Verbot",
       "topic": "Jagd auf Hunde und Katzen untersagen",
       "location": "Kapitel Tierschutz",
-      "originalQuote": "Die Jagd auf Hunde und Katzen sowie Prädatoren wie Füchse wollen wir untersagen."
+      "originalQuote": "Die Jagd auf Hunde und Katzen sowie Prädatoren wie Füchse wollen wir untersagen.",
+      "classification": "UNTERSAGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine weiteren Dörfer für Braunkohle abbaggern",
       "location": "Kapitel Kohleausstieg",
-      "originalQuote": "Für den Braunkohleabbau dürfen keine weiteren Dörfer abgebaggert werden, der Hambacher Forst darf nicht weiter zerstört werden."
+      "originalQuote": "Für den Braunkohleabbau dürfen keine weiteren Dörfer abgebaggert werden, der Hambacher Forst darf nicht weiter zerstört werden.",
+      "classification": "BRAUNKOHLE"
     }
   ]
 }

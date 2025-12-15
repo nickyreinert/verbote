@@ -5,122 +5,141 @@
       "category": "semantisches Verbot",
       "topic": "Verdachtsunabhängige Durchleuchtung der Bürger und gläserner Kunde",
       "location": "FREIHEIT UND GRUNDRECHTE",
-      "originalQuote": "Die Piratenpartei Deutschland lehnt die verdachtsunabhängige Durchleuchtung der Bürger und den gläsernen Kunden ab."
+      "originalQuote": "Die Piratenpartei Deutschland lehnt die verdachtsunabhängige Durchleuchtung der Bürger und den gläsernen Kunden ab.",
+      "classification": "VERDACHTSUNABHÄNGIGE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Vorratsdatenspeicherung",
       "location": "FREIHEIT UND GRUNDRECHTE",
-      "originalQuote": "Die Piratenpartei Deutschland lehnt die Vorratsdatenspeicherung (VDS) von Telekommunikations-Verbindungsdaten grundsätzlich ab."
+      "originalQuote": "Die Piratenpartei Deutschland lehnt die Vorratsdatenspeicherung (VDS) von Telekommunikations-Verbindungsdaten grundsätzlich ab.",
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einführung der Vorratsdatenspeicherung durch die Hintertür",
       "location": "FREIHEIT UND GRUNDRECHTE",
-      "originalQuote": "Eine Einführung durch die Hintertür lehnen wir ab."
+      "originalQuote": "Eine Einführung durch die Hintertür lehnen wir ab.",
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Aufbau und Unterhaltung einer Fernverkehrsdatenspeicherung durch die EU",
       "location": "FREIHEIT UND GRUNDRECHTE",
-      "originalQuote": "Die Piratenpartei lehnt die Bestrebungen der EU zum Aufbau und Unterhaltung einer Fernverkehrsdatenspeicherung ab."
+      "originalQuote": "Die Piratenpartei lehnt die Bestrebungen der EU zum Aufbau und Unterhaltung einer Fernverkehrsdatenspeicherung ab.",
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Anlasslose Erfassung, Speicherung und Abgleich biometrischer Daten",
       "location": "FREIHEIT UND GRUNDRECHTE",
-      "originalQuote": "Die Piratenpartei lehnt die anlasslose Erfassung, Speicherung und den Abgleich biometrischer Daten aufgrund des hohen Missbrauchspotenzials ab."
+      "originalQuote": "Die Piratenpartei lehnt die anlasslose Erfassung, Speicherung und den Abgleich biometrischer Daten aufgrund des hohen Missbrauchspotenzials ab.",
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Aufbau zentraler Biometriedatenbanken",
       "location": "FREIHEIT UND GRUNDRECHTE",
-      "originalQuote": "Der Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder die Versicherungswirtschaft muss unterbleiben."
+      "originalQuote": "Der Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder die Versicherungswirtschaft muss unterbleiben.",
+      "classification": "BIOMETRIEDATENBANKEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verdeckte Eingriffe in informationstechnische Systeme (Bundes-/Staatstrojaner)",
-      "location": "ÜBERWACHUNG",
       "location": "Keine Bundes- oder Staatstrojaner",
-      "originalQuote": "Wir setzen uns daher für die Abschaffung der Befugnisse für staatliche Behörden zum Verwanzen solcher Systeme ein."
+      "originalQuote": "Wir setzen uns daher für die Abschaffung der Befugnisse für staatliche Behörden zum Verwanzen solcher Systeme ein.",
+      "classification": "INFORMATIONSTECHNISCHE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Hierarchisierung von Fluchtgründen",
       "location": "ASYL",
-      "originalQuote": "Eine Hierarchisierung von Fluchtgründen lehnen wir ab."
+      "originalQuote": "Eine Hierarchisierung von Fluchtgründen lehnen wir ab.",
+      "classification": "HIERARCHISIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Pauschale Kategorisierungen von Staaten als sichere Herkunftsländer",
       "location": "ASYL",
-      "originalQuote": "Außerdem lehnen wir pauschale Kategorisierungen von Staaten als „sichere Herkunftsländer“ ab."
+      "originalQuote": "Außerdem lehnen wir pauschale Kategorisierungen von Staaten als „sichere Herkunftsländer“ ab.",
+      "classification": "KATEGORISIERUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Drittstaatenregelung und Dublin-Verordnungen",
       "location": "ASYL",
-      "originalQuote": "Die Drittstaatenregelung und deren Konkretisierung in den „Dublin“-Verordnungen lehnen wir ab."
+      "originalQuote": "Die Drittstaatenregelung und deren Konkretisierung in den „Dublin“-Verordnungen lehnen wir ab.",
+      "classification": "DRITTSTAATENREGELUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Abschiebungen und Abschiebehaft",
       "location": "ASYL",
-      "originalQuote": "Wir setzen uns für ein generelles Ende von Abschiebungen und der Abschiebehaft ein."
+      "originalQuote": "Wir setzen uns für ein generelles Ende von Abschiebungen und der Abschiebehaft ein.",
+      "classification": "ABSCHIEBUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Diskriminierung und Kriminalisierung von Sexarbeitern und Kunden",
       "location": "STÄRKUNG DER RECHTE PROSTITUIERTER",
-      "originalQuote": "Eine Diskriminierung und Kriminalisierung von Sexarbeitern und ihren Kunden lehnt die Piratenpartei ab."
+      "originalQuote": "Eine Diskriminierung und Kriminalisierung von Sexarbeitern und ihren Kunden lehnt die Piratenpartei ab.",
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kollektivstrafen gegen Vereine oder Fangruppierungen",
       "location": "PIRATEN FÜR FANRECHTE",
-      "originalQuote": "Die Praxis, Vereine oder Fangruppierungen für die Vergehen einzelner Anhänger in Sippenhaft zu nehmen [...] lehnen wir entschieden ab."
+      "originalQuote": "Die Praxis, Vereine oder Fangruppierungen für die Vergehen einzelner Anhänger in Sippenhaft zu nehmen [...] lehnen wir entschieden ab.",
+      "classification": "KOLLEKTIVSTRAFEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Vollkörperkontrollen bei Einlass zu Stadien",
       "location": "PIRATEN FÜR FANRECHTE",
-      "originalQuote": "Vollkörperkontrollen sehen wir als menschenunwürdige Maßnahme [...] und lehnen diese entschieden ab."
+      "originalQuote": "Vollkörperkontrollen sehen wir als menschenunwürdige Maßnahme [...] und lehnen diese entschieden ab.",
+      "classification": "VOLLKÖRPERKONTROLLEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Diskriminierungsfreie Übertragung von Daten einschränken",
       "location": "NETZNEUTRALITÄT STÄRKEN",
-      "originalQuote": "Die Piratenpartei lehnt es ab, die diskriminierungsfreie Übertragung von Daten durch die Einführung von Güteklassen [...] zu beschneiden."
+      "originalQuote": "Die Piratenpartei lehnt es ab, die diskriminierungsfreie Übertragung von Daten durch die Einführung von Güteklassen [...] zu beschneiden.",
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "explizites Verbot",
       "topic": "Kopierschutzmaßnahmen",
       "location": "URHEBERRECHT",
-      "originalQuote": "Kopierschutzmaßnahmen werden komplett untersagt"
+      "originalQuote": "Kopierschutzmaßnahmen werden komplett untersagt",
+      "classification": "KOPIERSCHUTZMASSNAHMEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einschränkung des Zugangs zu Inhalten aufgrund Aufenthaltsortes",
       "location": "ILA – INTERNATIONAL LIBERTY AGREEMENT",
-      "originalQuote": "die Beschränkung des Zugangs zu Inhalten aufgrund des momentanen Aufenthaltsortes eines Benutzers [...] unnötig zu machen."
+      "originalQuote": "die Beschränkung des Zugangs zu Inhalten aufgrund des momentanen Aufenthaltsortes eines Benutzers [...] unnötig zu machen.",
+      "classification": "AUFENTHALTSORTES"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Zwangsmitgliedschaft in Kammern und Verbänden (mit Ausnahmen)",
       "location": "ABSCHAFFUNG DER ZWANGSMITGLIEDSCHAFT",
-      "originalQuote": "Die Piratenpartei tritt für die Abschaffung der Zwangsmitgliedschaft in Kammern und Verbänden [...] ein."
+      "originalQuote": "Die Piratenpartei tritt für die Abschaffung der Zwangsmitgliedschaft in Kammern und Verbänden [...] ein.",
+      "classification": "ZWANGSMITGLIEDSCHAFT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Intransparente Finanzierung politischer Veranstaltungen durch Sponsoring",
       "location": "POLITISCHE TRANSPARENZ",
-      "originalQuote": "Die Piratenpartei Deutschland lehnt die intransparente Finanzierung von politischen Veranstaltungen durch Sponsorengelder ab."
+      "originalQuote": "Die Piratenpartei Deutschland lehnt die intransparente Finanzierung von politischen Veranstaltungen durch Sponsorengelder ab.",
+      "classification": "VERANSTALTUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einsatz der Bundeswehr im Inneren (mit Ausnahmen)",
       "location": "POLIZEI",
-      "originalQuote": "Die Piratenpartei lehnt den Einsatz der Bundeswehr im Innern ab."
+      "originalQuote": "Die Piratenpartei lehnt den Einsatz der Bundeswehr im Innern ab.",
+      "classification": "Rüstung & Waffen"
     }
   ]
 }

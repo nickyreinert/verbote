@@ -20,14 +20,14 @@
       "topic": "Keine Kommerzialisierung im Gesundheitswesen",
       "location": "Abschnitt 2.4",
       "originalQuote": "Wir wollen die Kommerzialisierung im Gesundheitswesen beenden, denn sie wirkt sich negativ auf die Versorgung der ",
-      "classification": "Gesundheit & Drogen"
+      "classification": "KOMMERZIALISIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot von Steuerbetrug im Onlinehandel",
       "location": "Abschnitt 2.3",
       "originalQuote": "Wir werden weiterhin konsequent gegen Steuerbetrug im Onlinehandel vorgehen. Maßnahmen gegen Lohn-, Sozial- u",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERBETRUG"
     },
     {
       "category": "explizites Verbot",
@@ -55,14 +55,14 @@
       "topic": "Keine weitere Anhebung des gesetzlichen Renteneintrittsalters",
       "location": "Abschnitt 3.4",
       "originalQuote": "Wir lehnen eine weitere Anhebung des gesetzlichen Renteneintrittsalters ab, weil sie für viele, die nicht ",
-      "classification": "Soziales & Arbeit"
+      "classification": "RENTENEINTRITTSALTERS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Unfaire Handelspraktiken im Lebensmittelhandel unterbinden",
       "location": "Abschnitt 3.15",
       "originalQuote": "Wir werden im Lebensmittelhandel unfairen Handelspraktiken einen Riegel vorschieben, denn sie schaden Ver",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "LEBENSMITTELHANDEL"
     },
     {
       "category": "semantisches Verbot",
@@ -83,7 +83,7 @@
       "topic": "Einstimmigkeitsprinzip in Steuerfragen überwinden",
       "location": "Abschnitt 4.1",
       "originalQuote": "Deshalb treten wir ein für die Überwindung des Einstimmigkeitsprinzips in Steuerfragen und die Beendigung ",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "EINSTIMMIGKEITSPRINZIP"
     },
     {
       "category": "semantisches Verbot",
@@ -125,7 +125,7 @@
       "topic": "Werbung in Kitas und Schulen untersagen",
       "location": "Abschnitt 3.7",
       "originalQuote": "Kitas und Schulen müssen ein werbefreier Raum sein.",
-      "classification": "Bildung & Forschung"
+      "classification": "UNTERSAGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -139,7 +139,7 @@
       "topic": "Keine Rüstungsexporte in bestimmte Staaten ohne Ratifizierung des ATT",
       "location": "Abschnitt 4.5",
       "originalQuote": "Für Staaten, die weder Mitglied der EU noch der NATO sind, ist eine Ratifizierung des Vertrags über Waffe",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTE"
     }
   ]
 }

@@ -6,35 +6,35 @@
       "topic": "Verbot der Verlagerung von Arbeitsplätzen aufgrund von Umweltregulierungen",
       "location": "Arbeitsplätze sichern",
       "originalQuote": "Notwendige Regelungen zum Umwelt- und Klimaschutz dürfen nicht zur Verlagerung von Arbeitsplätzen in Ländern mit geringeren Umwelt-Auflagen führen.",
-      "classification": "Umwelt & Klima"
+      "classification": "UMWELTREGULIERUNGEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot, dass befristete Arbeitsverhältnisse unbefristete ersetzen",
       "location": "Qualität von Arbeit",
       "originalQuote": "Befristete Arbeitsverhältnisse dürfen unbefristete Arbeitsverhältnisse nicht einfach ersetzen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSVERHÄLTNISSE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot des Versandhandels mit verschreibungspflichtigen Arzneimitteln",
       "location": "Gesundheit und Pflege",
       "originalQuote": "Die Versorgung durch ein ortsnahes Apothekenangebot werden wir sichern, indem wir den Versandhandel mit verschreibungspflichtigen Arzneimitteln verbieten.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERSCHREIBUNGSPFLICHTIGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Einwanderung in soziale Sicherungssysteme",
       "location": "Neue Arbeitsplätze schaffen",
       "originalQuote": "Eine Einwanderung in die sozialen Sicherungssysteme lehnen wir ab.",
-      "classification": "Soziales & Arbeit"
+      "classification": "Migration & Asyl"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung eines generellen Tempolimits",
       "location": "Verkehrsinfrastruktur",
       "originalQuote": "Ein generelles Tempolimit auf deutschen Autobahnen lehnen wir ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "TEMPOLIMITS"
     },
     {
       "category": "semantisches Verbot",
@@ -48,14 +48,14 @@
       "topic": "Ablehnung der Bürgerversicherung",
       "location": "Gesundheit und Pflege",
       "originalQuote": "Die Einführung einer sogenannten Bürgerversicherung lehnen wir ab.",
-      "classification": "Soziales & Arbeit"
+      "classification": "BÜRGERVERSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ausschluss der Wiedereinführung der Vermögensteuer",
       "location": "Steuern",
       "originalQuote": "Die Wiedereinführung der Vermögensteuer schließen wir aus.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WIEDEREINFÜHRUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -76,7 +76,7 @@
       "topic": "Ablehnung der Klonierung von Tieren",
       "location": "Landwirtschaft hat Zukunft",
       "originalQuote": "Deshalb lehnen wir Klonierung von Tieren ab.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "KLONIERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -97,28 +97,28 @@
       "topic": "Ablehnung jeder Verschlechterung bei der Erbschaftsteuer",
       "location": "Steuern",
       "originalQuote": "Deshalb lehnen wir jede Verschlechterung bei der Erbschaftsteuer ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERSCHLECHTERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung genereller Fahrverbote für bestimmte Fahrzeugtypen",
       "location": "Mobilität für alle",
       "originalQuote": "Generelle Fahrverbote für bestimmte Fahrzeugtypen lehnen wir ab.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "FAHRZEUGTYPEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Duldung rechtsfreier Räume",
       "location": "Sicherheit im Inneren",
       "originalQuote": "Rechtsfreie Räume dulden wir nicht.",
-      "classification": "Demokratie & Recht"
+      "classification": "RECHTSFREIER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Steuererhöhungen",
       "location": "Steuern",
       "originalQuote": "Im Gegensatz zu anderen Parteien sagen wir: Wir wollen keine Steuererhöhungen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERERHÖHUNGEN"
     }
   ]
 }

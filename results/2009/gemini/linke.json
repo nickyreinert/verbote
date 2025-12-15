@@ -6,7 +6,7 @@
       "topic": "Verhindern des weiteren Temperaturanstiegs und der Umweltzerstörung",
       "location": "1. Ein Schutzschirm für die Menschen",
       "originalQuote": "Wir brauchen einen Schutzschirm für die Umwelt, um den weiteren Temperaturanstieg zu stoppen und die Umweltzerstörung zu verhindern.",
-      "classification": "Umwelt & Klima"
+      "classification": "TEMPERATURANSTIEGS"
     },
     {
       "category": "explizites Verbot",
@@ -41,7 +41,7 @@
       "topic": "Verbot von befristeter Beschäftigung bei Leiharbeitsfirmen und dem Einsatz als Streikbrecher",
       "location": "2.1. Gute Arbeit!",
       "originalQuote": "befristete Beschäftigung bei Leiharbeitsfirmen und den Einsatz als Streikbrecherin und Streikbrecher verbieten;",
-      "classification": "Soziales & Arbeit"
+      "classification": "LEIHARBEITSFIRMEN"
     },
     {
       "category": "semantisches Verbot",
@@ -76,7 +76,7 @@
       "topic": "Das Bestimmen von Handels- und Kapitalströmen durch Spekulanten ist nicht hinzunehmen",
       "location": "2.2. Wirtschaft gestalten",
       "originalQuote": "Dass Spekulanten die Handels- und Kapitalströme bestimmen und schwere Krisen auslösen, ist ein globaler Irrsinn, der nicht hinzunehmen ist.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "KAPITALSTRÖMEN"
     },
     {
       "category": "explizites Verbot",
@@ -90,7 +90,7 @@
       "topic": "Austrocknen (Schließen) von Steueroasen",
       "location": "2.2. Wirtschaft gestalten",
       "originalQuote": "Leerverkäufe, außerbilanzielle Zweckgesellschaften, Derivate, Hedgefonds und Private-Equity- Gesellschaften verbieten; Steueroasen austrocknen; zinsgünstige Finanzierung sinnvoller Investitionen gewährleisten;",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "AUSTROCKNEN"
     },
     {
       "category": "explizites Verbot",
@@ -125,7 +125,7 @@
       "topic": "Unterbinden des Preisdumpings der Handelsketten zu Lasten der Bäuerinnen und Bauern",
       "location": "2.2. Wirtschaft gestalten",
       "originalQuote": "Preisdumping der Handelsketten zu Lasten der Bäuerinnen und Bauern unterbinden; Agro-Gentechnik verbieten;",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Tierschutz & Landwirtschaft"
     },
     {
       "category": "explizites Verbot",
@@ -146,14 +146,14 @@
       "topic": "Ablehnung der Planung und des Baus neuer Kohlekraftwerke und der Verpressung von Kohlendioxid",
       "location": "2.3. Gesellschaft ökologisch umbauen",
       "originalQuote": "Wir lehnen daher die Planung und den Bau neuer Kohlekraftwerke ab – ebenso wie die von der Energiewirtschaft propagierte Scheinlösung der Verpressung von Kohlendioxid in den Untergrund.",
-      "classification": "Umwelt & Klima"
+      "classification": "KOHLEKRAFTWERKE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot des Exports von Atomtechnik",
       "location": "2.3. Gesellschaft ökologisch umbauen",
       "originalQuote": "DIE LINKE fordert darum die unverzügliche und unumkehrbare Stilllegung aller Atomanlagen sowie ein Verbot für den Export von Atomtechnik.",
-      "classification": "Rüstung & Waffen"
+      "classification": "ATOMTECHNIK"
     },
     {
       "category": "semantisches Verbot",
@@ -167,42 +167,42 @@
       "topic": "Keine Agroenergie-Importe aus dem Nicht-EU-Ausland",
       "location": "2.3. Gesellschaft ökologisch umbauen",
       "originalQuote": "keine Agroenergie-Importe aus dem Nicht-EU-Ausland und Fokus bei der Biomassenutzung auf der gekoppelten Erzeugung von Strom und Wärme;",
-      "classification": "Umwelt & Klima"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "explizites Verbot",
       "topic": "Generelles Verbot von Tierversuchen (mit Ausnahmeregelung)",
       "location": "2.3. Gesellschaft ökologisch umbauen",
       "originalQuote": "generelles Verbot von Tierversuchen, die nur in besonderen Ausnahmefällen durchgeführt werden dürfen – alternative Testmethoden müssen energischer erforscht werden;",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "AUSNAHMEREGELUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Stopp der Privatisierung von Krankenhäusern und medizinischen Versorgungszentren",
       "location": "Kapitel 3 (Gesundheit)",
       "originalQuote": "die bedarfsgerechte, wohnortnahe Versorgung für alle sicherstellen: die Privatisierung von Krankenhäusern und medizinischen Versorgungszentren stoppen bzw.",
-      "classification": "Gesundheit & Drogen"
+      "classification": "VERSORGUNGSZENTREN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Arbeitsplätze in Behindertenwerkstätten dürfen nicht für Akkordarbeit und Dumpinglöhne missbraucht werden",
       "location": "Kapitel 3 (Soziales)",
       "originalQuote": "Diese dürfen in Zukunft nicht mehr als Fließbandarbeitsplatz zur Fertigung von Gütern unter Akkordbedingungen bei einer Zahlung von Dumpinglöhnen missbraucht werden.",
-      "classification": "Soziales & Arbeit"
+      "classification": "BEHINDERTENWERKSTÄTTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Beendigung der Migrationspolitik nach arbeitsmarktlichen Nützlichkeitskriterien",
       "location": "Kapitel 3 (Migration)",
       "originalQuote": "soziale Ausgrenzung von Migrantinnen und Migranten beenden: Migrationspolitik nach arbeitsmarktlichen Nützlichkeitskriterien beenden;",
-      "classification": "Soziales & Arbeit"
+      "classification": "NÜTZLICHKEITSKRITERIEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Abschiebung von Menschen aus Kriegsgebieten und politisch Verfolgten",
       "location": "Kapitel 3 (Migration)",
       "originalQuote": "Familiennachzug für Kinder und gleichgeschlechtliche Lebenspartnerinnen und -partner ermöglichen; keine Abschiebung von Menschen aus Kriegsgebieten und politisch Verfolgter;",
-      "classification": "Rüstung & Waffen"
+      "classification": "Migration & Asyl"
     },
     {
       "category": "semantisches Verbot",
@@ -216,7 +216,7 @@
       "topic": "Verhindern des Abbaus von Rechtsmitteln in Verwaltungs- und Gerichtsverfahren",
       "location": "4.1. Rechtspolitik",
       "originalQuote": "den Abbau von Rechtsmitteln (Widersprüche, Berufungen) in Verwaltungs- und Gerichtsverfahren verhindern;",
-      "classification": "Wohnen & Miete"
+      "classification": "GERICHTSVERFAHREN"
     },
     {
       "category": "semantisches Verbot",
@@ -230,7 +230,7 @@
       "topic": "Abschaffung des politischen Sonderstrafrechts (§ 129a, § 129b StGB)",
       "location": "4.1. Rechtspolitik",
       "originalQuote": "das Prinzip der Resozialisierung im Strafrecht durchsetzen; das politische Sonderstrafrecht (§ 129a, § 129b StGB) abschaffen. 4.2.",
-      "classification": "Demokratie & Recht"
+      "classification": "SONDERSTRAFRECHTS"
     },
     {
       "category": "semantisches Verbot",
@@ -258,7 +258,7 @@
       "topic": "Stoppen des Ausbaus des Bundeskriminalamtes zu einer zentralisierten Polizei und Abschaffung aller Geheimdienste",
       "location": "5. Für Bürgerrechte und Frieden",
       "originalQuote": "Ausbau des Bundeskriminalamtes zu einer zentralisierten Polizei stoppen; perspektivisch alle Geheimdienste abschaffen, bis dahin die demokratische Kontrolle stärken;",
-      "classification": "Wohnen & Miete"
+      "classification": "BUNDESKRIMINALAMTES"
     },
     {
       "category": "semantisches Verbot",
@@ -279,7 +279,7 @@
       "topic": "Verbot der unfreiwilligen Verschiebung von Flüchtlingen nach der Dublin II-Verordnung",
       "location": "5. Für Bürgerrechte und Frieden",
       "originalQuote": "die unfreiwillige Verschiebung von Flüchtlingen nach dem ungerechten Zuständigkeitsprinzip (Dublin II-Verordnung) verbieten, faire Asylverfahren sichern, Sammellager abschaffen sowie nichtstaatliche Verfolgung, Verfolgung wegen des Geschlechtes oder der sexuellen Orientierung als Asylgrund anerkennen.",
-      "classification": "Migration & Asyl"
+      "classification": "UNFREIWILLIGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -300,7 +300,7 @@
       "topic": "Beendigung militärischer Auslandseinsätze im Rahmen der Europäischen Außen- und Sicherheitspolitik",
       "location": "6. Konsequent sozial. Für Demokratie und Frieden.",
       "originalQuote": "militärische Auslandseinsätze im Rahmen der Europäischen Außen- und Sicherheitspolitik beenden;",
-      "classification": "Rüstung & Waffen"
+      "classification": "SICHERHEITSPOLITIK"
     }
   ]
 }

@@ -6,7 +6,7 @@
       "topic": "Verbot von Diskriminierung im Bildungssystem",
       "location": "Seite 12",
       "originalQuote": "Schul- und Bildungssystem, das gleiche Zugangschancen eröffnet, Diskriminierung verhindert und ",
-      "classification": "Bildung & Forschung"
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "semantisches Verbot",
@@ -20,7 +20,7 @@
       "topic": "Verbot, dass Lehrkräfte digitale Amateure sind",
       "location": "Seite 15",
       "originalQuote": "dabei dürfen Lehrkräfte keine digitalen Amateure sein",
-      "classification": "Digitales & Überwachung"
+      "classification": "LEHRKRÄFTE"
     },
     {
       "category": "explizites Verbot",
@@ -55,7 +55,7 @@
       "topic": "Verbot, dass Ort eine Rolle spielt im Binnenmarkt",
       "location": "Seite 27",
       "originalQuote": "kann es zum Beispiel keine Rolle spielen, von welchem Ort aus Verbraucher auf Internet-",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "BINNENMARKT"
     },
     {
       "category": "semantisches Verbot",
@@ -69,28 +69,28 @@
       "topic": "Verbot der Pkw-Maut",
       "location": "Seite 29",
       "originalQuote": "Deshalb lehnen wir die Pkw-Maut ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "PKWMAUT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot unnötiger staatlicher Eingriffe in Eigentumsrecht",
       "location": "Seite 31",
       "originalQuote": "Wir Freie Demokraten lehnen jeden unnötigen staatlichen Eingriff in das Eigentumsrecht ab.",
-      "classification": "Wohnen & Miete"
+      "classification": "EIGENTUMSRECHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot von Ausschluss von Waldbewirtschaftung und Artenschutz",
       "location": "Seite 33",
       "originalQuote": "schließen sich keineswegs aus.",
-      "classification": "Umwelt & Klima"
+      "classification": "WALDBEWIRTSCHAFTUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot, dass Erwerbsunfähige Sozialfälle werden",
       "location": "Seite 36",
       "originalQuote": "darf nicht zum Sozialfall werden.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ERWERBSUNFÄHIGE"
     },
     {
       "category": "explizites Verbot",
@@ -104,7 +104,7 @@
       "topic": "Verbot weiterer Einschränkungen der Zeitarbeit",
       "location": "Seite 39",
       "originalQuote": "dürfen etwa die Zeitarbeit oder Befristungen nicht weiter einschränken.",
-      "classification": "Soziales & Arbeit"
+      "classification": "EINSCHRÄNKUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -118,7 +118,7 @@
       "topic": "Verbot von anlassloser Datenerhebung",
       "location": "Seite 46",
       "originalQuote": "Keine anlasslose Erhebung und Speicherung personenbezogener Daten",
-      "classification": "Digitales & Überwachung"
+      "classification": "DATENERHEBUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -146,14 +146,14 @@
       "topic": "Verbot des Trends zu mehr Strafrecht",
       "location": "Seite 48",
       "originalQuote": "Dieser Trend ist zu stoppen und möglichst umzukehren.",
-      "classification": "Demokratie & Recht"
+      "classification": "STRAFRECHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot rechtfreier Räume für Sicherheitsbehörden",
       "location": "Seite 49",
       "originalQuote": "darf es keine rechts-freien Räume geben.",
-      "classification": "Demokratie & Recht"
+      "classification": "SICHERHEITSBEHÖRDEN"
     },
     {
       "category": "explizites Verbot",
@@ -174,14 +174,14 @@
       "topic": "Verbot von Diskriminierung in Versicherungen",
       "location": "Seite 54",
       "originalQuote": "Es darf keine Diskriminierung oder Wett-bewerbsverzerrung geben.",
-      "classification": "Soziales & Arbeit"
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot von Versicherungsfremden Leistungen",
       "location": "Seite 54",
       "originalQuote": "für alle Versicherten gelten oder für keinen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "VERSICHERUNGSFREMDEN"
     },
     {
       "category": "semantisches Verbot",
@@ -216,35 +216,35 @@
       "topic": "Verbot, dass Angst das Handeln bestimmt",
       "location": "Seite 62",
       "originalQuote": "darf nicht unser Handeln bestimmen!",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "BESTIMMT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot von Waffenlieferungen in Krisengebiete",
       "location": "Seite 74",
       "originalQuote": "wollen keine Waffenlieferungen in Krisengebiete.",
-      "classification": "Rüstung & Waffen"
+      "classification": "WAFFENLIEFERUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot von Rüstungsexporten in Konfliktregionen",
       "location": "Seite 74",
       "originalQuote": "Rüstungsexporte in Konfliktregionen auszuschließen.",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot, dass Staat allein profitiert",
       "location": "Seite 75",
       "originalQuote": "darf nicht allein der Staat profitieren.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "PROFITIERT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot, dass Durchschnittsverdiener höchsten Steuersatz zahlen",
       "location": "Seite 75",
       "originalQuote": "Ein Durchschnittsverdiener darf nicht fast schon den höchsten Steuersatz zahlen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "DURCHSCHNITTSVERDIENER"
     },
     {
       "category": "semantisches Verbot",
@@ -258,14 +258,14 @@
       "topic": "Verbot heimlicher Steuererhöhungen",
       "location": "Seite 76",
       "originalQuote": "Keine heimlichen Steuererhöhungen durch die Kalte Progression",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERERHÖHUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot der Erbschaftsteuer zwischen Ehegatten",
       "location": "Seite 77",
       "originalQuote": "zukünftig keine Erbschaftsteuer anfällt.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ERBSCHAFTSTEUER"
     },
     {
       "category": "semantisches Verbot",
@@ -279,7 +279,7 @@
       "topic": "Verbot neuer Neuverschuldung für Länder",
       "location": "Seite 81",
       "originalQuote": "ist für die Länder dann keine Neuverschuldung mehr zulässig.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "NEUVERSCHULDUNG"
     },
     {
       "category": "explizites Verbot",
@@ -314,14 +314,14 @@
       "topic": "Verbot der Füllung von Subventionstöpfen",
       "location": "Seite 88",
       "originalQuote": "sollen keine Subventionstöpfe gefüllt werden.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "SUBVENTIONSTÖPFEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot von Verboten in der Energiepolitik",
       "location": "Seite 88",
       "originalQuote": "durch ein Verbot von Verbrennungsmotoren, keine geeignete Klimaschutzstrategie.",
-      "classification": "Umwelt & Klima"
+      "classification": "ENERGIEPOLITIK"
     },
     {
       "category": "semantisches Verbot",
@@ -342,7 +342,7 @@
       "topic": "Ablehnung politischen Sozialschwindels",
       "location": "Seite 94",
       "originalQuote": "den wir Freien Demokraten nicht mitmachen wollen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "SOZIALSCHWINDELS"
     }
   ]
 }

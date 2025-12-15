@@ -13,7 +13,7 @@
       "topic": "Waffenexporte",
       "location": "Allgemeine Einführung",
       "originalQuote": "Wir wollen abrüsten und Waffenexporte verbieten.",
-      "classification": "Rüstung & Waffen"
+      "classification": "WAFFENEXPORTE"
     },
     {
       "category": "explizites Verbot",
@@ -27,14 +27,14 @@
       "topic": "Sachgrundlose Befristungen",
       "location": "Kapitel I: Gute Arbeit für alle",
       "originalQuote": "Sachgrundlose Befristungen müssen ausgeschlossen werden.",
-      "classification": "Soziales & Arbeit"
+      "classification": "SACHGRUNDLOSE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Kettenbefristungen",
       "location": "Kapitel I: Gute Arbeit für alle",
       "originalQuote": "Kettenbefristungen verboten werden",
-      "classification": "Soziales & Arbeit"
+      "classification": "KETTENBEFRISTUNGEN"
     },
     {
       "category": "explizites Verbot",
@@ -62,21 +62,21 @@
       "topic": "Neoliberale Freihandelsabkommen (TTIP, CETA, etc.)",
       "location": "Allgemeine Einführung",
       "originalQuote": "Wir lehnen die neoliberalen Freihandels- und Konzernschutz-Abkommen ab: TTIP mit den USA, CE",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "FREIHANDELSABKOMMEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Militärausgaben erhöhen",
       "location": "Allgemeine Einführung",
       "originalQuote": "Die Militärausgaben dürfen nicht erhöht, sondern müssen deutlich gesenkt werden.",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITÄRAUSGABEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Steuerfreie Vererbung großer Vermögen",
       "location": "Kapitel V: Ungleichheit ist unsozial",
       "originalQuote": "Gerade die Superreichen können ihre Millionenvermögen in Unternehmensanteilen steuerfrei ver",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERFREIE"
     },
     {
       "category": "explizites Verbot",
@@ -97,14 +97,14 @@
       "topic": "Umwandlung von Miet- in Eigentumswohnungen in Milieuschutzgebieten",
       "location": "Kapitel VII: Die Mieten runter!",
       "originalQuote": "Hier wollen wir ein generelles Umwandlungsverbot von Miet- in Eigentumswohnungen.",
-      "classification": "Wohnen & Miete"
+      "classification": "MILIEUSCHUTZGEBIETEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Share Deals zur Umgehung der Grunderwerbsteuer",
       "location": "Kapitel VII: Die Mieten runter!",
       "originalQuote": "Mit Share Deals umgehen große Investoren die Grunderwerbsteuer. ... Wir wollen sie abschaff",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "GRUNDERWERBSTEUER"
     }
   ]
 }

@@ -20,7 +20,7 @@
       "topic": "Verbot von sachgrundlosen Befristungen im öffentlichen Dienst",
       "location": "Kapitel I",
       "originalQuote": "Sachgrundlose Befristungen müssen ausgeschlossen werden.",
-      "classification": "Soziales & Arbeit"
+      "classification": "SACHGRUNDLOSEN"
     },
     {
       "category": "explizites Verbot",
@@ -34,21 +34,21 @@
       "topic": "Verbot von Kettenbefristungen",
       "location": "Kapitel I",
       "originalQuote": "Kettenbefristungen verboten werden",
-      "classification": "Soziales & Arbeit"
+      "classification": "KETTENBEFRISTUNGEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Nacht-, Schicht- und Wochenendarbeit außer bei Unvermeidbarkeit",
       "location": "Kapitel I",
       "originalQuote": "Nacht-, Schicht- und Wochenendarbeit müssen strenger reguliert und auf ein",
-      "classification": "Soziales & Arbeit"
+      "classification": "UNVERMEIDBARKEIT"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Ausnahmen von der gesetzlichen Höchstarbeitszeit",
       "location": "Kapitel I",
       "originalQuote": "Ausnahmen von der gesetzlich zulässigen Tageshöchstarbeitszeit und den erf",
-      "classification": "Soziales & Arbeit"
+      "classification": "HÖCHSTARBEITSZEIT"
     },
     {
       "category": "explizites Verbot",
@@ -83,7 +83,7 @@
       "topic": "Verbot der Rupfung lebender Tiere für Daunengewinnung",
       "location": "Kapitel XIV",
       "originalQuote": "Daunen dürfen nicht durch Rupfung von lebenden Tieren gewonnen werden.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "DAUNENGEWINNUNG"
     },
     {
       "category": "explizites Verbot",
@@ -97,21 +97,21 @@
       "topic": "Verbot des Handels mit Pelz zum Zweck der Pelzgewinnung",
       "location": "Kapitel XIV",
       "originalQuote": "Der Verkauf von und Handel mit echtem Pelz von Tieren zum alleinigen Zweck",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "PELZGEWINNUNG"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Lebendtiertransporten über vier Stunden",
       "location": "Kapitel XIV",
       "originalQuote": "Wir wollen ein Verbot von Lebendtiertransporten, die über das Höchstmaß v",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "LEBENDTIERTRANSPORTEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot des Handels mit Wildfängen auf Tierbörsen",
       "location": "Kapitel XIV",
       "originalQuote": "Die Haltung bestimmter Wildtierarten und die Dressur von Wildtieren in Zi",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WILDFÄNGEN"
     },
     {
       "category": "explizites Verbot",
@@ -132,21 +132,21 @@
       "topic": "Verbot von Kleinwaffenexporten",
       "location": "Kapitel XV",
       "originalQuote": "Als ersten Schritt wollen wir alle Exporte von Kleinwaffen und Waffenfab",
-      "classification": "Rüstung & Waffen"
+      "classification": "KLEINWAFFENEXPORTEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Stationierung modernisierter Atomwaffen in Deutschland",
       "location": "Kapitel XV",
       "originalQuote": "Es dürfen keine modernisierten Atomwaffen in Deutschland stationiert und k",
-      "classification": "Rüstung & Waffen"
+      "classification": "MODERNISIERTER"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot militärischer Drohneneinsätze von deutschem Boden",
       "location": "Kapitel XV",
       "originalQuote": "Vom Boden der Bundesrepublik Deutschland aus dürfen keinerlei militärisch",
-      "classification": "Rüstung & Waffen"
+      "classification": "DROHNENEINSÄTZE"
     },
     {
       "category": "explizites Verbot",
@@ -160,14 +160,14 @@
       "topic": "Verbot der Anschaffung von Kampfdrohnen und Kampfrobotern",
       "location": "Kapitel XV",
       "originalQuote": "Die Bundeswehr oder die Polizeien des Bundes und der Länder dürfen keine D",
-      "classification": "Rüstung & Waffen"
+      "classification": "KAMPFROBOTERN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Werbung in Schulen und Kitas",
       "location": "Kapitel XIV",
       "originalQuote": "Sofort fordern wir ein Verbot von Werbung in Schulen und Kitas sowie von",
-      "classification": "Bildung & Forschung"
+      "classification": "WERBUNG"
     },
     {
       "category": "explizites Verbot",
@@ -181,14 +181,14 @@
       "topic": "Verbot des Klonens von Tieren",
       "location": "Kapitel XIV",
       "originalQuote": "Das Verbot des Klonens von Tieren muss erhalten werden.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "KLONENS"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Produktion von Rüstungsgütern in Deutschland",
       "location": "Kapitel XV",
       "originalQuote": "Unser Ziel ist, dass Rüstungsexporte verboten werden und die gesamte Rüs",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSGÜTERN"
     },
     {
       "category": "explizites Verbot",
@@ -202,49 +202,49 @@
       "topic": "Verbot der Einfuhr von Produkten aus Kinderarbeit",
       "location": "Kapitel XV",
       "originalQuote": "Die Einfuhr von Produkten aus Kinderarbeit wollen wir verbieten.",
-      "classification": "Soziales & Arbeit"
+      "classification": "KINDERARBEIT"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Tierversuchen",
       "location": "Kapitel XIV",
       "originalQuote": "Tierversuche müssen durch Alternativmethoden ersetzt werden.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERVERSUCHEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Produktion von Rüstungsgütern in Werkstätten für behinderte Menschen",
       "location": "Kapitel XVII",
       "originalQuote": "An Werkstätten für behinderte Menschen (WfbM) dürfen ausschließlich zivi",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSGÜTERN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Verwendung von Mikroplastik in Kosmetikprodukten",
       "location": "Kapitel XIV",
       "originalQuote": "Besonders umweltschädliche Pestizide wie Glyphosat und Neonikotinoiden so",
-      "classification": "Umwelt & Klima"
+      "classification": "KOSMETIKPRODUKTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Abschaffung von Befristungen ohne sachlichen Grund",
       "location": "Kapitel I",
       "originalQuote": "Befristungen ohne sachlichen Grund, Minijobs und Leiharbeit werden ausg",
-      "classification": "Soziales & Arbeit"
+      "classification": "BEFRISTUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Abschaffung des Hartz-IV-Systems",
       "location": "Kapitel III",
       "originalQuote": "Wir schaffen das Hartz-IV-System ab und ersetzen es durch eine bedarfsdec",
-      "classification": "Soziales & Arbeit"
+      "classification": "HARTZIVSYSTEMS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Kürzungen oder Sanktionen bei Mindestsicherung",
       "location": "Kapitel III",
       "originalQuote": "Die Höhe muss derzeit 1.050 Euro betragen. Sie gilt für Erwerbslose, auf",
-      "classification": "Soziales & Arbeit"
+      "classification": "MINDESTSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -265,14 +265,14 @@
       "topic": "Keine Mieterhöhungen ohne Verbesserung des Wohnwerts",
       "location": "Kapitel VII",
       "originalQuote": "Keine Mieterhöhungen ohne Verbesserung des Wohnwertes! Vermieter können le",
-      "classification": "Wohnen & Miete"
+      "classification": "MIETERHÖHUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine militärischen Sicherheits- und Söldnerfirmen",
       "location": "Kapitel XV",
       "originalQuote": "DIE LINKE fordert ein Verbot von militärischen Sicherheits- und Söldnerfir",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITÄRISCHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -286,35 +286,35 @@
       "topic": "Kein Abbau von Eisenbahninfrastruktur",
       "location": "Kapitel XIV",
       "originalQuote": "Wir sagen nein zum Abbau von Eisenbahninfrastruktur.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "EISENBAHNINFRASTRUKTUR"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine PKW-Maut für In- und Ausländer",
       "location": "Kapitel XIV",
       "originalQuote": "Keine PKW-Maut, weder für Aus- noch für Inländer.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "AUSLÄNDER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine weiteren Flugkapazitäten ausbauen",
       "location": "Kapitel XIV",
       "originalQuote": "Als Sofortmaßnahme wollen wir den Ausbau weiterer Flugkapazitäten sofort",
-      "classification": "Verkehr & Mobilität"
+      "classification": "FLUGKAPAZITÄTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Privatisierung der Autobahnen",
       "location": "Kapitel VI",
       "originalQuote": "Wir wollen die Privatisierung der Autobahnen verhindern.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "PRIVATISIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Rabattverträge und Kassen-Ausschreibungen im Gesundheitswesen",
       "location": "Kapitel IV",
       "originalQuote": "Rabattverträge, Kassen-Ausschreibungen, z. B. bei Hilfsmitteln, und viele",
-      "classification": "Gesundheit & Drogen"
+      "classification": "KASSENAUSSCHREIBUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -328,7 +328,7 @@
       "topic": "Keine Finanzierung militärischer Projekte aus Steuergeldern",
       "location": "Kapitel XV",
       "originalQuote": "Rüstungsexporte dürfen nicht mehr mit Steuergeldern unterstützt werden –",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITÄRISCHER"
     },
     {
       "category": "semantisches Verbot",
@@ -342,7 +342,7 @@
       "topic": "Keine Rüstungsexporte in Krisengebiete",
       "location": "Einführung",
       "originalQuote": "Sie beklagt die Flüchtlinge, aber sie exportiert weiter Waffen in Krisenge",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTE"
     },
     {
       "category": "semantisches Verbot",
@@ -356,7 +356,7 @@
       "topic": "Keine militärische Offensivstrategie im Cyber-Raum",
       "location": "Kapitel XV",
       "originalQuote": "Wir lehnen die Offensivstrategie der Bundeswehr im Cyber-Raum ab",
-      "classification": "Rüstung & Waffen"
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "semantisches Verbot",
@@ -370,7 +370,7 @@
       "topic": "Keine Finanzierung von Atomkraftwerken im Ausland",
       "location": "Kapitel XIV",
       "originalQuote": "Die Kreditanstalt für Wiederaufbau (KfW) darf keine Atomkraftwerke im Aus",
-      "classification": "Umwelt & Klima"
+      "classification": "ATOMKRAFTWERKEN"
     },
     {
       "category": "semantisches Verbot",
@@ -384,14 +384,14 @@
       "topic": "Keine Kaufprämie für Elektroautos",
       "location": "Kapitel XIV",
       "originalQuote": "Die Kaufprämie für Elektroautos lehnen wir ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "ELEKTROAUTOS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Nachtflugverkehr in stadtnahen Räumen",
       "location": "Kapitel XIV",
       "originalQuote": "Wir treten für ein striktes Nachtflug-Verbot von 22 bis 6 Uhr ein, insbes",
-      "classification": "Verkehr & Mobilität"
+      "classification": "NACHTFLUGVERKEHR"
     },
     {
       "category": "semantisches Verbot",
@@ -405,28 +405,28 @@
       "topic": "Keine staatliche Förderung für Schifffahrt ohne soziale/ökologische Auflagen",
       "location": "Kapitel XIV",
       "originalQuote": "Staatliche Hilfen für die Schifffahrt müssen an soziale und ökologische Kr",
-      "classification": "Soziales & Arbeit"
+      "classification": "SOZIALEÖKOLOGISCHE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Versandhandel mit Arzneimitteln",
       "location": "Kapitel IV",
       "originalQuote": "Den Versandhandel mit Arzneimitteln wollen wir so weit wie möglich begrenz",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERSANDHANDEL"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Abschiebungen",
       "location": "Kapitel XVII",
       "originalQuote": "Abschiebungen lehnen wir ab.",
-      "classification": "Migration & Asyl"
+      "classification": "ABSCHIEBUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Exportsubventionen für Agrarprodukte",
       "location": "Kapitel XIV",
       "originalQuote": "Der Export von Agrarrohstoffen und Nahrungsmitteln darf nicht länger subv",
-      "classification": "Rüstung & Waffen"
+      "classification": "EXPORTSUBVENTIONEN"
     },
     {
       "category": "semantisches Verbot",
@@ -440,35 +440,35 @@
       "topic": "Keine militärische Nutzung von NATURA-2000-Gebieten",
       "location": "Kapitel XIV",
       "originalQuote": "Die Schutzgebiete sollen frei von Fischerei, militärischer Nutzung, Res",
-      "classification": "Rüstung & Waffen"
+      "classification": "NATURA2000GEBIETEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine militärische Komponente im Europäischen Auswärtigen Dienst",
       "location": "Kapitel XV",
       "originalQuote": "Wir wenden uns gegen eine militärische Komponente im Europäischen Auswärt",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITÄRISCHE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine militärische Zusammenarbeit mit autoritären Regimen",
       "location": "Kapitel XV",
       "originalQuote": "Eine Zusammenarbeit im Sicherheitsbereich mit autoritären Regimen zur Fl",
-      "classification": "Rüstung & Waffen"
+      "classification": "ZUSAMMENARBEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Vermischung ziviler und militärischer Maßnahmen",
       "location": "Kapitel XV",
       "originalQuote": "Eine Vermischung von zivilen und militärischen Maßnahmen lehnen wir ab.",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITÄRISCHER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Verwendung von Steuergeldern für militärische Zwecke (Zivilsteuergesetz)",
       "location": "Kapitel XV",
       "originalQuote": "DIE LINKE unterstützt die Initiative für ein sogenanntes Zivilsteuergesetz",
-      "classification": "Rüstung & Waffen"
+      "classification": "ZIVILSTEUERGESETZ"
     },
     {
       "category": "semantisches Verbot",
@@ -489,7 +489,7 @@
       "topic": "Keine Kriminalisierung von Drogenkonsumenten",
       "location": "Kapitel XVII",
       "originalQuote": "Wir wollen die Kriminalisierung von Konsumierenden beenden.",
-      "classification": "Gesundheit & Drogen"
+      "classification": "DROGENKONSUMENTEN"
     },
     {
       "category": "semantisches Verbot",
@@ -517,7 +517,7 @@
       "topic": "Keine Rüstungsexporte in autoritäre Staaten",
       "location": "Kapitel XV",
       "originalQuote": "Mit Unterstützung der Bundesregierung verwandelt die islamistische Dikta",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTE"
     },
     {
       "category": "semantisches Verbot",
@@ -531,14 +531,14 @@
       "topic": "Keine Privatisierung von Wasserversorgung",
       "location": "Kapitel VI",
       "originalQuote": "Privatisierung von Wasser, öffentlichem Wohnungsbestand, von Energieverso",
-      "classification": "Umwelt & Klima"
+      "classification": "WASSERVERSORGUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Verwendung von Steuergeldern für Rüstungsexporte",
       "location": "Kapitel XV",
       "originalQuote": "Rüstungsexporte dürfen nicht mehr mit Steuergeldern unterstützt werden",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTE"
     },
     {
       "category": "semantisches Verbot",
@@ -552,14 +552,14 @@
       "topic": "Keine militärischen Basen ausländischer Armeen in Deutschland",
       "location": "Kapitel XV",
       "originalQuote": "Alle ausländischen Militärbasen in Deutschland müssen geschlossen werden",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITÄRISCHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Beteiligung an NATO-Kriegen",
       "location": "Kapitel XV",
       "originalQuote": "Wir lehnen neue NATO-Kriegsbeteiligungen wie in Syrien und im Irak ab.",
-      "classification": "Rüstung & Waffen"
+      "classification": "BETEILIGUNG"
     },
     {
       "category": "semantisches Verbot",

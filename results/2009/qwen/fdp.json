@@ -6,14 +6,14 @@
       "topic": "Gentests bei Arbeitnehmern dürfen nicht verlangt werden",
       "location": "Abschnitt 3, Datenschutz im Arbeitsverhältnis",
       "originalQuote": "Die Erstellung und Vorlage eines Gentests darf nicht verlangt werden.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITNEHMERN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Abschuss unschuldiger Menschen in entführtem Flugzeug verboten",
       "location": "Abschnitt 3, Terrorismusbekämpfung",
       "originalQuote": "die gezielte Ermordung von potentiellen Terroristen oder auch der Abschuss unschuldiger",
-      "classification": "Verkehr & Mobilität"
+      "classification": "UNSCHULDIGER"
     },
     {
       "category": "explizites Verbot",
@@ -34,14 +34,14 @@
       "topic": "Kein „Feindstrafrecht“",
       "location": "Abschnitt 3, Terrorismus wirksam bekämpfen",
       "originalQuote": "Insbesondere lehnt die FDP die Einführung eines „Feindstrafrechts“, bei dem Kategorien des",
-      "classification": "Demokratie & Recht"
+      "classification": "FEINDSTRAFRECHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Sonderrecht für Terrorismusbekämpfung",
       "location": "Abschnitt 3, Terrorismus wirksam bekämpfen",
       "originalQuote": "Ein Sonderrecht für Terrorismusbekämpfung darf es nicht geben.",
-      "classification": "Demokratie & Recht"
+      "classification": "TERRORISMUSBEKÄMPFUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -76,14 +76,14 @@
       "topic": "Keine Staffelung der Bezugsdauer des Arbeitslosengeldes I",
       "location": "Abschnitt 2, Arbeit hat Vorfahrt",
       "originalQuote": "Die FDP lehnt eine Staffelung der Bezugsdauer des Arbeitslosengeldes I nach der",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSLOSENGELDES"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine vollständige Privatisierung der Arbeitsvermittlung",
       "location": "Abschnitt 2, Arbeit hat Vorfahrt",
       "originalQuote": "Eine vollständige Privatisierung der Arbeitsvermittlung ist nicht vorgesehen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSVERMITTLUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -111,28 +111,28 @@
       "topic": "Keine gesetzlichen Universaldienstverpflichtungen bei Breitbandversorgung",
       "location": "Abschnitt 3, Neue Medien",
       "originalQuote": "Die FDP spricht sich darüber hinaus gegen gesetzliche Universaldienstverpflichtungen bei der",
-      "classification": "Bildung & Forschung"
+      "classification": "UNIVERSALDIENSTVERPFLICHTUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Wirtschaftsbeteiligung von Parteien an Medienunternehmen",
       "location": "Abschnitt 3, Neue Medien",
       "originalQuote": "Die FDP ist gegen wirtschaftliche Beteiligungen von Parteien an Rundfunksendern,",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WIRTSCHAFTSBETEILIGUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Rekommunalisierung der Entsorgungswirtschaft",
       "location": "Abschnitt 5, Entsorgungswirtschaft marktwirtschaftlich gestalten",
       "originalQuote": "Eine Rekommunalisierung der Entsorgungswirtschaft lehnt die FDP ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ENTSORGUNGSWIRTSCHAFT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Verwendung von Meldedaten für GEZ",
       "location": "Abschnitt 3, Datenschutz",
       "originalQuote": "Die Weitergabe der Meldedaten an die Gebühreneinzugszentrale (GEZ) durch die",
-      "classification": "Digitales & Überwachung"
+      "classification": "VERWENDUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -167,7 +167,7 @@
       "topic": "Keine Speicherung und Nutzung von Mautdaten zur Strafverfolgung",
       "location": "Abschnitt 3, Keine unangemessene Überwachung der Bürger",
       "originalQuote": "Die automatische Kfz-Kennzeichenerfassung auf deutschen Straßen ohne konkreten Anlass und",
-      "classification": "Digitales & Überwachung"
+      "classification": "STRAFVERFOLGUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -202,7 +202,7 @@
       "topic": "Keine staatliche Bevormundung in der Umweltpolitik",
       "location": "Präambel",
       "originalQuote": "Politik muss im Umgang mit natürlichen Ressourcen technologieoffen und ideologiefrei",
-      "classification": "Umwelt & Klima"
+      "classification": "UMWELTPOLITIK"
     },
     {
       "category": "semantisches Verbot",
@@ -216,7 +216,7 @@
       "topic": "Keine Einführung eines Betreuungsgeldes",
       "location": "Abschnitt 3, Familienpolitik",
       "originalQuote": "Die Einführung eines Betreuungsgeldes lehnt die FDP ab.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "BETREUUNGSGELDES"
     },
     {
       "category": "semantisches Verbot",
@@ -251,7 +251,7 @@
       "topic": "Keine Übernahme des US-amerikanischen Rechtssystems (Sammelklagen)",
       "location": "Abschnitt 3, Für ein modernes Zivil- und Wirtschaftsrecht",
       "originalQuote": "Die FDP setzt sich für ein modernes deutsches Rechtssystem ein, ohne das amerikanische zu",
-      "classification": "Demokratie & Recht"
+      "classification": "USAMERIKANISCHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -265,21 +265,21 @@
       "topic": "Keine Ausweitung der nachträglichen Sicherungsverwahrung auf Jugendsträflinge",
       "location": "Abschnitt 3, Den Rechtsstaat stärken",
       "originalQuote": "Die Ausweitung der nachträglichen Sicherungsverwahrung auf Täter, die nach Jugendstrafrecht",
-      "classification": "Soziales & Arbeit"
+      "classification": "SICHERUNGSVERWAHRUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Unterordnung des Jagdrechts unter das Naturschutzrecht",
       "location": "Abschnitt 2, Für eine unternehmerische Land- und Forstwirtschaft",
       "originalQuote": "Die FDP ist gegen eine Unterordnung des Jagdrechts unter das Naturschutzrecht.",
-      "classification": "Umwelt & Klima"
+      "classification": "NATURSCHUTZRECHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Steuern auf Trinkgeld",
       "location": "Abschnitt 2, Chancen des Tourismus nutzen",
       "originalQuote": "Auch zukünftig dürfen keine Steuern auf Trinkgeld erhoben werden.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "TRINKGELD"
     },
     {
       "category": "semantisches Verbot",
@@ -293,14 +293,14 @@
       "topic": "Keine Erhebung von Fluggastdaten",
       "location": "Abschnitt 3, Datenschutz",
       "originalQuote": "Die Erhebung und Speicherung von Fluggastdaten lehnen die Liberalen ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "FLUGGASTDATEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Übernahme staatlicher Hochschulen in Beamtenverhältnisse",
       "location": "Abschnitt 4, Mehr Freiheit für die Bildungseinrichtungen vor Ort",
       "originalQuote": "Die FDP ist gegen die Regel-Verbeamtung bei Neueinstellungen von Lehrern.",
-      "classification": "Bildung & Forschung"
+      "classification": "BEAMTENVERHÄLTNISSE"
     },
     {
       "category": "semantisches Verbot",
@@ -349,7 +349,7 @@
       "topic": "Kein Militäreinsatz ohne völkerrechtliche Legitimation",
       "location": "Abschnitt 6, Militärische Einsätze bleiben letztes Mittel",
       "originalQuote": "Einsätze ohne klare völkerrechtliche Grundlage lehnt die FDP ab, ebenso wie einen",
-      "classification": "Rüstung & Waffen"
+      "classification": "VÖLKERRECHTLICHE"
     },
     {
       "category": "semantisches Verbot",
@@ -370,7 +370,7 @@
       "topic": "Keine Verwendung von Melderegisterdaten zu Werbezwecken ohne Zustimmung",
       "location": "Abschnitt 3, Datenschutz",
       "originalQuote": "Melderegisterauskünfte zu Werbezwecken sollen nur zulässig sein, wenn die Betroffenen",
-      "classification": "Digitales & Überwachung"
+      "classification": "MELDEREGISTERDATEN"
     }
   ]
 }

@@ -13,21 +13,21 @@
       "topic": "Unterdrückung von Beschwerden über Ungerechtigkeiten",
       "location": "1 Bekenntnis zu Gerechtigkeit …",
       "originalQuote": "Beschwerden über angebliche Ungerechtigkeiten sind mit aller Gewalt zu unterdrücken.",
-      "classification": "Demokratie & Recht"
+      "classification": "UNGERECHTIGKEITEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Einstellung von Tierversuchen",
       "location": "6 Tierschutz",
       "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERVERSUCHEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot des Einsatzes von Chatbots/Politikern im Wahlkampf",
       "location": "7 Kein Einsatz von Chatbots!",
       "originalQuote": "Chatbots wie Ralf Stegner (SPD), Peter Tauber (CDU), Beatrix von Strolch (AfD), Andy Scheuer (CSU) und Chris Lindner (FDP) dürfen in Wahlkampfzeiten nicht eingesetzt werden.",
-      "classification": "Rüstung & Waffen"
+      "classification": "CHATBOTSPOLITIKERN"
     },
     {
       "category": "semantisches Verbot",

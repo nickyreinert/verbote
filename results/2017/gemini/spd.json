@@ -13,21 +13,21 @@
       "topic": "Aufrüstung und Säbelrasseln als Mittel zur Konfliktlösung ablehnen",
       "location": "Quelle: 3695",
       "originalQuote": "Im Geiste der Entspannungspolitik Willy Brandts ist es unser Anspruch, Brücken zu bauen. Aufrüstung und Säbelrasseln lösen keine Konflikte.",
-      "classification": "Rüstung & Waffen"
+      "classification": "KONFLIKTLÖSUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kinderarmut in Deutschland verhindern",
       "location": "Quelle: 3746",
       "originalQuote": "Kinderarmut bekämpfen: Kinderarmut darf es in einem so reichen Land wie unserem nicht geben.",
-      "classification": "Soziales & Arbeit"
+      "classification": "KINDERARMUT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Benachteiligung von Kindern armer Eltern beseitigen",
       "location": "Quelle: 3748",
       "originalQuote": "Wir werden die Benachteiligung von Kindern armer Eltern beseitigen und ihnen eine gleichberechtigte Teilhabe ermöglich",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "BENACHTEILIGUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -41,7 +41,7 @@
       "topic": "Verlust von Chancen für Jugendliche am Ende der Schulpflicht verhindern",
       "location": "Quelle: 3781",
       "originalQuote": "Wir wollen keinen Jugendlichen zurücklassen. Das Ende der Schulpflicht darf deshalb nicht dazu führen, dass Jugendliche",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "SCHULPFLICHT"
     },
     {
       "category": "semantisches Verbot",
@@ -55,7 +55,7 @@
       "topic": "Keine Altersdiskriminierung bei der Freistellung für Berufsschultage",
       "location": "Quelle: 3888",
       "originalQuote": "Eine Freistellung für Berufsschultage muss für Auszubildende unabhängig vom Alter gelten.",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "ALTERSDISKRIMINIERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -69,7 +69,7 @@
       "topic": "Stoppen von Kapitalabflüssen durch Steuerhinterziehung und -vermeidung",
       "location": "Quelle: 3991",
       "originalQuote": "effizienter nationaler Steuersysteme kommt es darauf an, die Kapitalabflüsse durch Steuerhinterziehung und -vermeidu",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERHINTERZIEHUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -83,7 +83,7 @@
       "topic": "Anonyme Briefkastenfirmen zur Steuerhinterziehung untersagen",
       "location": "Quelle: 4001",
       "originalQuote": "Es darf keine anonymen Briefkastenfirmen mehr geben, deren einziger Zweck es ist, Steuern zu hinter",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERHINTERZIEHUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -104,14 +104,14 @@
       "topic": "Ablehnung und Verhinderung von Gentechnik in Landwirtschaft und Lebensmitteln (Gentechnikfreie Landwirtschaft)",
       "location": "Quelle: 4050",
       "originalQuote": "Weiterhin setzen wir uns für gentechnikfreie Landwirtschaft und Lebensmittel ein.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Tierschutz & Landwirtschaft"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Unregulierte Markteinführung neuer gentechnisch erzeugter Pflanzen und Tiere verhindern",
       "location": "Quelle: 4051",
       "originalQuote": "Wir werden sicherstellen, dass auch bei den sogenannten neuen Gentechnikverfahren das Vorsorgeprinzip und die Wahlfrei",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "MARKTEINFÜHRUNG"
     },
     {
       "category": "explizites Verbot",
@@ -132,21 +132,21 @@
       "topic": "Ablehnung von Verboten zugunsten von Vergütungen im Urheberrecht",
       "location": "Quelle: 4118",
       "originalQuote": "Wir wollen Vergütung, keine Verbote. Dazu soll auch das Prinzip der pauschalen",
-      "classification": "Demokratie & Recht"
+      "classification": "URHEBERRECHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Straflosigkeit bei Kriegsverbrechen und Verbrechen gegen die Menschlichkeit beenden",
       "location": "Quelle: 4140",
       "originalQuote": "Wir setzen uns für die Stärkung des Völkerrechts und des Internationalen Strafgerichtshofs ein, um die Straflosigkeit",
-      "classification": "Rüstung & Waffen"
+      "classification": "KRIEGSVERBRECHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Bekämpfung von Steuerhinterziehung, -vermeidung und Finanzverkehr zu illegalen Zwecken",
       "location": "Quelle: 4149",
       "originalQuote": "Steuerhinterziehung und -vermeidung sowie Finanzverkehr zu illegalen Zwecken müssen international bekämpft werden.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "STEUERHINTERZIEHUNG"
     },
     {
       "category": "semantisches Verbot",

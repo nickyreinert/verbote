@@ -6,7 +6,7 @@
       "topic": "Privatisierung von Währungen, einschließlich privater digitaler Währungen (Stablecoins)",
       "location": "Abschnitt: Wie wir unsere Politik finanzieren wollen",
       "originalQuote": "Wir lehnen eine Privatisierung von Währungen ab. Dies gilt auch für private digitale Währungen",
-      "classification": "Digitales & Überwachung"
+      "classification": "PRIVATISIERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -41,14 +41,14 @@
       "topic": "Wettlauf nach unten bei Umweltstandards oder Arbeitnehmer- und Verbraucherrechten nach Brexit",
       "location": "Abschnitt: Europäische Nachbarschaften pflegen",
       "originalQuote": "Einen Wettlauf nach unten, was Umweltstandards oder die Rechte von Arbeitnehmern und Verbrauc",
-      "classification": "Umwelt & Klima"
+      "classification": "VERBRAUCHERRECHTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verlängerung der täglichen Arbeitszeit",
       "location": "Abschnitt: Arbeit wertschätzen",
       "originalQuote": "Eine Verlängerung der täglichen Arbeitszeit schließen wir aus.",
-      "classification": "Soziales & Arbeit"
+      "classification": "VERLÄNGERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -62,14 +62,14 @@
       "topic": "Zulassung von Schwangerschaftsabbrüchen nur in spezifischen medizinischen Einrichtungen",
       "location": "Abschnitt: Gleichstellung verwirklichen",
       "originalQuote": "Deshalb müssen Länder und Kommunen dafür sorgen, dass Krankenhäuser, die öffentliche Mittel erhal",
-      "classification": "Gesundheit & Drogen"
+      "classification": "SCHWANGERSCHAFTSABBRÜCHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Strafrechtliche Behandlung von Schwangerschaftskonflikten",
       "location": "Abschnitt: Gleichstellung verwirklichen",
       "originalQuote": "Schwangerschaftskonflikte gehören nicht ins Strafrecht.",
-      "classification": "Demokratie & Recht"
+      "classification": "SCHWANGERSCHAFTSKONFLIKTEN"
     },
     {
       "category": "semantisches Verbot",
@@ -83,21 +83,21 @@
       "topic": "Erhöhung des gesetzlichen Renteneintrittsalters",
       "location": "Abschnitt: Alter absichern",
       "originalQuote": "Wir lehnen eine weitere Anhebung des gesetzlichen Renteneintrittsalters ab, weil sie für viele, di",
-      "classification": "Soziales & Arbeit"
+      "classification": "RENTENEINTRITTSALTERS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Zurückdrängung der Rolle des Staates zugunsten rein marktwirtschaftlicher Logik im Gesundheitssektor",
       "location": "Abschnitt: Update für die Gesundheit",
       "originalQuote": "Deutschland versorgte Kranke in aller Welt mit allen denkbaren Heilmitteln, von Aspirin bis zum Imp",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "MARKTWIRTSCHAFTLICHER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ausbau und Verstärkung von Sondersystemen in der Alterssicherung",
       "location": "Abschnitt: Alter absichern",
       "originalQuote": "Es ist an der Zeit, die Gesamtheit der Erwerbstätigen in die Rentenversicherung aufzunehmen und di",
-      "classification": "Soziales & Arbeit"
+      "classification": "ALTERSSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -111,7 +111,7 @@
       "topic": "Unfaire Handelspraktiken im Lebensmittelhandel",
       "location": "Abschnitt: Natur respektieren",
       "originalQuote": "Wir werden im Lebensmittelhandel unfairen Handelspraktiken einen Riegel vorschieben, denn sie sch",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "LEBENSMITTELHANDEL"
     },
     {
       "category": "semantisches Verbot",

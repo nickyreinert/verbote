@@ -6,14 +6,14 @@
       "topic": "Verbot des Versandhandels mit verschreibungspflichtigen Arzneimitteln",
       "location": "Kapitel: Gesundheit und Pflege auf hohem Niveau",
       "originalQuote": "indem wir den Versandhandel mit verschreibungspflichtigen Arzneimitteln verbieten.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERSCHREIBUNGSPFLICHTIGEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Klonierung von Tieren",
       "location": "Kapitel: Landwirtschaft hat Zukunft",
       "originalQuote": "Deshalb lehnen wir Klonierung von Tieren ab. Wir wollen ein partnerschaftliches",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "KLONIERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -34,35 +34,35 @@
       "topic": "Ablehnung von Einwanderung in die sozialen Sicherungssysteme",
       "location": "Kapitel: Gute Arbeit auch für morgen – Vollbeschäftigung für Deutschland",
       "originalQuote": "Eine Einwanderung in die sozialen Sicherungssysteme lehnen wir ab.",
-      "classification": "Soziales & Arbeit"
+      "classification": "Migration & Asyl"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung eines generellen Tempolimits auf Autobahnen",
       "location": "Kapitel: Verkehrsinfrastruktur erneuern und ausbauen",
       "originalQuote": "Ein generelles Tempolimit auf deutschen Autobahnen lehnen wir ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "TEMPOLIMITS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Einführung einer Bürgerversicherung",
       "location": "Kapitel: Gesundheit und Pflege auf hohem Niveau",
       "originalQuote": "Unser Gesundheitssystem hat sich mit der freiberuflichen Ärzteschaft, seiner Selbstverwaltung",
-      "classification": "Soziales & Arbeit"
+      "classification": "BÜRGERVERSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Wiedereinführung der Vermögensteuer",
       "location": "Kapitel: Fair und gerecht: Steuern senken für alle",
       "originalQuote": "Die Wiedereinführung der Vermögensteuer schließen wir aus.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WIEDEREINFÜHRUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Steuererhöhungen",
       "location": "Kapitel: Fair und gerecht: Steuern senken für alle",
       "originalQuote": "Im Gegensatz zu anderen Parteien sagen wir: Wir wollen keine Steuererhöhungen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERERHÖHUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -76,7 +76,7 @@
       "topic": "Ablehnung von generellen Fahrverboten für bestimmte Fahrzeugtypen",
       "location": "Kapitel: Mobilität für alle",
       "originalQuote": "Generelle Fahrverbote für bestimmte Fahrzeugtypen lehnen wir ab.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "FAHRZEUGTYPEN"
     },
     {
       "category": "semantisches Verbot",
@@ -90,21 +90,21 @@
       "topic": "Ablehnung von verpflichtenden Fahrprüfungen für ältere Autofahrer",
       "location": "Kapitel: Politik für Ältere und Senioren",
       "originalQuote": "Wir setzen auf mündige Verkehrsteilnehmer und lehnen verpflichtende Fahrprüfungen für",
-      "classification": "Verkehr & Mobilität"
+      "classification": "VERPFLICHTENDEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Verschlechterungen bei der Erbschaftsteuer",
       "location": "Kapitel: Fair und gerecht: Steuern senken für alle",
       "originalQuote": "Deshalb lehnen wir jede Verschlechterung bei der Erbschaftsteuer ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERSCHLECHTERUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung staatlicher Maßnahmen, die Wohnungsbau verteuern",
       "location": "Kapitel: Eigentum und Wohnraum für alle",
       "originalQuote": "In der kommenden Wahlperiode werden wir keine Maßnahmen beschließen, die die Schaffung",
-      "classification": "Wohnen & Miete"
+      "classification": "STAATLICHER"
     },
     {
       "category": "semantisches Verbot",

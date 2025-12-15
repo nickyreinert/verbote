@@ -1,0 +1,96 @@
+{
+  "sourceFile": "SPD - 2009 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Rückkehr zum marktradikalen Zeitalter",
+      "location": "I. Ein neues Jahrzehnt",
+      "originalQuote": "Viele sagen: „Diese Krise war ein Betriebsunfall. Lasst ihn uns beheben, dann geht es weiter wie b",
+      "classification": "MARKTRADIKALEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der NPD",
+      "location": "13. Mehr Demokratie wagen",
+      "originalQuote": "Deshalb muss das Verbot der NPD angestrebt werden.",
+      "classification": "SONSTIGES"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neue Atomkraftwerke",
+      "location": "III. Eine solidarische Mehrheit",
+      "originalQuote": "Wer keine neuen Atomkraftwerke will, muss SPD wählen.",
+      "classification": "ATOMKRAFTWERKE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schädliche Leerverkäufe",
+      "location": "II. Unsere Politik - Neue Regeln für die Finanzmärkte",
+      "originalQuote": "Schädliche Leerverkäufe, die vor allem von Hedge-Fonds eingesetzt werden, müssen unterbunden werden",
+      "classification": "LEERVERKÄUFE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kurzfristige spekulative Beteiligungen zu Lasten von Standorten und Arbeitsplätzen",
+      "location": "II. Unsere Politik - Neue Regeln für die Finanzmärkte",
+      "originalQuote": "Kurzfristige und spekulative Beteiligungen zu Lasten von Standorten und Arbeitsplätzen lehnen wir w",
+      "classification": "ARBEITSPLÄTZEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gehaltsexzesse und goldene Handschläge mitfinanzieren",
+      "location": "II. Unsere Politik - Begrenzung von Managergehältern",
+      "originalQuote": "Gehaltsexzesse und goldene Handschläge für unfähige Manager dürfen nicht von der Allgemeinheit mit",
+      "classification": "GEHALTSEXZESSE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Rassistische oder antisemitische Parolen dulden",
+      "location": "13. Mehr Demokratie wagen",
+      "originalQuote": "Im politischen Diskurs dulden wir keine rassistischen oder antisemitischen Parolen und Stereotype.",
+      "classification": "ANTISEMITISCHE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschottung und Protektionismus",
+      "location": "14. Für eine globale Verantwortungsgemeinschaft",
+      "originalQuote": "Die Bewältigung der Wirtschaftskrise darf nicht zu Abschottung und Protektionismus führen.",
+      "classification": "PROTEKTIONISMUS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Rüstungsexporte in Krisengebiete",
+      "location": "16. Weltweit für Frieden und Abrüstung",
+      "originalQuote": "Rüstungsexporte in Krisengebiete und eine Aufweichung der rüstungsexportpolitischen Grundsätze lehn",
+      "classification": "RÜSTUNGSEXPORTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Amerikanische Raketenschirmpläne",
+      "location": "16. Weltweit für Frieden und Abrüstung",
+      "originalQuote": "Die bisherigen amerikanischen Pläne für einen Raketenschirm sind mit diesem Ziel nicht vereinbar un",
+      "classification": "RAKETENSCHIRMPLÄNE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Koalition mit Die Linke auf Bundesebene",
+      "location": "III. Eine solidarische Mehrheit",
+      "originalQuote": "Ein Bündnis mit der Partei „Die Linke“ schließen wir Sozialdemokratinnen und Sozialdemokraten auf B",
+      "classification": "BUNDESEBENE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Minderheitsregierung geduldet von Die Linke",
+      "location": "III. Eine solidarische Mehrheit",
+      "originalQuote": "Wir werden auch keine Minderheitsregierung bilden, die von der Linkspartei geduldet wird.",
+      "classification": "MINDERHEITSREGIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Leitkulturdebatte",
+      "location": "13. Mehr Demokratie wagen",
+      "originalQuote": "Wir lehnen eine Leitkulturdebatte ab, denn sie ist mit der Idee von Freiheit und Gleichheit nicht v",
+      "classification": "LEITKULTURDEBATTE"
+    }
+  ]
+}

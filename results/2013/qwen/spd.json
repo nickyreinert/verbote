@@ -20,7 +20,7 @@
       "topic": "Verbot des Einsatzes von Leiharbeitnehmern als Streikbrecher",
       "location": "II.2 Gute Arbeit in einer modernen Gesellschaft.",
       "originalQuote": "Der Einsatz von Leiharbeitnehmerinnen und Leiharbeitnehmern als Streikbrecher soll verboten",
-      "classification": "Soziales & Arbeit"
+      "classification": "LEIHARBEITNEHMERN"
     },
     {
       "category": "explizites Verbot",
@@ -41,14 +41,14 @@
       "topic": "Verbot von Werbung und Sponsoring durch Lebensmittelkonzerne in Kitas und Schulen",
       "location": "VII.2 Verbraucherinnen und Verbraucher schützen und stärken.",
       "originalQuote": "Werbung und Sponsoring durch Lebensmittelkonzerne in Kindergärten und Schulen werden wir v",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "LEBENSMITTELKONZERNE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot des Handels und der Haltung von Wild- und exotischen Tieren (gewerbliche Tierbörsen)",
       "location": "VI.4 Ländliche Räume",
       "originalQuote": "Der Import von Wildfängen soll generell verboten werden und gewerbliche Tierbörsen werden",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "GEWERBLICHE"
     },
     {
       "category": "explizites Verbot",
@@ -62,14 +62,14 @@
       "topic": "Verbot der Anwendung des „sicheren Einschlusses“ bei stillgelegten Atomkraftwerken",
       "location": "II.5 Sichere und bezahlbare Energie - Die Energiewende zum Erfolg führen.",
       "originalQuote": "Der \"sichere Einschluss\" ist ein für die Bevölkerung unzumutbares Verfahren im Umgang mit s",
-      "classification": "Umwelt & Klima"
+      "classification": "ATOMKRAFTWERKEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Ausbau der Offshore-Windenergie ohne Berücksichtigung der Stärkung Ostdeutschlands",
       "location": "II.5 Sichere und bezahlbare Energie - Die Energiewende zum Erfolg führen.",
       "originalQuote": "Die Stärke Ostdeutschlands bei den Erneuerbaren Energien muss genutzt werden, der notwendige",
-      "classification": "Umwelt & Klima"
+      "classification": "OFFSHOREWINDENERGIE"
     },
     {
       "category": "semantisches Verbot",
@@ -83,7 +83,7 @@
       "topic": "Keine Unterstützung des Exports von Atomtechnologie",
       "location": "II.5 Sichere und bezahlbare Energie - Die Energiewende zum Erfolg führen.",
       "originalQuote": "Auch darf der Export von Atomtechnologie etwa zum Bau neuer Reaktoren im Ausland nicht unt",
-      "classification": "Rüstung & Waffen"
+      "classification": "ATOMTECHNOLOGIE"
     },
     {
       "category": "semantisches Verbot",
@@ -97,14 +97,14 @@
       "topic": "Keine Verwendung schädlicher Finanzprodukte",
       "location": "II.1 Märkte brauchen Regeln – für nachhaltiges Wachstum.",
       "originalQuote": "Rein spekulative Finanzprodukte, die keinen wirtschaftlichen Nutzen haben, wollen wir verb",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "FINANZPRODUKTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Sozialisierung von Verlusten und Privatisierung von Gewinnen",
       "location": "II.1 Märkte brauchen Regeln – für nachhaltiges Wachstum.",
       "originalQuote": "Keine Sozialisierung von Verlusten und Kosten bei Privatisierung von Gewinnen. (Energievers",
-      "classification": "Soziales & Arbeit"
+      "classification": "SOZIALISIERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -118,14 +118,14 @@
       "topic": "Kein Fortführen der Politik wachsender Neuverschuldung",
       "location": "I. Deutschland besser und gerechter regieren.",
       "originalQuote": "Diese Politik wachsender Neuverschuldung, selbst in Zeiten wirtschaftlicher Hochkonjunktur",
-      "classification": "Europa & Außenpolitik"
+      "classification": "NEUVERSCHULDUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Steuersenkungen trotz Investitionsbedarfs",
       "location": "I. Deutschland besser und gerechter regieren.",
       "originalQuote": "Die doppelte Aufgabe in Deutschland – die Schulden unseres Landes abzubauen und gleichzei",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "INVESTITIONSBEDARFS"
     },
     {
       "category": "semantisches Verbot",
@@ -139,7 +139,7 @@
       "topic": "Keine flächendeckende Inhaltefilterung oder Internetsperren bei Urheberrechtsverletzungen",
       "location": "III.6 Kultur-, Medien und Netzpolitik.",
       "originalQuote": "Dazu bedarf es keiner flächendeckenden Inhaltefilterung des Datenstroms, keiner Internetsp",
-      "classification": "Digitales & Überwachung"
+      "classification": "URHEBERRECHTSVERLETZUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -153,35 +153,35 @@
       "topic": "Keine Anhebung des Renteneintrittsalters ohne Beschäftigungsniveau von über 50 % bei 60–64-Jährigen",
       "location": "V.2 Gute Arbeit, gute Rente.",
       "originalQuote": "Wir wollen nicht, dass sich die Anhebung des Renteneintrittsalters wie eine Kürzung der Re",
-      "classification": "Soziales & Arbeit"
+      "classification": "RENTENEINTRITTSALTERS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Anbau gentechnisch veränderter Pflanzen",
       "location": "VII.2 Verbraucherinnen und Verbraucher schützen und stärken.",
       "originalQuote": "Wir lehnen - wie 80 Prozent der deutschen Bevölkerung - den Anbau von gentechnisch verände",
-      "classification": "Wohnen & Miete"
+      "classification": "GENTECHNISCH"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Aufweichung des Parlamentsvorbehalts bei Bundeswehreinsätzen",
       "location": "X. Unsere Idee der Globalisierung: Gerechtigkeit für alle statt Reichtum für wenige",
       "originalQuote": "Eine Aufweichung des Parlamentsvorbehalts lehnen wir ab. Wir wollen, dass die begonnene R",
-      "classification": "Rüstung & Waffen"
+      "classification": "PARLAMENTSVORBEHALTS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine überstürzte Entscheidung zur Beschaffung von Kampfdrohnen",
       "location": "X. Unsere Idee der Globalisierung: Gerechtigkeit für alle statt Reichtum für wenige",
       "originalQuote": "Eine überstürzte Entscheidung zur Beschaffung von Kampfdrohnen lehnen wir ab. Wir fordern",
-      "classification": "Rüstung & Waffen"
+      "classification": "ENTSCHEIDUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Rüstungsexporte in Krisengebiete oder Länder mit Menschenrechtsverletzungen",
       "location": "X. Unsere Idee der Globalisierung: Gerechtigkeit für alle statt Reichtum für wenige",
       "originalQuote": "Rüstungsexporte in Krisengebiete und in Länder, in denen die Menschenrechte massiv missac",
-      "classification": "Rüstung & Waffen"
+      "classification": "MENSCHENRECHTSVERLETZUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -202,42 +202,42 @@
       "topic": "Kein Betreuungsgeld",
       "location": "III.1 Chancengleichheit und Aufstieg durch Bildung.",
       "originalQuote": "Auch daher werden wir das bildungsfeindliche Betreuungsgeld abschaffen.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "BETREUUNGSGELD"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Verlängerung des Deutschlandstipendiums",
       "location": "III.1 Chancengleichheit und Aufstieg durch Bildung.",
       "originalQuote": "Das von der schwarz gelben Bundesregierung eingeführte Deutschlandstipendium wollen wir au",
-      "classification": "Europa & Außenpolitik"
+      "classification": "DEUTSCHLANDSTIPENDIUMS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Leistungsschutzrecht für Presseverleger",
       "location": "III.6 Kultur-, Medien und Netzpolitik.",
       "originalQuote": "Das von Schwarz-Gelb beschlossenen Leistungsschutzrecht lehnen wir ab.",
-      "classification": "Demokratie & Recht"
+      "classification": "LEISTUNGSSCHUTZRECHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Subventionierung von Niedriglöhnen",
       "location": "IV. Für eine gerechte Steuerpolitik",
       "originalQuote": "Es ist für die SPD von zentraler Bedeutung, die Subventionierung von Niedriglöhnen endlic",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "SUBVENTIONIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Fortsetzung der bisherigen Energiepolitik der Bundesregierung",
       "location": "II.5 Sichere und bezahlbare Energie - Die Energiewende zum Erfolg führen.",
       "originalQuote": "Die Bundesregierung aus CDU/CSU und FDP ist mit ihrem „Management“ auf bestem Wege, die E",
-      "classification": "Umwelt & Klima"
+      "classification": "BUNDESREGIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine staatliche Finanzierung von Projekten mit ungerechten Steuervorteilen für Spitzenverdiener",
       "location": "III.2 Gleichberechtigung und Gleichstellung verwirklichen.",
       "originalQuote": "Der Splittingvorteil ist am größten einerseits für Spitzenverdiener und andererseits für P",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "SPITZENVERDIENER"
     },
     {
       "category": "semantisches Verbot",
@@ -258,21 +258,21 @@
       "topic": "Keine Umgehung des Arbeitsrechts bei Minijobs",
       "location": "II.2 Gute Arbeit in einer modernen Gesellschaft.",
       "originalQuote": "Wir wollen dafür sorgen, dass die Umgehung des Arbeitsrechtes auch bei Mini-Jobs künftig",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSRECHTS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Förderung von Projekten, die soziale Spaltung fördern",
       "location": "VI.3 Aktionsprogramm für eine solidarische Stadt und bezahlbares Wohnen.",
       "originalQuote": "Wenn Familien, Studierende, Rentnerinnen und Rentner in den Innenstädten keine bezahlbare",
-      "classification": "Soziales & Arbeit"
+      "classification": "FÖRDERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Einsatz von Antibiotika in der Tierhaltung außer in medizinisch notwendigen Fällen",
       "location": "VI.4 Ländliche Räume",
       "originalQuote": "Die landwirtschaftliche Nutztierhaltung muss sich stärker an den Bedürfnissen der Tiere au",
-      "classification": "Gesundheit & Drogen"
+      "classification": "ANTIBIOTIKA"
     },
     {
       "category": "semantisches Verbot",
@@ -293,7 +293,7 @@
       "topic": "Keine Verwendung reiner Lobbyinteressen bei Gesetzesentwürfen ohne Offenlegung",
       "location": "VIII.1 Demokratie als Gesellschaftsprinzip.",
       "originalQuote": "Wir wollen deshalb eine „legislative Fußspur\" einführen aus der hervorgeht, welchen sign",
-      "classification": "Demokratie & Recht"
+      "classification": "GESETZESENTWÜRFEN"
     }
   ]
 }

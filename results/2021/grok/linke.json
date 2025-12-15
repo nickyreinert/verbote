@@ -20,49 +20,49 @@
       "topic": "Ablehnung neuer fossiler Infrastruktur",
       "location": "Die Wirtschaft umbauen",
       "originalQuote": "Wir wollen keine neue fossile Infrastruktur.",
-      "classification": "Umwelt & Klima"
+      "classification": "INFRASTRUKTUR"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Atomkraft und Fracking",
       "location": "Die Wirtschaft umbauen",
       "originalQuote": "Atomkraft und Fracking erteilen wir eine Absage.",
-      "classification": "Umwelt & Klima"
+      "classification": "ATOMKRAFT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Rüstungsexporten in bestimmte Länder",
       "location": "Europäische Entspannungspolitik",
       "originalQuote": "Exporte in autoritäre Regime wie Ägypten und die Türkei müssen sofort gestoppt werden.",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung europäischer Verteidigungsunion",
       "location": "Europäische Entspannungspolitik",
       "originalQuote": "Wir lehnen die Pläne zu einer europäischen Verteidigungsunion und einer Kooperation von EU und NATO ab.",
-      "classification": "Bildung & Forschung"
+      "classification": "VERTEIDIGUNGSUNION"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung des Europäischen Verteidigungsfonds",
       "location": "Europäische Entspannungspolitik",
       "originalQuote": "Wir lehnen den Europäischen Verteidigungsfonds ab.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "VERTEIDIGUNGSFONDS"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Rüstungsexporten",
       "location": "Gegen Aufrüstung und Krieg",
       "originalQuote": "wir wollen den Export von Waffen und Waffenfabriken verbieten.",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Stopp von Rüstungsexporten in kriegsbeteiligte Länder",
       "location": "Gegen Aufrüstung und Krieg",
       "originalQuote": "Rüstungsexporte in Länder, die an Kriegen beteiligt sind und Menschenrechte missachten, müssen sofort unterbunden werden.",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTEN"
     },
     {
       "category": "semantisches Verbot",
@@ -83,7 +83,7 @@
       "topic": "Ablehnung von Fracking und Atomkraft",
       "location": "Die Wirtschaft umbauen",
       "originalQuote": "Atomkraft und Fracking erteilen wir eine Absage.",
-      "classification": "Umwelt & Klima"
+      "classification": "ATOMKRAFT"
     }
   ]
 }

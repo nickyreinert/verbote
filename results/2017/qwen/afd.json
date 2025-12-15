@@ -13,21 +13,21 @@
       "topic": "Verbot der Beteiligung deutscher Parteien an Medienunternehmen",
       "location": "Kapitel 1.9",
       "originalQuote": "Ferner soll den deutschen Parteien endlich die Beteiligung an Unternehmen, insbesondere Medienun",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "MEDIENUNTERNEHMEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Annahme von Firmenspenden durch Parteien",
       "location": "Kapitel 1.9",
       "originalQuote": "Ferner soll den deutschen Parteien endlich die Beteiligung an Unternehmen, insbesondere Medienun",
-      "classification": "Demokratie & Recht"
+      "classification": "FIRMENSPENDEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot des Kopftuchs im öffentlichen Dienst und an Bildungseinrichtungen",
       "location": "Kapitel 6",
       "originalQuote": "Im öffentlichen Dienst soll kein Kopftuch getragen werden, in Bildungseinrichtungen weder von Lehr",
-      "classification": "Bildung & Forschung"
+      "classification": "BILDUNGSEINRICHTUNGEN"
     },
     {
       "category": "explizites Verbot",
@@ -55,7 +55,7 @@
       "topic": "Verbot des § 4a Abs. 2 Nr. 2 TierSchG",
       "location": "Kapitel 15.5",
       "originalQuote": "Wir fordern eine ersatzlose Streichung des § 4a Abs. 2 Nr. 2 TierSchG.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERSCHG"
     },
     {
       "category": "semantisches Verbot",
@@ -69,14 +69,14 @@
       "topic": "Keine weitere Einwanderung in die Sozialsysteme",
       "location": "Kapitel 5.4",
       "originalQuote": "Keine weitere Einwanderung in die Sozialsysteme",
-      "classification": "Soziales & Arbeit"
+      "classification": "Migration & Asyl"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Familiennachzug für Flüchtlinge",
       "location": "Kapitel 5.7",
       "originalQuote": "Wir lehnen jeglichen Familiennachzug für Flüchtlinge ab, da die deutschen Sozialsysteme diese Las",
-      "classification": "Migration & Asyl"
+      "classification": "FAMILIENNACHZUG"
     },
     {
       "category": "semantisches Verbot",
@@ -90,7 +90,7 @@
       "topic": "Keine islamischen Körperschaften des öffentlichen Rechts",
       "location": "Kapitel 6",
       "originalQuote": "Die AfD lehnt es ab, islamischen Organisationen den Status einer Körperschaft des öffentlichen R",
-      "classification": "Demokratie & Recht"
+      "classification": "KÖRPERSCHAFTEN"
     },
     {
       "category": "semantisches Verbot",
@@ -104,21 +104,21 @@
       "topic": "Kein Koranunterricht durch verfassungsfeindliche Moscheevereine",
       "location": "Kapitel 8.10",
       "originalQuote": "Wir fordern deshalb eine flächendeckende Überprüfung aller Moscheevereine und bei Verdacht auf V",
-      "classification": "Demokratie & Recht"
+      "classification": "VERFASSUNGSFEINDLICHE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein bekenntnisgebundener Islamunterricht an Schulen",
       "location": "Kapitel 8.8",
       "originalQuote": "Keinen bekenntnisgebundenen Islamunterricht an deutschen Schulen",
-      "classification": "Bildung & Forschung"
+      "classification": "BEKENNTNISGEBUNDENER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Sonderrechte für Muslime im Schulunterricht",
       "location": "Kapitel 8.9",
       "originalQuote": "Keine Sonderrechte für Muslime an unseren Schulen",
-      "classification": "Demokratie & Recht"
+      "classification": "SCHULUNTERRICHT"
     },
     {
       "category": "semantisches Verbot",
@@ -132,7 +132,7 @@
       "topic": "Verbot der Einbürgerung durch bloße Geburt in Deutschland",
       "location": "Kapitel 4.1",
       "originalQuote": "Verhinderung des Erwerbs der deutschen Staatsangehörigkeit durch bloße Geburt in Deutschland, wei",
-      "classification": "Europa & Außenpolitik"
+      "classification": "EINBÜRGERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -160,14 +160,14 @@
       "topic": "Verbot der Umsetzung der EU-Feuerwaffenrichtlinie",
       "location": "Kapitel 4.7",
       "originalQuote": "Die Umsetzung der EU-Feuerwaffenrichtlinie lehnen wir ab.",
-      "classification": "Rüstung & Waffen"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot der Finanzierung von Moscheen durch ausländische Staaten",
       "location": "Kapitel 6",
       "originalQuote": "Auch die Finanzierung des Baus und Betriebs von Moscheen durch islamische Staaten oder ausländisc",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "FINANZIERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -181,7 +181,7 @@
       "topic": "Kein Ausbau der Windenergie",
       "location": "Kapitel 15.2",
       "originalQuote": "Wir lehnen den weiteren Ausbau der Windenergie ab, denn er bringt mehr Schaden als Nutzen.",
-      "classification": "Umwelt & Klima"
+      "classification": "WINDENERGIE"
     },
     {
       "category": "semantisches Verbot",
@@ -202,7 +202,7 @@
       "topic": "Keine staatliche Finanzierung von Kirchenrepräsentanten",
       "location": "Kapitel 10",
       "originalQuote": "die Bezahlung von Kirchenrepräsentanten wie Bischöfen etc. aus allgemeinen Steuermitteln ist abz",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "KIRCHENREPRÄSENTANTEN"
     },
     {
       "category": "semantisches Verbot",
@@ -230,7 +230,7 @@
       "topic": "Keine staatliche Förderung von Gender-Ideologie an Schulen",
       "location": "Kapitel 7.7.1",
       "originalQuote": "Eine einseitige Hervorhebung der Homo- und Transsexualität im Unterricht, wie sie die sogenannt",
-      "classification": "Bildung & Forschung"
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "semantisches Verbot",
@@ -244,7 +244,7 @@
       "topic": "Keine staatliche Finanzierung von Moscheebauten durch verfassungsfeindliche Vereine",
       "location": "Kapitel 6",
       "originalQuote": "Verfassungsfeindlichen Vereinen, die nach Art. 9 Abs. 2 Grundgesetz zu verbieten sind, ist der B",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERFASSUNGSFEINDLICHE"
     },
     {
       "category": "semantisches Verbot",
@@ -258,7 +258,7 @@
       "topic": "Keine weitere Mitgliedschaft in der Eurozone",
       "location": "Kapitel 2.1",
       "originalQuote": "Deshalb muss Deutschland die Transferunion aufkündigen und den Euroraum verlassen.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "MITGLIEDSCHAFT"
     },
     {
       "category": "semantisches Verbot",
@@ -286,14 +286,14 @@
       "topic": "Keine staatliche Unterstützung für die Energiewende",
       "location": "Kapitel 13.2",
       "originalQuote": "Das EEG ist ersatzlos zu streichen.",
-      "classification": "Umwelt & Klima"
+      "classification": "UNTERSTÜTZUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine staatliche Unterstützung für Umweltzonen",
       "location": "Kapitel 14.1",
       "originalQuote": "Umweltzonen haben nachweislich nicht zur Reduzierung der Feinstaubemission beigetragen. Sie sind",
-      "classification": "Umwelt & Klima"
+      "classification": "UNTERSTÜTZUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -321,21 +321,21 @@
       "topic": "Keine staatliche Unterstützung für EU-Liberalisierung der Wasserversorgung",
       "location": "Kapitel 15.1",
       "originalQuote": "Eine EU-weite Liberalisierung und Kommerzialisierung des Wassermarkts lehnt die AfD entschieden a",
-      "classification": "Umwelt & Klima"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine staatliche Unterstützung für Gentechnik in der Landwirtschaft",
       "location": "Kapitel 15.6.4",
       "originalQuote": "Die AfD setzt sich für gentechnikfrei erzeugte Lebensmittel aus der deutschen Landwirtschaft ein",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Tierschutz & Landwirtschaft"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine staatliche Unterstützung für Handelsbeschränkungen alter Kultursorten",
       "location": "Kapitel 15.6.2",
       "originalQuote": "Die AfD fordert die Aufhebung aller Handelsbeschränkungen für alte Nutzpflanzensorten.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "HANDELSBESCHRÄNKUNGEN"
     }
   ]
 }

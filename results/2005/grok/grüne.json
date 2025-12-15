@@ -1,0 +1,89 @@
+{
+  "sourceFile": "Grüne - 2005 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wiedereinstieg in die Atomkraft",
+      "location": "Präambel/Umwelt macht den Unterschied",
+      "originalQuote": "Ein Zurück zur gefährlichen Atomenergie, wie es CDU/CSU und FDP wollen, wird es mit uns nicht gebe",
+      "classification": "WIEDEREINSTIEG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gentechnik in Landwirtschaft und Lebensmitteln",
+      "location": "Umwelt macht den Unterschied",
+      "originalQuote": "Schwarz-Gelb will nicht mehr, sondern weniger Ökologie: Wiedereinstieg in die Atomkraft und Gefährdu",
+      "classification": "Tierschutz & Landwirtschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung der Freiheit im Namen der Sicherheit",
+      "location": "GRÜNE statt schwarz-gelbe Republik",
+      "originalQuote": "Doch wer die Freiheit im Namen der Sicherheit abschafft, wird am Ende beides verlieren.",
+      "classification": "SICHERHEIT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung des Kündigungsschutzes und Arbeitnehmerrechte",
+      "location": "GRÜNE statt schwarz-gelbe Republik",
+      "originalQuote": "Schwarz-Gelb bietet angesichts der Sorgen der Menschen vor Arbeitslosigkeit nicht mehr, sondern weni",
+      "classification": "KÜNDIGUNGSSCHUTZES"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zweiklassenmedizin",
+      "location": "GRÜNE statt schwarz-gelbe Republik",
+      "originalQuote": "CDU/CSU und FDP reden von einer Reform der Sozialversicherungssysteme, meinen aber eine Zweiklassenm",
+      "classification": "ZWEIKLASSENMEDIZIN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Steuerkonzept zugunsten Reicher",
+      "location": "GRÜNE statt schwarz-gelbe Republik",
+      "originalQuote": "Schwarz-Gelb vertritt ein Steuerkonzept, das die Reichen belohnt und die Menschen mit unteren und mi",
+      "classification": "STEUERKONZEPT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lohndumping und Eingriffe in Tarifautonomie",
+      "location": "Neue Arbeit schaffen",
+      "originalQuote": "Lohndumping, Eingriffe in die Tarifautonomie, den Kündigungsschutz oder die Mitbestimmung lehnen wir",
+      "classification": "TARIFAUTONOMIE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Patentierung von Software",
+      "location": "Medien demokratisch nutzen",
+      "originalQuote": "Wir werden uns weiterhin vehement gegen eine Patentierung von Software einsetzen.",
+      "classification": "PATENTIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Präventivkriege",
+      "location": "Frieden und Sicherheit umfassend verstehen",
+      "originalQuote": "Doch um diesen Risiken zu begegnen, sind Präventivkriege oder kulturelle Konfrontation falsch und ko",
+      "classification": "PRÄVENTIVKRIEGE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Aufhebung des Waffenembargos gegen China",
+      "location": "Weniger Rüstung bedeutet mehr Sicherheit",
+      "originalQuote": "Die Aufhebung des Waffenembargos gegen China lehnen wir strikt ab.",
+      "classification": "WAFFENEMBARGOS"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Dienstleistungsrichtlinie mit Herkunftsprinzip",
+      "location": "Ein solidarisches und ökologisches Europa",
+      "originalQuote": "Wir wenden uns gegen eine Dienstleistungsrichtlinie, die über das Herkunftsprinzip Druck auf soziale,",
+      "classification": "DIENSTLEISTUNGSRICHTLINIE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Flüchtlingslager in Drittstaaten",
+      "location": "Mehr europäische Demokratie und Transparenz",
+      "originalQuote": "Wir erteilen Überlegungen eine klare Absage, in Drittstaaten – wie z.B. in Nordafrika und der Ukrain",
+      "classification": "FLÜCHTLINGSLAGER"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
       "topic": "Zentralismus, Gleichmacherei und Uniformität",
       "location": "Kapitel 1.1",
       "originalQuote": "Auch in Deutschland wenden wir uns gegen Zentralismus, Gleichmacherei und Uniformität. Denn wir stehen entschieden",
-      "classification": "Bildung & Forschung"
+      "classification": "GLEICHMACHEREI"
     },
     {
       "category": "explizites Verbot",
@@ -20,7 +20,7 @@
       "topic": "Änderung des Grundgesetzes und Abschluss bedeutsamer völkerrechtlicher Verträge ohne Volkszustimmung",
       "location": "Kapitel 1.4",
       "originalQuote": "Ohne Zustimmung des Volkes darf das Grundgesetz nicht geändert und kein bedeutsamer völkerrechtlicher Vertrag gesc",
-      "classification": "Demokratie & Recht"
+      "classification": "VÖLKERRECHTLICHER"
     },
     {
       "category": "explizites Verbot",
@@ -41,7 +41,7 @@
       "topic": "Parteibuchwirtschaft",
       "location": "Kapitel 1.6",
       "originalQuote": "Die „Parteibuchwirtschaft“ muss beendet werden. Ämterpatronage ist unter Strafe zu stellen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "PARTEIBUCHWIRTSCHAFT"
     },
     {
       "category": "explizites Verbot",
@@ -69,21 +69,21 @@
       "topic": "Antidiskriminierungsgesetze",
       "location": "Kapitel 1.15.1",
       "originalQuote": "Deshalb lehnen wir sogenannte ,,Antidiskriminierungsgesetze“ ab. Zentraler Grundwert einer freiheitlichen Zivilrech",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "ANTIDISKRIMINIERUNGSGESETZE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Fortführung der Transferunion / Verbleib im Euroraum (durch Aufkündigung)",
       "location": "Kapitel 2.1",
       "originalQuote": "Deshalb muss Deutschland die Transferunion aufkündigen und den Euroraum verlassen.",
-      "classification": "Bildung & Forschung"
+      "classification": "TRANSFERUNION"
     },
     {
       "category": "semantisches Verbot",
       "topic": "EZB-Maßnahmen zur Manipulation des freien Kapitalmarkts",
       "location": "Kapitel 2.2",
       "originalQuote": "Alle Maßnahmen der EZB zur Manipulation des freien Kapitalmarkts müssen eingestellt werden.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "KAPITALMARKTS"
     },
     {
       "category": "explizites Verbot",
@@ -97,14 +97,14 @@
       "topic": "Willkürliche Rettungsmaßnahmen oder eine EU-Wirtschaftsregierung",
       "location": "Kapitel 2.2",
       "originalQuote": "Willkürliche „Rettungsmaßnahmen“ zugunsten einzelner Banken und Unternehmen oder gar eine „EU-Wirtschaftsregierun",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Europäische Vergemeinschaftung von Haftungsrisiken aus Bankgeschäften",
       "location": "Kapitel 2.4",
       "originalQuote": "Wir wenden uns gegen jegliche Versuche der europäischen Vergemeinschaftung von Haftungsrisiken, insbesondere aus B",
-      "classification": "Europa & Außenpolitik"
+      "classification": "VERGEMEINSCHAFTUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -139,14 +139,14 @@
       "topic": "CETA, TISA und TTIP Handelsabkommen",
       "location": "Kapitel 3.5",
       "originalQuote": "Die AfD lehnt aus den dargelegten Gründen CETA, TISA und TTIP ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "HANDELSABKOMMEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Umsetzung der EU-Feuerwaffenrichtlinie",
       "location": "Kapitel 4.7",
       "originalQuote": "Die Umsetzung der EU-Feuerwaffenrichtlinie lehnen wir ab.",
-      "classification": "Rüstung & Waffen"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "explizites Verbot",
@@ -160,28 +160,28 @@
       "topic": "Bestrebungen, die Tötung Ungeborener zu einem Menschenrecht zu erklären",
       "location": "Kapitel 7.5",
       "originalQuote": "Wir lehnen alle Bestrebungen ab, die Tötung Ungeborener zu einem Menschenrecht zu erklären.",
-      "classification": "Demokratie & Recht"
+      "classification": "MENSCHENRECHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Zuerkennung des Privilegs eines bekenntnisgebundenen Islamunterrichts an staatlichen Schulen",
       "location": "Kapitel 8.8",
       "originalQuote": "Da die islamischen Gemeinschaften in Deutschland keine kirchenähnliche Struktur aufweisen, kann ihnen das Privileg ",
-      "classification": "Bildung & Forschung"
+      "classification": "BEKENNTNISGEBUNDENEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Erteilung von Koranunterricht durch verfassungsfeindliche Moscheevereine",
       "location": "Kapitel 8.10",
       "originalQuote": "Wir fordern deshalb eine flächendeckende Überprüfung aller Moscheevereine und bei Verdacht auf Verfassungsfeindlic",
-      "classification": "Demokratie & Recht"
+      "classification": "VERFASSUNGSFEINDLICHE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verlust des kulturellen Gesichts Deutschlands",
       "location": "Kapitel 9.1",
       "originalQuote": "nicht zulassen, dass Deutschland aus falsch verstandener Toleranz sein kulturelles Gesicht verliert.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "DEUTSCHLANDS"
     },
     {
       "category": "semantisches Verbot",
@@ -195,35 +195,35 @@
       "topic": "Beschränkung und Zensur des Internets außerhalb der Verfolgung von Straftaten",
       "location": "Kapitel 9.6",
       "originalQuote": "Das Internet als Medium der Kommunikation, Information und freien Meinungsäußerung darf abseits der Verfolgung von S",
-      "classification": "Digitales & Überwachung"
+      "classification": "BESCHRÄNKUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Reaktivierung der Vermögensteuer",
       "location": "Kapitel 10.1",
       "originalQuote": "Die AfD ist für eine Abschaffung der Erbschaftsteuer als Substanzsteuer und gegen die Reaktivierung der Vermögensteu",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERMÖGENSTEUER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ideologisch geleitete Verkehrspolitik",
       "location": "Kapitel 14.1",
       "originalQuote": "Eine ideologisch geleitete Verkehrspolitik, die bestimmte Verkehrsmittel bevorzugt oder diskriminiert, z.B. Dieself",
-      "classification": "Verkehr & Mobilität"
+      "classification": "VERKEHRSPOLITIK"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Flächendeckendes Tempolimit und erfolglose Umweltzonen",
       "location": "Kapitel 14.1",
       "originalQuote": "Deshalb wenden wir uns auch gegen ein flächendeckendes Tempolimit und erfolglose Umweltzonen.",
-      "classification": "Umwelt & Klima"
+      "classification": "Verkehr & Mobilität"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Umweltzonen",
       "location": "Kapitel 14.1",
       "originalQuote": "Umweltzonen haben nachweislich nicht zur Reduzierung der Feinstaubemission beigetragen. Sie sind daher abzuschaffen.",
-      "classification": "Umwelt & Klima"
+      "classification": "UMWELTZONEN"
     }
   ]
 }

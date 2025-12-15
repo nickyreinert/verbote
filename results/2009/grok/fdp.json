@@ -5,67 +5,78 @@
       "category": "semantisches Verbot",
       "topic": "Aufgabe von Bürgerrechten für Sicherheit",
       "location": "1. Präambel",
-      "originalQuote": "Wir sind nicht dazu bereit, Bürgerrechte für eine trügerische Sicherheit aufzugeben."
+      "originalQuote": "Wir sind nicht dazu bereit, Bürgerrechte für eine trügerische Sicherheit aufzugeben.",
+      "classification": "BÜRGERRECHTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einbeziehung privater Veräußerungsgewinne in Abgeltungsteuer",
       "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft",
-      "originalQuote": "Die Einbeziehung der privaten Veräußerungsgewinne in die Abgeltungsteuer lehnt die FDP ab."
+      "originalQuote": "Die Einbeziehung der privaten Veräußerungsgewinne in die Abgeltungsteuer lehnt die FDP ab.",
+      "classification": "VERÄUSSERUNGSGEWINNE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Beratung und Rating aus einer Hand",
       "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft",
-      "originalQuote": "Beratung und Rating aus einer Hand schaffen Interessenkonflikte und sind zu unterbinden."
+      "originalQuote": "Beratung und Rating aus einer Hand schaffen Interessenkonflikte und sind zu unterbinden.",
+      "classification": "BERATUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Risikoverlagerungen aus der Bilanz",
       "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft",
-      "originalQuote": "Risikoverlagerungen aus der Bilanz heraus darf es nicht mehr geben."
+      "originalQuote": "Risikoverlagerungen aus der Bilanz heraus darf es nicht mehr geben.",
+      "classification": "RISIKOVERLAGERUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Rekommunalisierung der Entsorgungswirtschaft",
       "location": "5. Umwelt und Energie",
-      "originalQuote": "Eine Rekommunalisierung der Entsorgungswirtschaft lehnt die FDP ab."
+      "originalQuote": "Eine Rekommunalisierung der Entsorgungswirtschaft lehnt die FDP ab.",
+      "classification": "ENTSORGUNGSWIRTSCHAFT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "US-Raketenabwehrsystem in Tschechien und Polen",
       "location": "6. Internationale Politik",
-      "originalQuote": "Den Plan für ein US-Raketenabwehrsystem in Tschechien und Polen lehnen wir ab."
+      "originalQuote": "Den Plan für ein US-Raketenabwehrsystem in Tschechien und Polen lehnen wir ab.",
+      "classification": "USRAKETENABWEHRSYSTEM"
     },
     {
       "category": "semantisches Verbot",
       "topic": "EU-Steuer und weitere Belastungen",
       "location": "6. Internationale Politik",
-      "originalQuote": "Eine EU-Steuer und weitere Belastungen für die deutschen Bürger lehnen wir strikt ab."
+      "originalQuote": "Eine EU-Steuer und weitere Belastungen für die deutschen Bürger lehnen wir strikt ab.",
+      "classification": "Wirtschaft & Steuern"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Protektionismus im internationalen Handel",
       "location": "6. Internationale Politik",
-      "originalQuote": "Die FDP tritt gegen jede Form von Protektionismus im internationalen Handel ein."
+      "originalQuote": "Die FDP tritt gegen jede Form von Protektionismus im internationalen Handel ein.",
+      "classification": "Wirtschaft & Steuern"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einsätze ohne völkerrechtliche Grundlage",
       "location": "6. Internationale Politik",
-      "originalQuote": "Einsätze ohne klare völkerrechtliche Grundlage lehnt die FDP ab"
+      "originalQuote": "Einsätze ohne klare völkerrechtliche Grundlage lehnt die FDP ab",
+      "classification": "VÖLKERRECHTLICHE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einsatz der Bundeswehr im Innern über Verfassung hinaus",
       "location": "6. Internationale Politik",
-      "originalQuote": "Einen Einsatz der Bundeswehr im Innern über die bestehenden Regelungen unserer Verfassung hinaus lehnen wir ab."
+      "originalQuote": "Einen Einsatz der Bundeswehr im Innern über die bestehenden Regelungen unserer Verfassung hinaus lehnen wir ab.",
+      "classification": "Rüstung & Waffen"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Quotenorientierte Ausdehnung von Budgethilfen",
       "location": "6. Internationale Politik",
-      "originalQuote": "Eine an Quoten orientierte Ausdehnung von Budgethilfen als Instrument der Entwicklungszusammenarbeit lehnen wir ab."
+      "originalQuote": "Eine an Quoten orientierte Ausdehnung von Budgethilfen als Instrument der Entwicklungszusammenarbeit lehnen wir ab.",
+      "classification": "QUOTENORIENTIERTE"
     }
   ]
 }

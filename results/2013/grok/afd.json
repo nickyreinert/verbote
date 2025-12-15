@@ -1,1 +1,26 @@
-{"sourceFile":"AfD - 2013 - Wahlprogramm.txt","topics":[{"category":"semantisches Verbot","topic":"Ablehnung einer Transferunion oder zentralisierten Europastaat","location":"Europapolitik","originalQuote":"Wir bestehen auf dem uneingeschränkten Budgetrecht der nationalen Parlamente. Eine Transferunion oder gar einen zentralisierten Europastaat lehnen wir entschieden ab."},{"category":"explizites Verbot","topic":"Verbot des Ankaufs von Schrottpapieren durch die EZB","location":"Währungspolitik","originalQuote":"* Wir fordern ein sofortiges Verbot des Ankaufs von Schrottpapieren durch die Europäische Zentralbank. Inflation darf nicht die Ersparnisse der Bürger aufzehren."},{"category":"semantisches Verbot","topic":"Unterbindung ungeordneter Zuwanderung in Sozialsysteme","location":"Integrationspolitik","originalQuote":"* Wir fordern ein Einwanderungsgesetz nach kanadischem Vorbild. Eine ungeordnete Zuwanderung in unsere Sozialsysteme muss unbedingt unterbunden werden."}]}
+{
+  "sourceFile": "AfD - 2013 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ablehnung einer Transferunion oder zentralisierten Europastaat",
+      "location": "Europapolitik",
+      "originalQuote": "Wir bestehen auf dem uneingeschränkten Budgetrecht der nationalen Parlamente. Eine Transferunion oder gar einen zentralisierten Europastaat lehnen wir entschieden ab.",
+      "classification": "ZENTRALISIERTEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Ankaufs von Schrottpapieren durch die EZB",
+      "location": "Währungspolitik",
+      "originalQuote": "* Wir fordern ein sofortiges Verbot des Ankaufs von Schrottpapieren durch die Europäische Zentralbank. Inflation darf nicht die Ersparnisse der Bürger aufzehren.",
+      "classification": "SCHROTTPAPIEREN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unterbindung ungeordneter Zuwanderung in Sozialsysteme",
+      "location": "Integrationspolitik",
+      "originalQuote": "* Wir fordern ein Einwanderungsgesetz nach kanadischem Vorbild. Eine ungeordnete Zuwanderung in unsere Sozialsysteme muss unbedingt unterbunden werden.",
+      "classification": "SOZIALSYSTEME"
+    }
+  ]
+}

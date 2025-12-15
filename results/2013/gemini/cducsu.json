@@ -20,21 +20,21 @@
       "topic": "Lohnfestsetzung durch die Politik",
       "location": "Zehn Projekte, Vollbeschäftigung und tariflicher Mindestlohn",
       "originalQuote": "Eine Lohnfestsetzung durch die Politik lehnen wir ab. Aber es ist Sache der Politik, die Voraussetzungen zu schaff",
-      "classification": "Soziales & Arbeit"
+      "classification": "LOHNFESTSETZUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Steuererhöhungen",
       "location": "Zehn Projekte, Wirtschaftskraft stärken – Mittelstand und Gründer fördern",
       "originalQuote": "Deshalb bleibt unser Ziel, die Lohnzusatzkosten stabil zu halten. Deshalb lehnen wir Steuererhöhungen ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERERHÖHUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Bestrafung von Leistungsträgern durch Steuererhöhungen",
       "location": "Zehn Projekte, Leistung muss sich lohnen – Bürgerinnen und Bürger entlasten",
       "originalQuote": "Wir wollen die Leistungsträger in der Mitte unserer Gesellschaft – anders als Rot-Grün – nicht mit Steuererhöhungen",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "LEISTUNGSTRÄGERN"
     },
     {
       "category": "explizites Verbot",
@@ -62,7 +62,7 @@
       "topic": "Einführung einer europaweiten Einlagensicherung",
       "location": "1. Deutschlands Zukunft in Europa, Europäische Bankenunion",
       "originalQuote": "Eine europaweite Einlagensicherung lehnen wir ab, denn damit würde das Haftungsrisiko vergemeinschaftet und de",
-      "classification": "Soziales & Arbeit"
+      "classification": "EINLAGENSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -76,7 +76,7 @@
       "topic": "Wiedereinführung der Vermögensteuer und Erhöhung der Erbschaftsteuer",
       "location": "Abschnitt 3.4. Finanz- und Wirtschaftspolitik (Unternehmensbesteuerung)",
       "originalQuote": "Deshalb lehnen CDU und CSU beides entschieden ab. Unternehmensbesteuerung wachstumsfreundlich weiterentwickeln",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WIEDEREINFÜHRUNG"
     },
     {
       "category": "semantisches Verbot",

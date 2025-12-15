@@ -20,21 +20,21 @@
       "topic": "Verschiebung des Krieges mit Russland & China",
       "location": "10",
       "originalQuote": "Krieg mit Russland & China verschieben",
-      "classification": "Rüstung & Waffen"
+      "classification": "VERSCHIEBUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einstellung von Tierversuchen",
       "location": "18",
       "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERVERSUCHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Korrupte Parteien dürfen nicht von Spenden & Sponsoring profitieren",
       "location": "24",
       "originalQuote": "Korrupte Parteien dürfen nicht mehr von Spenden & Sponsoring profitieren, korrupte Politiker werden nac",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "PROFITIEREN"
     }
   ]
 }

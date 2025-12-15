@@ -6,14 +6,14 @@
       "topic": "Eingriffe an Tieren aus rein wirtschaftlichen Gründen",
       "location": "Kapitel: Verantwortungsvolle Landwirtschaft und gesunde Ernährung",
       "originalQuote": "Eingriffe an Tieren aus rein wirtschaftlichen Gründen wie das Schnabelkürzen, das Kupieren",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WIRTSCHAFTLICHEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Gentechnisch veränderte Organismen in der Landwirtschaft",
       "location": "Kapitel: Verantwortungsvolle Landwirtschaft und gesunde Ernährung",
       "originalQuote": "Gentechnisch veränderte Organismen in der Landwirtschaft und Patente auf Leben lehnen wi",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Tierschutz & Landwirtschaft"
     },
     {
       "category": "semantisches Verbot",
@@ -55,7 +55,7 @@
       "topic": "Privatisierung der Straßeninfrastruktur",
       "location": "Kapitel: Bezahlbare und nachhaltige Mobilität",
       "originalQuote": "Eine Privatisierung der Straßeninfrastruktur und der Infrastrukturgesellschaft Verkehr blei",
-      "classification": "Verkehr & Mobilität"
+      "classification": "STRASSENINFRASTRUKTUR"
     },
     {
       "category": "semantisches Verbot",
@@ -69,14 +69,14 @@
       "topic": "Exportförderung für Atomenergie-Projekte",
       "location": "Kapitel: Energiewende vollenden",
       "originalQuote": "In Deutschland werden wir die Hermes-Kreditbürgschaften für Exporte so regeln, dass Atomener",
-      "classification": "Rüstung & Waffen"
+      "classification": "ATOMENERGIEPROJEKTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Abschiebungen nach Afghanistan",
       "location": "Kapitel: Es ist Zeit für eine geordnete Migrationspolitik",
       "originalQuote": "Da die Sicherheitslage in Afghanistan kein sicheres Leben zulässt, werden wir bis auf weite",
-      "classification": "Migration & Asyl"
+      "classification": "ABSCHIEBUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -90,7 +90,7 @@
       "topic": "Kleinwaffenexporte in Drittstaaten außerhalb von EU, NATO und vergleichbaren Ländern",
       "location": "Kapitel: Eine neue Abrüstungsinitiative",
       "originalQuote": "Sie wird ein grundsätzliches Verbot des Kleinwaffenexportes in Drittstaaten außerhalb von EU",
-      "classification": "Rüstung & Waffen"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
@@ -104,14 +104,14 @@
       "topic": "Atomare Bewaffnung Deutschlands",
       "location": "Kapitel: Eine neue Abrüstungsinitiative",
       "originalQuote": "Mit aller Entschiedenheit wenden wir uns gegen verantwortungslose Gedankenspiele über die Sc",
-      "classification": "Umwelt & Klima"
+      "classification": "DEUTSCHLANDS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Europäische Atomwaffenmacht",
       "location": "Kapitel: Eine neue Abrüstungsinitiative",
       "originalQuote": "Mit aller Entschiedenheit wenden wir uns gegen verantwortungslose Gedankenspiele über die Sc",
-      "classification": "Rüstung & Waffen"
+      "classification": "ATOMWAFFENMACHT"
     },
     {
       "category": "semantisches Verbot",
@@ -125,14 +125,14 @@
       "topic": "Anonyme Briefkastenfirmen zur Steuerhinterziehung",
       "location": "Kapitel: Steuerbetrug und -vermeidung bekämpfen",
       "originalQuote": "Es darf keine anonymen Briefkastenfirmen mehr geben, deren einziger Zweck es ist, Steuern z",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERHINTERZIEHUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Geldwäsche und Steuerbetrug durch Offshore-Finanzgeschäfte",
       "location": "Kapitel: Steuerbetrug und -vermeidung bekämpfen",
       "originalQuote": "Wir wollen ein Verbot anonymer Finanzgeschäfte in Offshore-Gebieten und harte Sanktionen f",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "OFFSHOREFINANZGESCHÄFTE"
     },
     {
       "category": "semantisches Verbot",
@@ -146,14 +146,14 @@
       "topic": "Qualzuchten bei Haustieren",
       "location": "Kapitel: Verantwortungsvolle Landwirtschaft und gesunde Ernährung",
       "originalQuote": "Für Qualzuchten muss es eine klare Definition und ein Haltungsverbot geben.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "QUALZUCHTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Wahlkampf und Abstimmung über Todesstrafe in der Türkei auf deutschem Boden",
       "location": "Kapitel: Friedensprojekt Europa",
       "originalQuote": "Wahlkampf und eine Abstimmung über die Einführung der Todesstrafe in der Türkei wird es auf",
-      "classification": "Rüstung & Waffen"
+      "classification": "TODESSTRAFE"
     },
     {
       "category": "semantisches Verbot",

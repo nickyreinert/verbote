@@ -6,7 +6,7 @@
       "topic": "Wiedereinstieg in die Atomkraft",
       "location": "Energiepolitik / Weg von Öl und Atom",
       "originalQuote": "Nur BÜNDNIS 90/DIE GRÜNEN garantieren die weitere Abschaltung von Atomkraftwerken, wie si",
-      "classification": "Umwelt & Klima"
+      "classification": "WIEDEREINSTIEG"
     },
     {
       "category": "semantisches Verbot",
@@ -20,21 +20,21 @@
       "topic": "Weiterführung der EURATOM-Forschung",
       "location": "Energiepolitik / Wiedereinstieg – Nein danke!",
       "originalQuote": "Den EURATOM-Vertrag wollen wir abschaffen und bilaterale Nuklear-Abkommen durch Kooperati",
-      "classification": "Umwelt & Klima"
+      "classification": "Bildung & Forschung"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Staatliche Finanzierung der Kernfusionsforschung",
       "location": "Energiepolitik / Wiedereinstieg – Nein danke!",
       "originalQuote": "Eine weitere staatliche Finanzierung der Forschungen zur Kernfusion lehnen wir ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "KERNFUSIONSFORSCHUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Agro-Gentechnik in der Landwirtschaft",
       "location": "Verbraucherschutz / Gen-Food – Nein danke!",
       "originalQuote": "Wir GRÜNE wollen keine gentechnisch veränderten Lebensmittel. Landwirtschaft und Gentechnik",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Tierschutz & Landwirtschaft"
     },
     {
       "category": "semantisches Verbot",
@@ -48,21 +48,21 @@
       "topic": "Nicht artgerechte Haltung von Wildtieren im Zirkus",
       "location": "Tierschutz",
       "originalQuote": "Unwürdige Zustände bei der Haltung, der Gesundheit und beim Transport von Tieren oder einer",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "ARTGERECHTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Import von Wildtieren als Heimtiere",
       "location": "Tierschutz",
       "originalQuote": "Unwürdige Zustände bei der Haltung, der Gesundheit und beim Transport von Tieren oder einer",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "WILDTIEREN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Tierversuche ohne alternative Methoden",
       "location": "Tierschutz",
       "originalQuote": "Tierversuche müssen konsequent durch alternative Testmethoden ersetzt werden.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERVERSUCHE"
     },
     {
       "category": "explizites Verbot",
@@ -83,7 +83,7 @@
       "topic": "Verbrauchende Embryonenforschung",
       "location": "Forschung / Ethische Maßstäbe in der Forschung",
       "originalQuote": "Menschenwürde und Menschenrechte haben Vorrang vor Forschungs- und Verwertungsinteressen Drit",
-      "classification": "Bildung & Forschung"
+      "classification": "EMBRYONENFORSCHUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -104,28 +104,28 @@
       "topic": "Privatisierung der Wasserversorgung",
       "location": "Umweltpolitik / Gute Umwelt, gesundes Leben",
       "originalQuote": "Für BÜNDNIS 90/DIE GRÜNEN sind Wasserversorgung und Abwasserbeseitigung Bestandteile der Da",
-      "classification": "Umwelt & Klima"
+      "classification": "WASSERVERSORGUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Umweltbelastende Straßenbauprojekte",
       "location": "Verkehrspolitik / Ökologisch mobil",
       "originalQuote": "Zu umweltfreundlicher Mobilität gehört auch der Verzicht auf ökologisch bedenkliche Straßenba",
-      "classification": "Umwelt & Klima"
+      "classification": "STRASSENBAUPROJEKTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Öffentliche Subventionen für Flughafenausbauten",
       "location": "Verkehrspolitik / Ökologisch mobil",
       "originalQuote": "Staatliche Subventionen für Flughafenaus- oder -neubauten lehnen wir ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "FLUGHAFENAUSBAUTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Nachtflüge an wohnortnahen Flughäfen",
       "location": "Verkehrspolitik / Ökologisch mobil",
       "originalQuote": "Wir setzen uns für ein Nachtflugverbot an wohnortnahen Flughäfen ein.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "WOHNORTNAHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -139,7 +139,7 @@
       "topic": "Überteuerte Prestigeprojekte im Verkehrsbau",
       "location": "Verkehrspolitik / Ökologisch mobil",
       "originalQuote": "Auf überteuerte Prestigeprojekte wie die Untertunnelung des Thüringer Waldes, »Stuttgart 21« und",
-      "classification": "Verkehr & Mobilität"
+      "classification": "PRESTIGEPROJEKTE"
     },
     {
       "category": "semantisches Verbot",
@@ -153,7 +153,7 @@
       "topic": "Kriminalisierung von Jugendlichen durch Erhöhung des Strafrahmens",
       "location": "Jugendpolitik / Jugend braucht Zukunft",
       "originalQuote": "Statt auf eine Erhöhung des gesetzlichen Strafrahmens setzen wir auf die Verbesserung der Pra",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "KRIMINALISIERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -174,21 +174,21 @@
       "topic": "Abschiebungen in Krisengebiete",
       "location": "Integrationspolitik / Zukunftsaufgabe Integration",
       "originalQuote": "Die derzeit in Deutschland praktizierte Form der Abschiebungen in Krisengebiete wie Afghanista",
-      "classification": "Migration & Asyl"
+      "classification": "ABSCHIEBUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Flüchtlingslager außerhalb der EU",
       "location": "Integrationspolitik / Zukunftsaufgabe Integration",
       "originalQuote": "Plänen zur Einrichtung von Flüchtlingslagern außerhalb der EU erteilen wir eine klare Absage.",
-      "classification": "Migration & Asyl"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kronzeugenregelung",
       "location": "Sicherheitspolitik / Sicherheit rechtsstaatlich gestalten",
       "originalQuote": "Die rechtsstaatlich fragwürdige Kronzeugenregelung haben wir abgeschafft. Dabei bleiben wir.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "KRONZEUGENREGELUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -209,21 +209,21 @@
       "topic": "Aufhebung des Waffenembargos gegen China",
       "location": "Außenpolitik / Weniger Rüstung bedeutet mehr Sicherheit",
       "originalQuote": "Die Aufhebung des Waffenembargos gegen China lehnen wir strikt ab.",
-      "classification": "Rüstung & Waffen"
+      "classification": "WAFFENEMBARGOS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Luft-Boden-Schießplatz in der Kyritz-Ruppiner Heide",
       "location": "Außenpolitik / Weniger Rüstung bedeutet mehr Sicherheit",
       "originalQuote": "Der Errichtung eines Luft-Boden-Schießplatzes in der Kyritz-Ruppiner Heide werden wir uns auc",
-      "classification": "Umwelt & Klima"
+      "classification": "LUFTBODENSCHIESSPLATZ"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Residenzpflicht für Flüchtlinge",
       "location": "Integrationspolitik / Zukunftsaufgabe Integration",
       "originalQuote": "Wir wollen die Residenzpflicht, die Ausreisezentren und das Flughafenverfahren abschaffen.",
-      "classification": "Migration & Asyl"
+      "classification": "RESIDENZPFLICHT"
     },
     {
       "category": "semantisches Verbot",
@@ -237,21 +237,21 @@
       "topic": "Flughafenverfahren für Asylsuchende",
       "location": "Integrationspolitik / Zukunftsaufgabe Integration",
       "originalQuote": "Wir wollen die Residenzpflicht, die Ausreisezentren und das Flughafenverfahren abschaffen.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "FLUGHAFENVERFAHREN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Pauschale Widerrufsverfahren gegen ganze Flüchtlingsgruppen",
       "location": "Integrationspolitik / Zukunftsaufgabe Integration",
       "originalQuote": "Wir werden uns weiterhin dafür einsetzen, dass die pauschale Widerrufseinleitung gegen ganze G",
-      "classification": "Migration & Asyl"
+      "classification": "WIDERRUFSVERFAHREN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Bundeswehr-Einsatz im Innern",
       "location": "Sicherheitspolitik / Sicherheit rechtsstaatlich gestalten",
       "originalQuote": "Wir lehnen eine Grundgesetzänderung zum Einsatz der Bundeswehr im Innern ab, diese ist für die",
-      "classification": "Rüstung & Waffen"
+      "classification": "BUNDESWEHREINSATZ"
     },
     {
       "category": "semantisches Verbot",

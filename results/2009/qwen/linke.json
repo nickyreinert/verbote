@@ -20,7 +20,7 @@
       "topic": "Einsatz von Hormonen und Antibiotika im Tierfutter verbieten",
       "location": "2.2. Wirtschaft gestalten",
       "originalQuote": "Hormone und Antibiotika gehören nichts ins Futter; keine Patente auf Lebewesen und",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "ANTIBIOTIKA"
     },
     {
       "category": "explizites Verbot",
@@ -34,21 +34,21 @@
       "topic": "Verbot des grenzüberschreitenden Abfall-Exports",
       "location": "2.3. Gesellschaft ökologisch umbauen",
       "originalQuote": "Verbot des grenzüberschreitenden Exports von Abfällen;",
-      "classification": "Rüstung & Waffen"
+      "classification": "GRENZÜBERSCHREITENDEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Tierversuche generell verbieten (mit Ausnahmen)",
       "location": "2.3. Gesellschaft ökologisch umbauen",
       "originalQuote": "generelles Verbot von Tierversuchen, die nur in besonderen Ausnahmefällen durchge",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERVERSUCHE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Einführung von Monster-LKW (Gigalinern) verbieten",
       "location": "2.3. Gesellschaft ökologisch umbauen",
       "originalQuote": "Einführung von Monster-LKW (Gigaliner) verbieten; Verlängerung der Ende 2009 aus",
-      "classification": "Verkehr & Mobilität"
+      "classification": "EINFÜHRUNG"
     },
     {
       "category": "explizites Verbot",
@@ -69,14 +69,14 @@
       "topic": "Rüstungsexporte verbieten",
       "location": "5.3. Deutsche Außenpolitik: Friedenspolitik durchsetzen!",
       "originalQuote": "Rüstungsexporte verbieten;",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Herstellung, Nutzung und Vertrieb von Streubomben und Landminen verbieten",
       "location": "5.3. Deutsche Außenpolitik: Friedenspolitik durchsetzen!",
       "originalQuote": "die Herstellung, Nutzung und den Vertrieb von Streubomben und Landminen verbieten",
-      "classification": "Europa & Außenpolitik"
+      "classification": "HERSTELLUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -132,14 +132,14 @@
       "topic": "Keine neuen Kohlekraftwerke",
       "location": "2.3. Gesellschaft ökologisch umbauen",
       "originalQuote": "Wir lehnen daher die Planung und den Bau neuer Kohlekraftwerke ab – ebenso wie d",
-      "classification": "Umwelt & Klima"
+      "classification": "KOHLEKRAFTWERKE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verpressung von Kohlendioxid ablehnen",
       "location": "2.3. Gesellschaft ökologisch umbauen",
       "originalQuote": "ebenso wie die von der Energiewirtschaft propagierte Scheinlösung der Verpressung v",
-      "classification": "Umwelt & Klima"
+      "classification": "KOHLENDIOXID"
     },
     {
       "category": "semantisches Verbot",
@@ -153,35 +153,35 @@
       "topic": "Keine neuen Autobahnprojekte",
       "location": "2.3. Gesellschaft ökologisch umbauen",
       "originalQuote": "keine neuen Autobahnprojekte, keine Privatisierung des Straßennetzes und seiner P",
-      "classification": "Verkehr & Mobilität"
+      "classification": "AUTOBAHNPROJEKTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Subventionierung von Flughäfen beenden",
       "location": "2.3. Gesellschaft ökologisch umbauen",
       "originalQuote": "Subventionierung von Flughäfen beenden; Kerosinsteuer und Flugticketabgabe einfüh",
-      "classification": "Verkehr & Mobilität"
+      "classification": "SUBVENTIONIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Privatisierung von Naturschutzflächen stoppen",
       "location": "2.3. Gesellschaft ökologisch umbauen",
       "originalQuote": "Stopp der Privatisierung von Naturschutzflächen (Ausnahme: Umwelt- und Naturschut",
-      "classification": "Umwelt & Klima"
+      "classification": "NATURSCHUTZFLÄCHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Öffentliche Schulden nicht durch Sozialkürzungen abbauen",
       "location": "2.7. Soziale Sicherheit: Solidarität statt Privatisierung",
       "originalQuote": "Mit uns wird es nach der Wahl keinerlei Kürzungen der Sozialleistungen und keine ",
-      "classification": "Soziales & Arbeit"
+      "classification": "Wirtschaft & Steuern"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Abschiebung aus Kriegsgebieten",
       "location": "2.8. Niemanden ausgrenzen – Politik sozialer Gleichstellung",
       "originalQuote": "Menschen, die vor Menschenrechtsverletzungen, Kriegen und politischer Verfolgung",
-      "classification": "Rüstung & Waffen"
+      "classification": "Migration & Asyl"
     },
     {
       "category": "semantisches Verbot",
@@ -195,7 +195,7 @@
       "topic": "Keine militärische Nutzung der Kyritz-Ruppiner Heide",
       "location": "5.3. Deutsche Außenpolitik: Friedenspolitik durchsetzen!",
       "originalQuote": "sofort auf die Pläne zur militärischen Nutzung der Kyritz-Ruppiner Heide als Bomb",
-      "classification": "Rüstung & Waffen"
+      "classification": "KYRITZRUPPINER"
     },
     {
       "category": "semantisches Verbot",

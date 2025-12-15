@@ -34,21 +34,21 @@
       "topic": "Zuwanderung in Sozialsysteme",
       "location": "Seite 27, 2.5. Unser Europa der Ordnung und Sicherheit",
       "originalQuote": "Eine Zuwanderung in die Sozialsysteme lehnen wir ab.",
-      "classification": "Soziales & Arbeit"
+      "classification": "SOZIALSYSTEME"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ausweitung des Familiennachzugs",
       "location": "Seite 28, 2.5. Unser Europa der Ordnung und Sicherheit",
       "originalQuote": "Wir lehnen eine Ausweitung des Familiennachzugs über die heute bestehenden Rege-",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "FAMILIENNACHZUGS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Zersplitterung des Europaparlaments",
       "location": "Seite 32, 2.7. Ein handlungsfähiges und bürgernahes Europa",
       "originalQuote": "Für ein arbeitsfähiges Parlament darf es keine Zersplitte-",
-      "classification": "Europa & Außenpolitik"
+      "classification": "EUROPAPARLAMENTS"
     },
     {
       "category": "explizites Verbot",
@@ -69,21 +69,21 @@
       "topic": "Missbrauch und Entgrenzung bei Arbeitszeiten",
       "location": "Seite 40, 3.2. Sichere Arbeit mit Zukunft",
       "originalQuote": "Dabei werden wir Missbrauch und Entgrenzung verhindern.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSZEITEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Missbrauch bei Befristungen",
       "location": "Seite 39, 3.2. Sichere Arbeit mit Zukunft",
       "originalQuote": "Missbrauch werden wir verhindern.",
-      "classification": "Soziales & Arbeit"
+      "classification": "BEFRISTUNGEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Klimaschutzmaßnahmen an Grenzen",
       "location": "Seite 42, 3.3. Deutschland als klimaneutrales Industrieland bis 2045",
       "originalQuote": "Maßnahmen zum Klimaschutz dürfen nicht an unseren Grenzen haltma-",
-      "classification": "Umwelt & Klima"
+      "classification": "KLIMASCHUTZMASSNAHMEN"
     },
     {
       "category": "semantisches Verbot",
@@ -104,21 +104,21 @@
       "topic": "Tierschutz an EU-Grenzen",
       "location": "Seite 52, 3.7. Eine Landwirtschaft, die stark und nachhaltig ist",
       "originalQuote": "Tierschutz darf nicht an EU-Grenzen Halt machen.",
-      "classification": "Migration & Asyl"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "explizites Verbot",
       "topic": "Risiken beim Erzeuger allein",
       "location": "Seite 56, 3.7. Eine Landwirtschaft, die stark und nachhaltig ist",
       "originalQuote": "Die Markt- und Produktionsrisiken dürfen nicht beim Erzeuger alleine liegen.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "ERZEUGER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Doppelbesteuerung von Renten",
       "location": "Seite 60, 4.1. Finanzielle Sicherheit im Alter",
       "originalQuote": "werden wir eine Doppelbesteuerung von Renten verhindern",
-      "classification": "Soziales & Arbeit"
+      "classification": "DOPPELBESTEUERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -139,21 +139,21 @@
       "topic": "Eintritt von Pflegebedürftigkeit",
       "location": "Seite 68, 4.4. Gute Pflege für mehr Sicherheit und Halt",
       "originalQuote": "um den Eintritt von Pflegebedürftigkeit möglichst lange zu verhindern.",
-      "classification": "Gesundheit & Drogen"
+      "classification": "PFLEGEBEDÜRFTIGKEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Vermögensteuer",
       "location": "Seite 75, 5.3. Vermögensbildung für jeden",
       "originalQuote": "Wir lehnen zusätzliche Lasten wie eine Wiedereinführung der Vermögensteuer ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERMÖGENSTEUER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Arbeitsmarktgerechte Familien",
       "location": "Seite 76, 6.1. Mehr Zeit, Raum und Unterstützung für Familien",
       "originalQuote": "Wir wollen eine familiengerechte Arbeitswelt und keine arbeitsmarktgerechten Familien.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSMARKTGERECHTE"
     },
     {
       "category": "explizites Verbot",
@@ -174,7 +174,7 @@
       "topic": "Übertriebene Datenschutzauslegung",
       "location": "Seite 95, 7.3 Digitale Transformationsoffensive",
       "originalQuote": "Eine über- triebene Auslegung von Datenschutzanforderungen darf nicht dazu führen",
-      "classification": "Digitales & Überwachung"
+      "classification": "DATENSCHUTZAUSLEGUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -230,7 +230,7 @@
       "topic": "Virtuelles Hausrecht zur Beeinflussung",
       "location": "Seite 115, 9.5. Schutz unserer Demokratie vor Extremisten und Terroristen",
       "originalQuote": "Das virtuelle Hausrecht in den Nutzungsbedingungen der Diensteanbieter darf nicht dazu genutzt werden",
-      "classification": "Demokratie & Recht"
+      "classification": "BEEINFLUSSUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -251,14 +251,14 @@
       "topic": "Verbote in digitaler Welt",
       "location": "Seite 118, 9.7. Gefahrenabwehr im Cyberraum",
       "originalQuote": "Was in der analogen Welt verboten ist, muss auch in der digitalen Welt verboten sein.",
-      "classification": "Digitales & Überwachung"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Paralleljustiz",
       "location": "Seite 122, 9.9. Starke und bürgernahe Justiz",
       "originalQuote": "Unser Rechtsstaat duldet keine Paralleljustiz",
-      "classification": "Demokratie & Recht"
+      "classification": "PARALLELJUSTIZ"
     },
     {
       "category": "explizites Verbot",

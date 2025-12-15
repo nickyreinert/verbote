@@ -41,28 +41,28 @@
       "topic": "Fehler der Vergangenheit in der Automobilindustrie müssen für die Zukunft ausgeschlossen werden.",
       "location": "Quelle: 2797",
       "originalQuote": "Fehler der Vergangenheit müssen korrigiert und für die Zukunft ausgeschlossen werden.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "AUTOMOBILINDUSTRIE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung einer Einwanderung in die sozialen Sicherungssysteme.",
       "location": "Quelle: 2814",
       "originalQuote": "Eine Einwanderung in die sozialen Sicherungssysteme lehnen wir ab. Mit einer klug gesteuerten und begrenzten Einwanderungspolitik für Fachkräfte unterstützen wir die Schaffung von Arbeitsplätzen in Deutschland und verringern spürbar die Attraktivität von illegaler Einwanderung und Migration.",
-      "classification": "Soziales & Arbeit"
+      "classification": "Migration & Asyl"
     },
     {
       "category": "explizites Verbot",
       "topic": "Befristete Arbeitsverhältnisse dürfen unbefristete Arbeitsverhältnisse nicht einfach ersetzen.",
       "location": "Quelle: 2845",
       "originalQuote": "Befristete Arbeitsverhältnisse dürfen unbefristete Arbeitsverhältnisse nicht einfach ersetzen. Deshalb werden wir offenkundige Missbräuche abstellen.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSVERHÄLTNISSE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Klonierung von Tieren.",
       "location": "Quelle: 2875",
       "originalQuote": "Wir treten für die Bewahrung der Schöpfung ein. Deshalb lehnen wir Klonierung von Tieren ab.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "KLONIERUNG"
     },
     {
       "category": "explizites Verbot",
@@ -76,7 +76,7 @@
       "topic": "Verzicht auf Kontrolle und Regulierung bei neuen Gesetzen, solange keine Notwendigkeit nachgewiesen ist.",
       "location": "Quelle: 2916",
       "originalQuote": "Bei neuen Gesetzgebungsvorhaben soll – soweit vertretbar – auf Kontrolle und Regulierung verzichtet werden, bis eine Notwendigkeit dafür eindeutig nachgewiesen ist.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "NOTWENDIGKEIT"
     },
     {
       "category": "semantisches Verbot",
@@ -90,21 +90,21 @@
       "topic": "Vermeidung einer Ausbremsung des Breitbandausbaus durch exzessive Bürokratie.",
       "location": "Quelle: 2942",
       "originalQuote": "Wir wollen ein Ausbremsen des Breitbandausbaus durch exzessive Bürokratie vermeiden und streben an, dass die Zahl der Antragsverfahren reduziert wird.",
-      "classification": "Wohnen & Miete"
+      "classification": "BREITBANDAUSBAUS"
     },
     {
       "category": "explizites Verbot",
       "topic": "Der Staat darf die Entgeltverhandlungen der öffentlich-rechtlichen Sender nicht durch Vorgaben beeinflussen.",
       "location": "Quelle: 2948",
       "originalQuote": "Der Staat darf die Verhandlungen über die Entgelte der öffentlich-rechtlichen Sender nicht durch Vorgaben beeinflussen.",
-      "classification": "Demokratie & Recht"
+      "classification": "ÖFFENTLICHRECHTLICHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung einer flächendeckenden Ausweitung der Videoüberwachung an allen öffentlichen Plätzen.",
       "location": "Quelle: 2962",
       "originalQuote": "Wir wenden uns gegen eine flächendeckende Ausweitung der Videoüberwachung an allen öffentlichen Plätzen. Stattdessen wollen wir die Videoüberwachung dort ausweiten, wo sie aus Kriminalprävention oder Gefahrenabwehr notwendig und geboten ist.",
-      "classification": "Digitales & Überwachung"
+      "classification": "FLÄCHENDECKENDEN"
     },
     {
       "category": "explizites Verbot",
@@ -132,7 +132,7 @@
       "topic": "Haftentlassung von Gefährdern aufgrund von formalen oder verfahrensrechtlichen Fehlern wird ausgeschlossen.",
       "location": "Quelle: 2993",
       "originalQuote": "Wir werden die Strafprozessordnung so ändern, dass eine Haftentlassung eines Gefährders aufgrund von formalen oder verfahrensrechtlichen Fehlern ausgeschlossen wird.",
-      "classification": "Demokratie & Recht"
+      "classification": "VERFAHRENSRECHTLICHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -167,42 +167,42 @@
       "topic": "Verhinderung der Überforderung der Kommunen durch die Aufnahme von Flüchtlingen.",
       "location": "Quelle: 3026",
       "originalQuote": "Wir werden zudem darauf achten, dass die Aufnahme von Flüchtlingen nicht zur Überforderung der Kommunen führt.",
-      "classification": "Migration & Asyl"
+      "classification": "ÜBERFORDERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verhinderung der Behinderung der Integration in den Arbeitsmarkt durch unklare Aufenthaltsperspektiven.",
       "location": "Quelle: 3029",
       "originalQuote": "Wir werden zudem darauf achten, dass die Integration in den deutschen Arbeitsmarkt nicht durch unklare Aufenthaltsperspektiven verhindert wird.",
-      "classification": "Soziales & Arbeit"
+      "classification": "Migration & Asyl"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verhinderung von Ausbildungs- und Arbeitslosigkeit bei jungen Flüchtlingen.",
       "location": "Quelle: 3034",
       "originalQuote": "Wir werden zudem darauf achten, dass junge Flüchtlinge nicht ausbildungs- und arbeitslos werden.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSLOSIGKEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Forderung nach unbegrenzter Aufnahme von Flüchtlingen.",
       "location": "Quelle: 3042",
       "originalQuote": "Wir lehnen die Forderung ab, unbegrenzt Flüchtlinge aufzunehmen. Vielmehr muss der Zuzug von Flüchtlingen nach Deutschland auf Dauer auf dem Niveau des Jahres 2012 bleiben, welches bei 180.000 bis 220.000 Flüchtlingen liegt.",
-      "classification": "Migration & Asyl"
+      "classification": "UNBEGRENZTER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Einführung von Steuern auf Wohnimmobilien; Ablehnung der Einführung einer Vermögensteuer oder Erhöhung der Erbschaftsteuer.",
       "location": "Quelle: 3044",
       "originalQuote": "Mit der Union wird es keine Steuern auf Wohnimmobilien geben. Wir lehnen die Einführung einer Vermögensteuer oder einer Erhöhung der Erbschaftsteuer ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ERBSCHAFTSTEUER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung jeder Form von Steuererhöhungen.",
       "location": "Quelle: 3048",
       "originalQuote": "CDU und CSU lehnen jede Form von Steuererhöhungen ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERERHÖHUNGEN"
     },
     {
       "category": "semantisches Verbot",

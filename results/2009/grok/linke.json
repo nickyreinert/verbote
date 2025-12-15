@@ -5,121 +5,141 @@
       "category": "explizites Verbot",
       "topic": "Verbot von Leerverkäufen, Derivaten, Hedgefonds und Private-Equity-Gesellschaften",
       "location": "2.2. Wirtschaft gestalten",
-      "originalQuote": "Leerverkäufe, außerbilanzielle Zweckgesellschaften, Derivate, Hedgefonds und Private-Equity- Gesells"
+      "originalQuote": "Leerverkäufe, außerbilanzielle Zweckgesellschaften, Derivate, Hedgefonds und Private-Equity- Gesells",
+      "classification": "PRIVATEEQUITYGESELLSCHAFTEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Massenentlassungen in nicht insolvenzgefährdeten Unternehmen",
       "location": "2.2. Wirtschaft gestalten",
-      "originalQuote": "Wir fordern ein Verbot von Massenentlassungen bei allen Unternehmen, die nicht insolvenzgefährdet si"
+      "originalQuote": "Wir fordern ein Verbot von Massenentlassungen bei allen Unternehmen, die nicht insolvenzgefährdet si",
+      "classification": "Wirtschaft & Steuern"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Agro-Gentechnik",
       "location": "2.2. Wirtschaft gestalten",
-      "originalQuote": "Agro-Gentechnik verbieten; Kennzeichnungspflicht von gentechnischen Bestandteilen in Nahrung und Fut"
+      "originalQuote": "Agro-Gentechnik verbieten; Kennzeichnungspflicht von gentechnischen Bestandteilen in Nahrung und Fut",
+      "classification": "Tierschutz & Landwirtschaft"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Tierversuchen (generell, mit Ausnahmen)",
       "location": "2.3. Gesellschaft ökologisch umbauen",
-      "originalQuote": "generelles Verbot von Tierversuchen, die nur in besonderen Ausnahmefällen durchgeführt werden dürfen"
+      "originalQuote": "generelles Verbot von Tierversuchen, die nur in besonderen Ausnahmefällen durchgeführt werden dürfen",
+      "classification": "TIERVERSUCHEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot sogenannter Stand-by-Schaltungen über 1 Watt",
       "location": "2.3. Gesellschaft ökologisch umbauen",
-      "originalQuote": "u.a. ein Verbot sogenannter Stand by-Schaltungen mit einem Verbrauch von über 1 Watt;"
+      "originalQuote": "u.a. ein Verbot sogenannter Stand by-Schaltungen mit einem Verbrauch von über 1 Watt;",
+      "classification": "STANDBYSCHALTUNGEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot des grenzüberschreitenden Exports von Abfällen",
       "location": "2.3. Gesellschaft ökologisch umbauen",
-      "originalQuote": "Verbot des grenzüberschreitenden Exports von Abfällen;"
+      "originalQuote": "Verbot des grenzüberschreitenden Exports von Abfällen;",
+      "classification": "GRENZÜBERSCHREITENDEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Monster-LKW (Gigaliner)",
       "location": "2.3. Gesellschaft ökologisch umbauen",
-      "originalQuote": "Einführung von Monster-LKW (Gigaliner) verbieten;"
+      "originalQuote": "Einführung von Monster-LKW (Gigaliner) verbieten;",
+      "classification": "MONSTERLKW"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot des Einsatzes der Bundeswehr im Inneren",
       "location": "4.3. Die Bürgerrechte schützen",
-      "originalQuote": "Einsatz der Bundeswehr als „Hilfspolizei“ im Inneren verbieten."
+      "originalQuote": "Einsatz der Bundeswehr als „Hilfspolizei“ im Inneren verbieten.",
+      "classification": "Rüstung & Waffen"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Rüstungsexporten",
       "location": "5.3. Deutsche Außenpolitik: Friedenspolitik durchsetzen!",
-      "originalQuote": "Rüstungsexporte verbieten;"
+      "originalQuote": "Rüstungsexporte verbieten;",
+      "classification": "RÜSTUNGSEXPORTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung neuer Kohlekraftwerke",
       "location": "2.3. Gesellschaft ökologisch umbauen",
-      "originalQuote": "Wir lehnen daher die Planung und den Bau neuer Kohlekraftwerke ab – ebenso wie die von der Energiewi"
+      "originalQuote": "Wir lehnen daher die Planung und den Bau neuer Kohlekraftwerke ab – ebenso wie die von der Energiewi",
+      "classification": "KOHLEKRAFTWERKE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Privatisierung der Bahn",
       "location": "2.3. Gesellschaft ökologisch umbauen",
-      "originalQuote": "Die Privatisierung der Bahn und von Nahverkehrsunternehmen lehnen wir ab."
+      "originalQuote": "Die Privatisierung der Bahn und von Nahverkehrsunternehmen lehnen wir ab.",
+      "classification": "Verkehr & Mobilität"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Agroenergie-Importen aus Nicht-EU-Ländern",
       "location": "2.3. Gesellschaft ökologisch umbauen",
-      "originalQuote": "keine Agroenergie-Importe aus dem Nicht-EU-Ausland und Fokus bei der Biomassenutzung auf der gekoppe"
+      "originalQuote": "keine Agroenergie-Importe aus dem Nicht-EU-Ausland und Fokus bei der Biomassenutzung auf der gekoppe",
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Stopp der Privatisierung von öffentlichem Eigentum",
       "location": "2. Wirtschaft gestalten",
-      "originalQuote": "Die Privatisierung von öffentlichem Eigentum wollen wir stoppen und in wichtigen Fällen rückgängig m"
+      "originalQuote": "Die Privatisierung von öffentlichem Eigentum wollen wir stoppen und in wichtigen Fällen rückgängig m",
+      "classification": "Wohnen & Miete"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verhinderung von Spekulation mit Agrarrohstoffen",
       "location": "2.2. Wirtschaft gestalten",
-      "originalQuote": "Spekulation mit Agrarrohstoffen und Boden verhindern;"
+      "originalQuote": "Spekulation mit Agrarrohstoffen und Boden verhindern;",
+      "classification": "Wohnen & Miete"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verhinderung von Preisdumping durch Handelsketten",
       "location": "2.2. Wirtschaft gestalten",
-      "originalQuote": "Preisdumping der Handelsketten zu Lasten der Bäuerinnen und Bauern unterbinden;"
+      "originalQuote": "Preisdumping der Handelsketten zu Lasten der Bäuerinnen und Bauern unterbinden;",
+      "classification": "HANDELSKETTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine neuen Autobahnprojekte",
       "location": "2.3. Gesellschaft ökologisch umbauen",
-      "originalQuote": "keine neuen Autobahnprojekte, keine Privatisierung des Straßennetzes und seiner Pflege;"
+      "originalQuote": "keine neuen Autobahnprojekte, keine Privatisierung des Straßennetzes und seiner Pflege;",
+      "classification": "AUTOBAHNPROJEKTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Privatisierung des Straßennetzes",
       "location": "2.3. Gesellschaft ökologisch umbauen",
-      "originalQuote": "keine neuen Autobahnprojekte, keine Privatisierung des Straßennetzes und seiner Pflege;"
+      "originalQuote": "keine neuen Autobahnprojekte, keine Privatisierung des Straßennetzes und seiner Pflege;",
+      "classification": "PRIVATISIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Auslandskriegseinsätzen der Bundeswehr",
       "location": "5.3. Deutsche Außenpolitik: Friedenspolitik durchsetzen!",
-      "originalQuote": "keine Auslandskriegseinsätze der Bundeswehr zulassen – auch nicht unter UN-Mandat:"
+      "originalQuote": "keine Auslandskriegseinsätze der Bundeswehr zulassen – auch nicht unter UN-Mandat:",
+      "classification": "Rüstung & Waffen"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Ausweitung der NATO",
       "location": "5.3. Deutsche Außenpolitik: Friedenspolitik durchsetzen!",
-      "originalQuote": "keinem Ausweitungsversuch der NATO zustimmen:"
+      "originalQuote": "keinem Ausweitungsversuch der NATO zustimmen:",
+      "classification": "AUSWEITUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Spekulation mit Nahrungsmitteln unterbinden",
       "location": "5.1. Entwicklung braucht Gerechtigkeit",
-      "originalQuote": "Spekulation mit Nahrungsmitteln verbieten: die Finanzmärkte regulieren, Hedgefonds und spekulative G"
+      "originalQuote": "Spekulation mit Nahrungsmitteln verbieten: die Finanzmärkte regulieren, Hedgefonds und spekulative G",
+      "classification": "Wohnen & Miete"
     }
   ]
 }

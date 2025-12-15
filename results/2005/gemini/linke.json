@@ -6,7 +6,7 @@
       "topic": "Keine weitere Senkung von Sozialeinkommen",
       "location": "I. / 1.1.",
       "originalQuote": "Keine weitere Senkung von Sozialeinkommen! Die Durchsetzungsfähigkeit der Gewerkschaften und die Bindungswirkung der Tarifverträge sollen gestärkt und die Lockerung des Kündigungsschutzes zurückgewiesen werden.",
-      "classification": "Soziales & Arbeit"
+      "classification": "SOZIALEINKOMMEN"
     },
     {
       "category": "semantisches Verbot",
@@ -27,21 +27,21 @@
       "topic": "Ablehnung des Zwangs zur Annahme jeglicher Jobs für Jugendliche",
       "location": "I. / 1.1.",
       "originalQuote": "Jugendliche haben ein Recht auf Ausbildung, den Zwang zur Annahme jeglicher Jobs lehnen wir ab.",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "JUGENDLICHE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Lohnkürzungen und einer Ausweitung des Niedriglohnsektors",
       "location": "I. / 1.2.",
       "originalQuote": "Lohnkürzungen und eine Ausweitung des Niedriglohnsektors, wie von anderen Parteien gefordert, sind kein gangbarer Weg zu mehr Beschäftigung.",
-      "classification": "Soziales & Arbeit"
+      "classification": "NIEDRIGLOHNSEKTORS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Stoppen des Trends zur Verlängerung der Arbeitszeiten ohne Lohnausgleich",
       "location": "I. / 1.5.",
       "originalQuote": "Der Trend, die Arbeitszeiten wieder zu verlängern – meist ohne Lohnausgleich –, muss gestoppt und umgekehrt werden.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSZEITEN"
     },
     {
       "category": "explizites Verbot",
@@ -55,14 +55,14 @@
       "topic": "Rücknahme der Steuerbefreiung bei Beteiligungsverkäufen",
       "location": "I. / 1.6.",
       "originalQuote": "Die Regulierung und Kontrolle auf den Finanzmärkten wird verstärkt. Die wachsenden Ansprüche der Eigentümer und Großaktionäre auf leistungslose Einkommen sind nur durch eine umfassende Demokratisierung der Wirtschaft zurückzudrängen. Die Steuerbefreiung bei Beteiligungsverkäufen wird zurückgenommen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "BETEILIGUNGSVERKÄUFEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot, dass die Ablehnung unzumutbarer Arbeitsbedingungen zum Verlust des Grundsicherungsanspruchs führt",
       "location": "I. / 2.1.",
       "originalQuote": "Eine solche soziale Grundsicherung ist ein Individualrecht, Verwandte sollen nicht als „Bedarfsgemeinschaften“ für das Lebensnotwendige in Haftung genommen und eigene Anstrengungen zur Alterssicherung nicht belastet werden. Die Ablehnung unzumutbarer Arbeitsbedingungen darf nicht zum Verlust des Anspruchs führen; Zwang zur Arbeit lehnen wir ab.",
-      "classification": "Soziales & Arbeit"
+      "classification": "GRUNDSICHERUNGSANSPRUCHS"
     },
     {
       "category": "semantisches Verbot",
@@ -76,7 +76,7 @@
       "topic": "Ablehnung der Kürzung von Renten und des Heraufsetzens der Altersgrenze für den Rentenbezug",
       "location": "I. / 2.2.",
       "originalQuote": "Jedem Menschen steht auch im Alter ein würdevolles Leben zu. Deshalb lehnen wir das Kürzen von Renten und das Heraufsetzen der Altersgrenze für den Rentenbezug ab.",
-      "classification": "Soziales & Arbeit"
+      "classification": "HERAUFSETZENS"
     },
     {
       "category": "explizites Verbot",
@@ -104,7 +104,7 @@
       "topic": "Verhinderung des Ausverkaufs öffentlichen Eigentums an Wohnungen und kommunalen Versorgungsunternehmen",
       "location": "I. / 2.5.",
       "originalQuote": "Bezahlbare und bedarfsgerechte Wohnungen sind Grundvoraussetzung sozialer Sicherheit und Menschenwürde. Wir wollen den Ausverkauf öffentlichen Eigentums an Wohnungen und kommunalen Versorgungsunternehmen verhindern und bezahlbare Wohnungen für Familien und ältere Menschen – vor allem in den Städten – erhalten und fördern.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERSORGUNGSUNTERNEHMEN"
     },
     {
       "category": "semantisches Verbot",
@@ -118,14 +118,14 @@
       "topic": "Ablehnung/Gegenwehr gegen Privatisierungen im Bildungswesen",
       "location": "II. / 2.",
       "originalQuote": "Eine Bildung für alle kann nur in Verantwortung des Staates und bei ausreichender Förderung durch die öffentliche Hand gewährleistet werden. Deshalb wenden wir uns gegen Privatisierungen im Bildungswesen.",
-      "classification": "Bildung & Forschung"
+      "classification": "ABLEHNUNGGEGENWEHR"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Leistungsförderer und Antibiotika gehören nicht ins Tierfutter",
       "location": "IV. / 3.",
       "originalQuote": "Leistungsförderer und Antibiotika gehören nicht ins Tierfutter. Grüne Gentechnik halten wir weder für erstrebenswert noch für notwendig.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "LEISTUNGSFÖRDERER"
     },
     {
       "category": "semantisches Verbot",
@@ -139,21 +139,21 @@
       "topic": "Ablehnung der Patentierung von Lebewesen und Genen",
       "location": "IV. / 3.",
       "originalQuote": "Wir lehnen die Patentierung von Lebewesen und Genen",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "PATENTIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Stopp der Privatisierung von Naturschutzflächen",
       "location": "IV. / 2.",
       "originalQuote": "und zurückzugewinnen sowie Böden zu entsiegeln. Zur Sicherung des nationalen Naturerbes fordern wir einen Stopp der Privatisierung von Naturschutzflächen.",
-      "classification": "Umwelt & Klima"
+      "classification": "NATURSCHUTZFLÄCHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung des naturzerstörenden Ausbaus von Flüssen (Donau, Elbe, Saale, Oder, Havel, Main und Weser)",
       "location": "IV. / 2.",
       "originalQuote": "Die Binnenschifffahrt ist an den Potenzialen der Flüsse auszurichten und nicht umgekehrt. Wir wenden uns gegen den naturzerstörenden Ausbau von Donau, Elbe, Saale, Oder, Havel, Main und Weser.",
-      "classification": "Wohnen & Miete"
+      "classification": "NATURZERSTÖRENDEN"
     },
     {
       "category": "semantisches Verbot",
@@ -181,7 +181,7 @@
       "topic": "Auflösung von Militärbündnissen, darunter die NATO",
       "location": "VII. / 3.",
       "originalQuote": "Dem Europäischen Parlament sind das Recht zur Gesetzesinitiative und die volle Entscheidungsfreiheit bei der Auswahl des Kommissionspräsidenten zu geben. • Militärbündnisse – darunter die NATO – gehören aufgelöst.",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITÄRBÜNDNISSEN"
     }
   ]
 }

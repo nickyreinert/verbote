@@ -6,7 +6,7 @@
       "topic": "Verbot von Rüstungsexporten in kriegsbeteiligte Länder",
       "location": "Kapitel 'Gegen Aufrüstung und Krieg'",
       "originalQuote": "Rüstungsexporte in Länder, die an Kriegen beteiligt sind und Menschenrechte missachten, müssen sofort unterbunden",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTEN"
     },
     {
       "category": "explizites Verbot",
@@ -34,7 +34,7 @@
       "topic": "Verbot von sachgrundlosen Befristungen",
       "location": "Kapitel 'Soziale Absicherung in jedem Arbeitsverhältnis'",
       "originalQuote": "Sachgrundlose Befristungen müssen im Teilzeit- und Befristungsgesetz ersatzlos gestrichen werden und zulä",
-      "classification": "Soziales & Arbeit"
+      "classification": "SACHGRUNDLOSEN"
     },
     {
       "category": "explizites Verbot",
@@ -55,7 +55,7 @@
       "topic": "Verbot von Lohndumping durch Werkverträge",
       "location": "Kapitel 'Löhne, die für ein gutes Leben reichen. Schluss mit dem Niedriglohn'",
       "originalQuote": "Lohndumping durch Werkverträge und Leiharbeit beenden. Wir wollen Leiharbeit verbieten. Bis zum Verbot der",
-      "classification": "Soziales & Arbeit"
+      "classification": "WERKVERTRÄGE"
     },
     {
       "category": "semantisches Verbot",
@@ -69,21 +69,21 @@
       "topic": "Ablehnung von Sozialabbau",
       "location": "Kapitel 'Soziale Sicherheit für alle'",
       "originalQuote": "An einer Regierung, die Privatisierungen der Daseinsvorsorge oder Sozialabbau betreibt, deren Politik di",
-      "classification": "Soziales & Arbeit"
+      "classification": "SOZIALABBAU"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Sanktionen im Hartz-IV-System",
       "location": "Kapitel 'Bedarfsdeckende und sanktionsfreie individuelle Mindestsicherung'",
       "originalQuote": "Sanktionen und entwürdigende Antragsverfahren schaffen wir ab. Zusammengefasst wollen wir ein garantiertes",
-      "classification": "Soziales & Arbeit"
+      "classification": "HARTZIVSYSTEM"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Abschlägen auf Erwerbsminderungsrenten",
       "location": "Kapitel 'Gute Rente, gutes Leben: Solidarische Erwerbstätigenversicherung'",
       "originalQuote": "Wir fordern, die unsozialen Abschläge auf Erwerbsminderungsrenten zu streichen oder sie durch eine wirkungs",
-      "classification": "Soziales & Arbeit"
+      "classification": "ERWERBSMINDERUNGSRENTEN"
     },
     {
       "category": "semantisches Verbot",
@@ -97,7 +97,7 @@
       "topic": "Ablehnung von Riester-Rente",
       "location": "Kapitel 'Gute Rente, gutes Leben: Solidarische Erwerbstätigenversicherung'",
       "originalQuote": "Die private Riester-Rente ist gescheitert. Sie kann die in die gesetzliche Rente gerissenen Lücken nicht schl",
-      "classification": "Soziales & Arbeit"
+      "classification": "RIESTERRENTE"
     },
     {
       "category": "semantisches Verbot",
@@ -111,7 +111,7 @@
       "topic": "Ablehnung von Schuldenbremse",
       "location": "Kapitel 'Ungleichheit verringern'",
       "originalQuote": "Wir halten gemeinsam mit vielen Expert*innen die Schuldenbremse für volkswirtschaftlich schädlich und wollen",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "SCHULDENBREMSE"
     },
     {
       "category": "semantisches Verbot",
@@ -132,7 +132,7 @@
       "topic": "Ablehnung von Sozialdumping bei Entsendung nach Deutschland",
       "location": "Kapitel 'Gleiche Rechte für Saisonbeschäftigte und Beschäftigte in Privathaushalten'",
       "originalQuote": "Wir wollen Sozialdumping bei der Entsendung nach Deutschland beenden: Sozialversicherungsbeiträge sollen k",
-      "classification": "Soziales & Arbeit"
+      "classification": "SOZIALDUMPING"
     },
     {
       "category": "semantisches Verbot",
@@ -146,7 +146,7 @@
       "topic": "Ablehnung von Union Busting",
       "location": "Kapitel 'Union Busting stoppen, Gegenwehr stärken, Mitbestimmung ausweiten'",
       "originalQuote": "Wir wollen in Fällen von Union Busting bei erstmaligen Betriebsratswahlen die Möglichkeit der direkten Eins",
-      "classification": "Bildung & Forschung"
+      "classification": "BUSTING"
     },
     {
       "category": "semantisches Verbot",
@@ -167,28 +167,28 @@
       "topic": "Ablehnung von Paragraf 118 Betriebsverfassungsgesetz",
       "location": "Kapitel 'Gewerkschaften stärken'",
       "originalQuote": "Die betrieblichen Mitbestimmungsrechte und das Streikrecht müssen auch für die Beschäftigten in Kirche, D",
-      "classification": "Demokratie & Recht"
+      "classification": "BETRIEBSVERFASSUNGSGESETZ"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von OT-Mitgliedschaften in Arbeitgeberverbänden",
       "location": "Kapitel 'Gewerkschaften stärken'",
       "originalQuote": "OT-Mitgliedschaften (»ohne Tarif«) in Arbeitgeberverbänden müssen abgeschafft werden.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITGEBERVERBÄNDEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Asylbewerberleistungsgesetz",
       "location": "Kapitel 'Bedarfsdeckende und sanktionsfreie individuelle Mindestsicherung'",
       "originalQuote": "Das Asylbewerberleistungsgesetz (AsylbLG) wird abgeschafft. Asylbewerber*innen und hier lebende EU-Bürger*inn",
-      "classification": "Migration & Asyl"
+      "classification": "ASYLBEWERBERLEISTUNGSGESETZ"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Verfassungsschutzbehörden in aktueller Form",
       "location": "Kapitel 'Antifaschismus ist eine Grundlage unserer Politik'",
       "originalQuote": "Wir wollen die Verfassungsschutzbehörden in dieser Form auflösen. Wir wollen antifaschistische Arbeit in der",
-      "classification": "Demokratie & Recht"
+      "classification": "VERFASSUNGSSCHUTZBEHÖRDEN"
     },
     {
       "category": "semantisches Verbot",
@@ -202,7 +202,7 @@
       "topic": "Ablehnung von Zweiklassenmedizin",
       "location": "Kapitel 'Gute Gesundheitsversorgung und menschenwürdige Pflege für alle'",
       "originalQuote": "Die Zweiklassenmedizin wollen wir mit einer solidarischen Gesundheitsversicherung ablösen, in die alle einzah",
-      "classification": "Gesundheit & Drogen"
+      "classification": "ZWEIKLASSENMEDIZIN"
     },
     {
       "category": "semantisches Verbot",
@@ -216,14 +216,14 @@
       "topic": "Ablehnung von Privatisierung von Krankenhäusern und Pflegekonzernen",
       "location": "Kapitel 'Gute Gesundheitsversorgung und menschenwürdige Pflege für alle'",
       "originalQuote": "Wir wollen Krankenhäuser und Pflegekonzerne von der Börse nehmen. Private Krankenhäuser und Pflegebetriebe, ",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "PFLEGEKONZERNEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Gewinnorientierung in Krankenhäusern",
       "location": "Kapitel 'Gute Gesundheitsversorgung und menschenwürdige Pflege für alle'",
       "originalQuote": "Es ist falsch, dass Krankenhäuser nach Fallpauschalen und mit Gewinnorientierung wirtschaften müssen. In K",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "GEWINNORIENTIERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -258,14 +258,14 @@
       "topic": "Ablehnung von Entlassungen bei Kurzarbeit",
       "location": "Kapitel 'Soziale Rechte: Eine gerechte Versicherung gegen Erwerbslosigkeit'",
       "originalQuote": "Unternehmen, die Kurzarbeitergeld von der Agentur für Arbeit beziehen, dürfen keine betriebsbedingten Entlass",
-      "classification": "Soziales & Arbeit"
+      "classification": "ENTLASSUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Arbeitshetze und Überstunden",
       "location": "Kapitel 'Gute Arbeitsbedingungen, weniger Belastungen'",
       "originalQuote": "Wir brauchen eine Verordnung zum Schutz vor Gefährdung durch psychische Belastung bei der Arbeit (Antistress",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSHETZE"
     },
     {
       "category": "semantisches Verbot",
@@ -286,7 +286,7 @@
       "topic": "Ablehnung von Lohnungleichheit zwischen Frauen und Männern",
       "location": "Kapitel 'Löhne, die für ein gutes Leben reichen. Schluss mit dem Niedriglohn'",
       "originalQuote": "Um gleiche Entgelte für Frauen und Männer durchzusetzen, muss der Auskunftsanspruch im Entgelttransparenzge",
-      "classification": "Soziales & Arbeit"
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "semantisches Verbot",
@@ -300,14 +300,14 @@
       "topic": "Ablehnung von Ausbeutung in Privathaushalten",
       "location": "Kapitel 'Gleiche Rechte für Saisonbeschäftigte und Beschäftigte in Privathaushalten'",
       "originalQuote": "DIE LINKE will die Rechte von Beschäftigten in Privathaushalten stärken. Arbeit in Privathaushalten (u. a. Re",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "PRIVATHAUSHALTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Ausbeutung von Saisonarbeiter*innen",
       "location": "Kapitel 'Gleiche Rechte für Saisonbeschäftigte und Beschäftigte in Privathaushalten'",
       "originalQuote": "Gleicher Lohn für gleiche Arbeit ab dem ersten Tag muss auch für Saisonarbeiter*innen und aus dem Ausland e",
-      "classification": "Soziales & Arbeit"
+      "classification": "SAISONARBEITERINNEN"
     },
     {
       "category": "semantisches Verbot",
@@ -328,49 +328,49 @@
       "topic": "Ablehnung von Arbeitszeitverkürzung ohne Lohnausgleich",
       "location": "Kapitel 'Gute Arbeit, gerechte Bezahlung'",
       "originalQuote": "Wir unterstützen die Gewerkschaften in ihrem Kampf für eine deutliche Arbeitszeitverkürzung in Richtung e",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSZEITVERKÜRZUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Arbeitslosigkeit durch Digitalisierung",
       "location": "Kapitel 'Gute Arbeit, gerechte Bezahlung'",
       "originalQuote": "Arbeitszeitverkürzung sichert Arbeitsplätze in der Industrie und in von der Digitalisierung veränderten Bra",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSLOSIGKEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Arbeitsplatzabbau durch Umstrukturierung",
       "location": "Kapitel 'Kein Umbau auf dem Rücken der Beschäftigten: Weiterbildungsanspruch für alle'",
       "originalQuote": "Unternehmen nutzen die Einführung neuer Technologien und Produkte, den Klimaschutz und die Digitalisierung a",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSPLATZABBAU"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Arbeitsplatzverlust durch ökologischen Umbau",
       "location": "Kapitel 'Sozial- und klimagerechte Wirtschaftspolitik'",
       "originalQuote": "Der notwendige ökologische Umbau in der Industrie, insbesondere der Autozuliefererindustrie unterstützen. Vo",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSPLATZVERLUST"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Mietexplosion",
       "location": "Kapitel 'Keine Rendite mit der Miete'",
       "originalQuote": "Wir wollen Mietendeckel im gesamten Bundesgebiet möglich machen. Unser Ziel: die Explosion der Mieten nicht",
-      "classification": "Wohnen & Miete"
+      "classification": "MIETEXPLOSION"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Immobilienspekulation",
       "location": "Kapitel 'Keine Rendite mit der Miete'",
       "originalQuote": "Immobilienkonzerne wollen wir von der Börse nehmen. Es ist notwendig, dass im Jahr mindestens 250 000 z",
-      "classification": "Wohnen & Miete"
+      "classification": "IMMOBILIENSPEKULATION"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Bodenpreisspekulation",
       "location": "Kapitel 'Agrarland schützen'",
       "originalQuote": "Wir schlagen unter anderem einen öffentlichen Bodenfonds vor, der an nachhaltig wirtschaftende, ortsansäs",
-      "classification": "Wohnen & Miete"
+      "classification": "BODENPREISSPEKULATION"
     },
     {
       "category": "semantisches Verbot",
@@ -384,7 +384,7 @@
       "topic": "Ablehnung von Agrarindustrie",
       "location": "Kapitel 'Konsequenter Klimaschutz und mehr Lebensqualität, Mobilitäts-, Agrar- und Energiewende'",
       "originalQuote": "Wir wollen für alle Menschen eine gute Ernährung sichern und die Agrarindustrie zu einer krisenfesten ökolo",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "AGRARINDUSTRIE"
     },
     {
       "category": "semantisches Verbot",
@@ -412,7 +412,7 @@
       "topic": "Ablehnung von Privatisierung der Energieversorgung",
       "location": "Kapitel 'Konsequenter Klimaschutz und mehr Lebensqualität, Mobilitäts-, Agrar- und Energiewende'",
       "originalQuote": "Wir wollen die Energieversorgung am Gemeinwohl ausrichten und in Stadtwerken und Genossenschaften organis",
-      "classification": "Umwelt & Klima"
+      "classification": "ENERGIEVERSORGUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -433,14 +433,14 @@
       "topic": "Ablehnung von digitaler Spaltung",
       "location": "Kapitel 'Digital geht auch sozial'",
       "originalQuote": "Die digitale Spaltung unserer Gesellschaft vertieft nicht nur die bestehende Armut, sondern hängt all jene",
-      "classification": "Digitales & Überwachung"
+      "classification": "DIGITALER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Bürokratie bei Sozialleistungen",
       "location": "Kapitel 'Bedarfsdeckende und sanktionsfreie individuelle Mindestsicherung'",
       "originalQuote": "Alle bisherigen Bundesregierungen haben gezielt kleingerechnet, was die Menschen zum Leben brauchen. Damit",
-      "classification": "Soziales & Arbeit"
+      "classification": "SOZIALLEISTUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -461,42 +461,42 @@
       "topic": "Ablehnung von Ungleichheit Ost-West bei Renten",
       "location": "Kapitel 'Weg mit der Altersarmut'",
       "originalQuote": "Wir wollen die Benachteiligung der ostdeutschen Rentner*innen endlich beenden. Wir fordern die sofortige An",
-      "classification": "Soziales & Arbeit"
+      "classification": "UNGLEICHHEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Kinderarmut",
       "location": "Kapitel 'Kinderarmut überwinden: Kindergrundsicherung'",
       "originalQuote": "Kinderarmut ist immer Einkommensarmut der Eltern. Eine gute soziale Infrastruktur, gute Löhne und soziale",
-      "classification": "Soziales & Arbeit"
+      "classification": "KINDERARMUT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Gebühren für Bildungseinrichtungen",
       "location": "Kapitel 'Für Bildungsgerechtigkeit'",
       "originalQuote": "Ein Rechtsanspruch auf einen Kitaplatz bedeutet auch: Anspruch auf gute Betreuung, kleine Gruppen, gut be",
-      "classification": "Bildung & Forschung"
+      "classification": "BILDUNGSEINRICHTUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von ungleichen Bildungschancen",
       "location": "Kapitel 'Für Bildungsgerechtigkeit'",
       "originalQuote": "Gleich gute Bildung für alle Kinder gibt es nur mit einem Aufbauprogramm für mehr Erzieher*innen, Lehrer*",
-      "classification": "Bildung & Forschung"
+      "classification": "BILDUNGSCHANCEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von digitaler Ausgrenzung in Schulen",
       "location": "Kapitel 'Für Bildungsgerechtigkeit'",
       "originalQuote": "Es sollte selbstverständlich sein, dass es nicht durchs Schuldach regnet, die Toiletten sauber sind und j",
-      "classification": "Digitales & Überwachung"
+      "classification": "AUSGRENZUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Lohnungleichheit zwischen Ost und West",
       "location": "Kapitel 'Neuer Aufbruch für den Osten'",
       "originalQuote": "Wir streiten für einheitliche Tarifgebiete und gleiche Löhne in diesem Land. Der Rentenwert Ost muss sofo",
-      "classification": "Soziales & Arbeit"
+      "classification": "LOHNUNGLEICHHEIT"
     },
     {
       "category": "semantisches Verbot",
@@ -517,7 +517,7 @@
       "topic": "Ablehnung von Diskriminierung von Menschen mit Migrationshintergrund",
       "location": "Kapitel 'Menschlichkeit ist für uns unteilbar'",
       "originalQuote": "Viele Menschen werden wegen ihrer körperlichen Verfassung, ihrer Herkunft ihrer Armut, ihres Geschlechts, i",
-      "classification": "Migration & Asyl"
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "semantisches Verbot",
@@ -531,7 +531,7 @@
       "topic": "Ablehnung von Abschiebungen in unmenschliche Lager",
       "location": "Kapitel 'Menschlichkeit ist für uns unteilbar'",
       "originalQuote": "Wir wollen die Lager evakuieren, in denen Geflüchtete unter unmenschlichen Bedingungen eingesperrt sind u",
-      "classification": "Migration & Asyl"
+      "classification": "ABSCHIEBUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -552,7 +552,7 @@
       "topic": "Ablehnung von Rechtsterrorismus",
       "location": "Kapitel 'Antifaschismus ist eine Grundlage unserer Politik'",
       "originalQuote": "Wir wollen einen Untersuchungsausschuss zum Rechtsterrorismus einsetzen und Ermittlungsschwerpunkte gegen",
-      "classification": "Demokratie & Recht"
+      "classification": "RECHTSTERRORISMUS"
     },
     {
       "category": "semantisches Verbot",
@@ -580,7 +580,7 @@
       "topic": "Ablehnung von Hetze und Gewalt von rechts",
       "location": "Kapitel 'Mut zur Veränderung'",
       "originalQuote": "Wir zeigen unmissverständlich Haltung gegen Rassismus, Antisemitismus, Antiziganismus und jede Form von",
-      "classification": "Demokratie & Recht"
+      "classification": "GEWALT"
     },
     {
       "category": "semantisches Verbot",
@@ -594,7 +594,7 @@
       "topic": "Ablehnung von Einschränkung demokratischer Rechte in Krisen",
       "location": "Kapitel 'Für mehr Demokratie streiten'",
       "originalQuote": "Wir wollen eine Krisenbewältigung mit mehr und nicht mit weniger Demokratie. Die parlamentarischen Rechte",
-      "classification": "Demokratie & Recht"
+      "classification": "DEMOKRATISCHER"
     },
     {
       "category": "semantisches Verbot",
@@ -608,7 +608,7 @@
       "topic": "Ablehnung von Lobbyismus",
       "location": "Kapitel 'Mut zur Veränderung'",
       "originalQuote": "Solidarität, die diesen Namen verdient, statt Bereicherung und Korruption. Wir brauchen einen gesellschaft",
-      "classification": "Demokratie & Recht"
+      "classification": "LOBBYISMUS"
     },
     {
       "category": "semantisches Verbot",
@@ -629,35 +629,35 @@
       "topic": "Ablehnung von Klimakatastrophe ohne soziale Absicherung",
       "location": "Kapitel 'Mut zur Veränderung'",
       "originalQuote": "Der Schutz der Lebensgrundlagen braucht ein Fundament: soziale Sicherheit. Ohne Sicherheit und Vertrauen",
-      "classification": "Umwelt & Klima"
+      "classification": "KLIMAKATASTROPHE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von sozialer Ungerechtigkeit",
       "location": "Einführung",
       "originalQuote": "Wir bestehen darauf, dass sich die Dinge ändern, weil sie geändert werden können. Wir lassen niemanden zurück",
-      "classification": "Soziales & Arbeit"
+      "classification": "UNGERECHTIGKEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von sozialer Kälte in der Pandemie",
       "location": "Einführung",
       "originalQuote": "Die Große Koalition hat Großkonzernen geholfen, aber viele Menschen sind durch die Maschen der Rettungsnetz",
-      "classification": "Soziales & Arbeit"
+      "classification": "SOZIALER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Profitinteressen über Gesundheitsschutz",
       "location": "Einführung",
       "originalQuote": "Die Regierung hat in der Pandemiebekämpfung versagt, weil sie die Profitinteressen der Wirtschaft über den",
-      "classification": "Gesundheit & Drogen"
+      "classification": "GESUNDHEITSSCHUTZ"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Kaputtsparen im Gesundheitswesen",
       "location": "Einführung",
       "originalQuote": "Die Coronapandemie hat die Krise unserer Infrastruktur und der öffentlichen Daseinsvorsorge offengelegt. J",
-      "classification": "Gesundheit & Drogen"
+      "classification": "GESUNDHEITSWESEN"
     },
     {
       "category": "semantisches Verbot",
@@ -685,7 +685,7 @@
       "topic": "Ablehnung von sozialer Ungleichheit durch Pandemie",
       "location": "Einführung",
       "originalQuote": "Noch schneller als zuvor ist die soziale Ungleichheit zwischen dem globalen Norden und Süden verschärft w",
-      "classification": "Soziales & Arbeit"
+      "classification": "UNGLEICHHEIT"
     },
     {
       "category": "semantisches Verbot",
@@ -699,14 +699,14 @@
       "topic": "Ablehnung von Arbeitsplatzverlust durch Lockdown",
       "location": "Kapitel 'Eine neue Politik für alle, die sie längst verdient haben'",
       "originalQuote": "Wir wollen mit einem Investitionsprogramm die Ausstattung von Bildung, Erziehung, Gesundheit und Pflege",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSPLATZVERLUST"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Digitalisierungsrückstand",
       "location": "Kapitel 'Digital geht auch sozial'",
       "originalQuote": "Die Coronakrise zeigt, was wir schon länger wissen: Wer keinen schnellen digitalen Zugang hat, ist heutzut",
-      "classification": "Digitales & Überwachung"
+      "classification": "DIGITALISIERUNGSRÜCKSTAND"
     },
     {
       "category": "semantisches Verbot",
@@ -720,21 +720,21 @@
       "topic": "Ablehnung von Ausbeutung in der Care-Arbeit",
       "location": "Einführung",
       "originalQuote": "Die vielen Menschen, die den Laden am Laufen halten und dennoch am Monatsende kaum über die Runden kommen, ",
-      "classification": "Soziales & Arbeit"
+      "classification": "AUSBEUTUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von prekären Arbeitsverhältnissen",
       "location": "Kapitel 'Gute Arbeit, gerechte Bezahlung'",
       "originalQuote": "Leiharbeit und sachgrundlose Befristungen, Mini- und Midijobs drücken auf die Löhne und schwächen die S",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSVERHÄLTNISSEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Stress und Überlastung am Arbeitsplatz",
       "location": "Kapitel 'Gute Arbeit, gerechte Bezahlung'",
       "originalQuote": "Stress und Überbelastung, während andere ohne Job dastehen – das muss nicht sein. Arbeitszeitverkürzung s",
-      "classification": "Soziales & Arbeit"
+      "classification": "ARBEITSPLATZ"
     },
     {
       "category": "semantisches Verbot",
@@ -755,21 +755,21 @@
       "topic": "Ablehnung von ungleicher Verteilung von Sorgearbeit",
       "location": "Kapitel 'Geschlechtergerechtigkeit – Zeit für ein selbstbestimmtes, sicheres und gerechtes Leben'",
       "originalQuote": "Wir wollen eine Gesellschaft, in der alle frei, sicher und selbstbestimmt leben können, Zeit für Familie u",
-      "classification": "Soziales & Arbeit"
+      "classification": "SORGEARBEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Lohnarbeit als Lebensmittelpunkt",
       "location": "Kapitel 'Geschlechtergerechtigkeit – Zeit für ein selbstbestimmtes, sicheres und gerechtes Leben'",
       "originalQuote": "Wir wollen eine Gesellschaft, in der die Frauen genauso an politischen Entscheidungen mitwirken können w",
-      "classification": "Soziales & Arbeit"
+      "classification": "LEBENSMITTELPUNKT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Entfremdung durch Lohnarbeit",
       "location": "Kapitel 'Geschlechtergerechtigkeit – Zeit für ein selbstbestimmtes, sicheres und gerechtes Leben'",
       "originalQuote": "Wir wollen eine Gesellschaft, in der sich das Leben nicht nur um die Lohnarbeit dreht.",
-      "classification": "Soziales & Arbeit"
+      "classification": "ENTFREMDUNG"
     }
   ]
 }

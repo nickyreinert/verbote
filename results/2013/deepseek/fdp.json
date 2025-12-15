@@ -6,98 +6,98 @@
       "topic": "Ablehnung neuer Subventionen",
       "location": "Abschnitt 'Für die Schwarze Null im Bundeshaushalt'",
       "originalQuote": "Wir haben neue Subventionen verhindert und Staatshilfen für Großkonzerne unterbunden.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "SUBVENTIONEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Staatsfinanzierung durch EZB",
       "location": "Abschnitt 'Die Grundlage für unseren Wohlstand – stabiles Geld'",
       "originalQuote": "Eine Staatsfinanzierung durch die EZB und damit die Sanierung der Staatshaushalte durch Inflation lehnen wir mit aller Entschiedenheit ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STAATSFINANZIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Haftungsunion/Eurobonds",
       "location": "Abschnitt 'Die Grundlage für unseren Wohlstand – stabiles Geld'",
       "originalQuote": "Eine Haftungsunion wird es mit uns nicht geben. Eine gesamtschuldnerische Haftung für Staatsanleihen der Mitgliedstaaten, wie über Eurobonds oder einen Altschuldentilgungsfonds, lehnen wir Liberalen aus politischen, rechtlichen und wirtschaftlichen Gründen ab.",
-      "classification": "Bildung & Forschung"
+      "classification": "HAFTUNGSUNIONEUROBONDS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung neuer Steuererhöhungen",
       "location": "Abschnitt 'Entlastung für den Aufstieg'",
       "originalQuote": "Eine höhere Steuerbelastung für Bürger und Unternehmen lehnen wir entschieden ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERERHÖHUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von EU-Steuern",
       "location": "Abschnitt 'Entlastung für den Aufstieg'",
       "originalQuote": "Die Einführung von EU-Steuern wird von uns abgelehnt.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Verschärfung Erbschaftsteuer/Vermögensabgabe",
       "location": "Abschnitt 'Entlastung für den Aufstieg'",
       "originalQuote": "Ein verschärftes Erbschaftsteuerrecht sowie eine Vermögensabgabe und eine Vermögensteuer wären ... Das lehnen wir ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ERBSCHAFTSTEUERVERMÖGENSABGABE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Einheitslöhnen/-renten",
       "location": "Abschnitt 'Mittelstand stärken, industrielle Basis erhalten, Arbeitsplätze schaffen'",
       "originalQuote": "Deshalb kämpfen wir gegen planwirtschaftliche Tendenzen und gegen alle Schritte in Richtung auf Einheitslöhne, Einheitskassen und Einheitsrenten.",
-      "classification": "Soziales & Arbeit"
+      "classification": "EINHEITSLÖHNENRENTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Eingriffen zugunsten großer Konzerne",
       "location": "Abschnitt 'Mittelstand stärken, industrielle Basis erhalten, Arbeitsplätze schaffen'",
       "originalQuote": "Eingriffe in die Soziale Marktwirtschaft zugunsten großer Konzerne wie Opel, Karstadt oder Schlecker haben wir unterbunden.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "EINGRIFFEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Keine Bereicherung des Staates an Energiekosten",
       "location": "Abschnitt 'Impulsgeber für ein neues Zeitalter – bezahlbare und sichere Energie'",
       "originalQuote": "Der Staat darf sich an steigenden Energiekosten nicht bereichern.",
-      "classification": "Umwelt & Klima"
+      "classification": "ENERGIEKOSTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ausschluss von Fracking in Wasserschutzgebieten",
       "location": "Abschnitt 'Impulsgeber für ein neues Zeitalter – bezahlbare und sichere Energie'",
       "originalQuote": "In Wasserschutzgebieten wollen wir Fracking grundsätzlich ausschließen.",
-      "classification": "Umwelt & Klima"
+      "classification": "WASSERSCHUTZGEBIETEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Zugriff auf nationale Einlagensicherungsfonds",
       "location": "Abschnitt 'Ordnungspolitik für das 21. Jahrhundert – neue Regeln für Finanzmärkte'",
       "originalQuote": "Einen Zugriff auf nationale Einlagensicherungsfonds oder den nationalen Restrukturierungsfonds lehnen wir ab.",
-      "classification": "Soziales & Arbeit"
+      "classification": "EINLAGENSICHERUNGSFONDS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung weiterer Subventionen für Landesbanken",
       "location": "Abschnitt 'Ordnungspolitik für das 21. Jahrhundert – neue Regeln für Finanzmärkte'",
       "originalQuote": "Weitere Subventionen zu Lasten privater Wettbewerber oder noch höhere Belastungen des Steuerzahlers ... sind nicht hinnehmbar",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "SUBVENTIONEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung neuer Steuern auf Finanzmärkte",
       "location": "Abschnitt 'Ordnungspolitik für das 21. Jahrhundert – neue Regeln für Finanzmärkte'",
       "originalQuote": "Neue Steuern können die Aufsichts- und Regelungslücken im Bereich der Finanzmärkte nicht schließen. Wir sind gegen Steuermodelle...",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "FINANZMÄRKTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Eingriffen in Aktionärsrechte (Quoten)",
       "location": "Abschnitt 'Ordnungspolitik für das 21. Jahrhundert – neue Regeln für Finanzmärkte'",
       "originalQuote": "Eingriffe in Eigentümer- und Aktionärsrechte – beispielsweise durch Vorgabe bestimmter Quoten bei der Besetzung von Aufsichtspositionen – lehnen wir ab.",
-      "classification": "Demokratie & Recht"
+      "classification": "AKTIONÄRSRECHTE"
     },
     {
       "category": "semantisches Verbot",
@@ -118,56 +118,56 @@
       "topic": "Ablehnung von Beschränkungen des deutschen Exports",
       "location": "Abschnitt 'Gemeinsam wachsen – frei handeln'",
       "originalQuote": "Beschränkungen des deutschen Exports oder Sanktionen wegen unserer Außenhandelsüberschüsse lehnen wir ab.",
-      "classification": "Rüstung & Waffen"
+      "classification": "BESCHRÄNKUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung eines allgemeinen flächendeckenden Mindestlohns",
       "location": "Abschnitt 'Der Einstieg zum Aufstieg – Chancen am Arbeitsmarkt'",
       "originalQuote": "Deshalb lehnen wir einen allgemeinen, flächendeckenden Mindestlohn strikt ab.",
-      "classification": "Soziales & Arbeit"
+      "classification": "FLÄCHENDECKENDEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung gesetzlicher Neuregelung der Tarifeinheit",
       "location": "Abschnitt 'Der Einstieg zum Aufstieg – Chancen am Arbeitsmarkt'",
       "originalQuote": "einer gesetzlichen Neuregelung der Tarifeinheit bedarf es nicht.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "GESETZLICHER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Einheitsrente/Bürgerversicherung",
       "location": "Abschnitt 'Chancen schaffen statt Mangel verwalten – soziale Sicherheit für alle'",
       "originalQuote": "ein Umbau der beitragsfinanzierten Sozialsysteme zu einem politischen Umverteilungsmechanismus, wie die Einheitsrente oder die Bürgerversicherung, die eine Bürgerzwangsversicherung ist, nicht in Frage.",
-      "classification": "Soziales & Arbeit"
+      "classification": "EINHEITSRENTEBÜRGERVERSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung einer Einheitsversicherung (berufsständische Versorgungswerke)",
       "location": "Abschnitt 'Chancen schaffen statt Mangel verwalten – soziale Sicherheit für alle'",
       "originalQuote": "Eine Einheitsversicherung, zum Beispiel durch die Einbeziehung der berufsständischen Versorgungswerke, lehnen wir ab.",
-      "classification": "Soziales & Arbeit"
+      "classification": "EINHEITSVERSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Rentenversicherungspflicht für Selbstständige",
       "location": "Abschnitt 'Chancen schaffen statt Mangel verwalten – soziale Sicherheit für alle'",
       "originalQuote": "In der Diskussion über die Einführung einer Rentenversicherungspflicht für Selbstständige sprechen wir uns grundsätzlich gegen eine gründungs- und innovationsfeindliche Zwangslösung aus.",
-      "classification": "Soziales & Arbeit"
+      "classification": "RENTENVERSICHERUNGSPFLICHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Staatsmedizin/Einheitskasse",
       "location": "Abschnitt 'Chancen nutzen – gemeinsam gesund leben'",
       "originalQuote": "Wir sind gegen eine zentralistisch gelenkte Staatsmedizin... Einer Einheitskasse mit Einheitsversorgung für den Einheitspatienten erteilen wir eine Absage.",
-      "classification": "Gesundheit & Drogen"
+      "classification": "STAATSMEDIZINEINHEITSKASSE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Ideologie zur Abschaffung von Förderschulen",
       "location": "Abschnitt 'Chancen ergreifen – lebenslange Bildung'",
       "originalQuote": "Eine Ideologie, die Förderschulen generell ablehnt und daher abschaffen will, lehnen wir ab.",
-      "classification": "Bildung & Forschung"
+      "classification": "FÖRDERSCHULEN"
     },
     {
       "category": "semantisches Verbot",
@@ -181,14 +181,14 @@
       "topic": "Ablehnung von gesetzlicher Frauenquote",
       "location": "Abschnitt 'Vielfalt leben – miteinander in einer offenen Bürgergesellschaft'",
       "originalQuote": "Als Liberale lehnen wir eine gesetzliche Quote jedoch ab.",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "GESETZLICHER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von CO2-Steuer anstelle Emissionshandel",
       "location": "Abschnitt 'Zukunft möglich machen – Umwelt-, Natur- und Klimaschutz für eine lebenswerte Welt'",
       "originalQuote": "Eine Ersetzung des EU-Emissionshandels durch eine CO2-Steuer lehnen wir entschieden ab.",
-      "classification": "Umwelt & Klima"
+      "classification": "Wirtschaft & Steuern"
     },
     {
       "category": "semantisches Verbot",
@@ -223,14 +223,14 @@
       "topic": "Ablehnung von Überwachungsprojekten (INDECT)",
       "location": "Abschnitt 'Grundrechte in der digitalen Welt'",
       "originalQuote": "Projekte, die die vollständige und alle Lebensbereiche umfassende Überwachung unserer Gesellschaft zur Folge haben, lehnen wir ab. So sprechen wir uns gegen eine Fort- und Umsetzung des auf EU-Ebene vorangetriebenen Projektes INDECT aus...",
-      "classification": "Digitales & Überwachung"
+      "classification": "ÜBERWACHUNGSPROJEKTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung anlassloser Datensammlung (Fluggastdaten)",
       "location": "Abschnitt 'Grundrechte in der digitalen Welt'",
       "originalQuote": "Weitere Datensammlungen auf Vorrat wie etwa die anlasslose Speicherung von Fluggastdaten oder eine umfassende Erfassung aller Grenzübertritte in Europa lehnen wir ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "DATENSAMMLUNG"
     },
     {
       "category": "explizites Verbot",
@@ -251,14 +251,14 @@
       "topic": "Ablehnung von Werbeverboten und Konsumsteuern",
       "location": "Abschnitt 'Transparenz und Information – für fairen Wettbewerb'",
       "originalQuote": "Liberale Verbraucherpolitik wendet sich gegen politische Bevormundung durch Formen der Konsumsteuerung. Deshalb lehnen wir eine Ausweitung von Werbeverboten oder die Einführung spezifischer Konsumsteuern ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WERBEVERBOTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung eines generellen Tempolimits",
       "location": "Abschnitt 'Für die Zukunft bauen – Moderne Infrastruktur und bezahlbare Mobilität'",
       "originalQuote": "Wir Liberale lehnen ein generelles Tempolimit auf Deutschlands Autobahnen ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "TEMPOLIMITS"
     },
     {
       "category": "semantisches Verbot",

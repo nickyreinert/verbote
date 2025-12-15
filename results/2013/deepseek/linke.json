@@ -27,14 +27,14 @@
       "topic": "Mieterhöhungen allein wegen Neuvermietung unzulässig",
       "location": "Abschnitt 'Für bezahlbare Mieten und sozialen Wohnungsbau'",
       "originalQuote": "Mieterhöhungen allein wegen Neuvermietung sind unzulässig.",
-      "classification": "Wohnen & Miete"
+      "classification": "MIETERHÖHUNGEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Maklerprovisionen dürfen nicht auf Mieter umgelegt werden",
       "location": "Abschnitt 'Für bezahlbare Mieten und sozialen Wohnungsbau'",
       "originalQuote": "Maklerprovisionen sind grundsätzlich von der Auftraggeberin oder vom Auftraggeber zu tr",
-      "classification": "Wohnen & Miete"
+      "classification": "MAKLERPROVISIONEN"
     },
     {
       "category": "explizites Verbot",
@@ -48,28 +48,28 @@
       "topic": "Verbot aller Rüstungsproduktion und Rüstungsexporte",
       "location": "Abschnitt 'III. Friedlich und gerecht in der Welt'",
       "originalQuote": "DIE LINKE fordert ein Verbot aller Rüstungsproduktion und Rüstungsexporte – ohne Ausna",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSPRODUKTION"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Kleinwaffenexporten",
       "location": "Abschnitt 'III. Friedlich und gerecht in der Welt'",
       "originalQuote": "Als ersten Schritt fordern wir das sofortige Verbot aller Exporte von Kleinwaffen und W",
-      "classification": "Rüstung & Waffen"
+      "classification": "KLEINWAFFENEXPORTEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Rüstungsexporte dürfen nicht mit Steuergeldern unterstützt werden",
       "location": "Abschnitt 'III. Friedlich und gerecht in der Welt'",
       "originalQuote": "Rüstungsexporte dürfen nicht mehr mit Steuergeldern unterstützt werden, weder durch di",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Keine stationierten modernisierten Atombomben in Deutschland",
       "location": "Abschnitt 'III. Friedlich und gerecht in der Welt'",
       "originalQuote": "Es dürfen keine modernisierten Atombomben in Deutschland stationiert werden und keine ",
-      "classification": "Umwelt & Klima"
+      "classification": "MODERNISIERTEN"
     },
     {
       "category": "explizites Verbot",
@@ -90,7 +90,7 @@
       "topic": "Verbot für Neubau von Kohlekraftwerken und Neuaufschluss von Braunkohletagebauen",
       "location": "Abschnitt 'IV. Die Gesellschaft sozial, ökologisch und barrierefrei umbauen'",
       "originalQuote": "Wir wollen stattdessen ein Kohleausstiegsgesetz durchsetzen, das ein Verbot für den Neu",
-      "classification": "Umwelt & Klima"
+      "classification": "BRAUNKOHLETAGEBAUEN"
     },
     {
       "category": "explizites Verbot",
@@ -111,7 +111,7 @@
       "topic": "Kein Lohndumping über Werkverträge",
       "location": "Abschnitt 'Gute Arbeit statt niedriger Löhne und unsicherer Jobs'",
       "originalQuote": "Kein Lohndumping über Werkverträge! Der Missbrauch von Werkverträgen – ob als Scheinse",
-      "classification": "Soziales & Arbeit"
+      "classification": "WERKVERTRÄGE"
     },
     {
       "category": "semantisches Verbot",
@@ -125,7 +125,7 @@
       "topic": "Zurückdrängen ausufernder Befristungen",
       "location": "Abschnitt 'Gute Arbeit statt niedriger Löhne und unsicherer Jobs'",
       "originalQuote": "Die ausufernden Befristungen der Arbeitsverhältnisse wollen wir zurückdrängen – unbefr",
-      "classification": "Soziales & Arbeit"
+      "classification": "ZURÜCKDRÄNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -139,28 +139,28 @@
       "topic": "Ausnahmeregelungen reduzieren und Überstunden begrenzen",
       "location": "Abschnitt 'Mitbestimmung ausbauen und Arbeitszeit verkürzen'",
       "originalQuote": "Ausnahmeregelungen müssen deutlich reduziert werden, Überstunden effektiv begrenzt wer",
-      "classification": "Migration & Asyl"
+      "classification": "AUSNAHMEREGELUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ladenschluss stärker begrenzen, Sonn- und Feiertagsarbeit beschränken",
       "location": "Abschnitt 'Mitbestimmung ausbauen und Arbeitszeit verkürzen'",
       "originalQuote": "Wir unterstützen Initiativen, den gesetzlichen Ladenschluss stärker zu begrenzen, insb",
-      "classification": "Soziales & Arbeit"
+      "classification": "FEIERTAGSARBEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Hartz-IV-System abschaffen",
       "location": "Abschnitt 'Soziale Grundrechte garantieren statt Schikane und Armut durch Hartz IV'",
       "originalQuote": "Hartz IV muss weg! Stattdessen brauchen wir eine bedarfsgerechte und sanktionsfreie Mi",
-      "classification": "Soziales & Arbeit"
+      "classification": "HARTZIVSYSTEM"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Sanktionen und Ein-Euro-Jobs abschaffen",
       "location": "Abschnitt 'Soziale Grundrechte garantieren statt Schikane und Armut durch Hartz IV'",
       "originalQuote": "Kurzfristig müssen die Hartz-IV-Regelsätze auf 500 Euro erhöht und die Sanktionen und ",
-      "classification": "Europa & Außenpolitik"
+      "classification": "EINEUROJOBS"
     },
     {
       "category": "semantisches Verbot",
@@ -181,7 +181,7 @@
       "topic": "Zuzahlungen und Zusatzbeiträge im Gesundheitswesen abschaffen",
       "location": "Abschnitt 'Solidarität und Qualität in der Gesundheitsversorgung stärken'",
       "originalQuote": "Jegliche Zuzahlungen und Zusatzbeiträge müssen abgeschafft werden. Alle Einnahmen und",
-      "classification": "Gesundheit & Drogen"
+      "classification": "GESUNDHEITSWESEN"
     },
     {
       "category": "semantisches Verbot",
@@ -195,14 +195,14 @@
       "topic": "Keine Werbung für und keinen Versandhandel mit verschreibungspflichtigen Medikamenten",
       "location": "Abschnitt 'Solidarität und Qualität in der Gesundheitsversorgung stärken'",
       "originalQuote": "Wir wollen keine Werbung für und keinen Versandhandel mit verschreibungspflichtigen Me",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERSCHREIBUNGSPFLICHTIGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Private Pflegezusatzversicherung stoppen",
       "location": "Abschnitt 'Gute Pflege: Würde für Pflegebedürftige, Angehörige und Beschäftigte'",
       "originalQuote": "Wir fordern, die mit fünf Euro im Monat geförderte private Pflegezusatzversicherung (»",
-      "classification": "Soziales & Arbeit"
+      "classification": "PFLEGEZUSATZVERSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -237,7 +237,7 @@
       "topic": "Massenhafte Umwandlung von Miet- in Eigentumswohnungen und Zweckentfremdung stoppen",
       "location": "Abschnitt 'Für bezahlbare Mieten und sozialen Wohnungsbau'",
       "originalQuote": "Die massenhafte Umwandlung von Miet- in Eigentumswohnungen und die Zweckentfremdung vo",
-      "classification": "Wohnen & Miete"
+      "classification": "EIGENTUMSWOHNUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -251,28 +251,28 @@
       "topic": "Militärische Forschung an Universitäten ausschließen",
       "location": "Abschnitt 'Bildung ist keine Ware. Gute Bildung für alle'",
       "originalQuote": "An allen Universitäten soll mit einer Zivilklausel militärische Forschung ausgeschlos",
-      "classification": "Rüstung & Waffen"
+      "classification": "Bildung & Forschung"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Schattenbanken auflösen",
       "location": "Abschnitt 'II. Die Krise überwinden. Demokratie und Sozialstaat verteidigen – hier und europaweit'",
       "originalQuote": "Schattenbanken wie außerbilanzielle Zweckgesellschaften, Hedgefonds und Private-Equit",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "SCHATTENBANKEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Dispo-Zinsen begrenzen",
       "location": "Abschnitt 'II. Die Krise überwinden. Demokratie und Sozialstaat verteidigen – hier und europaweit'",
       "originalQuote": "Dispo-Zinsen sind auf höchstens fünf Prozent oberhalb des Zentralbankzinssatzes zu beg",
-      "classification": "Migration & Asyl"
+      "classification": "DISPOZINSEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "US-Atomwaffen aus Deutschland abziehen und vernichten",
       "location": "Abschnitt 'III. Friedlich und gerecht in der Welt'",
       "originalQuote": "Die letzten noch in Deutschland stationierten US-Atomwaffen müssen sofort abgezogen u",
-      "classification": "Rüstung & Waffen"
+      "classification": "USATOMWAFFEN"
     },
     {
       "category": "semantisches Verbot",
@@ -286,7 +286,7 @@
       "topic": "Atomkraftwerke sofort abschalten",
       "location": "Abschnitt 'IV. Die Gesellschaft sozial, ökologisch und barrierefrei umbauen'",
       "originalQuote": "Atomkraftwerke müssen sofort abgeschaltet werden. Die Fertigung von atomaren Brennele",
-      "classification": "Umwelt & Klima"
+      "classification": "ATOMKRAFTWERKE"
     },
     {
       "category": "semantisches Verbot",

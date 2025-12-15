@@ -6,21 +6,21 @@
       "topic": "Ablehnung der verdachtsunabhängigen Durchleuchtung und des 'gläsernen Kunden'",
       "location": "FREIHEIT UND GRUNDRECHTE",
       "originalQuote": "Die Piratenpartei Deutschland lehnt die verdachtsunabhängige Durchleuchtung der Bürger und den gläserne",
-      "classification": "Europa & Außenpolitik"
+      "classification": "VERDACHTSUNABHÄNGIGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der automatisierten Abfrage von Meldedaten",
       "location": "Verantwortungsvollen Umgang mit Meldedaten sicherstellen, Datenhandel eindämmen",
       "originalQuote": "Eine automatisierte Abfrage lehnen wir ab.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "AUTOMATISIERTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Beendigung der Weitergabe von Meldedaten an den Beitragsservice und ersatzlose Streichung der Durchleuchtungsklausel",
       "location": "Verantwortungsvollen Umgang mit Meldedaten sicherstellen, Datenhandel eindämmen",
       "originalQuote": "Die Weitergabe von Meldedaten an den Beitragsservice der öffentlich-rechtlichen Rundfunkanstalten muss b",
-      "classification": "Digitales & Überwachung"
+      "classification": "DURCHLEUCHTUNGSKLAUSEL"
     },
     {
       "category": "semantisches Verbot",
@@ -41,7 +41,7 @@
       "topic": "Ablehnung der EU-Bestrebungen zur Fernverkehrsdatenspeicherung",
       "location": "Verdachtsunabhängige Datenspeicherung verhindern",
       "originalQuote": "Die Piratenpartei lehnt die Bestrebungen der EU zum Aufbau und Unterhaltung einer Fernverkehrsdatenspei",
-      "classification": "Verkehr & Mobilität"
+      "classification": "Europa & Außenpolitik"
     },
     {
       "category": "semantisches Verbot",
@@ -55,7 +55,7 @@
       "topic": "Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder Versicherungswirtschaft muss unterbleiben",
       "location": "Verdachtsunabhängige Datenspeicherung verhindern",
       "originalQuote": "Der Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder die Versicherungswirtschaft muss",
-      "classification": "Soziales & Arbeit"
+      "classification": "VERSICHERUNGSWIRTSCHAFT"
     },
     {
       "category": "semantisches Verbot",
@@ -90,7 +90,7 @@
       "topic": "Ausnahmsloser Verzicht auf Instrumente zur Abschreckung, Isolation und Diskriminierung in der Asylpolitik",
       "location": "ASYL / Grundsätze",
       "originalQuote": "Wir setzen uns deshalb für eine solidarische und menschenwürdige Asylpolitik ein, die am Wohl und Schutz",
-      "classification": "Migration & Asyl"
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "semantisches Verbot",
@@ -104,7 +104,7 @@
       "topic": "Verzicht auf diskriminierende und inhumane Beweisverfahren bei der Asylprüfung",
       "location": "Asylgründe erweitern und Hürden für Aufenthaltserlaubnis senken",
       "originalQuote": "Bei der Prüfung, ob eine Berechtigung zum Asyl vorliegt, ist im Zweifel zu Gunsten der Asylsuchenden zu",
-      "classification": "Migration & Asyl"
+      "classification": "DISKRIMINIERENDE"
     },
     {
       "category": "semantisches Verbot",
@@ -125,14 +125,14 @@
       "topic": "Generelles Ende von Abschiebungen und Abschiebehaft",
       "location": "Für ein Ende von Abschiebungen und Abschiebehaft",
       "originalQuote": "Wir setzen uns für ein generelles Ende von Abschiebungen und der Abschiebehaft ein.",
-      "classification": "Migration & Asyl"
+      "classification": "ABSCHIEBUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Abschiebungen in Krisenregionen oder lebensgefährliche Gebiete",
       "location": "Für ein Ende von Abschiebungen und Abschiebehaft",
       "originalQuote": "Abschiebung ist ein staatliches Mittel, welches nur mit Hilfe von Zwangsmaßnahmen durchgeführt werden ka",
-      "classification": "Migration & Asyl"
+      "classification": "LEBENSGEFÄHRLICHE"
     },
     {
       "category": "semantisches Verbot",
@@ -146,7 +146,7 @@
       "topic": "Ablehnung der Diskriminierung und Kriminalisierung von Sexarbeitern und ihren Kunden",
       "location": "STÄRKUNG DER RECHTE PROSTITUIERTER",
       "originalQuote": "Die Entscheidung zur Ausübung der Prostitution ist daher von Staat und Gesellschaft zu akzeptieren. Eine",
-      "classification": "Soziales & Arbeit"
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "semantisches Verbot",
@@ -160,7 +160,7 @@
       "topic": "Keine Rechtsgrundlage für Weiterleitung von Strafzahlungen an Dritte durch Vereine",
       "location": "PIRATEN FÜR FANRECHTE / Gegen Kollektivstrafen",
       "originalQuote": "Die Praxis, Vereine oder Fangruppierungen für die Vergehen einzelner Anhänger in Sippenhaft zu nehmen u",
-      "classification": "Demokratie & Recht"
+      "classification": "RECHTSGRUNDLAGE"
     },
     {
       "category": "semantisches Verbot",

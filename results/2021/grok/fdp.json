@@ -6,14 +6,14 @@
       "topic": "Verschärfung der Erbschaftsteuer",
       "location": "Sicherung der Sozialen Marktwirtschaft",
       "originalQuote": "Damit die Unternehmen nicht durch Erbgänge oder eine Substanzbesteuerung gefährdet werden, lehnen wir eine Verschärfung der Erbschaftsteuer oder die Wiedereinführung der Vermögensteuer ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ERBSCHAFTSTEUER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Wiedereinführung der Vermögensteuer",
       "location": "Sicherung der Sozialen Marktwirtschaft",
       "originalQuote": "Damit die Unternehmen nicht durch Erbgänge oder eine Substanzbesteuerung gefährdet werden, lehnen wir eine Verschärfung der Erbschaftsteuer oder die Wiedereinführung der Vermögensteuer ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WIEDEREINFÜHRUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -27,14 +27,14 @@
       "topic": "Weitere Verschärfung der Erbschaftsteuer",
       "location": "Entlastung und faire Steuern",
       "originalQuote": "Wir lehnen auch eine weitere Verschärfung der Erbschaftsteuer ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ERBSCHAFTSTEUER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Einmalige Vermögensabgabe oder Vermögensteuer",
       "location": "Entlastung und faire Steuern",
       "originalQuote": "Wir Freie Demokraten lehnen eine einmalige Vermögensabgabe ebenso ab wie die Wiederbelebung der Vermögensteuer.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERMÖGENSABGABE"
     },
     {
       "category": "semantisches Verbot",
@@ -76,7 +76,7 @@
       "topic": "Bundesweiter Mietendeckel",
       "location": "Wohnen",
       "originalQuote": "Wir Freie Demokraten wollen die Mietpreisbremse abschaffen und einen bundesweiten Mietendeckel verhindern.",
-      "classification": "Wohnen & Miete"
+      "classification": "BUNDESWEITER"
     }
   ]
 }

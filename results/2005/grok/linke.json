@@ -1,0 +1,110 @@
+{
+  "sourceFile": "Linkspartei-PDS - 2005 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fortsetzung der Agenda 2010",
+      "location": "Einleitung",
+      "originalQuote": "Die Regierungsparteien wollen diese ungerechte und gescheiterte Politik der Agenda 2010 fortsetzen.",
+      "classification": "FORTSETZUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung öffentlicher Dienstleistungen",
+      "location": "I.1",
+      "originalQuote": "Statt Dienstleistungen zu privatisieren und einzuschränken, wollen wir, dass öffentliche und soziale",
+      "classification": "DIENSTLEISTUNGEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Aktienoptionen für Manager",
+      "location": "I.1.6",
+      "originalQuote": "Aktienoptionen für Manager werden verboten.",
+      "classification": "AKTIENOPTIONEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kürzung von Renten und Heraufsetzen der Altersgrenze",
+      "location": "II.2.2",
+      "originalQuote": "Deshalb lehnen wir das Kürzen von Renten und das Heraufsetzen der Altersgrenze für den Rentenbezug ab",
+      "classification": "HERAUFSETZEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einschränkung des Leistungskatalogs der gesetzlichen Krankenversicherung",
+      "location": "II.2.3",
+      "originalQuote": "Seit langem laufen die „Reformen“ des Gesundheitswesens darauf hinaus, Patientinnen und Patienten st",
+      "classification": "KRANKENVERSICHERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung der öffentlichen Daseinsvorsorge",
+      "location": "II.2.5",
+      "originalQuote": "Wir kämpfen gegen die Privatisierung der öffentlichen Daseinsvorsorge, gegen die EU-Liberalisierungs",
+      "classification": "DASEINSVORSORGE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierungen im Bildungswesen",
+      "location": "II.1",
+      "originalQuote": "Deshalb wenden wir uns gegen Privatisierungen im Bildungswesen.",
+      "classification": "PRIVATISIERUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Deregulierung und Privatisierung im öffentlichen Nahverkehr",
+      "location": "IV.1",
+      "originalQuote": "Deregulierung und Privatisierung im öffentlichen Nahverkehr sind zu stoppen.",
+      "classification": "PRIVATISIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neubau von Atomkraftwerken",
+      "location": "IV.1",
+      "originalQuote": "Den Neubau von Atomkraftwerken lehnen wir ebenso ab wie den Export von Atomtechnik und überflüssige",
+      "classification": "ATOMKRAFTWERKEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Patentierung von Lebewesen und Genen",
+      "location": "IV.3",
+      "originalQuote": "Wir lehnen die Patentierung von Lebewesen und Genen ab.",
+      "classification": "PATENTIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz der Bundeswehr im Innern",
+      "location": "V.2",
+      "originalQuote": "Wir sind entschiedene Gegner eines Einsatzes der Bundeswehr im Innern.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kriminalisierung von Drogenabhängigen",
+      "location": "V.2",
+      "originalQuote": "Eine Kriminalisierung von Drogenabhängigen lehnen wir ab.",
+      "classification": "KRIMINALISIERUNG"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kriegseinsätze der Bundeswehr",
+      "location": "VII.1",
+      "originalQuote": "Deutschland beteiligt sich nicht mehr an Kriegseinsätzen in aller Welt und holt die Soldaten aus sol",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Landminen und Anti-Panzer-Minen",
+      "location": "VII.2",
+      "originalQuote": "Verbot von Landminen und Anti-Panzer-Minen.",
+      "classification": "ANTIPANZERMINEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Rüstungsexporte",
+      "location": "VII.2",
+      "originalQuote": "Stopp und Verbot aller Rüstungsexporte.",
+      "classification": "RÜSTUNGSEXPORTE"
+    }
+  ]
+}

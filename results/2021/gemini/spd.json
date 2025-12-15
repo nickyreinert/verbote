@@ -13,14 +13,14 @@
       "topic": "Hass, Hetze, Ausgrenzung, Diskriminierung und Erstarken rechtsextremer Kräfte",
       "location": "1.2. Respekt erneuern",
       "originalQuote": "Wir wollen eine Gesellschaft des Zusammenhalts und stellen uns Hass und Hetze, jedweder Art von Ausgrenzung und Diskriminierung und dem Erstarken rechtsextremer Kräfte mit aller Entschiedenheit entgegen.",
-      "classification": "Demokratie & Recht"
+      "classification": "Gleichstellung & Gesellschaft"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Spaltung Europas durch nationalistischen Hass und populistische Hetze",
       "location": "1.3. Europa stärken",
       "originalQuote": "Wir werden es nicht zulassen, dass nationalistischer Hass und populistische Hetze Europa spalten.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "NATIONALISTISCHEN"
     },
     {
       "category": "semantisches Verbot",
@@ -55,7 +55,7 @@
       "topic": "Klimaschädlicher CO2-Ausstoß von Schiffen, Flugzeugen und Lastern",
       "location": "2.2. Zukunftsmission II. Modernstes Mobilitätssystem Europas",
       "originalQuote": "Zusätzlich werden wir Forschung, Entwicklung und Pilotprojekte vorantreiben, damit Schiffe, Flugzeuge und Laster kein klimaschädliches CO2 mehr ausstoßen.",
-      "classification": "Umwelt & Klima"
+      "classification": "KLIMASCHÄDLICHER"
     },
     {
       "category": "semantisches Verbot",
@@ -90,14 +90,14 @@
       "topic": "Mietspiegel dürfen keine bloßen Neumietenspiegel sein",
       "location": "3.2. Bezahlbarer Wohnraum (Impliziert)",
       "originalQuote": "Mietspiegel dürfen keine bloßen Neumietenspiegel sein. Deshalb werden wir künftig mindestens die vertraglich vereinbarten Mieten der vergangenen acht Jahre bei ihrer Aufstellung heranziehen.",
-      "classification": "Wohnen & Miete"
+      "classification": "NEUMIETENSPIEGEL"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Schwangerschaftskonflikte im Strafrecht",
       "location": "3.8. Gleichstellung verwirklichen (Impliziert)",
       "originalQuote": "Zudem stellen wir in Hinblick auf die Paragraphen 218 ff. fest: Schwangerschaftskonflikte gehören nicht ins Strafrecht.",
-      "classification": "Demokratie & Recht"
+      "classification": "SCHWANGERSCHAFTSKONFLIKTE"
     },
     {
       "category": "semantisches Verbot",
@@ -125,7 +125,7 @@
       "topic": "Unkontrollierte Rüstungsexporte in bestimmte Drittstaaten (Einschränkung)",
       "location": "5.3. Frieden und Sicherheit (Impliziert)",
       "originalQuote": "Für uns ist eine restriktive Rüstungsexportpolitik zentral. Wir werden uns dafür einsetzen, dass die Ausfuhr deutscher Rüstungsgüter in Staaten außerhalb von EU-, NATO- und denen gleichgestellten Ländern weiter eingeschränkt, die Kontrolle über den endgültigen Verbleib der Waffen ausgeweitet und absolute Ausnahmen nur im begründeten Einzelfall möglich sein werden – öffentlich nachvollziehbar dokumentiert.",
-      "classification": "Rüstung & Waffen"
+      "classification": "UNKONTROLLIERTE"
     }
   ]
 }

@@ -13,14 +13,14 @@
       "topic": "Aufgabe von Bürgerrechten für trügerische Sicherheit",
       "location": "1. Präambel: Die Mitte stärken. ",
       "originalQuote": "Wir sind nicht dazu bereit, Bürgerrechte für eine trügerische Sicherheit aufzugeben.",
-      "classification": "Demokratie & Recht"
+      "classification": "BÜRGERRECHTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Infragestellung der Leistungsfähigkeit der Sozialen Marktwirtschaft und Forderung neuer Regulierungen",
       "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
       "originalQuote": "Wir halten es für falsch, ihre Leistungsfähigkeit in Frage zu stellen und immer neue und weitergehende staatliche Regulierungen zu fordern.",
-      "classification": "Soziales & Arbeit"
+      "classification": "LEISTUNGSFÄHIGKEIT"
     },
     {
       "category": "explizites Verbot",
@@ -34,28 +34,28 @@
       "topic": "Einbeziehung privater Veräußerungsgewinne in die Abgeltungsteuer",
       "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
       "originalQuote": "Die Einbeziehung der privaten Veräußerungsgewinne in die Abgeltungsteuer lehnt die FDP ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERÄUSSERUNGSGEWINNE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Steuerklasse V (wird abgeschafft)",
       "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
       "originalQuote": "Die Steuerklasse V, die die Aufnahme einer Erwerbstätigkeit besonders für Frauen nach einer Familienpause steuerlich häufig unattraktiv erscheinen lässt, wird abgeschafft.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERKLASSE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Prinzipielles Neuverschuldungsverbot für Bund, Länder und Gemeinden",
       "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
       "originalQuote": "Um diesen konsequent zu Ende zu gehen, fordert die FDP ein prinzipielles Neuverschuldungsverbot für Bund, Länder und Gemeinden.",
-      "classification": "Europa & Außenpolitik"
+      "classification": "NEUVERSCHULDUNGSVERBOT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Wettbewerbsverzerrungen durch staatliche Bankenbeteiligung (sollen vermieden werden)",
       "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
       "originalQuote": "Solange der Staat sich an Unternehmen des Finanzsektors beteiligt, hat er Steuermittel zurückhaltend einzusetzen, Wettbewerbsverzerrungen zu vermeiden und seine Auflagen so auszugestalten, dass dadurch keine unverantwortliche Risikopolitik in den Banken verursacht wird.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "WETTBEWERBSVERZERRUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -90,14 +90,14 @@
       "topic": "Zuständigkeit des Finanzministeriums für den Ordnungsrahmen des Finanzgewerbes bei staatlicher Bankbeteiligung",
       "location": "2. Mehr Freiheit und Fairness durch Soziale Marktwirtschaft ",
       "originalQuote": "Wenn sich der Staat zeitweilig an Banken beteiligt, darf das Finanzministerium nicht länger für den Ordnungsrahmen des Finanzgewerbes zuständig sein.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "FINANZMINISTERIUMS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Datenverarbeitung von außerdienstlichem Verhalten der Arbeitnehmer",
       "location": "3. Mehr Bürgerfreiheit durch mehr Vertrauen, Zusammenhalt und Toleranz ",
       "originalQuote": "Es dürfen nur solche Daten verarbeitet werden, die für das Arbeitsverhältnis erforderlich sind. Eine Datenverarbeitung, die sich auf außerdienstliches Verhalten, etwa Äußerungen zu politischen Sachverhalten, bezieht, muss grundsätzlich ausgeschlossen sein.",
-      "classification": "Soziales & Arbeit"
+      "classification": "DATENVERARBEITUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -153,7 +153,7 @@
       "topic": "Abhängen dünn besiedelter Räume bei der verkehrlichen Anbindung",
       "location": "4. Die Welt von morgen gestalten ",
       "originalQuote": "Weiterhin müssen flexible Angebote zur Aufrechterhaltung der öffentlichen Daseinsvorsorge in sehr dünn besiedelten Räumen geschaffen werden, wie zum Beispiel dezentrale Systeme und alternative Technologien zur Energie-, Wasserver- und Abwasserentsorgung. Bei der verkehrlichen Anbindung dürfen diese Räume nicht abgehängt werden.",
-      "classification": "Verkehr & Mobilität"
+      "classification": "VERKEHRLICHEN"
     }
   ]
 }

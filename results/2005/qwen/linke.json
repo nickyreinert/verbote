@@ -27,14 +27,14 @@
       "topic": "Ablehnung des Zwangs zur Annahme jeglicher Jobs für Jugendliche",
       "location": "I.1",
       "originalQuote": "Den Zwang zur Annahme jeglicher Jobs lehnen wir ab.",
-      "classification": "Gleichstellung & Gesellschaft"
+      "classification": "JUGENDLICHE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Lohnkürzungen und Ausweitung des Niedriglohnsektors",
       "location": "I.2",
       "originalQuote": "Lohnkürzungen und eine Ausweitung des Niedriglohnsektors, wie von anderen Parteien gefordert,",
-      "classification": "Soziales & Arbeit"
+      "classification": "NIEDRIGLOHNSEKTORS"
     },
     {
       "category": "explizites Verbot",
@@ -48,63 +48,63 @@
       "topic": "Ablehnung der Steuerbefreiung bei Beteiligungsverkäufen",
       "location": "I.6",
       "originalQuote": "Die Steuerbefreiung bei Beteiligungsverkäufen wird zurückgenommen.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "BETEILIGUNGSVERKÄUFEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung des Kürzens von Renten",
       "location": "II.2",
       "originalQuote": "Deshalb lehnen wir das Kürzen von Renten und das Heraufsetzen der Altersgrenze für den Rente",
-      "classification": "Soziales & Arbeit"
+      "classification": "KÜRZENS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung des Neubaus von Atomkraftwerken",
       "location": "IV.1",
       "originalQuote": "Den Neubau von Atomkraftwerken lehnen wir ebenso ab wie den Export von Atomtechnik und über",
-      "classification": "Umwelt & Klima"
+      "classification": "ATOMKRAFTWERKEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung des Exports von Atomtechnik",
       "location": "IV.1",
       "originalQuote": "Den Neubau von Atomkraftwerken lehnen wir ebenso ab wie den Export von Atomtechnik und über",
-      "classification": "Rüstung & Waffen"
+      "classification": "ATOMTECHNIK"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung überflüssiger Atommülltransporte",
       "location": "IV.1",
       "originalQuote": "Den Neubau von Atomkraftwerken lehnen wir ebenso ab wie den Export von Atomtechnik und über",
-      "classification": "Umwelt & Klima"
+      "classification": "ATOMMÜLLTRANSPORTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung des naturzerstörenden Ausbaus von Flüssen",
       "location": "IV.2",
       "originalQuote": "Wir wenden uns gegen den naturzerstörenden Ausbau von Donau, Elbe, Saale, Oder, Havel, Main un",
-      "classification": "Wohnen & Miete"
+      "classification": "NATURZERSTÖRENDEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Patentierung von Lebewesen und Genen",
       "location": "IV.3",
       "originalQuote": "Wir lehnen die Patentierung von Lebewesen und Genen ab.",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "PATENTIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Preisdumping der Handelsketten zu Lasten der Bauern",
       "location": "IV.3",
       "originalQuote": "Preisdumping der Handelsketten zu Lasten der Bauern lehnen wir ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Tierschutz & Landwirtschaft"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Kriminalisierung von Drogenabhängigen",
       "location": "V.2",
       "originalQuote": "Eine Kriminalisierung von Drogenabhängigen lehnen wir ab.",
-      "classification": "Gesundheit & Drogen"
+      "classification": "KRIMINALISIERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -118,21 +118,21 @@
       "topic": "Ablehnung der Abschottungspolitik in der Migrationspolitik",
       "location": "V.4",
       "originalQuote": "Eine neue Asyl- und Migrationspolitik muss Abschied nehmen von der gescheiterten Abschottungspo",
-      "classification": "Migration & Asyl"
+      "classification": "ABSCHOTTUNGSPOLITIK"
     },
     {
       "category": "explizites Verbot",
       "topic": "Forderung nach Abschaffung des § 218 (Abtreibungsstrafrecht)",
       "location": "V.5",
       "originalQuote": "Die Linkspartei.PDS fordert weiterhin die Abschaffung des § 218.",
-      "classification": "Demokratie & Recht"
+      "classification": "ABTREIBUNGSSTRAFRECHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Beteiligung Deutschlands an Kriegseinsätzen",
       "location": "VII.1",
       "originalQuote": "Deutschland beteiligt sich nicht mehr an Kriegseinsätzen in aller Welt und holt die Soldaten au",
-      "classification": "Rüstung & Waffen"
+      "classification": "KRIEGSEINSÄTZEN"
     },
     {
       "category": "semantisches Verbot",
@@ -153,7 +153,7 @@
       "topic": "Ablehnung des Ausbaus militärischer Übungsplätze",
       "location": "VII.2",
       "originalQuote": "Militärische Übungsplätze sollen ab- und nicht ausgebaut werden.",
-      "classification": "Rüstung & Waffen"
+      "classification": "MILITÄRISCHER"
     },
     {
       "category": "semantisches Verbot",
@@ -167,14 +167,14 @@
       "topic": "Forderung nach Verbot von Landminen und Anti-Panzer-Minen",
       "location": "VII.2",
       "originalQuote": "Verbot von Landminen und Anti-Panzer-Minen.",
-      "classification": "Rüstung & Waffen"
+      "classification": "ANTIPANZERMINEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Forderung nach vollständigem Stopp und Verbot aller Rüstungsexporte",
       "location": "VII.2",
       "originalQuote": "Stopp und Verbot aller Rüstungsexporte.",
-      "classification": "Rüstung & Waffen"
+      "classification": "RÜSTUNGSEXPORTE"
     }
   ]
 }

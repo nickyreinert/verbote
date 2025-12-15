@@ -13,14 +13,14 @@
       "topic": "Lohnfestsetzung durch die Politik",
       "location": "Einleitung",
       "originalQuote": "Eine Lohnfestsetzung durch die Politik lehnen wir ab. Aber es ist Sache der Politik",
-      "classification": "Soziales & Arbeit"
+      "classification": "LOHNFESTSETZUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Steuererhöhungen",
       "location": "Einleitung",
       "originalQuote": "Deshalb lehnen wir Steuererhöhungen ab. Die Vorschläge von SPD und Grünen bedrohen",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STEUERERHÖHUNGEN"
     },
     {
       "category": "semantisches Verbot",
@@ -34,14 +34,14 @@
       "topic": "Vermögensteuer",
       "location": "2.5. Verantwortungsbewusste Steuerpolitik",
       "originalQuote": "Nein zur Vermögensteuer – Keine Erhöhung der Erbschaftsteuer\nDie meisten Menschen glauben",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "VERMÖGENSTEUER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Erhöhung der Erbschaftsteuer",
       "location": "2.5. Verantwortungsbewusste Steuerpolitik",
       "originalQuote": "Nein zur Vermögensteuer – Keine Erhöhung der Erbschaftsteuer",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "ERBSCHAFTSTEUER"
     },
     {
       "category": "semantisches Verbot",
@@ -55,7 +55,7 @@
       "topic": "Gasgewinnung mittels gesundheitsgefährdender Chemikalien (Fracking)",
       "location": "3.4 Sichere, bezahlbare und saubere Energie",
       "originalQuote": "Im Hinblick auf eine Gewinnung von Gas durch das sogenannte Fracking ist für CDU und",
-      "classification": "Gesundheit & Drogen"
+      "classification": "GESUNDHEITSGEFÄHRDENDER"
     },
     {
       "category": "semantisches Verbot",
@@ -69,14 +69,14 @@
       "topic": "Verbrauchende Embryonenforschung",
       "location": "3.3 Technischer Fortschritt und Forschung",
       "originalQuote": "Forschungen, wie die verbrauchende Embryonenforschung, lehnen wir aus ethischen Gründ",
-      "classification": "Bildung & Forschung"
+      "classification": "EMBRYONENFORSCHUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Staatliche Einheitsversicherung",
       "location": "4.7 Gesundes Land",
       "originalQuote": "Eine staatliche Einheitsversicherung für alle lehnen wir ab. Die private Krankenversic",
-      "classification": "Soziales & Arbeit"
+      "classification": "EINHEITSVERSICHERUNG"
     },
     {
       "category": "semantisches Verbot",
@@ -90,42 +90,42 @@
       "topic": "Kapitalinvestoren-bestimmte Landwirtschaft",
       "location": "5.4 Gute Lebensmittel – nachhaltige Landwirtschaft",
       "originalQuote": "Eine von Kapitalinvestoren bestimmte Landwirtschaft lehnen wir ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "Tierschutz & Landwirtschaft"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verpflichtende Stilllegung landwirtschaftlicher Flächen",
       "location": "5.4 Gute Lebensmittel – nachhaltige Landwirtschaft",
       "originalQuote": "Eine verpflichtende Stilllegung von landwirtschaftlichen Flächen wird es mit uns nicht g",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "LANDWIRTSCHAFTLICHER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Strafsteuern für bestimmte Lebensmittel",
       "location": "5.5 Verbraucher stärken",
       "originalQuote": "Strafsteuern für bestimmte Lebensmittel lehnen wir ab.",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "STRAFSTEUERN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Klonen von Tieren zur Nahrungsmittelerzeugung",
       "location": "5.5 Verbraucher stärken",
       "originalQuote": "Das Klonen von Tieren zur Nahrungsmittelerzeugung lehnen wir ebenso wie eine Vermarktu",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "NAHRUNGSMITTELERZEUGUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Biopatente auf herkömmliche Züchtungsverfahren, Nutztiere und Nutzpflanzen",
       "location": "5.4 Gute Lebensmittel – nachhaltige Landwirtschaft",
       "originalQuote": "Deshalb sprechen wir uns gegen Patente auf herkömmliche Züchtungsverfahren aus und wende",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "ZÜCHTUNGSVERFAHREN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Allgemeines kommunales Wahlrecht für Ausländer",
       "location": "4.3 Vielfalt bereichert – Willkommenskultur schaffen",
       "originalQuote": "Ein allgemeines kommunales Wahlrecht für Ausländer lehnen wir ab. Wir werben stattdes",
-      "classification": "Demokratie & Recht"
+      "classification": "ALLGEMEINES"
     },
     {
       "category": "semantisches Verbot",
@@ -146,14 +146,14 @@
       "topic": "Zuwanderung zum Missbrauch der sozialen Sicherungssysteme",
       "location": "4.3 Vielfalt bereichert – Willkommenskultur schaffen",
       "originalQuote": "Eine Zuwanderung, die darauf gerichtet ist, die europäische Freizügigkeit zu missbrauch",
-      "classification": "Soziales & Arbeit"
+      "classification": "SICHERUNGSSYSTEME"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Patente auf landwirtschaftliche Nutztiere und Nutzpflanzen",
       "location": "5.4 Gute Lebensmittel – nachhaltige Landwirtschaft",
       "originalQuote": "Deshalb sprechen wir uns gegen Patente auf herkömmliche Züchtungsverfahren aus und wende",
-      "classification": "Wirtschaft & Steuern"
+      "classification": "LANDWIRTSCHAFTLICHE"
     }
   ]
 }

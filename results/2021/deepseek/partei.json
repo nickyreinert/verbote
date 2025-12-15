@@ -27,21 +27,21 @@
       "topic": "Einstellung von Tierversuchen",
       "location": "Punkt 18",
       "originalQuote": "Tierschutz Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da. Lipgloss, Arsch- Make-up, Biomarmelade und Medikament",
-      "classification": "Tierschutz & Landwirtschaft"
+      "classification": "TIERVERSUCHEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Obergrenze für die Aufnahme von Flüchtlingen",
       "location": "Punkt 21",
       "originalQuote": "Obergrenze für Flüchtlinge Die Flüchtlingsobergrenze wird – ganz im Sinne der Unionsparteien – jährlich neu definiert: Deutschland darf nicht mehr",
-      "classification": "Migration & Asyl"
+      "classification": "FLÜCHTLINGEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Spenden und Sponsoring für korrupte Parteien",
       "location": "Punkt 24",
       "originalQuote": "Korruption & Lobbyismus Korrupte Parteien dürfen nicht mehr von Spenden & Sponsoring profitieren, korrupte Politiker werden nach Aserbaidschan ab",
-      "classification": "Demokratie & Recht"
+      "classification": "SPONSORING"
     }
   ]
 }
