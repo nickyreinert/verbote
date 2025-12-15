@@ -4,7 +4,7 @@ import { showDetails, filterConsensusList } from './ui.js';
 
 export function renderStrictnessChart(selectedYear) {
     const ctxStrictness = document.getElementById('chart-strictness').getContext('2d');
-    const models = {}; // { modelName: { explicit: 0, semantic: 0 } }
+    const modelStrictness = {}; // { model: [ratio1, ratio2, ...] }
 
     // Iterate over dataCache
     Object.keys(state.dataCache).forEach(model => {
@@ -16,22 +16,30 @@ export function renderStrictnessChart(selectedYear) {
             Object.keys(yearData).forEach(party => {
                 const partyData = yearData[party];
                 if (partyData) {
-                    if (!models[model]) models[model] = { explicit: 0, semantic: 0 };
-                    models[model].explicit += partyData.explicitCount;
-                    models[model].semantic += partyData.semanticCount;
+                    const total = partyData.explicitCount + partyData.semanticCount;
+                    if (total > 0) {
+                        if (!modelStrictness[model]) modelStrictness[model] = [];
+                        // Store explicit ratio for this party/year
+                        modelStrictness[model].push(partyData.explicitCount / total);
+                    }
                 }
             });
         });
     });
 
-    const labels = Object.keys(models).sort();
+    const labels = Object.keys(modelStrictness).sort();
     const explicitData = labels.map(m => {
-        const total = models[m].explicit + models[m].semantic;
-        return total === 0 ? 0 : (models[m].explicit / total) * 100;
+        const ratios = modelStrictness[m];
+        if (!ratios || ratios.length === 0) return 0;
+        // Average the ratios to avoid bias from parties with many findings
+        const avgRatio = ratios.reduce((a, b) => a + b, 0) / ratios.length;
+        return avgRatio * 100;
     });
     const semanticData = labels.map(m => {
-        const total = models[m].explicit + models[m].semantic;
-        return total === 0 ? 0 : (models[m].semantic / total) * 100;
+        const ratios = modelStrictness[m];
+        if (!ratios || ratios.length === 0) return 0;
+        const avgRatio = ratios.reduce((a, b) => a + b, 0) / ratios.length;
+        return (1 - avgRatio) * 100;
     });
 
     if (state.chartStrictnessInstance) {
@@ -292,7 +300,7 @@ export function updateTrendChart(modelName) {
     const datasets = Array.from(allParties).map((party, index) => {
         const data = years.map(year => {
             const pData = modelData[year][party];
-            if (!pData) return 0;
+            if (!pData) return null; // Return null for missing data to break the line
             return state.currentFilterMode === 'explicit' 
                 ? pData.explicitCount 
                 : (pData.semanticCount + pData.explicitCount);
@@ -306,7 +314,8 @@ export function updateTrendChart(modelName) {
             borderColor: color,
             backgroundColor: color,
             fill: false,
-            tension: 0.1
+            tension: 0.1,
+            spanGaps: false // Ensure lines break for missing data
         };
     });
 

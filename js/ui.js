@@ -412,31 +412,24 @@ function clusterFindings(yearData, radius) {
                     start: finding.start,
                     end: finding.end,
                     findings: [finding],
-                    models: new Set([finding.model]),
-                    lastStart: finding.start
+                    models: new Set([finding.model])
                 };
+                return;
+            }
+
+            const gap = finding.start - currentCluster.end;
+            if (gap <= radius) {
+                currentCluster.end = Math.max(currentCluster.end, finding.end);
+                currentCluster.findings.push(finding);
+                currentCluster.models.add(finding.model);
             } else {
-                // New logic: Compare start positions (User requirement)
-                // finding.start is always >= currentCluster.lastStart (sorted)
-                const diff = finding.start - currentCluster.lastStart;
-                
-                if (diff <= radius) {
-                    // Merge
-                    currentCluster.end = Math.max(currentCluster.end, finding.end);
-                    currentCluster.findings.push(finding);
-                    currentCluster.models.add(finding.model);
-                    currentCluster.lastStart = finding.start;
-                } else {
-                    // New cluster
-                    clusters.push(finalizeCluster(currentCluster, party.total_models));
-                    currentCluster = {
-                        start: finding.start,
-                        end: finding.end,
-                        findings: [finding],
-                        models: new Set([finding.model]),
-                        lastStart: finding.start
-                    };
-                }
+                clusters.push(finalizeCluster(currentCluster, party.total_models));
+                currentCluster = {
+                    start: finding.start,
+                    end: finding.end,
+                    findings: [finding],
+                    models: new Set([finding.model])
+                };
             }
         });
 

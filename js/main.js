@@ -55,17 +55,35 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Load Config
-    Promise.all([loadConfig(), loadColors()]).then(() => {
-        initApp();
-        loadDistributionData().then(data => {
-            populateMethodologyYearSelect(data);
-            renderMethodologyChart(data);
+    Promise.all([loadConfig(), loadColors()])
+        .then(() => preloadAllModelData())
+        .then(() => {
+            initApp();
+            return Promise.all([loadDistributionData(), loadConsensusData()]);
+        })
+        .then(([distributionData, consensusData]) => {
+            populateMethodologyYearSelect(distributionData);
+            renderMethodologyChart(distributionData);
             renderStrictnessChart('all');
+            populateConsensusYearSelect(consensusData);
+        })
+        .catch(err => console.error('Error during initialization:', err));
+
+    async function preloadAllModelData() {
+        if (!state.globalConfig) {
+            console.warn('Global config missing, skipping preload.');
+            return;
+        }
+
+        const preloadPromises = [];
+        Object.keys(state.globalConfig).forEach(year => {
+            Object.keys(state.globalConfig[year]).forEach(model => {
+                preloadPromises.push(loadDataForModel(model, year));
+            });
         });
-        loadConsensusData().then(data => {
-            populateConsensusYearSelect(data);
-        });
-    });
+
+        await Promise.all(preloadPromises);
+    }
 
     function initApp() {
         console.log('Initializing App...');

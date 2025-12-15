@@ -2,6 +2,7 @@ import os
 import json
 import unicodedata
 import difflib
+from generate_config import PARTY_MAPPING
 
 RESULTS_DIR = 'results'
 PROGRAMS_DIR = 'programs/txt'
@@ -51,12 +52,18 @@ def find_quote_position_fuzzy(text, quote):
     
     # If we found a significant chunk (e.g. > 20 chars or > 30% of quote)
     if match.size > 20: 
-        # Calculate where the quote *should* start in text
+        # The match gives us:
+        # match.a = position in text where match starts
+        # match.b = position in quote where match starts  
+        # match.size = length of match
+        
+        # If the match is at the beginning of the quote (match.b == 0),
+        # then match.a is our position
+        # If the match is in the middle of the quote, we need to estimate
+        # where the quote starts by going backwards
         start_in_text = match.a - match.b
         
         # Extract the candidate text segment
-        # We take the length of the quote, plus a bit of buffer maybe? 
-        # Let's just take exact length for scoring
         end_in_text = start_in_text + len(quote)
         
         # Bounds check
@@ -98,8 +105,25 @@ def analyze_distribution():
                 year = parts[res_idx + 1]
                 model = parts[res_idx + 2]
                 party_filename = parts[res_idx + 3]
-                party = os.path.splitext(party_filename)[0]
-            except ValueError:
+                
+                # Use strict mapping
+                party_key = os.path.splitext(party_filename)[0]
+                if party_key in PARTY_MAPPING:
+                    party = PARTY_MAPPING[party_key]
+                else:
+                    # Try lowercase match as fallback if strict key not found
+                    found = False
+                    for k, v in PARTY_MAPPING.items():
+                        if k.lower() == party_key.lower():
+                            party = v
+                            found = True
+                            break
+                    if not found:
+                        raise ValueError(f"Unknown party file: {party_filename} (key: {party_key}) in {file_path}")
+
+            except ValueError as e:
+                if "Unknown party" in str(e):
+                    raise e
                 continue
 
             try:
@@ -111,7 +135,8 @@ def analyze_distribution():
 
             source_filename = data.get('sourceFile')
             if not source_filename:
-                continue
+                # Strict validation
+                raise ValueError(f"Missing sourceFile in {file_path}")
 
             # Normalize and try to find the file
             norm_source = normalize_filename(source_filename)
@@ -125,15 +150,14 @@ def analyze_distribution():
                 source_path = source_file_map.get(name_no_ext)
 
             if not source_path:
-                print(f"Source file '{source_filename}' (norm: '{norm_source}') not found for {file_path}")
-                continue
+                # Strict validation
+                raise FileNotFoundError(f"Source file '{source_filename}' (norm: '{norm_source}') not found for {file_path}")
 
             try:
                 with open(source_path, 'r', encoding='utf-8') as f:
                     source_text = f.read()
             except Exception as e:
-                print(f"Error reading source {source_path}: {e}")
-                continue
+                raise IOError(f"Error reading source {source_path}: {e}")
 
             total_length = len(source_text)
             if total_length == 0:
@@ -174,7 +198,7 @@ def analyze_distribution():
             })
 
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        json.dump(results_data, f, indent=2)
+        json.dump(results_data, f, indent=2, ensure_ascii=False)
     
     print(f"Analysis complete. Saved to {OUTPUT_FILE}")
 

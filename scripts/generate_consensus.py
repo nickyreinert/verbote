@@ -2,10 +2,12 @@ import os
 import json
 import unicodedata
 import difflib
+from generate_config import PARTY_MAPPING
 
 RESULTS_DIR = 'results'
 PROGRAMS_DIR = 'programs/txt'
 OUTPUT_FILE = 'consensus_analysis.json'
+TOLERANCE = 100  # Characters distance to group findings
 
 def normalize_filename(filename):
     if not isinstance(filename, str):
@@ -47,9 +49,11 @@ def find_quote_position_fuzzy(text, quote):
     match = s.find_longest_match(0, len(text), 0, len(quote_short))
     
     if match.size > 20: 
-        start_in_text = match.a
+        start_in_text = match.a - match.b
+        start_in_text = max(0, start_in_text)
+        end_in_text = min(len(text), start_in_text + len(quote_short))
         # Check similarity of the found segment
-        candidate = text[start_in_text : start_in_text + len(quote_short)]
+        candidate = text[start_in_text:end_in_text]
         similarity = difflib.SequenceMatcher(None, candidate, quote_short).ratio()
         score = int(similarity * 100)
         
@@ -64,6 +68,7 @@ def generate_consensus():
     
     # Group results by Year -> Party -> [Models]
     data_tree = {}
+    models_per_year = {} # year -> set(models)
     
     print("Scanning result files...")
     for root, dirs, files in os.walk(RESULTS_DIR):
@@ -80,7 +85,28 @@ def generate_consensus():
                 year = parts[res_idx + 1]
                 model = parts[res_idx + 2]
                 party_filename = parts[res_idx + 3]
-                party = os.path.splitext(party_filename)[0].lower()
+                
+                # Use strict mapping
+                party_key = os.path.splitext(party_filename)[0]
+                if party_key in PARTY_MAPPING:
+                    party = PARTY_MAPPING[party_key]
+                else:
+                    # Try lowercase match as fallback if strict key not found
+                    # But user asked for strict validation. 
+                    # However, the file system might have "cducsu.json" while mapping has "cducsu".
+                    # Let's try to match the key in PARTY_MAPPING.
+                    found = False
+                    for k, v in PARTY_MAPPING.items():
+                        if k.lower() == party_key.lower():
+                            party = v
+                            found = True
+                            break
+                    if not found:
+                        raise ValueError(f"Unknown party file: {party_filename} (key: {party_key}) in {file_path}")
+
+                if year not in models_per_year:
+                    models_per_year[year] = set()
+                models_per_year[year].add(model)
                 
                 if year not in data_tree:
                     data_tree[year] = {}
@@ -103,13 +129,17 @@ def generate_consensus():
                     except json.JSONDecodeError:
                         print(f"Error decoding {file_path}")
                         
-            except ValueError:
+            except ValueError as e:
+                if "Unknown party" in str(e):
+                    raise e
                 continue
 
     consensus_results = []
 
     print("Calculating consensus clusters...")
     for year in data_tree:
+        total_models_count = len(models_per_year.get(year, []))
+        
         for party in data_tree[year]:
             models_data = data_tree[year][party]
             source_file_hint = models_data.get('_sourceFile', '')
@@ -124,76 +154,39 @@ def generate_consensus():
                     source_path = source_file_map[hint_no_ext]
             
             if not source_path:
-                continue
+                # Strict validation: if we have results but no source text, we can't verify quotes.
+                # We should probably raise an error or skip. 
+                # Given "just throw an error", I will raise.
+                raise FileNotFoundError(f"Source text not found for {party} in {year} (hint: {source_file_hint})")
                 
             try:
                 with open(source_path, 'r', encoding='utf-8') as f:
                     text = f.read()
             except Exception as e:
-                print(f"Error reading source {source_path}: {e}")
-                continue
+                raise IOError(f"Error reading source {source_path}: {e}")
 
             models = [k for k in models_data.keys() if not k.startswith('_')]
-            total_models = len(models)
-            if total_models == 0:
-                continue
-
-            # Create voting array
-            text_len = len(text)
-            votes = [0] * text_len
             
-            # Collect raw findings for frontend clustering
-            raw_findings = []
+            # Collect all findings
+            all_findings = []
+            text_len = len(text)
 
-            # Map findings to text
             for model in models:
                 quotes = models_data[model]
                 if not quotes:
                     continue
                 
-                covered_indices = set()
                 for item in quotes:
                     q = item.get('originalQuote', '')
                     start, score = find_quote_position_fuzzy(text, q)
-                    if start != -1 and score > 70: # Slightly looser threshold for clustering
-                        # The originalQuote is truncated to 100 chars by the LLM
-                        # We want to extract more context from the source text
-                        # Strategy: Extend to complete sentences (up to 300 chars max)
+                    
+                    if start != -1 and score > 70:
+                        # Simplified: Just use the found position and original quote length
+                        # We don't need complex sentence boundary detection for consensus calculation
+                        end_pos = min(start + len(q), text_len)
+                        actual_text = text[start:end_pos]
                         
-                        # Find reasonable end point (sentence boundary or max 300 chars)
-                        max_length = 300
-                        search_end = min(start + max_length, text_len)
-                        extended_text = text[start:search_end]
-                        
-                        # Look for sentence endings: . ! ? followed by space or newline
-                        sentence_endings = []
-                        for i, char in enumerate(extended_text):
-                            if char in '.!?' and i < len(extended_text) - 1:
-                                next_char = extended_text[i + 1]
-                                if next_char in ' \n\r\t' or i == len(extended_text) - 1:
-                                    sentence_endings.append(i + 1)
-                        
-                        # Use first sentence ending after position 100, or full 300 chars
-                        if sentence_endings:
-                            # Find first ending after the original 100 char mark
-                            suitable_endings = [e for e in sentence_endings if e > len(q)]
-                            if suitable_endings:
-                                end_offset = suitable_endings[0]
-                            else:
-                                # No ending after 100 chars, use last available
-                                end_offset = sentence_endings[-1] if sentence_endings else len(extended_text)
-                        else:
-                            # No sentence ending found, use the full extended text
-                            end_offset = len(extended_text)
-                        
-                        end_pos = min(start + end_offset, text_len)
-                        actual_text = text[start:end_pos].strip()
-                        
-                        # For voting, use the original quote length (100 chars)
-                        vote_end_pos = min(start + len(q), text_len)
-                        
-                        # Add to raw findings with the EXTENDED actual text from source
-                        raw_findings.append({
+                        all_findings.append({
                             "model": model,
                             "start": start,
                             "end": end_pos,
@@ -204,87 +197,67 @@ def generate_consensus():
                             "classification": item.get('classification', '')
                         })
 
-                        # For voting coverage, use original quote length
-                        for i in range(start, vote_end_pos):
-                            covered_indices.add(i)
-                
-                for idx in covered_indices:
-                    votes[idx] += 1
+            # Cluster findings by start position
+            all_findings.sort(key=lambda x: x['start'])
             
-            # Generate Density Profile (100 bins)
-            density_profile = []
-            bin_size = max(1, text_len // 100)
-            for i in range(100):
-                start_idx = i * bin_size
-                end_idx = min((i + 1) * bin_size, text_len)
-                if start_idx >= text_len:
-                    density_profile.append(0)
-                    continue
-                
-                # Get max votes in this bin
-                bin_votes = votes[start_idx:end_idx]
-                max_v = max(bin_votes) if bin_votes else 0
-                # Normalize to 0.0 - 1.0
-                density_profile.append(max_v / total_models)
-
-            # Extract clusters (regions where votes > 0)
             clusters = []
-            current_start = -1
-            current_max_votes = 0
-            
-            for i in range(text_len):
-                if votes[i] > 0:
-                    if current_start == -1:
-                        current_start = i
-                        current_max_votes = votes[i]
+            if all_findings:
+                current_cluster = [all_findings[0]]
+                
+                for i in range(1, len(all_findings)):
+                    finding = all_findings[i]
+                    prev_finding = current_cluster[-1]
+                    
+                    # If start is within tolerance, add to cluster
+                    if finding['start'] - prev_finding['start'] < TOLERANCE:
+                        current_cluster.append(finding)
                     else:
-                        current_max_votes = max(current_max_votes, votes[i])
-                else:
-                    if current_start != -1:
-                        end = i
-                        # Filter noise
-                        if end - current_start > 10:
-                            segment = text[current_start:end]
-                            # Calculate confidence score (0.0 to 1.0)
-                            confidence = current_max_votes / total_models
-                            
-                            clusters.append({
-                                "text": segment,
-                                "start": current_start,
-                                "end": end,
-                                "vote_count": current_max_votes,
-                                "total_models": total_models,
-                                "confidence": confidence
-                            })
-                        current_start = -1
-                        current_max_votes = 0
-            
-            # Trailing cluster
-            if current_start != -1:
-                end = text_len
-                if end - current_start > 10:
-                    segment = text[current_start:end]
-                    confidence = current_max_votes / total_models
+                        # Finalize current cluster
+                        unique_models = set(f['model'] for f in current_cluster)
+                        vote_count = len(unique_models)
+                        confidence = vote_count / total_models_count
+                        
+                        # Use the text from the first finding
+                        best_finding = current_cluster[0]
+                        
+                        clusters.append({
+                            "text": best_finding['text'],
+                            "start": best_finding['start'],
+                            "end": best_finding['end'],
+                            "vote_count": vote_count,
+                            "total_models": total_models_count,
+                            "confidence": confidence,
+                            "findings": current_cluster
+                        })
+                        current_cluster = [finding]
+                
+                # Final cluster
+                if current_cluster:
+                    unique_models = set(f['model'] for f in current_cluster)
+                    vote_count = len(unique_models)
+                    confidence = vote_count / total_models_count
+                    best_finding = current_cluster[0]
+                    
                     clusters.append({
-                        "text": segment,
-                        "start": current_start,
-                        "end": end,
-                        "vote_count": current_max_votes,
-                        "total_models": total_models,
-                        "confidence": confidence
+                        "text": best_finding['text'],
+                        "start": best_finding['start'],
+                        "end": best_finding['end'],
+                        "vote_count": vote_count,
+                        "total_models": total_models_count,
+                        "confidence": confidence,
+                        "findings": current_cluster
                     })
 
             if clusters:
                 consensus_results.append({
                     "year": year,
                     "party": party,
-                    "party_display": models_data.get('_sourceFile', party),
+                    "party_display": party, # Use normalized name
                     "total_clusters": len(clusters),
-                    "total_models": total_models,
-                    "models": models,
-                    "density_profile": density_profile,
+                    "total_models": total_models_count,
+                    "models": list(models_per_year[year]),
                     "items": clusters,
-                    "raw_findings": raw_findings
+                    "raw_findings": all_findings
                 })
 
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:

@@ -27,7 +27,12 @@ MODEL_MAPPING = {
 
 def get_party_name(filename):
     name = os.path.splitext(filename)[0]
-    return PARTY_MAPPING.get(name, name.upper())
+    if name in PARTY_MAPPING:
+        return PARTY_MAPPING[name]
+    
+    # Strict validation: Error if party not in mapping
+    # Check if it's already a mapped value (reverse check could be added, but let's be strict on keys)
+    raise ValueError(f"Unknown party identifier: '{name}'. Please add it to PARTY_MAPPING in generate_config.py")
 
 def get_model_name(folder_name):
     return MODEL_MAPPING.get(folder_name, folder_name)
@@ -104,9 +109,8 @@ def main():
                     if found_filename:
                         original_file_path = os.path.join('programs', 'pdf', year, found_filename)
                     else:
-                        # If not found, use the constructed path but warn
-                        print(f"Warning: PDF not found for {source_file} (looked for {pdf_filename}) in {pdf_dir}")
-                        original_file_path = os.path.join('programs', 'pdf', year, pdf_filename)
+                        # Strict validation: Error if PDF not found
+                        raise FileNotFoundError(f"PDF not found for {source_file} (looked for {pdf_filename}) in {pdf_dir}")
 
                 entry = {
                     "party": party_name,

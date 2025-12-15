@@ -6,7 +6,7 @@ Die folgenden Modelle habe ich für die Auswertung verwendet. Es handelt sich au
 
 Nur mit drei Modellen konte ich den gesamten Zeitraum abdecken: Qwen, Grok und Gemini. 
 
-### **Deepseek**
+### Deepseek
 *[click](https://chat.deepseek)*
 
 Das Token-Limit des normalen Modus ist sehr streng, deswegen habe ich es mit "Deep Thinking" probiert. Selbst dann führte das Modell die Aufgabe nicht immer vollständig aus.
@@ -33,7 +33,7 @@ Also was jetzt, Copilot - blockiert oder nicht blockiert? Erst auf Nachfrage erf
 
 Das ist natürlich völliger Unsinn. Auch wenn ich den gesamten Korpus in den Chat kopiere, erhalte ich die gleiche Meldung. Danke für nichts, Microsoft.
 
-### **Claude Sonnnet 4.5** 
+### Claude Sonnnet 4.5
 *[click](https://claude.ai)*
 Claude ist als Coding Agent ein wertvoller begleiter geworden, selbst mit dem eingeschränkten konstenlosen Kontingent. Bei der Auswertung tut Claude sich aber etwas schwer, da das zulässige Kontextwindow zu klein ist. Außerdem liefert ausgerechnet Claude mitunter fehlerhaftes JSON zurück (nicht escape'te oder kodierte Anführungszeichen). Das Wahlprogramm der Grünen war zu groß, weshalb ich es in zwei Durchläufen ausgewertet und manuell verbunden habe.
 
@@ -47,7 +47,7 @@ Gemimi hat übrigens konsquent die Vorgabe ignoriert, nur die ersten 100 Zeichen
 ### Grok 4.1
 *[click](https://grok.com)*
 
-Auch Musk's AI ist sehr großzügig, wenn es um das Verarbeiten vieler Daten geht. Die Ergebnisse sind zuverlässig, allerdings scheitert Grok daran, ein vernünftiges JSON-Artefakt zu liefern. Syntaktisch korrekt, aber nicht korrekt formatiert. Nur ein Hygiene-Problem, aber dennoch ärgerlich.
+Auch Musk's AI ist sehr großzügig, wenn es um das Verarbeiten vieler Daten geht. Die Ergebnisse sind zuverlässig, allerdings scheitert Grok daran, ein vernünftiges JSON-Artefakt zu liefern. Syntaktisch korrekt, aber nicht korrekt formatiert. Nur ein Hygiene-Problem, aber dennoch ärgerlich. Was mir bei Grok vor allem auffällt: Es ist irrsinnig schnell. Das kann auch Zufall oder subjektives Empfinden sein, ich habe das nicht weiter dokumentiert, aber oft hat das LLM die Auswertung sofort zurückgeliefert, während andere Modelle noch am "Denken" waren. 
 
 ### Qwen3-Max
 *[click](https://chat.qwen.ai/)*
@@ -56,7 +56,7 @@ Bei **Qwen3-Max** gibt es gefühlt keine Grenze für Anfragen. Das ist sehr erst
 
 ### Mistral
 *[click](https://chat.mistral.ai)*
-Auch Mistral verfügt über ein kostenloses Angebot, allerdings ist das Ergebnis ernüchternd. Offensichtlich schafft es das Modell nicht, die Aufgabe vollständig zu verstehen, vielleicht liegt der Fehler aber auch bei meinem Prompt?
+Auch Mistral verfügt über ein kostenloses Angebot, so ganz zufriedenstellend ist das Ergebnis aber inhaltlich auf den ersten Blick nicht. 
 
 ## Methodik
 

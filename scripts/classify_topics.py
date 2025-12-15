@@ -13,33 +13,50 @@ TOPIC_MAPPING = {
     "Umwelt & Klima": ["klima", "co2", "umwelt", "emissionen", "kohle", "atom", "energie", "fossile", "plastik", "diesel", "verbrenner", "naturschutz", "wald", "wasser", "luft"],
     "Verkehr & Mobilität": ["tempolimit", "auto", "verkehr", "flug", "bahn", "mobilität", "diesel", "pkw", "lkw", "autobahn", "straße", "radverkehr", "öpnv"],
     "Soziales & Arbeit": ["lohn", "arbeit", "rente", "hartz", "sozial", "mindestlohn", "leiharbeit", "befristung", "armut", "sicherung", "arbeitslos"],
-    "Wirtschaft & Steuern": ["steuer", "wirtschaft", "finanz", "unternehmen", "konzern", "banken", "schulden", "haushalt", "subvention", "markt", "handel"],
-    "Digitales & Überwachung": ["daten", "überwachung", "internet", "digital", "kamera", "vorratsdatenspeicherung", "uploadfilter", "netz", "cyber", "künstliche intelligenz"],
-    "Migration & Asyl": ["asyl", "migration", "flüchtling", "grenze", "abschiebung", "einwanderung", "integration"],
-    "Gesundheit & Drogen": ["drogen", "cannabis", "gesundheit", "pflege", "medizin", "impfung", "tabak", "alkohol", "krankenhaus", "versicherung"],
-    "Bildung & Forschung": ["bildung", "schule", "uni", "forschung", "studium", "kita", "ausbildung", "wissenschaft", "lehrer"],
-    "Wohnen & Miete": ["miete", "wohnen", "immobilien", "bau", "spekulation", "wohnraum", "eigentum"],
-    "Tierschutz & Landwirtschaft": ["tier", "landwirtschaft", "fleisch", "agrar", "gentechnik", "glyphosat", "bauern", "massentierhaltung"],
-    "Demokratie & Recht": ["demokratie", "recht", "wahl", "lobby", "korruption", "partei", "extremismus", "verfassung", "grundgesetz", "justiz"],
-    "Gleichstellung & Gesellschaft": ["frauen", "gleichstellung", "gender", "familie", "kinder", "jugend", "diskriminierung", "inklusion", "vielfalt", "queer"],
-    "Europa & Außenpolitik": ["europa", "eu", "außenpolitik", "international", "welt", "frieden", "menschenrechte"]
+    "Wirtschaft & Steuern": ["Steuer", "Wirtschaft", "Finanz", "Unternehmen", "Konzern", "Banken", "Schulden", "Haushalt", "Subvention", "Markt", "Handel"],
+    "Digitales & Überwachung": ["Daten", "Überwachung", "Internet", "Digital", "Kamera", "Vorratsdatenspeicherung", "Uploadfilter", "Netz", "Cyber", "Künstliche Intelligenz"],
+    "Migration & Asyl": ["Asyl", "Migration", "Flüchtling", "Grenze", "Abschiebung", "Einwanderung", "Integration"],
+    "Gesundheit & Drogen": ["Drogen", "Cannabis", "Gesundheit", "Pflege", "Medizin", "Impfung", "Tabak", "Alkohol", "Krankenhaus", "Versicherung"],
+    "Bildung & Forschung": ["Bildung", "Schule", "Uni", "Forschung", "Studium", "Kita", "Ausbildung", "Wissenschaft", "Lehrer"],
+    "Wohnen & Miete": ["Miete", "Wohnen", "Immobilien", "Bau", "Spekulation", "Wohnraum", "Eigentum"],
+    "Tierschutz & Landwirtschaft": ["Tier", "Landwirtschaft", "Fleisch", "Agrar", "Gentechnik", "Glyphosat", "Bauern", "Massentierhaltung"],
+    "Demokratie & Recht": ["Demokratie", "Recht", "Wahl", "Lobby", "Korruption", "Partei", "Extremismus", "Verfassung", "Grundgesetz", "Justiz"],
+    "Gleichstellung & Gesellschaft": ["Frauen", "Gleichstellung", "Gender", "Familie", "Kinder", "Jugend", "Diskriminierung", "Inklusion", "Vielfalt", "Queer"],
+    "Europa & Außenpolitik": ["Europa", "EU", "Außenpolitik", "International", "Welt", "Frieden", "Menschenrechte"]
 }
 
 def clean_text(text):
-    # Remove punctuation and lower case
+    # Remove punctuation, normalize whitespace, and lowercase
     text = re.sub(r'[^\w\s]', '', text).lower()
+    text = re.sub(r'\s+', ' ', text).strip()
     return text
 
 def get_classification(text):
     cleaned_text = clean_text(text)
     words = cleaned_text.split()
+    word_set = set(words)
+    padded_text = f" {cleaned_text} "
     
     # 1. Check against Topic Mapping
     for category, keywords in TOPIC_MAPPING.items():
         for keyword in keywords:
-            if keyword in cleaned_text: # Check if keyword is substring of text (more robust)
-                return category
-            # Also check individual words for exact matches if needed, but substring is usually fine for "klimaschutz" matching "klima"
+            # Case-sensitive check for German Nouns (capitalized in mapping)
+            if keyword[0].isupper():
+                # Check in original text (robust to punctuation)
+                if re.search(r'\b' + re.escape(keyword) + r'\b', text):
+                    return category
+            else:
+                # Case-insensitive check
+                normalized_keyword = clean_text(keyword)
+                if not normalized_keyword:
+                    continue
+
+                if ' ' in normalized_keyword:
+                    if f" {normalized_keyword} " in padded_text:
+                        return category
+                else:
+                    if normalized_keyword in word_set:
+                        return category
 
     # 2. Fallback: Heuristic
     # Filter stopwords and short words
