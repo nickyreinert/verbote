@@ -1,0 +1,95 @@
+{
+  "sourceFile": "AfD - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Änderung des Grundgesetzes ohne Volkszustimmung",
+      "location": "Kapitel 1 – Volksabstimmungen nach Schweizer Modell",
+      "originalQuote": "Ohne Zustimmung des Volkes darf das Grundgesetz nicht geändert und kein bedeutsamer völkerrechtlicher Vertrag geschlossen werden."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Parteibeteiligung an Unternehmen",
+      "location": "Kapitel 1 – Macht der Parteien beschränken",
+      "originalQuote": "Ferner soll den Parteien endlich die Beteiligung an Unternehmen, insbesondere Medienunternehmen, verboten werden."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Gleichzeitiges Amt und Mandat",
+      "location": "Kapitel 1 – Trennung von Amt und Mandat",
+      "originalQuote": "Kanzler, Ministerpräsidenten und Minister dürfen nicht mehr zugleich Abgeordnete sein."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Zustimmung zu bestimmten EU-Corona-Programmen",
+      "location": "Kapitel 5 – Zusätzliche Inflationierung durch überzogene Corona-Maßnahmen beenden",
+      "originalQuote": "Die Bundesregierung darf keinen EU-Corona-Programmen zustimmen, für die Deutschland nur mithaftet"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "EZB-Staatsfinanzierung",
+      "location": "Kapitel 5 – EZB-Nullzinspolitik beenden",
+      "originalQuote": "keine Staatsfinanzierung durch die EZB"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Quotenregelungen",
+      "location": "Kapitel 1 – Leistung statt Quote",
+      "originalQuote": "Die AfD lehnt jede Art von Quoten ab."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Antidiskriminierungsgesetze im Zivilrecht",
+      "location": "Kapitel 1 – Bürgerlich-freiheitliche Rechtsordnung",
+      "originalQuote": "Deshalb lehnen wir sog. ,Antidiskriminierungsgesetze‘ ab."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Vergemeinschaftung der EU-Außen- und Sicherheitspolitik",
+      "location": "Kapitel 6 – Außen- und Verteidigungspolitik",
+      "originalQuote": "Die Vergemeinschaftung der europäischen Außen- und Sicherheitspolitik (GASP) und den europäischen Auswärtigen Dienst lehnt die AfD ab."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "EU-Erweiterung",
+      "location": "Kapitel 6 – Verhältnis zu wichtigen Staaten",
+      "originalQuote": "Eine Erweiterung der EU wird strikt abgelehnt."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Beitritt der Türkei zur EU",
+      "location": "Kapitel 6 – Verhältnis zu wichtigen Staaten",
+      "originalQuote": "Die AfD lehnt den Beitritt der Türkei zur EU daher ab"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abschaffung von Bargeld",
+      "location": "Kapitel 5 – Erhalt des Bargelds",
+      "originalQuote": "Die AfD spricht sich auch gegen von Zentralbanken herausgegebene digitale Währungen aus"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Lieferkettengesetz",
+      "location": "Kapitel 6 – Deutschland muss seine wirtschaftlichen Stärken ausbauen",
+      "originalQuote": "Ideologisch motivierte Alleingänge, wie das Lieferkettengesetz, lehnen wir ab."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nukleare Erstschlagvorbehalte",
+      "location": "Kapitel 6 – Wiederherstellung der Wehrfähigkeit",
+      "originalQuote": "Die AfD lehnt nukleare Erstschlagvorbehalte ab"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privilegierung von Antifa-Recherchen",
+      "location": "Kapitel 7 – Linke Gewalt entschieden bekämpfen",
+      "originalQuote": "Die von der Bundesregierung beabsichtigte Privilegierung von „Antifa-Recherchen“ muss verhindert oder ggf. umgehend abgeschafft werden."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einbürgerung krimineller Ausländer",
+      "location": "Kapitel 7 – Wirksame Bekämpfung der Ausländerkriminalität",
+      "originalQuote": "Die Einbürgerung Krimineller ist zuverlässig zu verhindern"
+    }
+  ]
+}

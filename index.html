@@ -27,8 +27,14 @@
         <!-- SECTION 1: Compare Parties (Select Model) -->
         <section id="section-compare-parties" class="view-section">
             <h1>Parteien im Vergleich</h1>
+            <i>Repository: <a href="https://github.com/nickyreinert/verbote" target="_blank">https://github.com/nickyreinert/verbote</a></i>
+            <i>Blog: </i>
             <p>Wähle ein KI-Modell, um zu sehen, wie es die Verbote bei verschiedenen Parteien zählt.</p>
-            
+            <i>Nur für die Modelle Qwen, Gemini und Grok liegen Auswertungen für die Jahre 2005 - 2021 vor, die anderen Modelle haben die Daten nur partiell verarbeitet.</i>
+            <br /><br />
+            Ein <strong>explizites Verbot</strong> ist eine Aussage, die eindeutig ein Verbot durch ein Verbotswort oder eine juristisch klare Negationsform ausdrückt (z. B. "verboten", "dürfen nicht"). Ein <strong>semantisches Verbot</strong> hingegen bewirkt inhaltlich dasselbe, ohne ein explizites Verbotswort zu verwenden (z. B. "keine neuen...", "soll unterbleiben").
+
+            <br /><hr /><br />
             <div class="controls">
                 <label for="select-model">Wähle ein Modell:</label>
                 <select id="select-model">
@@ -206,7 +212,7 @@
             
             <div class="controls">
                 <label for="consensus-radius">Toleranz-Radius:</label>
-                <input type="range" id="consensus-radius" min="0" max="2000" value="0" step="10" style="vertical-align: middle;">
+                <input type="range" id="consensus-radius" min="0" max="100" value="0" step="1" style="vertical-align: middle;">
                 <span id="consensus-radius-value">0 Zeichen</span>
             </div>
 

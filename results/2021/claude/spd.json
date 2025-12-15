@@ -1,0 +1,251 @@
+{
+  "sourceFile": "SPD - 2021 - Langprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung von Währungen und privaten digitalen Währungen",
+      "location": "2.8 Wie wir regieren wollen",
+      "originalQuote": "Wir lehnen eine Privatisierung von Währungen ab. Dies gilt auch für private digitale Währungen,"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weitere Anhebung des gesetzlichen Renteneintrittsalters",
+      "location": "3.4 Alter absichern",
+      "originalQuote": "Wir lehnen eine weitere Anhebung des gesetzlichen Renteneintrittsalters ab, weil sie für viele, di"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Befristung von Arbeitsverhältnissen ohne Sachgrund",
+      "location": "3.1 Arbeit wertschätzen",
+      "originalQuote": "Die Befristung von Arbeitsverhältnissen ohne einen Sachgrund werden wir abschaffen und die vom Gese"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Mitgliedschaft in Arbeitgeberverbänden ohne Tarifbindung",
+      "location": "3.1 Arbeit wertschätzen",
+      "originalQuote": "Die Mitgliedschaft in Arbeitgeberverbänden ohne Tarifbindung ist unanständig. Wir werden diese Prax"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Geschwindigkeiten über 130 km/h auf Bundesautobahnen",
+      "location": "2.2 Zukunftsmission II. Modernstes Mobilitätssystem Europas",
+      "originalQuote": "Wir werden ein Tempolimit von 130 km/h auf Bundesautobahnen einführen. Das schützt die Umwelt und"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kriminalisierung der Seenotrettung",
+      "location": "4.3 Demokratie erweitern",
+      "originalQuote": "Seenotrettung ist eine Verpflichtung aus dem internationalen Seerecht und darf nicht kriminalisiert"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verfassungsfeindliche Organisationen",
+      "location": "3.10 Demokratie stärken",
+      "originalQuote": "Verfassungsfeindliche Organisationen werden wir verbieten. Wo Religionsfreiheit missbraucht wird un"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gentechnisch veränderte Pflanzen",
+      "location": "3.15 Natur respektieren",
+      "originalQuote": "Wir bleiben beim Nein zu gentechnisch veränderten Pflanzen."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Wegwerfen genießbarer Nahrungsmittel durch Produzenten und Handel",
+      "location": "3.15 Natur respektieren",
+      "originalQuote": "Um die Lebensmittelverschwendung einzudämmen, werden wir es den Produzenten und dem Handel untersage"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Diskriminierende Richtlinie der Bundesärztekammer zur Blutspende",
+      "location": "3.8 Gleichstellung verwirklichen",
+      "originalQuote": "Wir werden darauf hinwirken, dass die diskriminierende Richtlinie der Bundesärztekammer zur Blutspe"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Sinnwidrige und unwürdige Sanktionen im Bürgergeldsystem",
+      "location": "3.3 Solidarität erweitern",
+      "originalQuote": "Sinnwidrige und unwürdige Sanktionen schaffen wir ab. Das sozioökonomische und soziokulturelle Exist"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Arbeitsverbote",
+      "location": "3.9 Zusammen leben",
+      "originalQuote": "Jeder, der bei uns lebt, soll das Recht haben, für seinen Lebensunterhalt zu sorgen. Arbeitsverbote"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zwangsweise Rückführung von Menschen in gefährliche Länder",
+      "location": "3.9 Zusammen leben",
+      "originalQuote": "Die zwangsweise Rückführung von Menschen in Länder, in denen ihnen Gefahr für Leib und Leben droht,"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Annexionspläne",
+      "location": "4.4 Europäische Nachbarschaften pflegen",
+      "originalQuote": "Pläne zu Annexionen lehnen wir kategorisch ab. Es muss zu einem Stopp des völkerrechtswidrigen Sied"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Völkerrechtswidriger Siedlungsbau",
+      "location": "4.4 Europäische Nachbarschaften pflegen",
+      "originalQuote": "Es muss zu einem Stopp des völkerrechtswidrigen Siedlungsbaus kommen."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Umgehung der Grunderwerbsteuer (Share Deals)",
+      "location": "2.7 Wie wir unsere Politik finanzieren wollen",
+      "originalQuote": "Wir werden die Umgehung der Grunderwerbsteuer (Share Deals) beenden. Der Umsatzsteuerbetrug bei Kar"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Gewalt und Repression der Sicherheitskräfte in Belarus",
+      "location": "4.4 Europäische Nachbarschaften pflegen",
+      "originalQuote": "Gewalt und Repression der Sicherheitskräfte müssen beendet, alle politischen Gefangenen freigelassen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "An Kinder gerichtete Werbung in Kitas und Schulen",
+      "location": "3.7 Gut aufwachsen",
+      "originalQuote": "An Kinder gerichtete Werbung wollen wir reglementieren. Kitas und Schulen müssen ein werbefreier Rau"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Klima- und umweltschädliche Subventionen",
+      "location": "2.1 Zukunftsmission I. Klimaneutrales Deutschland",
+      "originalQuote": "Den Umstieg auf klimaschonende Produktionsprozesse werden wir durch direkte Investitionsförderung st"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kommerzialisierung im Gesundheitswesen",
+      "location": "2.4 Zukunftsmission IV. Update für die Gesundheit",
+      "originalQuote": "Wir wollen die Kommerzialisierung im Gesundheitswesen beenden, denn sie wirkt sich negativ auf die V"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Private Streitschlichtungsmechanismen in Handelsabkommen",
+      "location": "4.2 Sozial-ökologisch wirtschaften",
+      "originalQuote": "Zudem sollen private Streitschlichtungsmechanismen abgeschafft und durch öffentliche Gerichte ersetz"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Klarnamenpflicht im Netz",
+      "location": "2.3 Zukunftsmission III. Digitale Souveränität",
+      "originalQuote": "Wir sind gegen eine Klarnamenpflicht im Netz und setzen uns weiterhin für die Möglichkeit einer anon"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Digitale Hintertüren",
+      "location": "2.3 Zukunftsmission III. Digitale Souveränität",
+      "originalQuote": "Digitale Hintertüren sollen nicht offen gehalten werden."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "MERCOSUR-Abkommen ohne verbindliche Umwelt- und Sozialstandards",
+      "location": "4.2 Sozial-ökologisch wirtschaften",
+      "originalQuote": "Einem Abkommen ohne Stärkung der Umwelt-, Menschenrechts- und Sozialstandards durch zusätzliche verb"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Steuerliche Mehrbelastung mittlerer Einkommen durch Krisenbewältigung",
+      "location": "2.7 Wie wir unsere Politik finanzieren wollen",
+      "originalQuote": "Die finanziellen Lasten der Krisenbewältigung dürfen für die ohnehin stark strapazierte große Mehrhe"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Rückschlüsse auf einzelne Personen bei Datennutzung",
+      "location": "2.3 Zukunftsmission III. Digitale Souveränität",
+      "originalQuote": "Rückschlüsse auf einzelne Personen dürfen dabei nicht möglich sein. Wo die öffentliche Hand Aufträge"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "De-Anonymisierung",
+      "location": "2.3 Zukunftsmission III. Digitale Souveränität",
+      "originalQuote": "Wir fördern die Entwicklung von Anonymisierungstechniken und setzen uns für strafbewehrte Verbote vo"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Abwertung von Pflegestellen bei Maßnahmen gegen Personalmangel",
+      "location": "2.4 Zukunftsmission IV. Update für die Gesundheit",
+      "originalQuote": "Maßnahmen zur Überwindung des Personalmangels dürfen nicht dazu führen, dass die Stellen in der Pfle"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Spekulation mit Wohnraum",
+      "location": "3.6 Bezahlbares Wohnen",
+      "originalQuote": "Um die Spekulation mit Wohnraum einzudämmen, werden wir die Eigentümerstrukturen über ein zentrales"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Steuerfreiheit für Veräußerungsgewinne nicht selbst genutzter Grundstücke",
+      "location": "3.6 Bezahlbares Wohnen",
+      "originalQuote": "Wir werden die bislang nach einer Zehn-Jahres-Frist geltende Steuerfreiheit für Veräußerungsgewinne"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wildwuchs selbst kreierter Nachhaltigkeitslabel von Unternehmen",
+      "location": "3.15 Natur respektieren",
+      "originalQuote": "Wir wollen den Wildwuchs an selbst kreierten Labeln von Unternehmen zur Nachhaltigkeit ihrer Produkt"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Boden als Spekulationsobjekt",
+      "location": "3.15 Natur respektieren",
+      "originalQuote": "Der Boden, als wichtigstes Gut in der Landwirtschaft, steht den selbst wirtschaftenden Betrieben vor"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Verlängerung der täglichen Arbeitszeit",
+      "location": "3.1 Arbeit wertschätzen",
+      "originalQuote": "Wir werden die Schutzfunktion des Arbeitszeitgesetzes erhalten. Eine Verlängerung der täglichen Arbe"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Paragraf 219a (Werbeverbot für Schwangerschaftsabbrüche)",
+      "location": "3.8 Gleichstellung verwirklichen",
+      "originalQuote": "Wir erkennen die Verantwortung und das Selbstbestimmungsrecht von Frauen an und wollen auch deshalb"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Schwangerschaftskonflikte im Strafrecht",
+      "location": "3.8 Gleichstellung verwirklichen",
+      "originalQuote": "Zudem stellen wir in Hinblick auf die Paragraphen 218 ff. fest: Schwangerschaftskonflikte gehören ni"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Steuerhinterziehung, Steuervermeidung und Steuerbetrug",
+      "location": "2.7 Wie wir unsere Politik finanzieren wollen",
+      "originalQuote": "Gegen Steuerhinterziehung, Steuervermeidung und Steuerbetrug werden wir konsequent vorgehen. Wir hab"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Umsatzsteuerbetrug bei Karussellgeschäften",
+      "location": "2.7 Wie wir unsere Politik finanzieren wollen",
+      "originalQuote": "Der Umsatzsteuerbetrug bei Karussellgeschäften auf europäischer Ebene muss beendet werden. Die öffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Nationalistischer Hass und populistische Hetze in Europa",
+      "location": "1.3 Europa stärken",
+      "originalQuote": "Wir werden es nicht zulassen, dass nationalistischer Hass und populistische Hetze Europa spalten."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Wettlauf nach unten bei Umwelt- und Sozialstandards mit Großbritannien",
+      "location": "4.4 Europäische Nachbarschaften pflegen",
+      "originalQuote": "Einen Wettlauf nach unten, was Umweltstandards oder die Rechte von Arbeitnehmern und Verbrauchern an"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Politik der Austerität nach der Krise",
+      "location": "2.7 Wie wir unsere Politik finanzieren wollen",
+      "originalQuote": "Eine Politik der Austerität nach der Krise wäre ein völlig falscher Weg. Wer diesen Weg verfolgt, se"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Ächtung autonomer tödlicher Waffensysteme",
+      "location": "4.5 Frieden sichern",
+      "originalQuote": "Die Ächtung autonomer tödlicher Waffensysteme bleibt unser Ziel. Bei allen Bemühungen um Abrüstung m"
+    }
+  ]
+}

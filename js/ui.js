@@ -258,6 +258,12 @@ function renderConsensusList(clusteredData, radius, filter) {
     clusteredData.sort((a, b) => a.party_display.localeCompare(b.party_display));
 
     clusteredData.forEach(partyData => {
+        // Filter by party and year if specified
+        if (filter) {
+            if (filter.party !== undefined && partyData.party !== filter.party) return;
+            if (filter.year !== undefined && partyData.year !== filter.year) return;
+        }
+        
         // Filter items
         let items = partyData.items;
         if (filter) {

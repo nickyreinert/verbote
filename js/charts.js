@@ -237,30 +237,37 @@ export function updatePartiesChart(labels, semanticData, explicitData, modelName
                 title: {
                     display: true,
                     text: `Verbotsparteien laut ${modelName} (${year})`
-                },
-                onClick: (e) => {
-                    const points = state.chartPartiesInstance.getElementsAtEventForMode(e, 'nearest', { intersect: true }, true);
-                    if (points.length) {
-                        const point = points[0];
-                        const index = point.index;
-                        const datasetIndex = point.datasetIndex;
-                        const partyName = state.chartPartiesInstance.data.labels[index];
-                        const datasetLabel = state.chartPartiesInstance.data.datasets[datasetIndex].label;
+                }
+            },
+            onClick: (e) => {
+                const points = state.chartPartiesInstance.getElementsAtEventForMode(e, 'nearest', { intersect: true }, true);
+                if (points.length) {
+                    const point = points[0];
+                    const index = point.index;
+                    const datasetIndex = point.datasetIndex;
+                    const partyName = state.chartPartiesInstance.data.labels[index];
+                    const datasetLabel = state.chartPartiesInstance.data.datasets[datasetIndex].label;
 
-                        const yearLayer = state.dataCache[modelName] && state.dataCache[modelName][year];
-                        let topics = yearLayer && yearLayer[partyName] ? yearLayer[partyName].topics : [];
-                        
-                        const isExplicitDataset = datasetLabel.toLowerCase().includes('explizit');
-
-                        if (isExplicitDataset) {
-                            topics = topics.filter(t => t.category && t.category.toLowerCase().includes('explizit'));
-                        } else {
-                            // Semantic dataset clicked
-                            topics = topics.filter(t => !t.category || !t.category.toLowerCase().includes('explizit'));
-                        }
-                        
-                        showDetails(topics, `${partyName} (${modelName}) - ${datasetLabel}`);
-                    }
+                    const isExplicitDataset = datasetLabel.toLowerCase().includes('explizit');
+                    const category = isExplicitDataset ? 'explizit' : 'semantisch';
+                    
+                    // Set filter state
+                    state.currentPartiesTableFilter = {
+                        party: partyName,
+                        category: category,
+                        year: year
+                    };
+                    
+                    // Trigger filter update via custom event
+                    window.dispatchEvent(new CustomEvent('filterPartiesTable', {
+                        detail: { party: partyName, category: category, year: year }
+                    }));
+                } else {
+                    // Click outside bars - reset filter
+                    state.currentPartiesTableFilter = null;
+                    window.dispatchEvent(new CustomEvent('filterPartiesTable', {
+                        detail: null
+                    }));
                 }
             }
         }
@@ -603,13 +610,20 @@ export function renderProximityChart(yearData) {
                 const points = state.chartProximityInstance.getElementsAtEventForMode(e, 'nearest', { intersect: true }, true);
                 if (points.length) {
                     const datasetIndex = points[0].datasetIndex;
+                    const dataIndex = points[0].index;
+                    
+                    // Get party and year from clicked bar
+                    const clickedData = yearData[dataIndex];
+                    const party = clickedData.party;
+                    const year = clickedData.year;
+                    
                     // 0: High, 1: Medium, 2: Low
                     let min = 0, max = 1;
                     if (datasetIndex === 0) { min = 0.8; max = 1.1; }
                     else if (datasetIndex === 1) { min = 0.5; max = 0.8; }
                     else { min = 0; max = 0.5; }
                     
-                    filterConsensusList({ minConfidence: min, maxConfidence: max });
+                    filterConsensusList({ minConfidence: min, maxConfidence: max, party: party, year: year });
                 } else {
                     filterConsensusList(null);
                 }
@@ -705,13 +719,20 @@ export function renderConsensusChart(yearData) {
                 const points = state.chartConsensusInstance.getElementsAtEventForMode(e, 'nearest', { intersect: true }, true);
                 if (points.length) {
                     const datasetIndex = points[0].datasetIndex;
+                    const dataIndex = points[0].index;
+                    
+                    // Get party and year from clicked bar
+                    const clickedData = yearData[dataIndex];
+                    const party = clickedData.party;
+                    const year = clickedData.year;
+                    
                     // 0: High, 1: Medium, 2: Low
                     let min = 0, max = 1;
                     if (datasetIndex === 0) { min = 0.8; max = 1.1; }
                     else if (datasetIndex === 1) { min = 0.5; max = 0.8; }
                     else { min = 0; max = 0.5; }
                     
-                    filterConsensusList({ minConfidence: min, maxConfidence: max });
+                    filterConsensusList({ minConfidence: min, maxConfidence: max, party: party, year: year });
                 } else {
                     filterConsensusList(null);
                 }

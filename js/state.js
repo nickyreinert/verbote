@@ -20,5 +20,6 @@ export const state = {
     currentDetailData: [],
     currentTopicData: [],
     currentPartiesTableData: [],
-    currentPartiesSort: { column: 'party', direction: 'asc' }
+    currentPartiesSort: { column: 'party', direction: 'asc' },
+    currentPartiesTableFilter: null // { party, category, year }
 };

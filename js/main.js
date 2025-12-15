@@ -130,6 +130,11 @@ document.addEventListener('DOMContentLoaded', () => {
         updateTopicsView('all', 'all');
         searchInput.addEventListener('input', handleSearch);
 
+        // Listen for parties table filter events from chart clicks
+        window.addEventListener('filterPartiesTable', (e) => {
+            handlePartiesTableFilter(e.detail);
+        });
+
         // Initial load: Do NOT auto-select. User must choose.
         // The UI functions (populateYearSelect, etc.) already set the default option to "Bitte wählen..."
     }
@@ -265,12 +270,78 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         state.currentPartiesTableData = allTopics;
+        
+        // Reset chart filter when changing model/year
+        state.currentPartiesTableFilter = null;
+        
         renderPartiesTable(state.currentPartiesTableData);
+    }
+
+    function handlePartiesTableFilter(filter) {
+        if (!filter) {
+            // Reset filter - show all data
+            const term = searchPartiesInput.value.toLowerCase();
+            if (term) {
+                handlePartiesSearch({ target: { value: term } });
+            } else {
+                renderPartiesTable(state.currentPartiesTableData);
+            }
+            return;
+        }
+
+        // Apply filter based on party, category, and year
+        const { party, category, year } = filter;
+        
+        let filteredItems = state.currentPartiesTableData.filter(item => {
+            // Filter by party
+            if (party && item.party !== party) return false;
+            
+            // Filter by category (explicit vs semantic)
+            if (category === 'explizit') {
+                if (!item.category || !item.category.toLowerCase().includes('explizit')) return false;
+            } else if (category === 'semantisch') {
+                if (item.category && item.category.toLowerCase().includes('explizit')) return false;
+            }
+            
+            return true;
+        });
+
+        // Also apply search term if present
+        const term = searchPartiesInput.value.toLowerCase();
+        if (term) {
+            filteredItems = filteredItems.filter(item => {
+                return (
+                    (item.party && item.party.toLowerCase().includes(term)) ||
+                    (item.category && item.category.toLowerCase().includes(term)) ||
+                    (item.topic && item.topic.toLowerCase().includes(term)) ||
+                    (item.originalQuote && item.originalQuote.toLowerCase().includes(term))
+                );
+            });
+        }
+
+        renderPartiesTable(filteredItems);
     }
 
     function handlePartiesSearch(e) {
         const term = e.target.value.toLowerCase();
-        const filteredItems = state.currentPartiesTableData.filter(item => {
+        
+        let baseData = state.currentPartiesTableData;
+        
+        // Apply chart filter if active
+        if (state.currentPartiesTableFilter) {
+            const { party, category } = state.currentPartiesTableFilter;
+            baseData = baseData.filter(item => {
+                if (party && item.party !== party) return false;
+                if (category === 'explizit') {
+                    if (!item.category || !item.category.toLowerCase().includes('explizit')) return false;
+                } else if (category === 'semantisch') {
+                    if (item.category && item.category.toLowerCase().includes('explizit')) return false;
+                }
+                return true;
+            });
+        }
+        
+        const filteredItems = baseData.filter(item => {
             return (
                 (item.party && item.party.toLowerCase().includes(term)) ||
                 (item.category && item.category.toLowerCase().includes(term)) ||

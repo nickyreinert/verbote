@@ -156,22 +156,56 @@ def generate_consensus():
                     q = item.get('originalQuote', '')
                     start, score = find_quote_position_fuzzy(text, q)
                     if start != -1 and score > 70: # Slightly looser threshold for clustering
-                        length = len(q)
-                        end_pos = min(start + length, text_len)
+                        # The originalQuote is truncated to 100 chars by the LLM
+                        # We want to extract more context from the source text
+                        # Strategy: Extend to complete sentences (up to 300 chars max)
                         
-                        # Add to raw findings
+                        # Find reasonable end point (sentence boundary or max 300 chars)
+                        max_length = 300
+                        search_end = min(start + max_length, text_len)
+                        extended_text = text[start:search_end]
+                        
+                        # Look for sentence endings: . ! ? followed by space or newline
+                        sentence_endings = []
+                        for i, char in enumerate(extended_text):
+                            if char in '.!?' and i < len(extended_text) - 1:
+                                next_char = extended_text[i + 1]
+                                if next_char in ' \n\r\t' or i == len(extended_text) - 1:
+                                    sentence_endings.append(i + 1)
+                        
+                        # Use first sentence ending after position 100, or full 300 chars
+                        if sentence_endings:
+                            # Find first ending after the original 100 char mark
+                            suitable_endings = [e for e in sentence_endings if e > len(q)]
+                            if suitable_endings:
+                                end_offset = suitable_endings[0]
+                            else:
+                                # No ending after 100 chars, use last available
+                                end_offset = sentence_endings[-1] if sentence_endings else len(extended_text)
+                        else:
+                            # No sentence ending found, use the full extended text
+                            end_offset = len(extended_text)
+                        
+                        end_pos = min(start + end_offset, text_len)
+                        actual_text = text[start:end_pos].strip()
+                        
+                        # For voting, use the original quote length (100 chars)
+                        vote_end_pos = min(start + len(q), text_len)
+                        
+                        # Add to raw findings with the EXTENDED actual text from source
                         raw_findings.append({
                             "model": model,
                             "start": start,
                             "end": end_pos,
-                            "text": text[start:end_pos],
+                            "text": actual_text,
                             "original_quote": q,
                             "category": item.get('category', ''),
                             "topic": item.get('topic', ''),
                             "classification": item.get('classification', '')
                         })
 
-                        for i in range(start, end_pos):
+                        # For voting coverage, use original quote length
+                        for i in range(start, vote_end_pos):
                             covered_indices.add(i)
                 
                 for idx in covered_indices:

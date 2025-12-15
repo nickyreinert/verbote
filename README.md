@@ -11,6 +11,11 @@ Nur mit drei Modellen konte ich den gesamten Zeitraum abdecken: Qwen, Grok und G
 
 Das Token-Limit des normalen Modus ist sehr streng, deswegen habe ich es mit "Deep Thinking" probiert. Selbst dann führte das Modell die Aufgabe nicht immer vollständig aus.
 
+### OpenAI **ChatGPT-4**
+*[click](https://chat.openai.com)*
+
+ChatGPT funktioniert stabil, erlaubt aber nur 3 Uploads innerhalb von 24 Stunden. Mehr kann man dazu gar nicht sagen.
+
 ### Microsoft **Copilot** 
 *[click](https://copilot.microsoft.com)*
 Obowohl ich mit Copilot bisher relativ gute Erfahrung gemacht hab, enttäuscht Microsofts Chatbot hier auf ganzer Linie: Die **Auswertung wurde komplett abgelehnt**. Die Begründung ist zunächst eher **irritierend** und **widersprüchlich**:
@@ -30,7 +35,7 @@ Das ist natürlich völliger Unsinn. Auch wenn ich den gesamten Korpus in den Ch
 
 ### **Claude Sonnnet 4.5** 
 *[click](https://claude.ai)*
-Claude ist als Coding Agent ein wertvoller begleiter geworden, selbst mit dem kostenlosen Argument. Für die Auswertung Claude aber nicht hilfreich, da das zulässige Kontextwindow zu klein ist. Außerdem ist das zurückgelieferte JSON oft fehlerhaft, da die Werte Anführungszeichen enthalten. 
+Claude ist als Coding Agent ein wertvoller begleiter geworden, selbst mit dem eingeschränkten konstenlosen Kontingent. Bei der Auswertung tut Claude sich aber etwas schwer, da das zulässige Kontextwindow zu klein ist. Außerdem liefert ausgerechnet Claude mitunter fehlerhaftes JSON zurück (nicht escape'te oder kodierte Anführungszeichen). Das Wahlprogramm der Grünen war zu groß, weshalb ich es in zwei Durchläufen ausgewertet und manuell verbunden habe.
 
 ### Gemini
 *[click](https://gemini.google.com)*
