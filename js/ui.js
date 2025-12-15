@@ -340,6 +340,22 @@ function renderConsensusList(clusteredData, radius, filter) {
             expandBtn.style.color = '#3498db';
 
             headerDiv.appendChild(badge);
+            
+            // Add Source Link if available
+            if (partyData.source_file) {
+                const sourceLink = document.createElement('a');
+                const searchPhrase = item.text.replace(/\s+/g, ' ').trim();
+                const encodedSearch = encodeURIComponent(searchPhrase);
+                sourceLink.href = `${partyData.source_file}#:~:text=${encodedSearch}`;
+                sourceLink.target = '_blank';
+                sourceLink.title = 'Im Originaltext öffnen';
+                sourceLink.textContent = '📄';
+                sourceLink.style.marginLeft = '10px';
+                sourceLink.style.textDecoration = 'none';
+                sourceLink.onclick = (e) => e.stopPropagation(); // Prevent toggling details
+                headerDiv.appendChild(sourceLink);
+            }
+
             headerDiv.appendChild(expandBtn);
             li.appendChild(headerDiv);
 

@@ -249,10 +249,17 @@ def generate_consensus():
                     })
 
             if clusters:
+                # Calculate relative path for source file
+                source_file_rel = os.path.relpath(source_path, os.getcwd()) # Assuming script run from root or we can use WORKSPACE_ROOT logic if needed. 
+                # But wait, generate_consensus.py doesn't have WORKSPACE_ROOT defined.
+                # It uses PROGRAMS_DIR = 'programs/txt'.
+                # os.path.relpath(source_path) should work if CWD is workspace root.
+                
                 consensus_results.append({
                     "year": year,
                     "party": party,
                     "party_display": party, # Use normalized name
+                    "source_file": source_file_rel,
                     "total_clusters": len(clusters),
                     "total_models": total_models_count,
                     "models": list(models_per_year[year]),

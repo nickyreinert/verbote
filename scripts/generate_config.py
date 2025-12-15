@@ -1,5 +1,6 @@
 import os
 import json
+import unicodedata
 
 # Configuration
 WORKSPACE_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -37,27 +38,36 @@ def get_party_name(filename):
 def get_model_name(folder_name):
     return MODEL_MAPPING.get(folder_name, folder_name)
 
+def normalize_filename(filename):
+    return unicodedata.normalize('NFC', filename) if isinstance(filename, str) else filename
+
 def find_file_smart(directory, filename):
     if not os.path.exists(directory):
         return None
     
-    # Try exact match first
-    if os.path.exists(os.path.join(directory, filename)):
-        return filename
+    norm_filename = normalize_filename(filename)
+    
+    # Walk through directory to find file recursively
+    for root, dirs, files in os.walk(directory):
+        # Normalize files in directory for comparison
+        norm_files = {normalize_filename(f): f for f in files}
         
-    # Try fixing common encoding issues
-    # "GrÅne" -> "Grüne"
-    fixed_filename = filename.replace('Å', 'ü').replace('Ã¼', 'ü')
-    if os.path.exists(os.path.join(directory, fixed_filename)):
-        return fixed_filename
+        # Try exact match (normalized)
+        if norm_filename in norm_files:
+            return os.path.join(root, norm_files[norm_filename])
+            
+        # Try fixing common encoding issues
+        fixed_filename = filename.replace('Å', 'ü').replace('Ã¼', 'ü')
+        norm_fixed = normalize_filename(fixed_filename)
+        if norm_fixed in norm_files:
+            return os.path.join(root, norm_files[norm_fixed])
 
-    # Try case insensitive match
-    files = os.listdir(directory)
-    for f in files:
-        if f.lower() == filename.lower():
-            return f
-        if f.lower() == fixed_filename.lower():
-            return f
+        # Try case insensitive match
+        for f in files:
+            if normalize_filename(f).lower() == norm_filename.lower():
+                return os.path.join(root, f)
+            if normalize_filename(f).lower() == norm_fixed.lower():
+                return os.path.join(root, f)
             
     return None
 
@@ -99,18 +109,26 @@ def main():
                 # Determine original file path
                 original_file_path = ""
                 if source_file:
-                    # Assume sourceFile is .txt and we want .pdf in programs/pdf/<year>/
-                    pdf_filename = os.path.splitext(source_file)[0] + ".pdf"
+                    base_name = os.path.splitext(source_file)[0]
+                    pdf_filename = base_name + ".pdf"
+                    txt_filename = base_name + ".txt"
                     
                     # Check if it exists in programs/pdf/<year>
                     pdf_dir = os.path.join(WORKSPACE_ROOT, 'programs', 'pdf', year)
-                    found_filename = find_file_smart(pdf_dir, pdf_filename)
+                    found_pdf_path = find_file_smart(pdf_dir, pdf_filename)
                     
-                    if found_filename:
-                        original_file_path = os.path.join('programs', 'pdf', year, found_filename)
+                    if found_pdf_path:
+                        original_file_path = os.path.relpath(found_pdf_path, WORKSPACE_ROOT)
                     else:
-                        # Strict validation: Error if PDF not found
-                        raise FileNotFoundError(f"PDF not found for {source_file} (looked for {pdf_filename}) in {pdf_dir}")
+                        # Fallback to TXT if PDF not found
+                        txt_dir = os.path.join(WORKSPACE_ROOT, 'programs', 'txt', year)
+                        found_txt_path = find_file_smart(txt_dir, txt_filename)
+                        
+                        if found_txt_path:
+                             original_file_path = os.path.relpath(found_txt_path, WORKSPACE_ROOT)
+                        else:
+                            # Strict validation: Error if neither PDF nor TXT found
+                            raise FileNotFoundError(f"Source file not found for {source_file} (looked for {pdf_filename} in {pdf_dir} and {txt_filename} in {txt_dir})")
 
                 entry = {
                     "party": party_name,

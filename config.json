@@ -4,31 +4,31 @@
             {
                 "party": "CDU/CSU",
                 "file": "results/2005/gemini/cducsu.json",
-                "original_file": "programs/txt/2005/CDU-CSU - 2005 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2005/CDU - CSU/CDU-CSU - 2005 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "FDP",
                 "file": "results/2005/gemini/fdp.json",
-                "original_file": "programs/txt/2005/FDP - 2005 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2005/FDP/FDP - 2005 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "Bündnis 90/Die Grünen",
                 "file": "results/2005/gemini/grüne.json",
-                "original_file": "programs/txt/2005/Grüne - 2005 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2005/Grüne/Grüne - 2005 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "DIE LINKE",
                 "file": "results/2005/gemini/linke.json",
-                "original_file": "programs/txt/2005/Linkspartei-PDS - 2005 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2005/DIE LINKE - PDS/Linkspartei-PDS - 2005 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "SPD",
                 "file": "results/2005/gemini/spd.json",
-                "original_file": "programs/txt/2005/SPD - 2005 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2005/SPD/SPD - 2005 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             }
         ],
@@ -36,31 +36,31 @@
             {
                 "party": "CDU/CSU",
                 "file": "results/2005/qwen/cducsu.json",
-                "original_file": "programs/txt/2005/CDU-CSU - 2005 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2005/CDU - CSU/CDU-CSU - 2005 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "FDP",
                 "file": "results/2005/qwen/fdp.json",
-                "original_file": "programs/txt/2005/FDP - 2005 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2005/FDP/FDP - 2005 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "Bündnis 90/Die Grünen",
                 "file": "results/2005/qwen/grüne.json",
-                "original_file": "programs/txt/2005/Grüne - 2005 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2005/Grüne/Grüne - 2005 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "DIE LINKE",
                 "file": "results/2005/qwen/linke.json",
-                "original_file": "programs/txt/2005/Linkspartei-PDS - 2005 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2005/DIE LINKE - PDS/Linkspartei-PDS - 2005 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "SPD",
                 "file": "results/2005/qwen/spd.json",
-                "original_file": "programs/txt/2005/SPD - 2005 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2005/SPD/SPD - 2005 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             }
         ],
@@ -68,31 +68,31 @@
             {
                 "party": "CDU/CSU",
                 "file": "results/2005/grok/cducsu.json",
-                "original_file": "programs/txt/2005/CDU-CSU - 2005 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2005/CDU - CSU/CDU-CSU - 2005 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "FDP",
                 "file": "results/2005/grok/fdp.json",
-                "original_file": "programs/txt/2005/FDP - 2005 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2005/FDP/FDP - 2005 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "Bündnis 90/Die Grünen",
                 "file": "results/2005/grok/grüne.json",
-                "original_file": "programs/txt/2005/Grüne - 2005 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2005/Grüne/Grüne - 2005 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "DIE LINKE",
                 "file": "results/2005/grok/linke.json",
-                "original_file": "programs/txt/2005/Linkspartei-PDS - 2005 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2005/DIE LINKE - PDS/Linkspartei-PDS - 2005 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "SPD",
                 "file": "results/2005/grok/spd.json",
-                "original_file": "programs/txt/2005/SPD - 2005 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2005/SPD/SPD - 2005 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             }
         ]
@@ -102,37 +102,37 @@
             {
                 "party": "CDU/CSU",
                 "file": "results/2009/gemini/cducsu.json",
-                "original_file": "programs/txt/2009/CDU-CSU - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/CDU,CSU/CDU-CSU - 2009 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "FDP",
                 "file": "results/2009/gemini/fdp.json",
-                "original_file": "programs/txt/2009/FDP - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/FDP/FDP - 2009 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "Bündnis 90/Die Grünen",
                 "file": "results/2009/gemini/grüne.json",
-                "original_file": "programs/txt/2009/Grüne - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/Grüne/Grüne - 2009 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "DIE LINKE",
                 "file": "results/2009/gemini/linke.json",
-                "original_file": "programs/txt/2009/Linke - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/DIE LINKE/Linke - 2009 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "Piraten",
                 "file": "results/2009/gemini/piraten.json",
-                "original_file": "programs/txt/2009/Piraten - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/PIRATEN/Piraten - 2009 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "SPD",
                 "file": "results/2009/gemini/spd.json",
-                "original_file": "programs/txt/2009/SPD - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/SPD/SPD - 2009 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             }
         ],
@@ -140,37 +140,37 @@
             {
                 "party": "CDU/CSU",
                 "file": "results/2009/qwen/cducsu.json",
-                "original_file": "programs/txt/2009/CDU-CSU - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/CDU,CSU/CDU-CSU - 2009 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "FDP",
                 "file": "results/2009/qwen/fdp.json",
-                "original_file": "programs/txt/2009/FDP - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/FDP/FDP - 2009 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "Bündnis 90/Die Grünen",
                 "file": "results/2009/qwen/grüne.json",
-                "original_file": "programs/txt/2009/Grüne - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/Grüne/Grüne - 2009 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "DIE LINKE",
                 "file": "results/2009/qwen/linke.json",
-                "original_file": "programs/txt/2009/Linke - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/DIE LINKE/Linke - 2009 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "Piraten",
                 "file": "results/2009/qwen/piraten.json",
-                "original_file": "programs/txt/2009/Piraten - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/PIRATEN/Piraten - 2009 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "SPD",
                 "file": "results/2009/qwen/spd.json",
-                "original_file": "programs/txt/2009/SPD - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/SPD/SPD - 2009 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             }
         ],
@@ -178,37 +178,37 @@
             {
                 "party": "CDU/CSU",
                 "file": "results/2009/grok/cducsu.json",
-                "original_file": "programs/txt/2009/CDU-CSU - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/CDU,CSU/CDU-CSU - 2009 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "FDP",
                 "file": "results/2009/grok/fdp.json",
-                "original_file": "programs/txt/2009/FDP - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/FDP/FDP - 2009 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "Bündnis 90/Die Grünen",
                 "file": "results/2009/grok/grüne.json",
-                "original_file": "programs/txt/2009/Grüne - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/Grüne/Grüne - 2009 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "DIE LINKE",
                 "file": "results/2009/grok/linke.json",
-                "original_file": "programs/txt/2009/Linke - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/DIE LINKE/Linke - 2009 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "Piraten",
                 "file": "results/2009/grok/piraten.json",
-                "original_file": "programs/txt/2009/Piraten - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/PIRATEN/Piraten - 2009 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "SPD",
                 "file": "results/2009/grok/spd.json",
-                "original_file": "programs/txt/2009/SPD - 2009 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2009/SPD/SPD - 2009 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             }
         ]
@@ -218,49 +218,49 @@
             {
                 "party": "AFD",
                 "file": "results/2013/gemini/afd.json",
-                "original_file": "programs/txt/2013/AfD - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/AfD/AfD - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "CDU/CSU",
                 "file": "results/2013/gemini/cducsu.json",
-                "original_file": "programs/txt/2013/CDU-CSU - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/CDU,CSU/CDU-CSU - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "FDP",
                 "file": "results/2013/gemini/fdp.json",
-                "original_file": "programs/txt/2013/FDP - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/FDP/FDP - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "Bündnis 90/Die Grünen",
                 "file": "results/2013/gemini/grüne.json",
-                "original_file": "programs/txt/2013/Grüne - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/Grüne/Grüne - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "DIE LINKE",
                 "file": "results/2013/gemini/linke.json",
-                "original_file": "programs/txt/2013/Linke - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/DIE LINKE/Linke - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "Die Partei",
                 "file": "results/2013/gemini/partei.json",
-                "original_file": "programs/txt/2013/Die Partei - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/Die Partei/Die Partei - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "Piraten",
                 "file": "results/2013/gemini/piraten.json",
-                "original_file": "programs/txt/2013/Piraten - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/PIRATEN/Piraten - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "SPD",
                 "file": "results/2013/gemini/spd.json",
-                "original_file": "programs/txt/2013/SPD - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/SPD/SPD - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             }
         ],
@@ -268,49 +268,49 @@
             {
                 "party": "AFD",
                 "file": "results/2013/qwen/afd.json",
-                "original_file": "programs/txt/2013/AfD - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/AfD/AfD - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "CDU/CSU",
                 "file": "results/2013/qwen/cducsu.json",
-                "original_file": "programs/txt/2013/CDU-CSU - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/CDU,CSU/CDU-CSU - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "FDP",
                 "file": "results/2013/qwen/fdp.json",
-                "original_file": "programs/txt/2013/FDP - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/FDP/FDP - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "Bündnis 90/Die Grünen",
                 "file": "results/2013/qwen/grüne.json",
-                "original_file": "programs/txt/2013/Grüne - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/Grüne/Grüne - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "DIE LINKE",
                 "file": "results/2013/qwen/linke.json",
-                "original_file": "programs/txt/2013/Linke - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/DIE LINKE/Linke - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "Die Partei",
                 "file": "results/2013/qwen/partei.json",
-                "original_file": "programs/txt/2013/Die Partei - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/Die Partei/Die Partei - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "Piraten",
                 "file": "results/2013/qwen/piraten.json",
-                "original_file": "programs/txt/2013/Piraten - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/PIRATEN/Piraten - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "SPD",
                 "file": "results/2013/qwen/spd.json",
-                "original_file": "programs/txt/2013/SPD - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/SPD/SPD - 2013 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             }
         ],
@@ -318,31 +318,31 @@
             {
                 "party": "AFD",
                 "file": "results/2013/deepseek/afd.json",
-                "original_file": "programs/txt/2013/AfD - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/AfD/AfD - 2013 - Wahlprogramm.txt",
                 "model_display_name": "deepseek"
             },
             {
                 "party": "CDU/CSU",
                 "file": "results/2013/deepseek/cducsu.json",
-                "original_file": "programs/txt/2013/CDU-CSU - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/CDU,CSU/CDU-CSU - 2013 - Wahlprogramm.txt",
                 "model_display_name": "deepseek"
             },
             {
                 "party": "FDP",
                 "file": "results/2013/deepseek/fdp.json",
-                "original_file": "programs/txt/2013/FDP - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/FDP/FDP - 2013 - Wahlprogramm.txt",
                 "model_display_name": "deepseek"
             },
             {
                 "party": "DIE LINKE",
                 "file": "results/2013/deepseek/linke.json",
-                "original_file": "programs/txt/2013/Linke - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/DIE LINKE/Linke - 2013 - Wahlprogramm.txt",
                 "model_display_name": "deepseek"
             },
             {
                 "party": "Die Partei",
                 "file": "results/2013/deepseek/partei.json",
-                "original_file": "programs/txt/2013/Die Partei - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/Die Partei/Die Partei - 2013 - Wahlprogramm.txt",
                 "model_display_name": "deepseek"
             }
         ],
@@ -350,49 +350,49 @@
             {
                 "party": "AFD",
                 "file": "results/2013/grok/afd.json",
-                "original_file": "programs/txt/2013/AfD - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/AfD/AfD - 2013 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "CDU/CSU",
                 "file": "results/2013/grok/cducsu.json",
-                "original_file": "programs/txt/2013/CDU-CSU - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/CDU,CSU/CDU-CSU - 2013 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "FDP",
                 "file": "results/2013/grok/fdp.json",
-                "original_file": "programs/txt/2013/FDP - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/FDP/FDP - 2013 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "Bündnis 90/Die Grünen",
                 "file": "results/2013/grok/grüne.json",
-                "original_file": "programs/txt/2013/Grüne - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/Grüne/Grüne - 2013 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "DIE LINKE",
                 "file": "results/2013/grok/linke.json",
-                "original_file": "programs/txt/2013/Linke - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/DIE LINKE/Linke - 2013 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "Die Partei",
                 "file": "results/2013/grok/partei.json",
-                "original_file": "programs/txt/2013/Die Partei - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/Die Partei/Die Partei - 2013 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "Piraten",
                 "file": "results/2013/grok/piraten.json",
-                "original_file": "programs/txt/2013/Piraten - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/PIRATEN/Piraten - 2013 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "SPD",
                 "file": "results/2013/grok/spd.json",
-                "original_file": "programs/txt/2013/SPD - 2013 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2013/SPD/SPD - 2013 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             }
         ]
@@ -402,49 +402,49 @@
             {
                 "party": "AFD",
                 "file": "results/2017/gemini/afd.json",
-                "original_file": "programs/txt/2017/AfD - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/AfD/AfD - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "CDU/CSU",
                 "file": "results/2017/gemini/cducsu.json",
-                "original_file": "programs/txt/2017/CDU-CSU - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/CDU,CSU/CDU-CSU - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "FDP",
                 "file": "results/2017/gemini/fdp.json",
-                "original_file": "programs/txt/2017/FDP - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/FDP/FDP - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "Bündnis 90/Die Grünen",
                 "file": "results/2017/gemini/grüne.json",
-                "original_file": "programs/txt/2017/Grüne - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/Grüne/Grüne - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "DIE LINKE",
                 "file": "results/2017/gemini/linke.json",
-                "original_file": "programs/txt/2017/Linke - 2017 - Wahlprogramm.pdf",
+                "original_file": "programs/txt/2017/DIE LINKE/Linke - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "Die Partei",
                 "file": "results/2017/gemini/partei.json",
-                "original_file": "programs/txt/2017/Die Partei - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/Die Partei/Die Partei - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "Piraten",
                 "file": "results/2017/gemini/piraten.json",
-                "original_file": "programs/txt/2017/Piraten - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/PIRATEN/Piraten - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             },
             {
                 "party": "SPD",
                 "file": "results/2017/gemini/spd.json",
-                "original_file": "programs/txt/2017/SPD - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/SPD/SPD - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Gemini Thinking Modus 13.12.2025"
             }
         ],
@@ -452,49 +452,49 @@
             {
                 "party": "AFD",
                 "file": "results/2017/qwen/afd.json",
-                "original_file": "programs/txt/2017/AfD - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/AfD/AfD - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "CDU/CSU",
                 "file": "results/2017/qwen/cducsu.json",
-                "original_file": "programs/txt/2017/CDU-CSU - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/CDU,CSU/CDU-CSU - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "FDP",
                 "file": "results/2017/qwen/fdp.json",
-                "original_file": "programs/txt/2017/FDP - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/FDP/FDP - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "Bündnis 90/Die Grünen",
                 "file": "results/2017/qwen/grüne.json",
-                "original_file": "programs/txt/2017/Grüne - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/Grüne/Grüne - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "DIE LINKE",
                 "file": "results/2017/qwen/linke.json",
-                "original_file": "programs/txt/2017/Linke - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/DIE LINKE/Linke - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "Die Partei",
                 "file": "results/2017/qwen/partei.json",
-                "original_file": "programs/txt/2017/Die Partei - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/Die Partei/Die Partei - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "Piraten",
                 "file": "results/2017/qwen/piraten.json",
-                "original_file": "programs/txt/2017/Piraten - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/PIRATEN/Piraten - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             },
             {
                 "party": "SPD",
                 "file": "results/2017/qwen/spd.json",
-                "original_file": "programs/txt/2017/SPD - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/SPD/SPD - 2017 - Wahlprogramm.txt",
                 "model_display_name": "Qwen"
             }
         ],
@@ -502,49 +502,49 @@
             {
                 "party": "AFD",
                 "file": "results/2017/deepseek/afd.json",
-                "original_file": "programs/txt/2017/AfD - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/AfD/AfD - 2017 - Wahlprogramm.txt",
                 "model_display_name": "deepseek"
             },
             {
                 "party": "CDU/CSU",
                 "file": "results/2017/deepseek/cducsu.json",
-                "original_file": "programs/txt/2017/CDU-CSU - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/CDU,CSU/CDU-CSU - 2017 - Wahlprogramm.txt",
                 "model_display_name": "deepseek"
             },
             {
                 "party": "FDP",
                 "file": "results/2017/deepseek/fdp.json",
-                "original_file": "programs/txt/2017/FDP - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/FDP/FDP - 2017 - Wahlprogramm.txt",
                 "model_display_name": "deepseek"
             },
             {
                 "party": "Bündnis 90/Die Grünen",
                 "file": "results/2017/deepseek/grüne.json",
-                "original_file": "programs/txt/2017/Grüne - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/Grüne/Grüne - 2017 - Wahlprogramm.txt",
                 "model_display_name": "deepseek"
             },
             {
                 "party": "DIE LINKE",
                 "file": "results/2017/deepseek/linke.json",
-                "original_file": "programs/txt/2017/Linke - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/DIE LINKE/Linke - 2017 - Wahlprogramm.txt",
                 "model_display_name": "deepseek"
             },
             {
                 "party": "Die Partei",
                 "file": "results/2017/deepseek/partei.json",
-                "original_file": "programs/txt/2017/Die Partei - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/Die Partei/Die Partei - 2017 - Wahlprogramm.txt",
                 "model_display_name": "deepseek"
             },
             {
                 "party": "Piraten",
                 "file": "results/2017/deepseek/piraten.json",
-                "original_file": "programs/txt/2017/Piraten - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/PIRATEN/Piraten - 2017 - Wahlprogramm.txt",
                 "model_display_name": "deepseek"
             },
             {
                 "party": "SPD",
                 "file": "results/2017/deepseek/spd.json",
-                "original_file": "programs/txt/2017/SPD - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/SPD/SPD - 2017 - Wahlprogramm.txt",
                 "model_display_name": "deepseek"
             }
         ],
@@ -552,49 +552,49 @@
             {
                 "party": "AFD",
                 "file": "results/2017/grok/afd.json",
-                "original_file": "programs/txt/2017/AfD - 2017 - Wahlprogramm.pdf",
+                "original_file": "programs/txt/2017/AfD/AfD - 2017 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "CDU/CSU",
                 "file": "results/2017/grok/cducsu.json",
-                "original_file": "programs/txt/2017/CDU-CSU - 2017 - Wahlprogramm.pdf",
+                "original_file": "programs/txt/2017/CDU,CSU/CDU-CSU - 2017 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "FDP",
                 "file": "results/2017/grok/fdp.json",
-                "original_file": "programs/txt/2017/FDP - 2017 - Wahlprogramm.pdf",
+                "original_file": "programs/txt/2017/FDP/FDP - 2017 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "Bündnis 90/Die Grünen",
                 "file": "results/2017/grok/grüne.json",
-                "original_file": "programs/txt/2017/Grüne - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/Grüne/Grüne - 2017 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "DIE LINKE",
                 "file": "results/2017/grok/linke.json",
-                "original_file": "programs/txt/2017/Linke - 2017 - Wahlprogramm.pdf",
+                "original_file": "programs/txt/2017/DIE LINKE/Linke - 2017 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "Die Partei",
                 "file": "results/2017/grok/partei.json",
-                "original_file": "programs/txt/2017/Die Partei - 2017 - Wahlprogramm.pdf",
+                "original_file": "programs/txt/2017/Die Partei/Die Partei - 2017 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "Piraten",
                 "file": "results/2017/grok/piraten.json",
-                "original_file": "programs/txt/2017/Piraten - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/PIRATEN/Piraten - 2017 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             },
             {
                 "party": "SPD",
                 "file": "results/2017/grok/spd.json",
-                "original_file": "programs/txt/2017/SPD - 2017 - Wahlprogramm.txt",
+                "original_file": "programs/txt/2017/SPD/SPD - 2017 - Wahlprogramm.txt",
                 "model_display_name": "grok-2.5-turbo"
             }
         ]
