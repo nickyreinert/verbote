@@ -234,6 +234,9 @@ export function renderConsensusView(year, radius = 0, filter = null) {
     // 3. Render Proximity Chart (Type 2)
     renderProximityChart(clusteredData);
 
+    // 3b. Render Model Consensus Metric
+    renderModelConsensusMetric(clusteredData);
+
     // 4. Render List
     renderConsensusList(clusteredData, radius, filter);
 }
@@ -668,4 +671,75 @@ export function renderTopicTable(items) {
         `;
         topicDetailsTableBody.appendChild(row);
     });
+}
+
+function renderModelConsensusMetric(clusteredData) {
+    const container = document.getElementById('model-consensus-metric');
+    if (!container) return;
+
+    // 1. Identify all models involved in the current view
+    const modelStats = {}; // { modelName: { corroboratedCount: 0, totalFindings: 0 } }
+
+    clusteredData.forEach(party => {
+        party.items.forEach(cluster => {
+            // Get unique models in this cluster
+            const uniqueModels = new Set();
+            cluster.findings.forEach(f => uniqueModels.add(f.model));
+            
+            const isCorroborated = uniqueModels.size > 1;
+            
+            uniqueModels.forEach(model => {
+                if (!modelStats[model]) {
+                    modelStats[model] = { corroboratedCount: 0, totalFindings: 0 };
+                }
+                modelStats[model].totalFindings++;
+                if (isCorroborated) {
+                    modelStats[model].corroboratedCount++;
+                }
+            });
+        });
+    });
+
+    // 2. Calculate scores and sort
+    const results = Object.entries(modelStats).map(([model, stats]) => {
+        return {
+            model,
+            ...stats,
+            ratio: stats.totalFindings > 0 ? (stats.corroboratedCount / stats.totalFindings) : 0
+        };
+    });
+
+    // Sort by corroborated count (descending), then ratio
+    results.sort((a, b) => {
+        if (b.corroboratedCount !== a.corroboratedCount) {
+            return b.corroboratedCount - a.corroboratedCount;
+        }
+        return b.ratio - a.ratio;
+    });
+
+    // 3. Render HTML
+    if (results.length === 0) {
+        container.style.display = 'none';
+        return;
+    }
+
+    container.style.display = 'block';
+    let html = '<h3>Modell-Konsens-Metrik</h3>';
+    html += '<p><small>Welches Modell findet am häufigsten Verbote, die auch von mindestens einem anderen Modell gefunden wurden?</small></p>';
+    html += '<table style="width: 100%; border-collapse: collapse; font-size: 0.9em;">';
+    html += '<thead><tr style="text-align: left; border-bottom: 1px solid #ddd;"><th>Modell</th><th>Bestätigte Funde</th><th>Gesamtfunde</th><th>Quote</th></tr></thead>';
+    html += '<tbody>';
+    
+    results.forEach(r => {
+        const percentage = (r.ratio * 100).toFixed(1) + '%';
+        html += `<tr>
+            <td style="padding: 4px;"><strong>${r.model}</strong></td>
+            <td style="padding: 4px;">${r.corroboratedCount}</td>
+            <td style="padding: 4px;">${r.totalFindings}</td>
+            <td style="padding: 4px;">${percentage}</td>
+        </tr>`;
+    });
+    
+    html += '</tbody></table>';
+    container.innerHTML = html;
 }
