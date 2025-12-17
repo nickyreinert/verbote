@@ -1,0 +1,215 @@
+{
+  "sourceFile": "Linke - 2021 - Wahlprogramm_part2.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stopp der Privatisierung von öffentlichem Eigentum",
+      "location": "Für einen wirtschaftlichen Aufbruch Ost",
+      "originalQuote": "Gegen die Dominanz marktwirtschaftlicher Verwertungs- und Effizienzlogik setzen wir uns für eine gute Versorgung, öffentliche Daseinsvorsorge und den Stopp der Privatisierun"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Privatisierung der Daseinsvorsorge",
+      "location": "Starke Kommunen, gute Lebensqualität",
+      "originalQuote": "Kommunale Daseinsvorsorge darf nicht auf den Markt geworfen werden!"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Privatisierung der öffentlichen Infrastruktur",
+      "location": "Mit Steuern umsteuern",
+      "originalQuote": "Sie befördert die Privatisierung der öffentlichen Infrastruktur, die häufig noch teurer für die Steuerzahler*innen ist, da die Allgemeinheit dann den privaten Inves"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Aufrüstung",
+      "location": "Mit Steuern umsteuern",
+      "originalQuote": "Gerechter Haushalt: Bildung, Gesundheit und Klimaschutz statt Aufrüstung."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Steuervermeidung durch gemeinnützige Stiftungen",
+      "location": "Einkommensteuer gerecht reformieren",
+      "originalQuote": "Die Nutzung gemeinnütziger Stiftungen zur Steuervermeidung muss stärker eingeschränkt werden."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kein Investmentbanking mit kurzfristiger Renditeorientierung",
+      "location": "Die Macht der Banken und Finanzmärkte brechen",
+      "originalQuote": "Kurzfristig ausgerichtetes Investmentbanking – das nur in Betriebe investiert, um schnell hohe Renditen zu erzielen – wollen wir als Geschäftsfeld abwickeln."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Spekulation mit Agrarrohstoffen",
+      "location": "Die Macht der Banken und Finanzmärkte brechen",
+      "originalQuote": "Die Spekulation mit Agrarrohstoffen und Nahrungsmitteln wollen wir verbieten."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Börsenzulassung für Krankenhaus-, Pflege- und Immobilienkonzerne",
+      "location": "Die Macht der Banken und Finanzmärkte brechen",
+      "originalQuote": "Wir wollen Krankenhaus-, Pflege- und Immobilienkonzernen die Börsenzulassung entziehen."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Steuerbetrug mit Cum/Ex-Geschäften",
+      "location": "Finanzkriminalität stoppen!",
+      "originalQuote": "Steuerbetrug mit Cum/Ex-ähnlichen Aktiengeschäften muss endlich wirksam unterbunden werden."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Forschung und Kauf von IT-Sicherheitslücken durch Geheimdienste",
+      "location": "Datensicherheit und Datenschutz",
+      "originalQuote": "Der Aufkauf von Informationen über und Beauftragung von Sicherheitslücken in IT-Systemen durch Geheimdienste muss verboten und unterbunden werden."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Uploadfiltern und Netzsperren",
+      "location": "Die Macht der Internetkonzerne und Plattformen begrenzen",
+      "originalQuote": "Den Einsatz von Uploadfiltern und Netzsperren lehnen wir ab."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von automatisierter Gesichtserkennung",
+      "location": "Grundrechte schützen",
+      "originalQuote": "Automatisierte Gesichtserkennung wollen wir verbieten."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von anlassloser Vorhaltung biometrischer Daten",
+      "location": "Grundrechte schützen",
+      "originalQuote": "Wir lehnen die anlasslose Vorhaltung und zentrale Speicherung von biometrischen Daten wie Fotos von Gesichtern und Fingerabdrücken ab."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Telekommunikationsüberwachung und Onlinedurchsuchung",
+      "location": "Grundrechte schützen",
+      "originalQuote": "Quellen Telekommunikationsüberwachung und Onlinedurchsuchung (Staatstrojaner) müssen verboten werden."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Vorratsdatenspeicherung",
+      "location": "Grundrechte schützen",
+      "originalQuote": "Die Vorratsdatenspeicherung von IP-Verbindungen, Mobilfunkverbindungen und -standorten muss verboten werden."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Export von Überwachungstechnologie und autonomer Waffensysteme",
+      "location": "Grundrechte schützen",
+      "originalQuote": "Den Export von Überwachungstechnologie und den Einsatz autonomer Waffensysteme und bewaffneter Drohnen wollen wir verbieten."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine kommerzielle Vervielfältigung von urheberrechtlichem Material",
+      "location": "Grundrechte schützen",
+      "originalQuote": "Nicht kommerzielle Vervielfältigung und Nutzung urheberrechtlich geschützten Materials darf nicht kriminalisiert werden."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Entscheidungen über Sozialleistungen durch KI",
+      "location": "Grundrechte schützen",
+      "originalQuote": "Entscheidungen beispielsweise über Sozialleistungsansprüche, Kreditwürdigkeit oder Prognosen über Straffälligkeit sind deshalb bis auf Weiteres abzulehnen."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Privatisierung von Geld und Währung",
+      "location": "Digitale Zahlungssysteme regulieren",
+      "originalQuote": "Geld und Währung müssen Teil staatlicher Souveränität bleiben, eine schleichende Privatisierung lehnen wir ab."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Energie- und ressourcenverschwendender Erzeugung von Kryptowährungen",
+      "location": "Nachhaltige Digitalisierung: ökologisch und sozial",
+      "originalQuote": "Wir streben ein Verbot der energie- und ressourcenverschwendenden Erzeugung sogenannter Kryptowährungen an."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Konversionsbehandlungen",
+      "location": "Selbstbestimmung für trans*- und intergeschlechtliche Menschen",
+      "originalQuote": "Konversionsbehandlungen müssen komplett verboten werden, auch an Erwachsenen."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot medizinisch nicht notwendiger Eingriffe an Geschlechtsmerkmalen von Kindern",
+      "location": "Selbstbestimmung für trans*- und intergeschlechtliche Menschen",
+      "originalQuote": "Alle medizinisch nicht notwendigen Eingriffe an den inneren oder äußeren Geschlechtsmerkmalen von Kindern verbieten wir."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Abschiebungen in Krieg und Verfolgung",
+      "location": "Unsere Agenda gegen Rassismus",
+      "originalQuote": "Abschiebungen, insbesondere in Krieg, Verfolgung und Elend oder als Form der Doppelbestrafung, lehnen wir ab"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Abschiebungen in sogenannte sichere Herkunftsländer für queere Menschen",
+      "location": "Queere Geflüchtete absichern und stärken!",
+      "originalQuote": "Sie dürfen nicht abgeschoben werden – auch nicht in sogenannte sichere Herkunftsländer."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des elterlichen Hausarrests",
+      "location": "Die Demokratie demokratisieren!",
+      "originalQuote": "Wir wollen den elterlichen Hausarrest verbieten."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Auslandseinsätze der Bundeswehr",
+      "location": "Keine Auslandseinsätze der Bundeswehr",
+      "originalQuote": "Die Bundeswehr muss aus allen Auslandseinsätzen zurückgeholt werden und darf nicht in neue entsendet werden."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Ausbildung von ausländischen Soldaten und Sicherheitskräften",
+      "location": "Keine Auslandseinsätze der Bundeswehr",
+      "originalQuote": "Wir lehnen Ausbildungsmissionen für Soldat*innen und Sicherheitskräfte ab."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Einsatzes von militärischen Söldnerfirmen",
+      "location": "Keine Auslandseinsätze der Bundeswehr",
+      "originalQuote": "Wir fordern ein Verbot des Einsatzes militärischer Sicherheits- und Söldnerfirmen."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Beteiligung an internationalen Polizei- und Geheimdiensteinsätzen",
+      "location": "Keine Auslandseinsätze der Bundeswehr",
+      "originalQuote": "Wir wollen keine Beteiligung an internationalen Polizei- und Geheimdiensteinsätzen oder Ausbildungsmissionen, die der Unterstützung autoritärer Regime dienen."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Bewaffnung von Drohnen",
+      "location": "Keine Drohnen für den Krieg",
+      "originalQuote": "Die Bewaffnung der Bundeswehr mit Kampfdrohnen muss verhindert werden."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot autonomer Waffensysteme",
+      "location": "Keine Drohnen für den Krieg",
+      "originalQuote": "Wir fordern eine weltweite Ächtung von autonomen Waffensystemen."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Keine Rüstungsexporte",
+      "location": "Rüstungsexporte stoppen: Kein Geschäft mit dem Krieg!",
+      "originalQuote": "Wir fordern einen sofortigen Stopp aller Rüstungsexporte"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot von Rüstungsexporten",
+      "location": "Rüstungsexporte stoppen: Kein Geschäft mit dem Krieg!",
+      "originalQuote": "Wir unterstützen ein Rüstungsexportkontrollgesetz für ein gesetzliches Verbot aller Rüstungsexporte."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot der Einfuhr von Lebensmitteln von gestohlenem Land",
+      "location": "Sozialökologisch gerechte Weltwirtschaft",
+      "originalQuote": "Die Einfuhr von Lebensmitteln, die auf gestohlenem Land produziert wurden, wollen wir verbieten."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verbot des Exports hochgefährlicher Pestizide",
+      "location": "Entwicklung durch Gerechtigkeit",
+      "originalQuote": "Der Export von hochgefährlichen Pestiziden muss verboten werden."
+    }
+  ]
+}

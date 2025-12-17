@@ -1,0 +1,77 @@
+{
+  "sourceFile": "Die Partei - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Kapitalanhäufung über 10 Millionen Vermögen",
+      "location": "Punkt 2",
+      "originalQuote": "Vermögen über der 7. Null wird systematisch gekappt. Und vom obersten 1 % auf die"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Investition von Militärbudget in Rüstung statt Bildung",
+      "location": "Punkt 3",
+      "originalQuote": "Wir wollen das Geld nicht in Stahlhelme (oder wie die Grünen in umweltfreundliche"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fortführung des Bologna-Systems",
+      "location": "Punkt 5",
+      "originalQuote": "Bologna, Bachelor, Master? Werden Geschichte. Wir fühlen uns den Bildungsidealen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Weiterbetrieb von Amazon",
+      "location": "Punkt 7",
+      "originalQuote": "Wegen nachhaltigen Marktmisserfolgs müssen wir Amazon leider schließen. 2020"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Verwendung von Photoshop in der politischen Darstellung",
+      "location": "Punkt 8",
+      "originalQuote": "Photoshopverbot jetzt! Wer Volker Bouffier – bekannt durch das PARTEI-Plakat"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Eskalation militärischer Konfrontationen mit Russland und China",
+      "location": "Punkt 10",
+      "originalQuote": "Krieg mit Russland & China verschieben Für so’n Quatsch wie Blockbildung"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Überschreitung der Erderwärmung über 1,5 Grad",
+      "location": "Punkt 14",
+      "originalQuote": "Die Erderwärmung darf auf gar keinen Fall höher als 1,5° Celsius/Jahr ausfallen."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Äußerung von Beschwerden über Ungerechtigkeit",
+      "location": "Punkt 17",
+      "originalQuote": "Beschwerden über angebliche Ungerechtigkeiten sind mit aller Gewalt zu unterdrücken."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Durchführung von Tierversuchen",
+      "location": "Punkt 18",
+      "originalQuote": "Tierversuche werden eingestellt, Tiere sind zum Niedlichfinden und Aufessen da."
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Stimmabgabe ohne korrekt beantwortete Wissensfrage",
+      "location": "Punkt 20",
+      "originalQuote": "Stimmzettel mit weniger als einer richtigen Antwort werden als „ungültig“ gewertet."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Aufnahme von mehr Flüchtlingen als Tote im Mittelmeer",
+      "location": "Punkt 21",
+      "originalQuote": "Deutschland darf nicht mehr Flüchtlinge aufnehmen als das Mittelmeer."
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Finanzierung korrupter Parteien durch Spenden und Sponsoring",
+      "location": "Punkt 24",
+      "originalQuote": "Korrupte Parteien dürfen nicht mehr von Spenden & Sponsoring profitieren, korrupte"
+    }
+  ]
+}

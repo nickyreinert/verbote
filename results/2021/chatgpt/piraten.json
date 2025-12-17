@@ -1,0 +1,143 @@
+{
+    "sourceFile": "Piraten - 2021 - Wahlprogramm.txt",
+    "topics": [
+        {
+            "category": "semantisches Verbot",
+            "topic": "Verdachtsunabhängige Durchleuchtung von Bürgerinnen und Bürgern",
+            "location": "Freiheit und Grundrechte – Privatsphäre",
+            "originalQuote": "Wir lehnen die verdachtsunabhängige Durchleuchtung der Bürgerinnen und Bürger und die gläsernen Kundinnen und Kunden ab."
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Automatisierte Abfrage von Meldedaten",
+            "location": "Verantwortungsvoller Umgang mit Meldedaten",
+            "originalQuote": "Eine automatisierte Abfrage lehnen wir ab."
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Weitergabe von Meldedaten ohne aktive Einwilligung",
+            "location": "Verantwortungsvoller Umgang mit Meldedaten",
+            "originalQuote": "Meldedaten nicht ohne aktive Einwilligung der Bürgerinnen und Bürger an der Erhebungsquelle (Opt-in) an Dritte weitergegeben werden"
+        },
+        {
+            "category": "explizites Verbot",
+            "topic": "Zentrale Biometriedatenbanken",
+            "location": "Schluss mit Vorratsdatenspeicherung",
+            "originalQuote": "Der Aufbau zentraler Biometriedatenbanken für polizeiliche Zwecke oder die Versicherungswirtschaft muss unterbleiben."
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Vorratsdatenspeicherung",
+            "location": "Schluss mit Vorratsdatenspeicherung",
+            "originalQuote": "Wir PIRATEN lehnen eine verdachtsunabhängige Vorratsdatenspeicherung von Telekommunikationsdaten"
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Einschränkungen des Bargeldverkehrs",
+            "location": "Keine Einschränkungen beim Bargeldverkehr",
+            "originalQuote": "Wir PIRATEN setzen uns sowohl auf Bundesebene als auch auf europäischer Ebene gegen Einschränkungen des Bargeldverkehrs ein."
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Herstellung und Handel mit Überwachungssoftware",
+            "location": "Gegen Überwachungssoftware",
+            "originalQuote": "Wir PIRATEN sprechen uns deutlich gegen die Herstellung, Wartung, Betreuung und Erhaltung von Überwachungssoftware aus."
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "PKW-Maut",
+            "location": "Keine PKW-Maut",
+            "originalQuote": "Eine PKW-Maut lehnen wir ebenfalls ab."
+        },
+        {
+            "category": "explizites Verbot",
+            "topic": "Verwertung von Beweisen aus verdeckten IT-Eingriffen",
+            "location": "Keine Bundes- oder Staatstrojaner",
+            "originalQuote": "Wir setzen uns deshalb für ein gesetzlich geregeltes ausnahmsloses Verwertungsverbot von Beweisen ein"
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Anordnungen ohne richterlichen Beschluss bei IT-Eingriffen",
+            "location": "Keine Bundes- oder Staatstrojaner",
+            "originalQuote": "Eine Anordnung im Falle einer Gefahr im Verzug durch die Exekutive ... schließen wir aus."
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Großer Lauschangriff",
+            "location": "Schutz der Privatsphäre im Grundgesetz",
+            "originalQuote": "wir die Abschaffung des großen Lauschangriffs sowie die Abschaffung der Eingriffe in das Briefgeheimnis"
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Militärisches Eingreifen",
+            "location": "Asyl und Migration – Ursachenbekämpfung",
+            "originalQuote": "Militärisches Eingreifen lehnen wir grundsätzlich ab."
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Pauschale Kategorisierung sicherer Herkunftsstaaten",
+            "location": "Wiederherstellung des Rechts auf Asyl",
+            "originalQuote": "Außerdem lehnen wir pauschale Kategorisierungen von Staaten als „sichere Herkunftsländer“ ab."
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Drittstaatenregelung",
+            "location": "Keine Rückkehr zur Drittstaatenregelung",
+            "originalQuote": "Die Drittstaatenregelung und deren Konkretisierung in der „Dublin II“-Verordnung lehnen wir ab."
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Bewaffnete und unbewaffnete Drohnen gegen Flüchtende",
+            "location": "Keine Drohnen gegen Flüchtende",
+            "originalQuote": "Wir wenden uns ausdrücklich gegen den Einsatz von auch unbewaffneten Drohnen"
+        },
+        {
+            "category": "explizites Verbot",
+            "topic": "Abschiebehaft",
+            "location": "Für ein Ende von Abschiebungen und Abschiebehaft",
+            "originalQuote": "Die Abschiebehaft ist sofort bundesweit auszusetzen."
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Abschiebungen in Krisenregionen",
+            "location": "Für ein Ende von Abschiebungen und Abschiebehaft",
+            "originalQuote": "Abschiebungen in Krisenregionen und in Gebiete, in denen die Verhältnisse eine Gefahr für Gesundheit oder Leben darstellen können, sind generell abzulehnen."
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Zusätzliche steuerliche Belastung zur Flüchtlingsfinanzierung",
+            "location": "Finanzierung zur Versorgung der aufgenommenen Geflüchteten",
+            "originalQuote": "Wir PIRATEN lehnen eine zusätzliche steuerliche Belastung der Bevölkerung zur Finanzierung"
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Kollektivstrafen im Sport",
+            "location": "Gegen Kollektivstrafen",
+            "originalQuote": "Die Praxis, Vereine oder Fangruppierungen für die Vergehen einzelner Anhänger in Sippenhaft zu nehmen ... lehnen wir entschieden ab."
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Vollkörperkontrollen in Stadien",
+            "location": "Einlasskontrollen",
+            "originalQuote": "Vollkörperkontrollen sehen wir als menschenunwürdige Maßnahme ... und lehnen diese entschieden ab."
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Uploadfilter",
+            "location": "Datenschutz und IT-Sicherheit",
+            "originalQuote": "Wir lehnen Uploadfilter ab, da sie zu einer teilweisen Zensur und Einschränkung der Meinungsfreiheit"
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Autonome Waffen",
+            "location": "Algorithmen und Künstliche Intelligenz",
+            "originalQuote": "lehnen wir den Einsatz von autonomen Waffen grundsätzlich ab"
+        },
+        {
+            "category": "semantisches Verbot",
+            "topic": "Predictive Policing",
+            "location": "Algorithmen und Künstliche Intelligenz",
+            "originalQuote": "lehnen wir Einsatz von `predictive policing` grundsätzlich ab"
+        }
+    ]
+}
