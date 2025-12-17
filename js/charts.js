@@ -605,6 +605,29 @@ export function renderProximityChart(yearData) {
                     display: true,
                     text: 'Dynamische Konsens-Cluster'
                 },
+                legend: {
+                    onClick: (e, legendItem, legend) => {
+                        const index = legendItem.datasetIndex;
+                        const ci = legend.chart;
+                        if (ci.isDatasetVisible(index)) {
+                            ci.hide(index);
+                            legendItem.hidden = true;
+                        } else {
+                            ci.show(index);
+                            legendItem.hidden = false;
+                        }
+                        
+                        // Get visible datasets
+                        const visibleDatasets = [];
+                        for (let i = 0; i < ci.data.datasets.length; i++) {
+                            if (ci.isDatasetVisible(i)) {
+                                visibleDatasets.push(i);
+                            }
+                        }
+                        
+                        filterConsensusList({ visibleDatasets: visibleDatasets });
+                    }
+                },
                 tooltip: {
                     callbacks: {
                         footer: (tooltipItems) => {

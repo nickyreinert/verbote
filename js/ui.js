@@ -268,6 +268,16 @@ function renderConsensusList(clusteredData, radius, filter) {
         let items = partyData.items;
         if (filter) {
             items = items.filter(item => {
+                if (filter.visibleDatasets) {
+                    let isVisible = false;
+                    // 0: High (> 0.8), 1: Medium (0.5-0.8), 2: Low (< 0.5)
+                    if (filter.visibleDatasets.includes(0) && item.confidence >= 0.8) isVisible = true;
+                    if (filter.visibleDatasets.includes(1) && item.confidence >= 0.5 && item.confidence < 0.8) isVisible = true;
+                    if (filter.visibleDatasets.includes(2) && item.confidence < 0.5) isVisible = true;
+                    
+                    if (!isVisible) return false;
+                }
+
                 if (filter.minConfidence !== undefined && item.confidence < filter.minConfidence) return false;
                 if (filter.maxConfidence !== undefined && item.confidence >= filter.maxConfidence) return false;
                 return true;
