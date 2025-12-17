@@ -4,12 +4,12 @@ Die folgenden Modelle habe ich für die Auswertung verwendet. Es handelt sich au
 
 ## Verwendete Modelle
 
-Nur mit drei Modellen konte ich den gesamten Zeitraum abdecken: Qwen, Grok und Gemini. 
+Nur mit drei Modellen konte ich den gesamten Zeitraum abdecken: Qwen, Grok und Gemini. Mit den anderen Modellen habe ich 2021 komplett untersuchen können, die anderen Jahre nur teilweise.
 
 ### Deepseek
 *[click](https://chat.deepseek)*
 
-Das Token-Limit des normalen Modus ist sehr streng, deswegen habe ich es mit "Deep Thinking" probiert. Selbst dann führte das Modell die Aufgabe nicht immer vollständig aus.
+Das Token-Limit des normalen Modus ist sehr streng, deswegen habe ich es mit "Deep Thinking" probiert. Selbst dann führte das Modell die Aufgabe nicht immer vollständig aus. Für die "Linke" musste ich das Wahlprogramm in zwei Teilen auswerten, da es zu lang war.
 
 ### OpenAI **ChatGPT-4**
 *[click](https://chat.openai.com)*
@@ -35,7 +35,9 @@ Das ist natürlich völliger Unsinn. Auch wenn ich den gesamten Korpus in den Ch
 
 ### Claude Sonnnet 4.5
 *[click](https://claude.ai)*
-Claude ist als Coding Agent ein wertvoller begleiter geworden, selbst mit dem eingeschränkten konstenlosen Kontingent. Bei der Auswertung tut Claude sich aber etwas schwer, da das zulässige Kontextwindow zu klein ist. Außerdem liefert ausgerechnet Claude mitunter fehlerhaftes JSON zurück (nicht escape'te oder kodierte Anführungszeichen). Das Wahlprogramm der Grünen war zu groß, weshalb ich es in zwei Durchläufen ausgewertet und manuell verbunden habe.
+Claude ist als Coding Agent ein wertvoller begleiter geworden, selbst mit dem eingeschränkten konstenlosen Kontingent. Bei dieser Auswertung tut Claude sich aber etwas schwer, da das zulässige Kontextwindow zu klein ist. Außerdem liefert ausgerechnet Claude mitunter fehlerhaftes JSON zurück (nicht escape'te oder kodierte Anführungszeichen). Das Wahlprogramm der Grünen war zu groß, weshalb ich es in zwei Durchläufen ausgewertet und manuell verbunden habe.
+
+Die Wahlprogramme der "Linken" und "Grünen" musste ich jeweils in zwei Teilen auswerten, da sie zu lang waren.
 
 ### Gemini
 *[click](https://gemini.google.com)*
@@ -56,7 +58,7 @@ Bei **Qwen3-Max** gibt es gefühlt keine Grenze für Anfragen. Das ist sehr erst
 
 ### Mistral
 *[click](https://chat.mistral.ai)*
-Auch Mistral verfügt über ein kostenloses Angebot, so ganz zufriedenstellend ist das Ergebnis aber inhaltlich auf den ersten Blick nicht. 
+Auch Mistral verfügt über ein kostenloses Angebot, so ganz zufriedenstellend ist das Ergebnis aber inhaltlich auf den ersten Blick nicht. Die Ergebnisse für einige Parteien wirken unvollständig. 
 
 ## Methodik
 
@@ -106,7 +108,7 @@ TOPIC_MAPPING = {
 
 Hier stelle ich dar, ob es Überlappungen bei der Erkennung spezifischer Verbote gibt. Dazu wird erst ermittelt, an welcher Position sich ein Verbot befindet (anhand des Zitats in `originalQuote`). Finden anderen Modelle an der exakt selben Stelle ein Verbot, wird das als Übereinstimmung gewertet.
 
-Zusätzlich berechne ich die Konsens-Rate: Je meher Modelle an dieser Stelle ein Verbot erkennen, desto höher ist die Rate.
+Zusätzlich berechne ich die Konsens-Rate: Je meher Modelle an dieser Stelle ein Verbot erkennen, desto höher ist die Rate. Gleichzeitig lässt sich daraus auch ein Korrobations-Score ableiten: Haben andere Modelle an der gleichen Stelle ein Verbot erkannt?
 
 Über den Regler `Toleranz-Radius`lässt sich die Toleranz einstellen. Je niedriger der Wert, desto mehr "individuelle Verbote" werden erfasst. Erhöht man den Wert, werden "naheliegende" Verbote zusammengefasst und die Anzahl der gesamten Verbote einer Partei sinkt. 
 

@@ -206,8 +206,9 @@
 
             <h2>Dynamischer Konsens (Proximity Clustering)</h2>
             <p>
-                Hier werden Verbote gruppiert, die <strong>räumlich nahe beieinander</strong> liegen, auch wenn sie nicht exakt denselben Text markieren.
-                Nutze den Regler, um den Toleranz-Radius (in Zeichen) einzustellen.
+                Hier werden Verbote gruppiert, die <strong>räumlich nahe beieinander</strong> liegen.
+                Der Toleranz-Bereich definiert den maximalen Abstand (Durchmesser), in dem Fundstellen zusammengefasst werden.
+                Ein Wert von 100 bedeutet beispielsweise, dass Fundstellen im Umkreis von +/- 50 Zeichen um den Cluster-Mittelpunkt aufgenommen werden.
             </p>
 
             <div id="model-consensus-metric" style="margin-bottom: 20px; padding: 10px; background: #f8f9fa; border-radius: 5px; display: none;">
@@ -215,8 +216,8 @@
             </div>
             
             <div class="controls">
-                <label for="consensus-radius">Toleranz-Radius:</label>
-                <input type="range" id="consensus-radius" min="0" max="100" value="0" step="1" style="vertical-align: middle;">
+                <label for="consensus-radius">Toleranz-Bereich:</label>
+                <input type="range" id="consensus-radius" min="0" max="200" value="0" step="1" style="vertical-align: middle;">
                 <span id="consensus-radius-value">0 Zeichen</span>
             </div>
 

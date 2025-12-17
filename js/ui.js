@@ -417,20 +417,21 @@ function renderConsensusList(clusteredData, radius, filter) {
     });
 }
 
-function clusterFindings(yearData, radius) {
+function clusterFindings(yearData, tolerance) {
     return yearData.map(party => {
         let raw = party.raw_findings || [];
         if (raw.length === 0) return { ...party, items: [] };
 
-        // Ensure numbers
+        // Ensure numbers and calculate center
         raw = raw.map(r => ({
             ...r,
             start: parseInt(r.start),
-            end: parseInt(r.end)
+            end: parseInt(r.end),
+            center: (parseInt(r.start) + parseInt(r.end)) / 2
         }));
 
-        // Sort by start position
-        raw.sort((a, b) => a.start - b.start);
+        // Sort by center position
+        raw.sort((a, b) => a.center - b.center);
 
         const clusters = [];
         let currentCluster = null;
@@ -440,15 +441,25 @@ function clusterFindings(yearData, radius) {
                 currentCluster = {
                     start: finding.start,
                     end: finding.end,
+                    centerSum: finding.center, // Track sum for average center
+                    count: 1,
                     findings: [finding],
                     models: new Set([finding.model])
                 };
                 return;
             }
 
-            const gap = finding.start - currentCluster.end;
-            if (gap <= radius) {
+            // Calculate distance from cluster center
+            const clusterCenter = currentCluster.centerSum / currentCluster.count;
+            const distance = Math.abs(finding.center - clusterCenter);
+
+            // Check if within tolerance (slider value treated as total diameter, so radius is half)
+            // User logic: "100" means "50 < x < 50". So max distance from center is 50.
+            if (distance <= (tolerance / 2)) {
+                currentCluster.start = Math.min(currentCluster.start, finding.start);
                 currentCluster.end = Math.max(currentCluster.end, finding.end);
+                currentCluster.centerSum += finding.center;
+                currentCluster.count++;
                 currentCluster.findings.push(finding);
                 currentCluster.models.add(finding.model);
             } else {
@@ -456,6 +467,8 @@ function clusterFindings(yearData, radius) {
                 currentCluster = {
                     start: finding.start,
                     end: finding.end,
+                    centerSum: finding.center,
+                    count: 1,
                     findings: [finding],
                     models: new Set([finding.model])
                 };
