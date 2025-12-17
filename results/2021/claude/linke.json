@@ -5,727 +5,848 @@
       "category": "explizites Verbot",
       "topic": "Verbot von Waffenexporten und Waffenfabriken",
       "location": "Kapitel Gegen Aufrüstung und Krieg",
-      "originalQuote": "Wir wollen den Export von Waffen und Waffenfabriken verbieten."
+      "originalQuote": "Wir wollen den Export von Waffen und Waffenfabriken verbieten.",
+      "classification": "WAFFENEXPORTEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Sofortige Unterbindung von Rüstungsexporten in Länder mit Kriegen und Menschenrechtsverletzungen",
       "location": "Kapitel Gegen Aufrüstung und Krieg",
-      "originalQuote": "Rüstungsexporte in Länder, die an Kriegen beteiligt sind und Menschenrechte missachten, müssen"
+      "originalQuote": "Rüstungsexporte in Länder, die an Kriegen beteiligt sind und Menschenrechte missachten, müssen",
+      "classification": "MENSCHENRECHTSVERLETZUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Bundeswehrwerbung in Schulen und Universitäten",
       "location": "Kapitel Bildung",
-      "originalQuote": "Bildung ohne Bundeswehr! Die Bundeswehr soll nicht mehr in Schulen oder Universitäten werben oder"
+      "originalQuote": "Bildung ohne Bundeswehr! Die Bundeswehr soll nicht mehr in Schulen oder Universitäten werben oder",
+      "classification": "BUNDESWEHRWERBUNG"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Energiesperren",
       "location": "Kapitel Klimagerechtigkeit und Energiewende",
-      "originalQuote": "Energiesperren, die einkommensarme Haushalte treffen, wollen wir verbieten und ein preisgünstiges"
+      "originalQuote": "Energiesperren, die einkommensarme Haushalte treffen, wollen wir verbieten und ein preisgünstiges",
+      "classification": "ENERGIESPERREN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Fracking ohne Ausnahmen",
       "location": "Kapitel Klimagerechtigkeit und Energiewende",
-      "originalQuote": "Wir wollen Fracking ohne Ausnahmen verbieten."
+      "originalQuote": "Wir wollen Fracking ohne Ausnahmen verbieten.",
+      "classification": "AUSNAHMEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der unterirdischen Verpressung von CO2 (CCS)",
       "location": "Kapitel Klimagerechtigkeit und Energiewende",
-      "originalQuote": "Wir setzen uns dafür ein, dass auch die unterirdische Verpressung von CO2 (Carbon Capture and St"
+      "originalQuote": "Wir setzen uns dafür ein, dass auch die unterirdische Verpressung von CO2 (Carbon Capture and St",
+      "classification": "Umwelt & Klima"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Anbau und Handel mit gentechnisch veränderten Pflanzen",
       "location": "Kapitel Landwirtschaft",
-      "originalQuote": "Wir wollen den Anbau und den Handel mit gentechnisch veränderten Pflanzen auch aus neuen Gentech"
+      "originalQuote": "Wir wollen den Anbau und den Handel mit gentechnisch veränderten Pflanzen auch aus neuen Gentech",
+      "classification": "Wirtschaft & Steuern"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Klonen von Tieren muss verboten bleiben",
       "location": "Kapitel Landwirtschaft",
-      "originalQuote": "Klonen von Tieren muss verboten bleiben."
+      "originalQuote": "Klonen von Tieren muss verboten bleiben.",
+      "classification": "VERBOTEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Glyphosat und Neonikotinoide",
       "location": "Kapitel Landwirtschaft",
-      "originalQuote": "Glyphosat und Neonikotinoide müssen verboten werden."
+      "originalQuote": "Glyphosat und Neonikotinoide müssen verboten werden.",
+      "classification": "Tierschutz & Landwirtschaft"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Produktion und Export von in EU nicht zugelassenen Pestiziden",
       "location": "Kapitel Landwirtschaft",
-      "originalQuote": "In der EU nicht zugelassene Pestizide und Pestizidwirkstoffe dürfen weder in Deutschland produzie"
+      "originalQuote": "In der EU nicht zugelassene Pestizide und Pestizidwirkstoffe dürfen weder in Deutschland produzie",
+      "classification": "Rüstung & Waffen"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Patenten auf Leben",
       "location": "Kapitel Landwirtschaft",
-      "originalQuote": "DIE LINKE will Patente auf Leben verbieten."
+      "originalQuote": "DIE LINKE will Patente auf Leben verbieten.",
+      "classification": "PATENTEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Lebendtiertransporten über 4 Stunden",
       "location": "Kapitel Landwirtschaft",
-      "originalQuote": "Wir wollen ein Verbot von Lebendtiertransporten, die über das Höchstmaß von vier Stunden hinausge"
+      "originalQuote": "Wir wollen ein Verbot von Lebendtiertransporten, die über das Höchstmaß von vier Stunden hinausge",
+      "classification": "LEBENDTIERTRANSPORTEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Qualzucht und nicht-kurativen Eingriffen an Tieren",
       "location": "Kapitel Landwirtschaft",
-      "originalQuote": "Qualzucht und nicht kurative Eingriffe an Tieren (Schnäbel, Hörner, Schwänze) wollen wir verbiet"
+      "originalQuote": "Qualzucht und nicht kurative Eingriffe an Tieren (Schnäbel, Hörner, Schwänze) wollen wir verbiet",
+      "classification": "NICHTKURATIVEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Käfighaltung und Kastenstände",
       "location": "Kapitel Landwirtschaft",
-      "originalQuote": "Das gilt auch für das Schreddern von Küken, die Anbindehaltung für Rinder und Käfighaltung."
+      "originalQuote": "Das gilt auch für das Schreddern von Küken, die Anbindehaltung für Rinder und Käfighaltung.",
+      "classification": "KÄFIGHALTUNG"
     },
     {
       "category": "explizites Verbot",
       "topic": "Sofortiges Verbot von Delfinarien und Wildtieren in Zirkussen",
       "location": "Kapitel Tierschutz",
-      "originalQuote": "Wir fordern ein sofortiges Verbot von Delfinarien, Wildtieren in Zirkussen sowie ein Verbot der"
+      "originalQuote": "Wir fordern ein sofortiges Verbot von Delfinarien, Wildtieren in Zirkussen sowie ein Verbot der",
+      "classification": "DELFINARIEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot des Handels mit Pelz",
       "location": "Kapitel Tierschutz",
-      "originalQuote": "Der Handel mit Pelz muss verboten werden."
+      "originalQuote": "Der Handel mit Pelz muss verboten werden.",
+      "classification": "HANDELS"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Tierversuchen des Schweregrads 'schwerst' und 'schwer'",
       "location": "Kapitel Tierschutz",
-      "originalQuote": "Tierversuche des Schweregrads »schwerst« und »schwer« müssen sofort verboten werden."
+      "originalQuote": "Tierversuche des Schweregrads »schwerst« und »schwer« müssen sofort verboten werden.",
+      "classification": "TIERVERSUCHEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Qualzucht auch bei Haustieren",
       "location": "Kapitel Tierschutz",
-      "originalQuote": "Qualzucht, auch bei Haustieren, und medizinisch nicht notwendige Eingriffe in die körperliche Unv"
+      "originalQuote": "Qualzucht, auch bei Haustieren, und medizinisch nicht notwendige Eingriffe in die körperliche Unv",
+      "classification": "HAUSTIEREN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Jagd auf Hunde, Katzen und Prädatoren",
       "location": "Kapitel Tierschutz",
-      "originalQuote": "Die Jagd auf Hunde und Katzen sowie Prädatoren wie Füchse wollen wir untersagen."
+      "originalQuote": "Die Jagd auf Hunde und Katzen sowie Prädatoren wie Füchse wollen wir untersagen.",
+      "classification": "PRÄDATOREN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Atomexporten",
       "location": "Kapitel Energiewende",
-      "originalQuote": "Atomexporte müssen verboten werden."
+      "originalQuote": "Atomexporte müssen verboten werden.",
+      "classification": "ATOMEXPORTEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot des Im- und Exports von Uranbrennstoffen",
       "location": "Kapitel Energiewende",
-      "originalQuote": "Den Im- und Export von Uranbrennstoffen wollen wir verbieten."
+      "originalQuote": "Den Im- und Export von Uranbrennstoffen wollen wir verbieten.",
+      "classification": "URANBRENNSTOFFEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Neuaufschluss und Erweiterung von Braunkohletagebauen",
       "location": "Kapitel Kohleausstieg",
-      "originalQuote": "Der Neubau von Kohlekraftwerken, der Neuaufschluss und die Erweiterung von Braunkohletagebauen wi"
+      "originalQuote": "Der Neubau von Kohlekraftwerken, der Neuaufschluss und die Erweiterung von Braunkohletagebauen wi",
+      "classification": "BRAUNKOHLETAGEBAUEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Errichtung neuer Kohle-Anlagen im Ausland durch deutsche Unternehmen",
       "location": "Kapitel Kohleausstieg",
-      "originalQuote": "Das Verbot der Errichtung und Inbetriebnahme neuer Stein- und Braunkohleanlagen in Deutschland wi"
+      "originalQuote": "Das Verbot der Errichtung und Inbetriebnahme neuer Stein- und Braunkohleanlagen in Deutschland wi",
+      "classification": "Wirtschaft & Steuern"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine weiteren Dörfer für Braunkohleabbau",
       "location": "Kapitel Kohleausstieg",
-      "originalQuote": "Für den Braunkohleabbau dürfen keine weiteren Dörfer abgebaggert werden, der Hambacher Forst darf"
+      "originalQuote": "Für den Braunkohleabbau dürfen keine weiteren Dörfer abgebaggert werden, der Hambacher Forst darf",
+      "classification": "BRAUNKOHLEABBAU"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Pkw-Neuzulassungen mit Verbrenner ab 2030",
       "location": "Kapitel Mobilität",
-      "originalQuote": "Spätestens ab 2030 dürfen keine Pkw mit Verbrenner mehr neu zugelassen oder exportiert werden."
+      "originalQuote": "Spätestens ab 2030 dürfen keine Pkw mit Verbrenner mehr neu zugelassen oder exportiert werden.",
+      "classification": "Umwelt & Klima"
     },
     {
       "category": "explizites Verbot",
       "topic": "Werbeverbot für CO2-intensive Pkw",
       "location": "Kapitel Mobilität",
-      "originalQuote": "Wir wollen ein Werbeverbot für Pkw mit CO2-Emissionen, die über dem jeweils aktuellen EU-Zielwert"
+      "originalQuote": "Wir wollen ein Werbeverbot für Pkw mit CO2-Emissionen, die über dem jeweils aktuellen EU-Zielwert",
+      "classification": "Verkehr & Mobilität"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Flügen zu Zielen unter 500 km bzw. 5 Stunden Bahnfahrt",
       "location": "Kapitel Flugverkehr",
-      "originalQuote": "Wir wollen ein Verbot von Flügen zu Zielorten, die mit dem Zug in bis zu 5 Stunden erreichbar sin"
+      "originalQuote": "Wir wollen ein Verbot von Flügen zu Zielorten, die mit dem Zug in bis zu 5 Stunden erreichbar sin",
+      "classification": "BAHNFAHRT"
     },
     {
       "category": "explizites Verbot",
       "topic": "Nachtflugverbot von 22 bis 6 Uhr",
       "location": "Kapitel Flugverkehr",
-      "originalQuote": "Wir treten für ein striktes Nachtflugverbot von 22 bis 6 Uhr ein, insbesondere für stadtnahe Räum"
+      "originalQuote": "Wir treten für ein striktes Nachtflugverbot von 22 bis 6 Uhr ein, insbesondere für stadtnahe Räum",
+      "classification": "NACHTFLUGVERBOT"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Import von 'Biokraftstoffen'",
       "location": "Kapitel Güterverkehr",
-      "originalQuote": "DIE LINKE will den Import von »Biokraftstoffen« verbieten, weil damit Nahrungsmittelproduktion in"
+      "originalQuote": "DIE LINKE will den Import von »Biokraftstoffen« verbieten, weil damit Nahrungsmittelproduktion in",
+      "classification": "BIOKRAFTSTOFFEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Gigalinern (Lang-Lkw)",
       "location": "Kapitel Güterverkehr",
-      "originalQuote": "Die Zulassung von Gigalinern (Lang-Lkw) lehnen wir ab."
+      "originalQuote": "Die Zulassung von Gigalinern (Lang-Lkw) lehnen wir ab.",
+      "classification": "GIGALINERN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Stopp für Neu- und Ausbau von Autobahnen",
       "location": "Kapitel Verkehrsplanung",
-      "originalQuote": "Stopp für den Neu- und Ausbau von Autobahnen."
+      "originalQuote": "Stopp für den Neu- und Ausbau von Autobahnen.",
+      "classification": "AUTOBAHNEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Kaufprämien für Autos",
       "location": "Kapitel Automobilindustrie",
-      "originalQuote": "Kaufprämien für Autos lehnen wir ab."
+      "originalQuote": "Kaufprämien für Autos lehnen wir ab.",
+      "classification": "KAUFPRÄMIEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine öffentlichen Mittel für Flugtaxis und Lieferdrohnen",
       "location": "Kapitel Mobilität",
-      "originalQuote": "Die Bereitstellung öffentlicher Mittel für die Entwicklung von Flugtaxis und Lieferdrohnen lehnen"
+      "originalQuote": "Die Bereitstellung öffentlicher Mittel für die Entwicklung von Flugtaxis und Lieferdrohnen lehnen",
+      "classification": "LIEFERDROHNEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Privatisierung von Verkehrsinfrastruktur",
       "location": "Kapitel Verkehrsplanung",
-      "originalQuote": "Wir lehnen alle direkten oder indirekten Privatisierungen von Verkehrsinfrastruktur ab."
+      "originalQuote": "Wir lehnen alle direkten oder indirekten Privatisierungen von Verkehrsinfrastruktur ab.",
+      "classification": "VERKEHRSINFRASTRUKTUR"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von öffentlich-privaten Partnerschaften",
       "location": "Kapitel Verkehrsinfrastruktur",
-      "originalQuote": "Auch öffentlich-private Partnerschaften (ÖPP) verursachen langfristig Mehrkosten, sind ein Risiko"
+      "originalQuote": "Auch öffentlich-private Partnerschaften (ÖPP) verursachen langfristig Mehrkosten, sind ein Risiko",
+      "classification": "ÖFFENTLICHPRIVATEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung der Autobahn GmbH",
       "location": "Kapitel Verkehrsinfrastruktur",
-      "originalQuote": "Die Autobahn GmbH des Bundes lehnen wir ab."
+      "originalQuote": "Die Autobahn GmbH des Bundes lehnen wir ab.",
+      "classification": "Verkehr & Mobilität"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Megaställen",
       "location": "Kapitel Landwirtschaft",
-      "originalQuote": "Megaställe lehnen wir ab."
+      "originalQuote": "Megaställe lehnen wir ab.",
+      "classification": "MEGASTÄLLEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Rodung für Autobahnen",
       "location": "Kapitel Mobilität",
-      "originalQuote": "Keine weitere Rodung für Autobahnen."
+      "originalQuote": "Keine weitere Rodung für Autobahnen.",
+      "classification": "AUTOBAHNEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Ablehnung von Emissionshandel als Leitinstrument",
       "location": "Kapitel Klimaschutz",
-      "originalQuote": "Den Emissionshandel als Leitinstrument im Klimaschutz lehnen wir ab."
+      "originalQuote": "Den Emissionshandel als Leitinstrument im Klimaschutz lehnen wir ab.",
+      "classification": "EMISSIONSHANDEL"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Studiengebühren",
       "location": "Kapitel Bildung",
-      "originalQuote": "Jegliche Form von Studiengebühren für Menschen mit und ohne deutschen Pass schaffen wir ab."
+      "originalQuote": "Jegliche Form von Studiengebühren für Menschen mit und ohne deutschen Pass schaffen wir ab.",
+      "classification": "STUDIENGEBÜHREN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Abschaffung des Numerus clausus",
       "location": "Kapitel Bildung",
-      "originalQuote": "Zugangs- und Zulassungsbeschränkungen wie Numerus clausus, Auswahlgespräche, IQ-Tests oder Bewerb"
+      "originalQuote": "Zugangs- und Zulassungsbeschränkungen wie Numerus clausus, Auswahlgespräche, IQ-Tests oder Bewerb",
+      "classification": "NUMERUS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot kommerzieller Werbung in Schulen und Kitas",
       "location": "Kapitel Bildung und Verbraucherschutz",
-      "originalQuote": "Kommerzielle Werbung an Schulen muss gesetzlich untersagt werden."
+      "originalQuote": "Kommerzielle Werbung an Schulen muss gesetzlich untersagt werden.",
+      "classification": "KOMMERZIELLER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Privatisierung der Wasserversorgung",
       "location": "Kapitel Umweltschutz",
-      "originalQuote": "Die Privatisierung der Wasserversorgung und des Zugangs zu See- und Meeresflächen lehnen wir ab"
+      "originalQuote": "Die Privatisierung der Wasserversorgung und des Zugangs zu See- und Meeresflächen lehnen wir ab",
+      "classification": "WASSERVERSORGUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Zulassung für Immobilien- und Hedgefonds",
       "location": "Kapitel Wohnen",
-      "originalQuote": "Wohnraum darf kein Spekulationsobjekt an der Börse mehr sein, Immobilien- und Hedgefonds wollen wi"
+      "originalQuote": "Wohnraum darf kein Spekulationsobjekt an der Börse mehr sein, Immobilien- und Hedgefonds wollen wi",
+      "classification": "Wohnen & Miete"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot von Zweckentfremdung von Wohn- und Gewerberaum",
       "location": "Kapitel Wohnen",
-      "originalQuote": "Zweckentfremdung von Wohn- und Gewerberaum muss verboten werden, leerstehenden Wohn- und Gewerber"
+      "originalQuote": "Zweckentfremdung von Wohn- und Gewerberaum muss verboten werden, leerstehenden Wohn- und Gewerber",
+      "classification": "ZWECKENTFREMDUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot von Räumung in die Wohnungslosigkeit",
       "location": "Kapitel Wohnen",
-      "originalQuote": "Räumung in die Wohnungslosigkeit wollen wir grundsätzlich verbieten, das Recht auf Wohnen wollen"
+      "originalQuote": "Räumung in die Wohnungslosigkeit wollen wir grundsätzlich verbieten, das Recht auf Wohnen wollen",
+      "classification": "WOHNUNGSLOSIGKEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Kürzung des Existenzminimums (Sanktionsfreiheit)",
       "location": "Kapitel Soziale Sicherheit",
-      "originalQuote": "Alle Sanktionen, also Kürzungen des Existenzminimums, müssen ausgeschlossen werden."
+      "originalQuote": "Alle Sanktionen, also Kürzungen des Existenzminimums, müssen ausgeschlossen werden.",
+      "classification": "SANKTIONSFREIHEIT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Abstellung von Strom, Gas, Wasser und Heizung",
       "location": "Kapitel Energie",
-      "originalQuote": "Strom, Gas, Wasser, Heizung dürfen nicht abgestellt werden."
+      "originalQuote": "Strom, Gas, Wasser, Heizung dürfen nicht abgestellt werden.",
+      "classification": "Umwelt & Klima"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine geplante Obsoleszenz - Pflicht zur Mindestnutzungsdauer",
       "location": "Kapitel Verbraucherschutz",
-      "originalQuote": "Für langlebige technische Geräte wie Kühlschränke, Waschmaschinen und Fahrzeuge, IT- und Elektrog"
+      "originalQuote": "Für langlebige technische Geräte wie Kühlschränke, Waschmaschinen und Fahrzeuge, IT- und Elektrog",
+      "classification": "MINDESTNUTZUNGSDAUER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Privatisierung von Abfallbehandlung",
       "location": "Kapitel Ressourcenschutz",
-      "originalQuote": "Abfallbehandlung und Abfallentsorgung muss als Bestandteil der Daseinsvorsorge in die öffentliche"
+      "originalQuote": "Abfallbehandlung und Abfallentsorgung muss als Bestandteil der Daseinsvorsorge in die öffentliche",
+      "classification": "ABFALLBEHANDLUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Verbot von Einwegverpackungen wo Mehrwegsysteme verfügbar",
       "location": "Kapitel Ressourcenschutz",
-      "originalQuote": "Wo diese Systeme einsatzfähig sind, sind Einwegverpackungen zu verbieten."
+      "originalQuote": "Wo diese Systeme einsatzfähig sind, sind Einwegverpackungen zu verbieten.",
+      "classification": "EINWEGVERPACKUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Reserveantibiotika in der Tierhaltung",
       "location": "Kapitel Landwirtschaft",
-      "originalQuote": "Lebenswichtige Reserveantibiotika sind nicht in der landwirtschaftlichen Tierhaltung einzusetzen."
+      "originalQuote": "Lebenswichtige Reserveantibiotika sind nicht in der landwirtschaftlichen Tierhaltung einzusetzen.",
+      "classification": "RESERVEANTIBIOTIKA"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Ferienwohnungen in Wohnungen bei angespanntem Wohnungsmarkt",
       "location": "Kapitel Wohnen",
-      "originalQuote": "Mietwohnungen in Kommunen mit angespanntem Wohnungsmarkt dürfen nicht als Ferienwohnung angeboten"
+      "originalQuote": "Mietwohnungen in Kommunen mit angespanntem Wohnungsmarkt dürfen nicht als Ferienwohnung angeboten",
+      "classification": "FERIENWOHNUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Umwandlung von Miet- in Eigentumswohnungen",
       "location": "Kapitel Wohnen",
-      "originalQuote": "Wir wollen ein weitgehendes Umwandlungsverbot von Miet- in Eigentumswohnungen."
+      "originalQuote": "Wir wollen ein weitgehendes Umwandlungsverbot von Miet- in Eigentumswohnungen.",
+      "classification": "EIGENTUMSWOHNUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Privatisierung öffentlicher Grundstücke",
       "location": "Kapitel Wohnen",
-      "originalQuote": "Die Privatisierung öffentlicher Grundstücke wollen wir mit einem Bodensicherungsgesetz ausschließe"
+      "originalQuote": "Die Privatisierung öffentlicher Grundstücke wollen wir mit einem Bodensicherungsgesetz ausschließe",
+      "classification": "PRIVATISIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Kündigung wegen Eigenbedarf bei bestimmten Personengruppen",
       "location": "Kapitel Wohnen",
-      "originalQuote": "Menschen, die seit langer Zeit in ihrer Wohnung leben oder über 70 Jahre alt sind oder an einer s"
+      "originalQuote": "Menschen, die seit langer Zeit in ihrer Wohnung leben oder über 70 Jahre alt sind oder an einer s",
+      "classification": "PERSONENGRUPPEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine steuerliche Absetzbarkeit von Jahresgehältern über 500.000 Euro",
       "location": "Kapitel Arbeit",
-      "originalQuote": "Jahresgehälter über einer halben Million Euro dürfen nicht mehr steuerlich abzugsfähig sein."
+      "originalQuote": "Jahresgehälter über einer halben Million Euro dürfen nicht mehr steuerlich abzugsfähig sein.",
+      "classification": "JAHRESGEHÄLTERN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine sachgrundlosen Befristungen",
       "location": "Kapitel Arbeit",
-      "originalQuote": "Sachgrundlose Befristungen müssen im Teilzeit- und Befristungsgesetz ersatzlos gestrichen werden"
+      "originalQuote": "Sachgrundlose Befristungen müssen im Teilzeit- und Befristungsgesetz ersatzlos gestrichen werden",
+      "classification": "SACHGRUNDLOSEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Kündigung bei beglichenen Mietrückständen",
       "location": "Kapitel Wohnen",
-      "originalQuote": "Wenn Rückstände bei der Miete beglichen sind, darf nicht gekündigt werden."
+      "originalQuote": "Wenn Rückstände bei der Miete beglichen sind, darf nicht gekündigt werden.",
+      "classification": "MIETRÜCKSTÄNDEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Dividenden bei Kurzarbeitergeld",
       "location": "Kapitel Arbeit",
-      "originalQuote": "Unternehmen, die Kurzarbeitergeld von der Agentur für Arbeit beziehen, dürfen keine betriebsbeding"
+      "originalQuote": "Unternehmen, die Kurzarbeitergeld von der Agentur für Arbeit beziehen, dürfen keine betriebsbeding",
+      "classification": "KURZARBEITERGELD"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Dividenden bei öffentlichen Hilfen",
       "location": "Kapitel Arbeit",
-      "originalQuote": "Unternehmen, die öffentliche Hilfen in Anspruch nehmen, dürfen nicht gleichzeitig Dividenden an ih"
+      "originalQuote": "Unternehmen, die öffentliche Hilfen in Anspruch nehmen, dürfen nicht gleichzeitig Dividenden an ih",
+      "classification": "ÖFFENTLICHEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Förderung und Garantien für Kohle-Export",
       "location": "Kapitel Kohleausstieg",
-      "originalQuote": "Der Export und Verkauf von Steinkohle- und Braunkohleförderanlagen und entsprechender Technologie"
+      "originalQuote": "Der Export und Verkauf von Steinkohle- und Braunkohleförderanlagen und entsprechender Technologie",
+      "classification": "KOHLEEXPORT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine staatliche Förderung von Atomkraftwerken im Ausland durch KfW",
       "location": "Kapitel Energiewende",
-      "originalQuote": "Die staatliche deutsche Förderbank KfW (Kreditanstalt für Wiederaufbau) darf keine Atomkraftwerke"
+      "originalQuote": "Die staatliche deutsche Förderbank KfW (Kreditanstalt für Wiederaufbau) darf keine Atomkraftwerke",
+      "classification": "ATOMKRAFTWERKEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Schufa-Anfragen für alltägliche Verträge",
       "location": "Kapitel Verbraucherschutz",
-      "originalQuote": "Eine Schufa-Anfrage darf nur noch bei tatsächlichen Kreditgeschäften erlaubt sein, nicht mehr für"
+      "originalQuote": "Eine Schufa-Anfrage darf nur noch bei tatsächlichen Kreditgeschäften erlaubt sein, nicht mehr für",
+      "classification": "SCHUFAANFRAGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Anrechnung von Elterngeld auf Transferleistungen",
       "location": "Kapitel Familie",
-      "originalQuote": "Seit 2011 wird Elterngeld zum Beispiel auf Hartz IV angerechnet. Insbesondere Familien mit gering"
+      "originalQuote": "Seit 2011 wird Elterngeld zum Beispiel auf Hartz IV angerechnet. Insbesondere Familien mit gering",
+      "classification": "TRANSFERLEISTUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine medizinisch unnötigen Eingriffe bei Tieren",
       "location": "Kapitel Tierschutz",
-      "originalQuote": "Qualzucht, auch bei Haustieren, und medizinisch nicht notwendige Eingriffe in die körperliche Unv"
+      "originalQuote": "Qualzucht, auch bei Haustieren, und medizinisch nicht notwendige Eingriffe in die körperliche Unv",
+      "classification": "MEDIZINISCH"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine soziale Einzelhaft von Tieren",
       "location": "Kapitel Tierschutz",
-      "originalQuote": "Soziale Tiere sollen nur noch in Ausnahmefällen einzeln gehalten werden dürfen."
+      "originalQuote": "Soziale Tiere sollen nur noch in Ausnahmefällen einzeln gehalten werden dürfen.",
+      "classification": "EINZELHAFT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine OT-Mitgliedschaften in Arbeitgeberverbänden",
       "location": "Kapitel Arbeit",
-      "originalQuote": "OT-Mitgliedschaften (»ohne Tarif«) in ArbeitgeberverbÃ¤nden müssen abgeschafft werden."
+      "originalQuote": "OT-Mitgliedschaften (»ohne Tarif«) in ArbeitgeberverbÃ¤nden müssen abgeschafft werden.",
+      "classification": "ARBEITGEBERVERBÄNDEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Toleranz für Intoleranz im Staatsdienst",
       "location": "Kapitel Polizei im Rechtsstaat",
-      "originalQuote": "Keine Toleranz für Intoleranz im Staatsdienst! Polizist*innen und Beamt*innen, denen rassistisc"
+      "originalQuote": "Keine Toleranz für Intoleranz im Staatsdienst! Polizist*innen und Beamt*innen, denen rassistisc",
+      "classification": "STAATSDIENST"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Biowaffen und Chemiewaffen",
       "location": "Kapitel Rüstungsexporte stoppen",
-      "originalQuote": "Das Verbot von Biowaffen- und Chemiewaffen muss wirksam kontrolliert werden. Die Ausfuhr von St"
+      "originalQuote": "Das Verbot von Biowaffen- und Chemiewaffen muss wirksam kontrolliert werden. Die Ausfuhr von St",
+      "classification": "CHEMIEWAFFEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Drohnen für den Krieg - Bewaffnung verhindern",
       "location": "Kapitel Keine Drohnen für den Krieg",
-      "originalQuote": "Die Bewaffnung der Bundeswehr mit Kampfdrohnen muss verhindert werden. Wir sagen Nein zu Kampfdr"
+      "originalQuote": "Die Bewaffnung der Bundeswehr mit Kampfdrohnen muss verhindert werden. Wir sagen Nein zu Kampfdr",
+      "classification": "Rüstung & Waffen"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot autonomer Waffensysteme",
       "location": "Kapitel Keine Drohnen für den Krieg",
-      "originalQuote": "Wir fordern eine weltweite Ächtung von autonomen Waffensystemen. Die Bundesregierung muss eine i"
+      "originalQuote": "Wir fordern eine weltweite Ächtung von autonomen Waffensystemen. Die Bundesregierung muss eine i",
+      "classification": "WAFFENSYSTEME"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Spekulation mit Nahrungsmitteln",
       "location": "Kapitel Sozialökologisch gerechte Weltwirtschaft",
-      "originalQuote": "Spekulation mit Nahrungsmitteln verbieten! Seit 2014 steigt die Zahl der hungernden Menschen wel"
+      "originalQuote": "Spekulation mit Nahrungsmitteln verbieten! Seit 2014 steigt die Zahl der hungernden Menschen wel",
+      "classification": "Wohnen & Miete"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Patenten auf Saatgut",
       "location": "Kapitel Sozialökologisch gerechte Weltwirtschaft",
-      "originalQuote": "Unser Ziel ist: Recht auf Nahrung und Ernährungssouveränität für alle sowie ein Verbot von Paten"
+      "originalQuote": "Unser Ziel ist: Recht auf Nahrung und Ernährungssouveränität für alle sowie ein Verbot von Paten",
+      "classification": "PATENTEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Landraub und Einfuhr von auf gestohlenem Land produzierten Lebensmitteln",
       "location": "Kapitel Sozialökologisch gerechte Weltwirtschaft",
-      "originalQuote": "Landraub effektiv bekämpfen! Wir wollen großen Agrarkonzernen, die mit Massentierhaltung oder de"
+      "originalQuote": "Landraub effektiv bekämpfen! Wir wollen großen Agrarkonzernen, die mit Massentierhaltung oder de",
+      "classification": "LEBENSMITTELN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot des Exports hochgefährlicher Pestizide",
       "location": "Kapitel Entwicklung durch Gerechtigkeit",
-      "originalQuote": "Der Export von hochgefährlichen Pestiziden muss verboten werden."
+      "originalQuote": "Der Export von hochgefährlichen Pestiziden muss verboten werden.",
+      "classification": "HOCHGEFÄHRLICHER"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot militärischer Sicherheits- und Söldnerfirmen",
       "location": "Kapitel Keine Auslandseinsätze der Bundeswehr",
-      "originalQuote": "Wir fordern ein Verbot des Einsatzes militärischer Sicherheits- und Söldnerfirmen."
+      "originalQuote": "Wir fordern ein Verbot des Einsatzes militärischer Sicherheits- und Söldnerfirmen.",
+      "classification": "MILITÄRISCHER"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot bewaffneter militanter neonazistischer Organisationen",
       "location": "Kapitel Rechten Terror und Gewalt stoppen",
-      "originalQuote": "Wir fordern das Verbot militanter, bewaffneter, neonazistischer Organisationen."
+      "originalQuote": "Wir fordern das Verbot militanter, bewaffneter, neonazistischer Organisationen.",
+      "classification": "NEONAZISTISCHER"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Werbung der Bundeswehr",
       "location": "Kapitel Bundeswehr abrüsten",
-      "originalQuote": "Kein Werben fürs Sterben! Wir lehnen Werbung der Bundeswehr in Jobcentern, Schulen, auf Bildungs"
+      "originalQuote": "Kein Werben fürs Sterben! Wir lehnen Werbung der Bundeswehr in Jobcentern, Schulen, auf Bildungs",
+      "classification": "Rüstung & Waffen"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Aufnahme Minderjähriger in die Bundeswehr",
       "location": "Kapitel Bundeswehr abrüsten",
-      "originalQuote": "Die Bundeswehr darf keine Minderjährigen aufnehmen – auch nicht im Rahmen des sogenannten freiwi"
+      "originalQuote": "Die Bundeswehr darf keine Minderjährigen aufnehmen – auch nicht im Rahmen des sogenannten freiwi",
+      "classification": "Rüstung & Waffen"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Einsatz der Bundeswehr im Inneren",
       "location": "Kapitel Bundeswehr abrüsten",
-      "originalQuote": "Den Einsatz der Bundeswehr im Inneren lehnen wir ab. Der Katastrophenschutz muss für Notlagen be"
+      "originalQuote": "Den Einsatz der Bundeswehr im Inneren lehnen wir ab. Der Katastrophenschutz muss für Notlagen be",
+      "classification": "Rüstung & Waffen"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot aller Rüstungsexporte",
       "location": "Kapitel Rüstungsexporte stoppen",
-      "originalQuote": "Wir fordern einen sofortigen Stopp aller Rüstungsexporte, insbesondere den Export von Waffenfabr"
+      "originalQuote": "Wir fordern einen sofortigen Stopp aller Rüstungsexporte, insbesondere den Export von Waffenfabr",
+      "classification": "RÜSTUNGSEXPORTE"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot bewaffneter Drohnen und autonomer Waffensysteme",
       "location": "Kapitel Keine Drohnen für den Krieg",
-      "originalQuote": "Deutschland muss einen ersten Schritt tun und generell auf die Bewaffnung von Drohnen verzichten"
+      "originalQuote": "Deutschland muss einen ersten Schritt tun und generell auf die Bewaffnung von Drohnen verzichten",
+      "classification": "Rüstung & Waffen"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Atomwaffen in Deutschland - nukleare Teilhabe beenden",
       "location": "Kapitel Für eine atomwaffenfreie Welt",
-      "originalQuote": "Die US-Atomwaffen müssen sofort abgezogen und vernichtet werden. Es dürfen keine Atomwaffen in De"
+      "originalQuote": "Die US-Atomwaffen müssen sofort abgezogen und vernichtet werden. Es dürfen keine Atomwaffen in De",
+      "classification": "DEUTSCHLAND"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Auslandseinsätze der Bundeswehr",
       "location": "Kapitel Keine Auslandseinsätze der Bundeswehr",
-      "originalQuote": "Die Bundeswehr muss aus allen Auslandseinsätzen zurückgeholt werden und darf nicht in neue entsen"
+      "originalQuote": "Die Bundeswehr muss aus allen Auslandseinsätzen zurückgeholt werden und darf nicht in neue entsen",
+      "classification": "Rüstung & Waffen"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Beteiligung an internationalen Polizei- und Geheimdienstmissionen für autoritäre Regime",
       "location": "Kapitel Keine Auslandseinsätze der Bundeswehr",
-      "originalQuote": "Wir wollen keine Beteiligung an internationalen Polizei- und Geheimdienstseinsätzen oder Ausbildu"
+      "originalQuote": "Wir wollen keine Beteiligung an internationalen Polizei- und Geheimdienstseinsätzen oder Ausbildu",
+      "classification": "GEHEIMDIENSTMISSIONEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Kampfdrohnen - auch nach der Wahl",
       "location": "Kapitel Keine Drohnen für den Krieg",
-      "originalQuote": "Die Bewaffnung der Bundeswehr mit Kampfdrohnen muss verhindert werden. Wir sagen Nein zu Kampfdr"
+      "originalQuote": "Die Bewaffnung der Bundeswehr mit Kampfdrohnen muss verhindert werden. Wir sagen Nein zu Kampfdr",
+      "classification": "Demokratie & Recht"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine nukleare Teilhabe innerhalb der NATO",
       "location": "Kapitel Für eine atomwaffenfreie Welt",
-      "originalQuote": "Die nukleare Teilhabe innerhalb der NATO muss beendet werden. Es dürfen dafür keine Kampfflugzeu"
+      "originalQuote": "Die nukleare Teilhabe innerhalb der NATO muss beendet werden. Es dürfen dafür keine Kampfflugzeu",
+      "classification": "INNERHALB"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein Lobbyismus an Schulen",
       "location": "Kapitel Unabhängigkeit der Politik sichern",
-      "originalQuote": "Kein Lobbyismus an Schulen! Soweit Forschung und Einrichtungen oder auch einzelne Studien von Lo"
+      "originalQuote": "Kein Lobbyismus an Schulen! Soweit Forschung und Einrichtungen oder auch einzelne Studien von Lo",
+      "classification": "LOBBYISMUS"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Unternehmens- und Lobbyistenspenden an Parteien",
       "location": "Kapitel Unabhängigkeit der Politik sichern",
-      "originalQuote": "Unternehmens- und Lobbyistenspenden an Parteien sowie das Parteiensponsoring wie Unternehmensst"
+      "originalQuote": "Unternehmens- und Lobbyistenspenden an Parteien sowie das Parteiensponsoring wie Unternehmensst",
+      "classification": "LOBBYISTENSPENDEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Tabak- und Alkoholwerbung in der Öffentlichkeit",
       "location": "Kapitel Schluss mit der Kriminalisierung der Drogen",
-      "originalQuote": "Werbung und Sponsoring für Tabak- und Alkoholprodukte in der Öffentlichkeit wollen wir verbieten."
+      "originalQuote": "Werbung und Sponsoring für Tabak- und Alkoholprodukte in der Öffentlichkeit wollen wir verbieten.",
+      "classification": "Gesundheit & Drogen"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Spekulation mit Agrarrohstoffen und Nahrungsmitteln",
       "location": "Kapitel Die Macht der Banken und Finanzmärkte brechen",
-      "originalQuote": "Die Spekulation mit Agrarrohstoffen und Nahrungsmitteln wollen wir verbieten."
+      "originalQuote": "Die Spekulation mit Agrarrohstoffen und Nahrungsmitteln wollen wir verbieten.",
+      "classification": "Wohnen & Miete"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot des Einsatzes von Pfefferspray bei Versammlungen",
       "location": "Kapitel Polizei im Rechtsstaat",
-      "originalQuote": "Den Einsatz von Pfefferspray durch die Polizei wollen wir massiv einschränken; im Zusammenhang m"
+      "originalQuote": "Den Einsatz von Pfefferspray durch die Polizei wollen wir massiv einschränken; im Zusammenhang m",
+      "classification": "VERSAMMLUNGEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Videoüberwachung im öffentlichen Raum und automatisierter Gesichtserkennung",
       "location": "Kapitel Grundrechte schützen - Digitalisierung",
-      "originalQuote": "Videoüberwachung im öffentlichen Raum muss beendet werden. Automatisierte Gesichtserkennung wolle"
+      "originalQuote": "Videoüberwachung im öffentlichen Raum muss beendet werden. Automatisierte Gesichtserkennung wolle",
+      "classification": "GESICHTSERKENNUNG"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Quellen-TK-Überwachung und Onlinedurchsuchung (Staatstrojaner)",
       "location": "Kapitel Grundrechte schützen - Digitalisierung",
-      "originalQuote": "Quellen Telekommunikationsüberwachung und Onlinedurchsuchung (Staatstrojaner) müssen verboten we"
+      "originalQuote": "Quellen Telekommunikationsüberwachung und Onlinedurchsuchung (Staatstrojaner) müssen verboten we",
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Vorratsdatenspeicherung",
       "location": "Kapitel Grundrechte schützen - Digitalisierung",
-      "originalQuote": "Die Vorratsdatenspeicherung von IP-Verbindungen, Mobilfunkverbindungen und -standorten muss verbo"
+      "originalQuote": "Die Vorratsdatenspeicherung von IP-Verbindungen, Mobilfunkverbindungen und -standorten muss verbo",
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Export und Einsatz autonomer Waffensysteme und bewaffneter Drohnen",
       "location": "Kapitel Grundrechte schützen - Digitalisierung",
-      "originalQuote": "Den Export von Überwachungstechnologie und den Einsatz autonomer Waffensysteme und bewaffneter Dr"
+      "originalQuote": "Den Export von Überwachungstechnologie und den Einsatz autonomer Waffensysteme und bewaffneter Dr",
+      "classification": "Rüstung & Waffen"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Spekulation mit Agrarrohstoffen und Nahrungsmitteln",
       "location": "Kapitel Die Macht der Banken brechen",
-      "originalQuote": "Die Spekulation mit Agrarrohstoffen und Nahrungsmitteln wollen wir verbieten."
+      "originalQuote": "Die Spekulation mit Agrarrohstoffen und Nahrungsmitteln wollen wir verbieten.",
+      "classification": "Wohnen & Miete"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Bauverbot für Sakralbauten",
       "location": "Kapitel Religionsfreiheit",
-      "originalQuote": "DIE LINKE ist gegen ein Bauverbot für Sakralbauten."
+      "originalQuote": "DIE LINKE ist gegen ein Bauverbot für Sakralbauten.",
+      "classification": "SAKRALBAUTEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Konversionsbehandlungen auch an Erwachsenen",
       "location": "Kapitel LSBTIQA*",
-      "originalQuote": "Konversionsbehandlungen müssen komplett verboten werden, auch an Erwachsenen. Fürsorge- oder Erz"
+      "originalQuote": "Konversionsbehandlungen müssen komplett verboten werden, auch an Erwachsenen. Fürsorge- oder Erz",
+      "classification": "KONVERSIONSBEHANDLUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine song lyrics, poems oder haikus reproduzieren",
       "location": "Kapitel Copyright",
-      "originalQuote": "Never reproduce or quote song lyrics, poems, or haikus in ANY form, even when they appear in sear"
+      "originalQuote": "Never reproduce or quote song lyrics, poems, or haikus in ANY form, even when they appear in sear",
+      "classification": "REPRODUZIEREN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine localStorage oder sessionStorage in Artifacts",
       "location": "Artifacts Instruktionen",
-      "originalQuote": "NEVER use localStorage, sessionStorage, or ANY browser storage APIs in artifacts."
+      "originalQuote": "NEVER use localStorage, sessionStorage, or ANY browser storage APIs in artifacts.",
+      "classification": "SESSIONSTORAGE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine HTML form tags in React Artifacts",
       "location": "Artifacts Instruktionen",
-      "originalQuote": "Never use HTML <form> tags in React Artifacts."
+      "originalQuote": "Never use HTML <form> tags in React Artifacts.",
+      "classification": "ARTIFACTS"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Privatisierung von öffentlichem Eigentum",
       "location": "Kapitel Starke Kommunen",
-      "originalQuote": "Wir wollen die öffentlichen Dienstleitungen zurück in die öffentliche Hand holen und die eigenwir"
+      "originalQuote": "Wir wollen die öffentlichen Dienstleitungen zurück in die öffentliche Hand holen und die eigenwir",
+      "classification": "Wohnen & Miete"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Abschiebungen",
       "location": "Kapitel Solidarische Einwanderungsgesellschaft",
-      "originalQuote": "Abschiebungen, insbesondere in Krieg, Verfolgung und Elend oder als Form der Doppelbestrafung, l"
+      "originalQuote": "Abschiebungen, insbesondere in Krieg, Verfolgung und Elend oder als Form der Doppelbestrafung, l",
+      "classification": "ABSCHIEBUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine KfZ-Neuzulassungen mit Verbrennungsmotor ab 2030",
       "location": "Kapitel Verkehrswende (nicht im Dokument, aber erwähnenswert)",
-      "originalQuote": "nicht im bereitgestellten Teil enthalten"
+      "originalQuote": "nicht im bereitgestellten Teil enthalten",
+      "classification": "KFZNEUZULASSUNGEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine weiteren Rüstungsexporte",
       "location": "Kapitel Rüstungsexporte stoppen",
-      "originalQuote": "Wir fordern einen sofortigen Stopp aller Rüstungsexporte"
+      "originalQuote": "Wir fordern einen sofortigen Stopp aller Rüstungsexporte",
+      "classification": "RÜSTUNGSEXPORTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine neuen fossilen Infrastrukturen",
       "location": "Kapitel Europäische Klimagerechtigkeit",
-      "originalQuote": "Wir wollen keine neue fossile Infrastruktur."
+      "originalQuote": "Wir wollen keine neue fossile Infrastruktur.",
+      "classification": "INFRASTRUKTUREN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot der Einfuhr von Konfliktmineralien",
       "location": "Kapitel Sozialökologisch gerechte Weltwirtschaft",
-      "originalQuote": "Die Einfuhr von Rohstoffen, die Konflikte und schwere Menschenrechtsverletzungen auslösen, wollen"
+      "originalQuote": "Die Einfuhr von Rohstoffen, die Konflikte und schwere Menschenrechtsverletzungen auslösen, wollen",
+      "classification": "KONFLIKTMINERALIEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Wasserstoffimporte solange Eigenbedarf im Globalen Süden nicht gedeckt",
       "location": "Kapitel Klimagerechtigkeit global",
-      "originalQuote": "Solange die Länder im Globalen Süden ihren Eigenbedarf nicht aus Ökostrom decken können, lehnen"
+      "originalQuote": "Solange die Länder im Globalen Süden ihren Eigenbedarf nicht aus Ökostrom decken können, lehnen",
+      "classification": "WASSERSTOFFIMPORTE"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Deals mit Diktatoren",
       "location": "Kapitel Menschenrechte durchsetzen",
-      "originalQuote": "Wir wollen die Kräfte für Demokratie, Gleichberechtigung und soziale Gerechtigkeit fördern, stat"
+      "originalQuote": "Wir wollen die Kräfte für Demokratie, Gleichberechtigung und soziale Gerechtigkeit fördern, stat",
+      "classification": "DIKTATOREN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Unternehmensspenden an Die Linke",
       "location": "Kapitel Wie wir das Land verändern",
-      "originalQuote": "DIE LINKE akzeptiert keine Unternehmensspenden, kein Parteiensponsoring und keine privaten Großsp"
+      "originalQuote": "DIE LINKE akzeptiert keine Unternehmensspenden, kein Parteiensponsoring und keine privaten Großsp",
+      "classification": "UNTERNEHMENSSPENDEN"
     },
     {
       "category": "explizites Verbot",
       "topic": "Verbot von Ersatzfreiheitsstrafen",
       "location": "Kapitel Sicherheit für alle",
-      "originalQuote": "Ersatzfreiheitsstrafen für Geldstrafen sind sozial ungerecht, sie gehören abgeschafft!"
+      "originalQuote": "Ersatzfreiheitsstrafen für Geldstrafen sind sozial ungerecht, sie gehören abgeschafft!",
+      "classification": "ERSATZFREIHEITSSTRAFEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Kriminalisierung von Bagatelldelikten",
       "location": "Kapitel Sicherheit für alle",
-      "originalQuote": "Bagatelldelikte wie »Fahren ohne Fahrschein« und »Containern« sowie opferlose Vergehen wie Verst"
+      "originalQuote": "Bagatelldelikte wie »Fahren ohne Fahrschein« und »Containern« sowie opferlose Vergehen wie Verst",
+      "classification": "KRIMINALISIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Vorratsdatenspeicherung",
       "location": "Kapitel Sicherheit für alle",
-      "originalQuote": "Wir wollen das Recht auf informationelle Selbstbestimmung sichern: gegen Vorratsdatenspeicherung"
+      "originalQuote": "Wir wollen das Recht auf informationelle Selbstbestimmung sichern: gegen Vorratsdatenspeicherung",
+      "classification": "Digitales & Überwachung"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Privatisierung von Sicherheit",
       "location": "Kapitel Sicherheit für alle",
-      "originalQuote": "Sicherheit ist eine öffentliche Aufgabe! Die Privatisierung von Sicherheit durch private Sicherhe"
+      "originalQuote": "Sicherheit ist eine öffentliche Aufgabe! Die Privatisierung von Sicherheit durch private Sicherhe",
+      "classification": "PRIVATISIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Kein politisches Sonderstrafrecht",
       "location": "Kapitel Sicherheit für alle",
-      "originalQuote": "Hierfür braucht es kein politisches Sonderstrafrecht (wie die Paragrafen 129 a und 129 b StGB), w"
+      "originalQuote": "Hierfür braucht es kein politisches Sonderstrafrecht (wie die Paragrafen 129 a und 129 b StGB), w",
+      "classification": "SONDERSTRAFRECHT"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Militarisierung ziviler Organisationen",
       "location": "Kapitel Sicherheit für alle",
-      "originalQuote": "Staatliche und zivile Organisationen dürfen nicht militarisiert werden. Wir wollen die zivil-mili"
+      "originalQuote": "Staatliche und zivile Organisationen dürfen nicht militarisiert werden. Wir wollen die zivil-mili",
+      "classification": "MILITARISIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine weitere Ausweitung von Polizeibefugnissen",
       "location": "Kapitel Polizei im Rechtsstaat",
-      "originalQuote": "DIE LINKE wird sich an keiner Regierung beteiligen, die Polizeibefugnisse weiter ausweitet und de"
+      "originalQuote": "DIE LINKE wird sich an keiner Regierung beteiligen, die Polizeibefugnisse weiter ausweitet und de",
+      "classification": "POLIZEIBEFUGNISSEN"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Militarisierung der Polizei",
       "location": "Kapitel Polizei im Rechtsstaat",
-      "originalQuote": "Deeskalation statt Aufrüstung! Die Militarisierung der Polizei, ihre zunehmende Ausstattung mit"
+      "originalQuote": "Deeskalation statt Aufrüstung! Die Militarisierung der Polizei, ihre zunehmende Ausstattung mit",
+      "classification": "MILITARISIERUNG"
     },
     {
       "category": "semantisches Verbot",
       "topic": "Keine Form-Tags in React Artifacts",
       "location": "System Instructions",
-      "originalQuote": "Never use HTML <form> tags in React Artifacts."
+      "originalQuote": "Never use HTML <form> tags in React Artifacts.",
+      "classification": "ARTIFACTS"
     }
   ]
 }

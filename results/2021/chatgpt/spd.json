@@ -1,95 +1,110 @@
 {
-    "sourceFile": "SPD - 2021 - Langprogramm.txt",
-    "topics": [
-        {
-            "category": "semantisches Verbot",
-            "topic": "Privatisierung von Währungen",
-            "location": "Kapitel 2.8 Finanzmarkt",
-            "originalQuote": "Wir lehnen eine Privatisierung von Währungen ab. Dies gilt auch für private digitale Währungen,"
-        },
-        {
-            "category": "explizites Verbot",
-            "topic": "Diskriminierung durch Algorithmen",
-            "location": "Kapitel Gleichstellung und Digitalisierung",
-            "originalQuote": "Wenn der Einsatz von Algorithmen, zum Beispiel bei der Personalrekrutierung, über das Leben"
-        },
-        {
-            "category": "semantisches Verbot",
-            "topic": "Werbung an Kinder",
-            "location": "Kapitel Jugend und Bildung",
-            "originalQuote": "An Kinder gerichtete Werbung wollen wir reglementieren. Kitas und Schulen müssen ein"
-        },
-        {
-            "category": "explizites Verbot",
-            "topic": "Schmutziges Geld in Deutschland",
-            "location": "Kapitel Finanzaufsicht",
-            "originalQuote": "Schmutziges Geld darf in Deutschland keine Heimat finden."
-        },
-        {
-            "category": "semantisches Verbot",
-            "topic": "Spekulation mit Grund und Boden",
-            "location": "Kapitel Wohnen",
-            "originalQuote": "um die Spekulation mit Grund und Boden zu stoppen."
-        },
-        {
-            "category": "explizites Verbot",
-            "topic": "Grund und Boden als Spekulationsobjekt",
-            "location": "Kapitel Landwirtschaft",
-            "originalQuote": "Er darf kein Spekulationsobjekt sein."
-        },
-        {
-            "category": "semantisches Verbot",
-            "topic": "Unfaire Handelspraktiken im Lebensmittelhandel",
-            "location": "Kapitel Landwirtschaft",
-            "originalQuote": "Wir werden im Lebensmittelhandel unfairen Handelspraktiken einen Riegel vorschieben,"
-        },
-        {
-            "category": "semantisches Verbot",
-            "topic": "Prekäre Arbeitsbedingungen von Wanderarbeiter*innen",
-            "location": "Kapitel Landwirtschaft",
-            "originalQuote": "Prekäre Arbeits- und Lebensbedingungen von Wanderarbeitnehmer*innen werden wir bekämpfen."
-        },
-        {
-            "category": "semantisches Verbot",
-            "topic": "Einwegplastik",
-            "location": "Kapitel Natur respektieren",
-            "originalQuote": "Das gelingt nur, wenn wir unnötiges Plastik vermeiden und abschaffen."
-        },
-        {
-            "category": "semantisches Verbot",
-            "topic": "Zwangsrückführungen in Gefahrenländer",
-            "location": "Kapitel Migration",
-            "originalQuote": "Die zwangsweise Rückführung von Menschen in Länder, in denen ihnen Gefahr für Leib und Leben droht, lehnen wir ab."
-        },
-        {
-            "category": "explizites Verbot",
-            "topic": "Digitale Hintertüren in IT-Systemen",
-            "location": "Kapitel Cybersicherheit",
-            "originalQuote": "Digitale Hintertüren sollen nicht offen gehalten werden."
-        },
-        {
-            "category": "semantisches Verbot",
-            "topic": "Arbeitsverbote für Migrant*innen",
-            "location": "Kapitel Migration und Integration",
-            "originalQuote": "Arbeitsverbote werden wir daher abschaffen."
-        },
-        {
-            "category": "semantisches Verbot",
-            "topic": "Mietwucher",
-            "location": "Kapitel Bezahlbares Wohnen",
-            "originalQuote": "Mietwucher werden wir wirksam unterbinden."
-        },
-        {
-            "category": "explizites Verbot",
-            "topic": "Werbefreiheit in Kitas und Schulen",
-            "location": "Kapitel Jugend und Bildung",
-            "originalQuote": "Kitas und Schulen müssen ein werbefreier Raum sein."
-        },
-        {
-            "category": "semantisches Verbot",
-            "topic": "Diskriminierung in Gesellschaft und Staat",
-            "location": "Kapitel Zusammen leben",
-            "originalQuote": "Es geht darum, allen Bürger*innen zu garantieren, dass sie dieselben Chancen und Möglichkeiten haben – frei von Diskriminierung."
-        }
-    ]
+  "sourceFile": "SPD - 2021 - Langprogramm.txt",
+  "topics": [
+    {
+      "category": "semantisches Verbot",
+      "topic": "Privatisierung von Währungen",
+      "location": "Kapitel 2.8 Finanzmarkt",
+      "originalQuote": "Wir lehnen eine Privatisierung von Währungen ab. Dies gilt auch für private digitale Währungen,",
+      "classification": "PRIVATISIERUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Diskriminierung durch Algorithmen",
+      "location": "Kapitel Gleichstellung und Digitalisierung",
+      "originalQuote": "Wenn der Einsatz von Algorithmen, zum Beispiel bei der Personalrekrutierung, über das Leben",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Werbung an Kinder",
+      "location": "Kapitel Jugend und Bildung",
+      "originalQuote": "An Kinder gerichtete Werbung wollen wir reglementieren. Kitas und Schulen müssen ein",
+      "classification": "Gleichstellung & Gesellschaft"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Schmutziges Geld in Deutschland",
+      "location": "Kapitel Finanzaufsicht",
+      "originalQuote": "Schmutziges Geld darf in Deutschland keine Heimat finden.",
+      "classification": "SCHMUTZIGES"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Spekulation mit Grund und Boden",
+      "location": "Kapitel Wohnen",
+      "originalQuote": "um die Spekulation mit Grund und Boden zu stoppen.",
+      "classification": "Wohnen & Miete"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Grund und Boden als Spekulationsobjekt",
+      "location": "Kapitel Landwirtschaft",
+      "originalQuote": "Er darf kein Spekulationsobjekt sein.",
+      "classification": "SPEKULATIONSOBJEKT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Unfaire Handelspraktiken im Lebensmittelhandel",
+      "location": "Kapitel Landwirtschaft",
+      "originalQuote": "Wir werden im Lebensmittelhandel unfairen Handelspraktiken einen Riegel vorschieben,",
+      "classification": "LEBENSMITTELHANDEL"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Prekäre Arbeitsbedingungen von Wanderarbeiter*innen",
+      "location": "Kapitel Landwirtschaft",
+      "originalQuote": "Prekäre Arbeits- und Lebensbedingungen von Wanderarbeitnehmer*innen werden wir bekämpfen.",
+      "classification": "WANDERARBEITERINNEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einwegplastik",
+      "location": "Kapitel Natur respektieren",
+      "originalQuote": "Das gelingt nur, wenn wir unnötiges Plastik vermeiden und abschaffen.",
+      "classification": "EINWEGPLASTIK"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Zwangsrückführungen in Gefahrenländer",
+      "location": "Kapitel Migration",
+      "originalQuote": "Die zwangsweise Rückführung von Menschen in Länder, in denen ihnen Gefahr für Leib und Leben droht, lehnen wir ab.",
+      "classification": "ZWANGSRÜCKFÜHRUNGEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Digitale Hintertüren in IT-Systemen",
+      "location": "Kapitel Cybersicherheit",
+      "originalQuote": "Digitale Hintertüren sollen nicht offen gehalten werden.",
+      "classification": "HINTERTÜREN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Arbeitsverbote für Migrant*innen",
+      "location": "Kapitel Migration und Integration",
+      "originalQuote": "Arbeitsverbote werden wir daher abschaffen.",
+      "classification": "ARBEITSVERBOTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Mietwucher",
+      "location": "Kapitel Bezahlbares Wohnen",
+      "originalQuote": "Mietwucher werden wir wirksam unterbinden.",
+      "classification": "MIETWUCHER"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Werbefreiheit in Kitas und Schulen",
+      "location": "Kapitel Jugend und Bildung",
+      "originalQuote": "Kitas und Schulen müssen ein werbefreier Raum sein.",
+      "classification": "WERBEFREIHEIT"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Diskriminierung in Gesellschaft und Staat",
+      "location": "Kapitel Zusammen leben",
+      "originalQuote": "Es geht darum, allen Bürger*innen zu garantieren, dass sie dieselben Chancen und Möglichkeiten haben – frei von Diskriminierung.",
+      "classification": "Gleichstellung & Gesellschaft"
+    }
+  ]
 }

@@ -1,1 +1,117 @@
-{ "sourceFile": "Grüne - 2021 - Wahlprogramm.txt", "topics": [ { "category": "explizites Verbot", "topic": "Nicht notwendige Operationen an intergeschlechtlichen Kindern", "location": "Kapitel Selbstbestimmung garantieren", "originalQuote": "Wir schreiben fest, dass alle nicht notwendigen Operationen und Behandlungen an intergeschlechtlichen Kindern verboten werden" }, { "category": "explizites Verbot", "topic": "Lebendtiertransporte in Drittstaaten außerhalb der EU", "location": "Kapitel Tiere brauchen mehr Platz", "originalQuote": "Lebendtiertransporte in Drittstaaten außerhalb der EU sollen ganz verboten werden." }, { "category": "explizites Verbot", "topic": "Dividendenzahlungen bei Erhalt von Staatshilfen", "location": "Kapitel Kunst- und Kulturbranche", "originalQuote": "Firmen, die Staatshilfen erhalten, dürfen keine Dividenden ausschütten." }, { "category": "explizites Verbot", "topic": "Schadstoffeintrag in den Wasserkreislauf", "location": "Kapitel Wasser schützen", "originalQuote": "Besonders gefährliche und schlecht abbaubare Schadstoffe dürfen nicht mehr in den Wasserkreislauf gelangen." }, { "category": "explizites Verbot", "topic": "Käfig- und Anbindehaltung von Tieren", "location": "Kapitel Tiere brauchen mehr Platz", "originalQuote": "Käfig- und Anbindehaltung wollen wir beenden." }, { "category": "explizites Verbot", "topic": "Amputationen und Eingriffe ohne Betäubung bei Tieren", "location": "Kapitel Tiere brauchen mehr Platz", "originalQuote": "Amputationen, Eingriffe ohne Betäubung und qualvolle Betäubungsmethoden sowie Käfig- und Anbindehaltung wollen wir beenden." }, { "category": "semantisches Verbot", "topic": "Private Parallelwährungen großer Konzerne", "location": "Kapitel Digitalen Euro einführen", "originalQuote": "Eine Aushöhlung des Geld- und Währungsmonopols durch private Währungen mächtiger Großkonzerne lehnen wir strikt ab." }, { "category": "semantisches Verbot", "topic": "Rekrutierung Minderjähriger für die Bundeswehr", "location": "Kapitel Moderne Bundeswehr", "originalQuote": "Die Rekrutierung Minderjähriger sowie den bewaffneten Einsatz der Bundeswehr im Inneren lehnen wir ab" }, { "category": "semantisches Verbot", "topic": "Bewaffneter Einsatz der Bundeswehr im Inneren", "location": "Kapitel Moderne Bundeswehr", "originalQuote": "Die Rekrutierung Minderjähriger sowie den bewaffneten Einsatz der Bundeswehr im Inneren lehnen wir ab" }, { "category": "semantisches Verbot", "topic": "Einsatz bewaffneter Drohnen", "location": "Kapitel Moderne Bundeswehr", "originalQuote": "Ein solcher Einsatz ist für uns GRÜNE undenkbar und mit dem deutschen Verfassungs- und Wehrrecht nicht vereinbar." }, { "category": "semantisches Verbot", "topic": "Arbeitsverbote und pauschale Wohnsitzauflagen für Geflüchtete", "location": "Kapitel Asyl und Migration", "originalQuote": "Integrationsfeindliche gesetzliche Regelungen wie Arbeitsverbot und pauschale Wohnsitzauflage sowie Leistungskürzungen wollen wir abschaffen." }, { "category": "semantisches Verbot", "topic": "Flughafenverfahren und sofortige Zurückweisungen an Binnengrenzen", "location": "Kapitel Asyl und Migration", "originalQuote": "Flughafenverfahren sowie sofortige Zurückweisung an den deutschen Binnengrenzen wollen wir abschaffen." }, { "category": "semantisches Verbot", "topic": "Sichere Herkunfts- oder Drittstaaten", "location": "Kapitel Asyl und Migration", "originalQuote": "Die Ausrufung sicherer“ Herkunfts- oder Drittstaaten lehnen wir ab" }, { "category": "semantisches Verbot", "topic": "Neue Öl- und Gasbohrungen in der deutschen AWZ", "location": "Kapitel Meere schützen", "originalQuote": "In der deutschen Ausschließlichen Wirtschaftszone wollen wir einen sofortigen Stopp neuer Öl- und Gasbohrungen umsetzen" }, { "category": "semantisches Verbot", "topic": "Fracking sowie neue Erdöl- und Erdgasförderprojekte", "location": "Kapitel Wasser schützen", "originalQuote": "deswegen wollen wir im Bergrecht Fracking und künftige Projekte zur Förderung von Erdöl und Erdgas ausschließen." }, { "category": "semantisches Verbot", "topic": "Überwachungstechnologie für Diktaturen", "location": "Kapitel Keine Überwachungstechnologie für Diktaturen", "originalQuote": "Keine Überwachungstechnologie für Diktaturen und Autokratien" } ] }
+{
+  "sourceFile": "Grüne - 2021 - Wahlprogramm.txt",
+  "topics": [
+    {
+      "category": "explizites Verbot",
+      "topic": "Nicht notwendige Operationen an intergeschlechtlichen Kindern",
+      "location": "Kapitel Selbstbestimmung garantieren",
+      "originalQuote": "Wir schreiben fest, dass alle nicht notwendigen Operationen und Behandlungen an intergeschlechtlichen Kindern verboten werden",
+      "classification": "INTERGESCHLECHTLICHEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Lebendtiertransporte in Drittstaaten außerhalb der EU",
+      "location": "Kapitel Tiere brauchen mehr Platz",
+      "originalQuote": "Lebendtiertransporte in Drittstaaten außerhalb der EU sollen ganz verboten werden.",
+      "classification": "Europa & Außenpolitik"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Dividendenzahlungen bei Erhalt von Staatshilfen",
+      "location": "Kapitel Kunst- und Kulturbranche",
+      "originalQuote": "Firmen, die Staatshilfen erhalten, dürfen keine Dividenden ausschütten.",
+      "classification": "DIVIDENDENZAHLUNGEN"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Schadstoffeintrag in den Wasserkreislauf",
+      "location": "Kapitel Wasser schützen",
+      "originalQuote": "Besonders gefährliche und schlecht abbaubare Schadstoffe dürfen nicht mehr in den Wasserkreislauf gelangen.",
+      "classification": "SCHADSTOFFEINTRAG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Käfig- und Anbindehaltung von Tieren",
+      "location": "Kapitel Tiere brauchen mehr Platz",
+      "originalQuote": "Käfig- und Anbindehaltung wollen wir beenden.",
+      "classification": "ANBINDEHALTUNG"
+    },
+    {
+      "category": "explizites Verbot",
+      "topic": "Amputationen und Eingriffe ohne Betäubung bei Tieren",
+      "location": "Kapitel Tiere brauchen mehr Platz",
+      "originalQuote": "Amputationen, Eingriffe ohne Betäubung und qualvolle Betäubungsmethoden sowie Käfig- und Anbindehaltung wollen wir beenden.",
+      "classification": "AMPUTATIONEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Private Parallelwährungen großer Konzerne",
+      "location": "Kapitel Digitalen Euro einführen",
+      "originalQuote": "Eine Aushöhlung des Geld- und Währungsmonopols durch private Währungen mächtiger Großkonzerne lehnen wir strikt ab.",
+      "classification": "PARALLELWÄHRUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Rekrutierung Minderjähriger für die Bundeswehr",
+      "location": "Kapitel Moderne Bundeswehr",
+      "originalQuote": "Die Rekrutierung Minderjähriger sowie den bewaffneten Einsatz der Bundeswehr im Inneren lehnen wir ab",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Bewaffneter Einsatz der Bundeswehr im Inneren",
+      "location": "Kapitel Moderne Bundeswehr",
+      "originalQuote": "Die Rekrutierung Minderjähriger sowie den bewaffneten Einsatz der Bundeswehr im Inneren lehnen wir ab",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Einsatz bewaffneter Drohnen",
+      "location": "Kapitel Moderne Bundeswehr",
+      "originalQuote": "Ein solcher Einsatz ist für uns GRÜNE undenkbar und mit dem deutschen Verfassungs- und Wehrrecht nicht vereinbar.",
+      "classification": "Rüstung & Waffen"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Arbeitsverbote und pauschale Wohnsitzauflagen für Geflüchtete",
+      "location": "Kapitel Asyl und Migration",
+      "originalQuote": "Integrationsfeindliche gesetzliche Regelungen wie Arbeitsverbot und pauschale Wohnsitzauflage sowie Leistungskürzungen wollen wir abschaffen.",
+      "classification": "WOHNSITZAUFLAGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Flughafenverfahren und sofortige Zurückweisungen an Binnengrenzen",
+      "location": "Kapitel Asyl und Migration",
+      "originalQuote": "Flughafenverfahren sowie sofortige Zurückweisung an den deutschen Binnengrenzen wollen wir abschaffen.",
+      "classification": "FLUGHAFENVERFAHREN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Sichere Herkunfts- oder Drittstaaten",
+      "location": "Kapitel Asyl und Migration",
+      "originalQuote": "Die Ausrufung sicherer“ Herkunfts- oder Drittstaaten lehnen wir ab",
+      "classification": "DRITTSTAATEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Neue Öl- und Gasbohrungen in der deutschen AWZ",
+      "location": "Kapitel Meere schützen",
+      "originalQuote": "In der deutschen Ausschließlichen Wirtschaftszone wollen wir einen sofortigen Stopp neuer Öl- und Gasbohrungen umsetzen",
+      "classification": "GASBOHRUNGEN"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Fracking sowie neue Erdöl- und Erdgasförderprojekte",
+      "location": "Kapitel Wasser schützen",
+      "originalQuote": "deswegen wollen wir im Bergrecht Fracking und künftige Projekte zur Förderung von Erdöl und Erdgas ausschließen.",
+      "classification": "ERDGASFÖRDERPROJEKTE"
+    },
+    {
+      "category": "semantisches Verbot",
+      "topic": "Überwachungstechnologie für Diktaturen",
+      "location": "Kapitel Keine Überwachungstechnologie für Diktaturen",
+      "originalQuote": "Keine Überwachungstechnologie für Diktaturen und Autokratien",
+      "classification": "ÜBERWACHUNGSTECHNOLOGIE"
+    }
+  ]
+}

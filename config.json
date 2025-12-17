@@ -670,6 +670,18 @@
                 "model_display_name": "claude"
             },
             {
+                "party": "Bündnis 90/Die Grünen",
+                "file": "results/2021/claude/grüne.json",
+                "original_file": "programs/pdf/2021/Grüne - 2021 - Wahlprogramm.pdf",
+                "model_display_name": "claude"
+            },
+            {
+                "party": "DIE LINKE",
+                "file": "results/2021/claude/linke.json",
+                "original_file": "programs/pdf/2021/Linke - 2021 - Wahlprogramm.pdf",
+                "model_display_name": "claude"
+            },
+            {
                 "party": "Die Partei",
                 "file": "results/2021/claude/partei.json",
                 "original_file": "programs/pdf/2021/Die Partei - 2021 - Wahlprogramm.pdf",
@@ -764,6 +776,12 @@
                 "model_display_name": "deepseek"
             },
             {
+                "party": "DIE LINKE",
+                "file": "results/2021/deepseek/linke.json",
+                "original_file": "programs/pdf/2021/Linke - 2021 - Wahlprogramm.pdf",
+                "model_display_name": "deepseek"
+            },
+            {
                 "party": "Die Partei",
                 "file": "results/2021/deepseek/partei.json",
                 "original_file": "programs/pdf/2021/Die Partei - 2021 - Wahlprogramm.pdf",
@@ -846,9 +864,39 @@
                 "model_display_name": "chatgpt"
             },
             {
+                "party": "FDP",
+                "file": "results/2021/chatgpt/fdp.json",
+                "original_file": "programs/pdf/2021/FDP - 2021 - Wahlprogramm.pdf",
+                "model_display_name": "chatgpt"
+            },
+            {
+                "party": "Bündnis 90/Die Grünen",
+                "file": "results/2021/chatgpt/grüne.json",
+                "original_file": "programs/pdf/2021/Grüne - 2021 - Wahlprogramm.pdf",
+                "model_display_name": "chatgpt"
+            },
+            {
                 "party": "DIE LINKE",
                 "file": "results/2021/chatgpt/linke.json",
                 "original_file": "programs/pdf/2021/Linke - 2021 - Wahlprogramm.pdf",
+                "model_display_name": "chatgpt"
+            },
+            {
+                "party": "Die Partei",
+                "file": "results/2021/chatgpt/partei.json",
+                "original_file": "programs/pdf/2021/Die Partei - 2021 - Wahlprogramm.pdf",
+                "model_display_name": "chatgpt"
+            },
+            {
+                "party": "Piraten",
+                "file": "results/2021/chatgpt/piraten.json",
+                "original_file": "programs/pdf/2021/Piraten - 2021 - Wahlprogramm.pdf",
+                "model_display_name": "chatgpt"
+            },
+            {
+                "party": "SPD",
+                "file": "results/2021/chatgpt/spd.json",
+                "original_file": "programs/pdf/2021/SPD - 2021 - Langprogramm.pdf",
                 "model_display_name": "chatgpt"
             }
         ],
