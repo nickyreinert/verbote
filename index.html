@@ -301,6 +301,7 @@
                 <p>Folgender System-Prompt wurde verwendet, um die KI-Modelle zu instruieren:</p>
                 <div class="prompt-box">
                     <pre id="methodology-prompt">
+
 Aufgabe: Analysiere das bereitgestellte Dokument vollständig. 
 
 Ziel: Erfasse alle Verbotsaussagen und kategorisiere sie strikt in zwei Klassen: 
@@ -321,6 +322,13 @@ Vorgehen:
 
 Ausgabeformat (verpflichtend, exakt einhalten): 
 { "sourceFile": "<Dateiname>", "topics": [ { "category": "explizites Verbot | semantisches Verbot", "topic": "<kurze, sachliche Beschreibung des Verbots>", "location": "<Seite, Kapitel oder Seitenbereich>", "originalQuote": "<ersten 100 Zeichen des wörtlichen Zitates aus dem Dokument>" } ] } 
+
+Regeln: 
+- Kategorienamen exakt wie angegeben verwenden. 
+- originalQuote muss exakt aus dem Dokument stammen, nur die ersten 100 Zeichen. 
+- Keine zusätzlichen Felder. 
+- Keine erläuternden Texte außerhalb des JSON.
+- Erzeuge ein Artefakt
                     </pre>
                 </div>
             </div>
