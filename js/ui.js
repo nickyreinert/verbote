@@ -452,10 +452,14 @@ function clusterFindings(yearData, tolerance) {
             // Calculate distance from cluster center
             const clusterCenter = currentCluster.centerSum / currentCluster.count;
             const distance = Math.abs(finding.center - clusterCenter);
+            
+            // Check for overlap
+            const isOverlapping = (finding.start < currentCluster.end) && (finding.end > currentCluster.start);
 
             // Check if within tolerance (slider value treated as total diameter, so radius is half)
             // User logic: "100" means "50 < x < 50". So max distance from center is 50.
-            if (distance <= (tolerance / 2)) {
+            // ALSO: If they overlap, they should always be clustered, even if tolerance is 0.
+            if (isOverlapping || distance <= (tolerance / 2)) {
                 currentCluster.start = Math.min(currentCluster.start, finding.start);
                 currentCluster.end = Math.max(currentCluster.end, finding.end);
                 currentCluster.centerSum += finding.center;
