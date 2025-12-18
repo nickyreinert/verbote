@@ -200,6 +200,42 @@ export function renderMethodologyChart(data) {
     });
 }
 
+// Helper function to convert hex to rgba
+function hexToRgba(hex, alpha) {
+    let c;
+    if(/^#([A-Fa-f0-9]{3}){1,2}$/.test(hex)){
+        c= hex.substring(1).split('');
+        if(c.length== 3){
+            c= [c[0], c[0], c[1], c[1], c[2], c[2]];
+        }
+        c= '0x'+c.join('');
+        return 'rgba('+[(c>>16)&255, (c>>8)&255, c&255].join(',')+','+alpha+')';
+    }
+    return hex;
+}
+
+// Helper to create diagonal stripe pattern
+function createDiagonalPattern(color) {
+    const shape = document.createElement('canvas');
+    shape.width = 10;
+    shape.height = 10;
+    const c = shape.getContext('2d');
+    
+    // Background: light version of the color
+    c.fillStyle = hexToRgba(color, 0.2); 
+    c.fillRect(0, 0, 10, 10);
+    
+    // Stripes: solid color
+    c.strokeStyle = color;
+    c.lineWidth = 2;
+    c.beginPath();
+    c.moveTo(0, 10);
+    c.lineTo(10, 0);
+    c.stroke();
+    
+    return c.createPattern(shape, 'repeat');
+}
+
 export function updatePartiesChart(labels, semanticData, explicitData, modelName, year) {
     const ctxParties = document.getElementById('chart-parties').getContext('2d');
     if (state.chartPartiesInstance) {
@@ -212,7 +248,7 @@ export function updatePartiesChart(labels, semanticData, explicitData, modelName
         datasets.push({
             label: 'Semantisches Verbot',
             data: semanticData,
-            backgroundColor: labels.map(l => getColor(l)), // Use party colors
+            backgroundColor: labels.map(l => createDiagonalPattern(getColor(l))), // Use pattern
             borderColor: labels.map(l => getColor(l)),
             borderWidth: 1,
             stack: 'Stack 0'
