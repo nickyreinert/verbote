@@ -26,15 +26,27 @@
         
         <!-- SECTION 1: Compare Parties (Select Model) -->
         <section id="section-compare-parties" class="view-section">
-            <h1>Parteien im Vergleich</h1>
-            <i>Repository: <a href="https://github.com/nickyreinert/verbote" target="_blank">https://github.com/nickyreinert/verbote</a></i>
-            <i>Blog: <a href="https://nickyreinert.de/2025/2025-12-14-verbotsparteien/" target="_blank">https://nickyreinert.de/2025/2025-12-14-verbotsparteien/</a></i>
-            <p>Wähle ein KI-Modell, um zu sehen, wie es die Verbote bei verschiedenen Parteien zählt.</p>
-            <i>Nur für die Modelle Qwen, Gemini und Grok liegen Auswertungen für die Jahre 2005 - 2021 vor, mit den anderen Modellen wurden nur das Jahr 2021 verarbeitet.</i>
-            <br /><br />
-            Ein <strong>explizites Verbot</strong> ist eine Aussage, die eindeutig ein Verbot durch ein Verbotswort oder eine juristisch klare Negationsform ausdrückt (z. B. "verboten", "dürfen nicht"). Ein <strong>semantisches Verbot</strong> hingegen bewirkt inhaltlich dasselbe, ohne ein explizites Verbotswort zu verwenden (z. B. "keine neuen...", "soll unterbleiben").
-
+            <h1>Verbote in den Wahlprogrammen deutscher Parteien im Vergleich</h1>
+            
+            <p>
+                Ein <strong>explizites Verbot</strong> ist eine Aussage, die eindeutig ein Verbot durch ein Verbotswort oder eine juristisch klare Negationsform ausdrückt (z. B. "verboten", "dürfen nicht"). Ein <strong>semantisches Verbot</strong> hingegen bewirkt inhaltlich dasselbe, ohne ein explizites Verbotswort zu verwenden (z. B. "keine neuen...", "soll unterbleiben").
+            </p>
+            <ul>
+                <li>    
+                    <i>Repository: <a href="https://github.com/nickyreinert/verbote" target="_blank">https://github.com/nickyreinert/verbote</a></i>
+                </li>
+                <li>
+                    <i>Blog: <a href="https://nickyreinert.de/2025/2025-12-14-verbotsparteien/" target="_blank">https://nickyreinert.de/2025/2025-12-14-verbotsparteien/</a></i>
+                </li>
+                <li>
+                    Alle Charts sind interaktiv
+                </li>
+                <li>
+                    Nur für die Modelle Qwen, Gemini und Grok liegen Auswertungen für die Jahre 2005 - 2021 vor, mit den anderen Modellen wurden nur das Jahr 2021 verarbeitet
+                </li>
+            </ul>            
             <br /><hr /><br />
+            <p>Wähle ein KI-Modell, um zu sehen, wie es die Verbote bei verschiedenen Parteien zählt.</p>
             <div class="controls">
                 <label for="select-model">Wähle ein Modell:</label>
                 <select id="select-model">
@@ -276,6 +288,15 @@
 
                 <h2>Verwendete Modelle</h2>
                 <ul id="methodology-models-list">
+                    <ul>
+                        <li>Deepseek (Thinking Modus)</li>
+                        <li>Gemini</li>
+                        <li>Claude Sonnet 4.5</li>
+                        <li>Gemini</li>
+                        <li>Grok 4.1</li>
+                        <li>Qwen3-Max</li>
+                        <li>Mistral</li>
+                    </ul>
                     <!-- Populated by JS -->
                 </ul>
 

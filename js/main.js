@@ -1,7 +1,7 @@
 import { state } from './state.js';
 import { loadConfig, loadColors, loadDistributionData, loadConsensusData, loadDataForModel, analyzeParties } from './data.js';
 import { 
-    populateYearSelect, populateYearSelectModels, populateModelSelect, populateModelSelectTopics, populatePartySelect, populateMethodologyModels, 
+    populateYearSelect, populateYearSelectModels, populateModelSelect, populateModelSelectTopics, populatePartySelect, 
     populateMethodologyYearSelect, populateConsensusYearSelect, populateYearSelectTopics, renderPartiesTable, renderTable, 
     showDetails, renderWordCloud, showTopicDetails, renderTopicTable 
 } from './ui.js';
@@ -109,8 +109,7 @@ document.addEventListener('DOMContentLoaded', () => {
         populatePartySelect();
         
         // 3. Populate Methodology
-        populateMethodologyModels();
-        
+                
         // 4. Setup Event Listeners
         selectModel.addEventListener('change', handleModelChange);
         selectYear.addEventListener('change', (e) => {
