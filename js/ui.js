@@ -62,32 +62,6 @@ export function populatePartySelect() {
     });
 }
 
-export function populateMethodologyModels() {
-    const methodologyList = document.getElementById('methodology-models-list');
-    if (!methodologyList) return;
-    methodologyList.innerHTML = '';
-    
-    const uniqueModels = new Set();
-    for (const year in state.globalConfig) {
-        Object.keys(state.globalConfig[year]).forEach(m => uniqueModels.add(m));
-    }
-
-    uniqueModels.forEach(modelKey => {
-        const li = document.createElement('li');
-        // Try to find display name from first occurrence
-        let displayName = modelKey;
-        for (const year in state.globalConfig) {
-            if (state.globalConfig[year][modelKey] && state.globalConfig[year][modelKey].length > 0) {
-                displayName = state.globalConfig[year][modelKey][0].model_display_name || modelKey;
-                break;
-            }
-        }
-        
-        li.textContent = `${modelKey} (${displayName})`;
-        methodologyList.appendChild(li);
-    });
-}
-
 export function populateMethodologyYearSelect(data) {
     const selectYearMethodology = document.getElementById('select-year-methodology');
     const years = [...new Set(data.map(item => item.year))].sort((a, b) => b - a);
